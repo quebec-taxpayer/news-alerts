@@ -1,0 +1,26 @@
+title: "Quebec Governance Monitor"
+tagline_fr: "Veille quotidienne sur la gouvernance au Québec"
+tagline_en: "Daily digest on Quebec governance"
+description: "Veille quotidienne indépendante et non partisane sur la gouvernance, la transparence et la reddition de comptes au Québec. / Independent, non-partisan daily digest on governance, transparency and accountability in Quebec."
+url: "https://quebec-taxpayer.github.io"
+baseurl: "/news-alerts"
+lang: fr
+timezone: America/Toronto
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+fr_months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
+topics:
+  - tag: it-digital
+    fr: "Projets informatiques et numériques, dont SAAQclic"
+    en: "IT and digital projects, including SAAQclic"
+  - tag: crown-corporations
+    fr: "Sociétés d’État"
+    en: "Crown corporations"
+  - tag: procurement
+    fr: "Approvisionnement, contrats et services professionnels"
+    en: "Procurement, contracting and professional services"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

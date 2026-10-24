@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="post">
+  <h1>{{ page.title }}</h1>
+  {% assign m = page.date | date: "%-m" | minus: 1 %}
+  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d" }} {{ site.fr_months[m] }} {{ page.date | date: "%Y" }} / {{ page.date | date: "%B %-d, %Y" }}</time>
+  · {{ page.story_count }} nouvelles / stories</p>
+  {% if page.summary %}<p class="post-summary">{{ page.summary }}</p>{% endif %}
+  {% if page.tags.size > 0 %}<p class="tags">{% for t in page.tags %}{% assign topic = site.topics | where: "tag", t | first %}<a class="tag" href="{{ '/topics/' | relative_url }}#{{ t }}">{{ topic.en | default: t }}</a>{% endfor %}</p>{% endif %}
+  {{ content }}
+  <nav class="post-nav">
+    {% if page.previous %}<a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% endif %}
+    {% if page.next %}<a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}
+  </nav>
+</article>

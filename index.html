@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h1>Veille quotidienne / Daily digest</h1>
+<p><span lang="fr">Les nouvelles du jour sur la gouvernance au Québec, résumées en français et en anglais, avec un lien vers chaque source.</span><br>
+<span lang="en">Today’s Quebec governance news, summarized in French and English, with a link to every source.</span></p>
+
+{% for post in site.posts %}
+  {% assign m = post.date | date: "%-m" | minus: 1 %}
+  <section class="day">
+    {% if forloop.first %}<span class="latest-label">Le plus récent / Latest</span>{% endif %}
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p class="day-meta">{{ post.date | date: "%-d" }} {{ site.fr_months[m] }} {{ post.date | date: "%Y" }} / {{ post.date | date: "%B %-d, %Y" }} · {{ post.story_count }} nouvelles / stories</p>
+    <p class="post-summary">{{ post.summary }}</p>
+    {% if forloop.first %}
+      {{ post.content }}
+    {% else %}
+      <p><a href="{{ post.url | relative_url }}">Lire le digest / Read the digest →</a></p>
+    {% endif %}
+  </section>
+{% endfor %}
