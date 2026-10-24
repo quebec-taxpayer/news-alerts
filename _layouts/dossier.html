@@ -25,6 +25,7 @@ section: chronology
   {%- for it in mitems %}{% include money.html item=it %}{% endfor %}
   </section>
   {%- endif %}
+  {%- for ch in site.data.charts %}{%- assign chd = ch[1] %}{%- if chd.dossier == d.id %}{% include svg-chart.html data=chd %}{% endif %}{%- endfor %}
   <p class="dossier-meta">{{ d.events.size }} <span class="l-en" lang="en">events, in the order they happened. Allegations are reported as such and are unproven unless stated.</span><span class="l-fr" lang="fr">événements, dans l’ordre où ils se sont produits. Les allégations sont présentées comme telles et ne sont pas prouvées, sauf mention contraire.</span></p>
   {%- if d.entities.size > 0 %}
   <p class="dossier-ents"><span class="l-en" lang="en">Names in this dossier (see the network map):</span><span class="l-fr" lang="fr">Noms dans ce dossier (voir la carte du réseau) :</span>

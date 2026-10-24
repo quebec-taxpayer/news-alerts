@@ -1,0 +1,79 @@
+{%- comment -%}
+  Animated SVG timeline. Param: data = a file in _data/svg_timelines (e.g. site.data.svg_timelines.saaqclic).
+  Plain inline SVG + CSS animation; assets/js/svg-timeline.js adds play-on-scroll, the detail panel and arrow keys.
+{%- endcomment -%}
+{%- assign T = include.data -%}{%- assign evs = T.events -%}{%- assign n = evs.size -%}
+{%- assign W = 1100 -%}{%- assign X0 = 70 -%}{%- assign AX = 170 -%}
+{%- assign span = W | minus: X0 | minus: X0 -%}{%- assign gaps = n | minus: 1 -%}
+{%- assign tid = "tl-" | append: T.id -%}
+<section class="svg-tl" id="{{ tid }}" aria-labelledby="{{ tid }}-h" data-tl>
+  <h2 id="{{ tid }}-h" class="svg-tl-h"><span class="l-en" lang="en">{{ T.title_en }}</span><span class="l-fr" lang="fr">{{ T.title_fr }}</span></h2>
+  <p class="svg-tl-intro"><span class="l-en" lang="en">{{ T.desc_en }} Tap or focus a step for details; the link opens the source.</span><span class="l-fr" lang="fr">{{ T.desc_fr }} Touchez ou sélectionnez une étape pour les détails; le lien ouvre la source.</span></p>
+  <ul class="svg-tl-legend" aria-label="Legend / Légende">
+    {%- for k in T.legend %}{%- assign kk = k[0] %}<li><svg width="16" height="16" viewBox="-9 -9 18 18" aria-hidden="true" focusable="false">{% include svg-tl-shape.html kind=kk %}</svg> <span class="l-en" lang="en">{{ k[1].en }}</span><span class="l-fr" lang="fr">{{ k[1].fr }}</span></li>{% endfor %}
+    <li><svg width="16" height="16" viewBox="-9 -9 18 18" aria-hidden="true" focusable="false"><circle r="7" class="tl-shape tl-unv-shape"/></svg> <span class="l-en" lang="en">Unverified</span><span class="l-fr" lang="fr">Non vérifié</span></li>
+  </ul>
+  <svg class="svg-defs" width="0" height="0" aria-hidden="true" focusable="false"><defs><pattern id="{{ tid }}-hatch" patternUnits="userSpaceOnUse" width="6" height="6" patternTransform="rotate(45)"><rect width="6" height="6" fill="#fff"/><line x1="0" y1="0" x2="0" y2="6" stroke="#c8102e" stroke-width="3"/></pattern></defs></svg>
+  <div class="svg-tl-h-wrap">
+  <svg class="svg-tl-svg" viewBox="0 0 {{ W }} 330" role="group" aria-labelledby="{{ tid }}-title {{ tid }}-desc" focusable="false">
+    <title id="{{ tid }}-title">{{ T.title_en }} / {{ T.title_fr }}</title>
+    <desc id="{{ tid }}-desc">{{ T.desc_en }} / {{ T.desc_fr }}</desc>
+    <line class="tl-axis" x1="{{ X0 | minus: 30 }}" y1="{{ AX }}" x2="{{ W | minus: X0 | plus: 30 }}" y2="{{ AX }}" pathLength="1"/>
+    {%- assign prevy = "" -%}{%- assign gstart = 0 -%}
+    {%- for e in evs %}
+    {%- assign i = forloop.index0 -%}{%- assign x = span | times: i | divided_by: gaps | plus: X0 -%}
+    {%- assign yr = e.date | slice: 0, 4 -%}
+    {%- if prevy != "" and prevy != yr -%}{%- assign py = prevy | plus: 0 -%}{%- assign cy = yr | plus: 0 | minus: 1 -%}
+      {%- if cy > py -%}{%- assign px = span | times: i | minus: span | divided_by: gaps | plus: X0 -%}{%- assign bx = x | plus: px | divided_by: 2 -%}
+    <g class="tl-break" aria-hidden="true"><rect x="{{ bx | minus: 9 }}" y="{{ AX | minus: 10 }}" width="18" height="20" fill="#fff"/><line x1="{{ bx | minus: 8 }}" y1="{{ AX | plus: 9 }}" x2="{{ bx | minus: 1 }}" y2="{{ AX | minus: 9 }}"/><line x1="{{ bx | plus: 1 }}" y1="{{ AX | plus: 9 }}" x2="{{ bx | plus: 8 }}" y2="{{ AX | minus: 9 }}"/></g>
+      {%- endif -%}
+    {%- endif -%}
+    {%- assign prevy = yr -%}
+    {%- assign up = i | modulo: 2 -%}
+    {%- if up == 0 -%}{%- assign s1 = AX | minus: 12 -%}{%- assign s2 = AX | minus: 30 -%}{%- assign yd = AX | minus: 76 -%}{%- else -%}{%- assign s1 = AX | plus: 12 -%}{%- assign s2 = AX | plus: 30 -%}{%- assign yd = AX | plus: 48 -%}{%- endif -%}
+    {%- assign y1 = yd | plus: 18 -%}{%- assign y2 = yd | plus: 35 -%}{%- if up == 0 -%}{%- assign yu = yd | minus: 19 -%}{%- else -%}{%- assign yu = yd | plus: 53 -%}{%- endif -%}
+    {%- assign langs2 = "en,fr" | split: "," -%}{%- for lg in langs2 %}
+    {%- if lg == "en" -%}{%- assign lab = e.label_en -%}{%- assign txt = e.en -%}{%- else -%}{%- assign lab = e.label_fr -%}{%- assign txt = e.fr -%}{%- endif -%}
+    <a class="tl-ev l-{{ lg }}{% unless e.verified %} tl-unv{% endunless %}" lang="{{ lg }}" href="{{ e.source_url }}" target="_blank" rel="noopener" data-ev="{{ e.id }}" style="--i:{{ i }}"
+       aria-label="{% include svg-date.html date=e.date lang=lg %}: {{ txt | escape }}{% unless e.verified %} ({% if lg == 'en' %}Unverified{% else %}Non vérifié{% endif %}){% endunless %} — {% if lg == 'en' %}source{% else %}source{% endif %}: {{ e.source_outlet | escape }} ({% if lg == 'en' %}opens in a new tab{% else %}s’ouvre dans un nouvel onglet{% endif %})">
+      <g class="tl-node">
+        <rect class="tl-hit" x="{{ x | minus: 60 }}" y="{% if up == 0 %}{{ yd | minus: 18 }}{% else %}{{ AX | minus: 14 }}{% endif %}" width="120" height="{% if up == 0 %}{{ AX | plus: 14 | minus: yd | plus: 18 }}{% else %}{{ yu | plus: 6 | minus: AX | plus: 14 }}{% endif %}" rx="6"/>
+        <line class="tl-stem" x1="{{ x }}" y1="{{ s1 }}" x2="{{ x }}" y2="{{ s2 }}"/>
+        <g transform="translate({{ x }} {{ AX }})">{% if e.verified %}{% include svg-tl-shape.html kind=e.kind %}{% else %}<circle r="9" class="tl-shape tl-unv-shape" style="fill:url(#{{ tid }}-hatch)"/>{% endif %}</g>
+        <text class="tl-date" x="{{ x }}" y="{{ yd }}" text-anchor="middle">{% include svg-date.html date=e.date lang=lg %}</text>
+        <text class="tl-lab" x="{{ x }}" y="{{ y1 }}" text-anchor="middle">{{ lab[0] }}</text>
+        {%- if lab[1] %}<text class="tl-lab" x="{{ x }}" y="{{ y2 }}" text-anchor="middle">{{ lab[1] }}</text>{% endif %}
+        {%- unless e.verified %}<text class="tl-unv-lab" x="{{ x }}" y="{{ yu }}" text-anchor="middle">{% if lg == 'en' %}Unverified{% else %}Non vérifié{% endif %}</text>{% endunless %}
+      </g>
+    </a>
+    {%- endfor %}
+    {%- endfor %}
+    {%- comment -%} Year brackets {%- endcomment -%}
+    {%- assign years = "" -%}{%- for e in evs -%}{%- assign yr = e.date | slice: 0, 4 -%}{%- unless years contains yr -%}{%- assign years = years | append: yr | append: "," -%}{%- endunless -%}{%- endfor -%}
+    {%- assign ylist = years | split: "," -%}
+    {%- for y in ylist %}
+      {%- assign fi = -1 -%}{%- assign la = -1 -%}
+      {%- for e in evs -%}{%- assign yr = e.date | slice: 0, 4 -%}{%- if yr == y -%}{%- if fi < 0 -%}{%- assign fi = forloop.index0 -%}{%- endif -%}{%- assign la = forloop.index0 -%}{%- endif -%}{%- endfor -%}
+      {%- assign xa = span | times: fi | divided_by: gaps | plus: X0 | minus: 34 -%}{%- assign xb = span | times: la | divided_by: gaps | plus: X0 | plus: 34 -%}{%- assign xm = xa | plus: xb | divided_by: 2 -%}
+    <g class="tl-year" aria-hidden="true"><path d="M{{ xa }} 284 v-6 H{{ xb }} v6"/><text x="{{ xm }}" y="306" text-anchor="middle">{{ y }}</text></g>
+    {%- endfor %}
+  </svg>
+  </div>
+  <div class="callout svg-tl-panel" aria-live="polite" data-tl-panel>
+    <p class="svg-tl-hint"><span class="l-en" lang="en">Select a step above to read what happened.</span><span class="l-fr" lang="fr">Sélectionnez une étape ci-dessus pour lire ce qui s’est passé.</span></p>
+  </div>
+  <p class="svg-tl-scale"><span class="l-en" lang="en">Steps are evenly spaced, not drawn to scale in time; // marks a gap of more than a year.</span><span class="l-fr" lang="fr">Les étapes sont espacées également, pas à l’échelle du temps; // indique un écart de plus d’un an.</span></p>
+  <details class="svg-tl-list" open data-tl-list>
+    <summary><span class="l-en" lang="en">All steps as a list, with sources</span><span class="l-fr" lang="fr">Toutes les étapes en liste, avec les sources</span></summary>
+    <ol>
+    {%- for e in evs %}
+      <li id="{{ tid }}-{{ e.id }}" class="tl-li tl-k-{{ e.kind }}{% unless e.verified %} unverified{% endunless %}" style="--i:{{ forloop.index0 }}">
+        <svg class="tl-li-dot" width="22" height="22" viewBox="-11 -11 22 22" aria-hidden="true" focusable="false">{% if e.verified %}{% include svg-tl-shape.html kind=e.kind %}{% else %}<circle r="9" class="tl-shape tl-unv-shape" style="fill:url(#{{ tid }}-hatch)"/>{% endif %}</svg>
+        <p class="tl-li-date"><time datetime="{{ e.date }}"><span class="l-en" lang="en">{% include svg-date.html date=e.date lang="en" %}</span><span class="l-fr" lang="fr">{% include svg-date.html date=e.date lang="fr" %}</span></time>{% unless e.verified %} <span class="unv-badge">Unverified / Non vérifié</span>{% endunless %}</p>
+        <p class="tl-li-text"><span class="l-en" lang="en">{{ e.en }}</span><span class="l-fr" lang="fr">{{ e.fr }}</span></p>
+        <p class="tl-li-src"><span class="l-en" lang="en">Source:</span><span class="l-fr" lang="fr">Source :</span> <a href="{{ e.source_url }}" target="_blank" rel="noopener">{{ e.source_outlet }}</a>{% if e.source_note %} ({{ e.source_note }}){% endif %} — <cite>{{ e.source_title }}</cite>{% if e.source_url_en %} · <a class="l-en" lang="en" href="{{ e.source_url_en }}" target="_blank" rel="noopener">English summary</a>{% endif %}</p>
+      </li>
+    {%- endfor %}
+    </ol>
+  </details>
+</section>

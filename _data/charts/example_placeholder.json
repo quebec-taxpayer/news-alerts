@@ -1,0 +1,42 @@
+{
+ "id": "example-placeholder",
+ "render": false,
+ "title_en": "PLACEHOLDER – example chart (not published)",
+ "title_fr": "EXEMPLE – graphique fictif (non publié)",
+ "desc_en": "Placeholder showing the data format. render:false keeps it off the site.",
+ "desc_fr": "Exemple du format de données. render:false le garde hors du site.",
+ "units_en": "units",
+ "units_fr": "unités",
+ "unit_prefix_en": "",
+ "unit_suffix_en": "",
+ "unit_prefix_fr": "",
+ "unit_suffix_fr": "",
+ "note_en": null,
+ "note_fr": null,
+ "items": [
+  {
+   "label_en": "Sourced value",
+   "label_fr": "Valeur sourcée",
+   "value": 40,
+   "qualifier": "exact",
+   "source_title": "(source title)",
+   "source_outlet": "(outlet)",
+   "source_url": "https://example.org/",
+   "verified": true,
+   "note_en": null,
+   "note_fr": null
+  },
+  {
+   "label_en": "Unverified value",
+   "label_fr": "Valeur non vérifiée",
+   "value": 65,
+   "qualifier": "about",
+   "source_title": "(source title)",
+   "source_outlet": "(outlet)",
+   "source_url": "https://example.org/",
+   "verified": false,
+   "note_en": "Shown hatched.",
+   "note_fr": "Affichée hachurée."
+  }
+ ]
+}

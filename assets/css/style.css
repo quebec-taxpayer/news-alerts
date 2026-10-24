@@ -320,3 +320,100 @@ dl.glossary dd { margin: 4px 0 0; padding-bottom: 12px; border-bottom: 1px solid
   .gl-term { text-decoration: none; }
   .pr-table { background: #fff; }
 }
+
+/* ---------- SVG visuals (draft): timeline + bar chart ---------- */
+.sr-only { position: absolute !important; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.svg-defs { position: absolute; width: 0; height: 0; overflow: hidden; }
+.svg-tl { margin: 28px 0 8px; }
+.svg-tl-h { margin-top: 0; }
+.svg-tl-intro { font-size: 18px; margin: 0 0 8px; }
+.svg-tl-legend { list-style: none; padding: 0; margin: 0 0 6px; display: flex; flex-wrap: wrap; gap: 4px 18px; font-family: Arial, Helvetica, sans-serif; font-size: 15px; }
+.svg-tl-legend li { display: flex; align-items: center; gap: 6px; }
+.tl-shape { stroke-width: 2.5; }
+.tl-k-saaq { fill: #0b3d91; stroke: #0b3d91; }
+.tl-k-vgq { fill: #c8102e; stroke: #c8102e; }
+.tl-k-gov { fill: #000; stroke: #000; }
+.tl-k-commission { fill: #fff; stroke: #0b3d91; stroke-width: 3.5; }
+.tl-unv-shape { fill: #fff; stroke: #c8102e; stroke-dasharray: 3 2; stroke-width: 2.5; }
+/* Desktop: break out of the 760px column so labels stay readable. */
+.svg-tl-h-wrap { position: relative; left: 50%; width: min(1100px, calc(100vw - 40px)); transform: translateX(-50%); }
+.svg-tl-svg { display: block; width: 100%; height: auto; overflow: visible; font-family: Arial, Helvetica, sans-serif; }
+.tl-axis { stroke: #0b3d91; stroke-width: 4; stroke-linecap: round; }
+.tl-break line { stroke: #0b3d91; stroke-width: 3; }
+.tl-stem { stroke: #000; stroke-width: 1.5; }
+.tl-date { font-size: 15px; font-weight: bold; fill: #000; }
+.tl-lab { font-size: 14px; fill: #000; }
+.tl-unv-lab { font-size: 12px; font-weight: bold; fill: #c8102e; font-style: italic; }
+.tl-hit { fill: transparent; }
+.tl-year path { fill: none; stroke: #000; stroke-width: 1.2; }
+.tl-year text { font-size: 16px; font-weight: bold; fill: #0b3d91; }
+a.tl-ev { cursor: pointer; outline: none; }
+a.tl-ev:hover .tl-hit, a.tl-ev.is-on .tl-hit { fill: #fff8d6; stroke: #d9c46a; stroke-width: 1; }
+a.tl-ev:focus-visible .tl-hit { fill: #fff8d6; stroke: #000; stroke-width: 2.5; }
+a.tl-ev:hover .tl-lab, a.tl-ev:focus-visible .tl-lab { text-decoration: underline; }
+.svg-tl-panel { margin-top: 10px; min-height: 3.2em; }
+.svg-tl-panel p { margin: 0 0 6px; }
+.svg-tl-hint { font-style: italic; }
+.svg-tl-detail .tl-li-date { font-family: Arial, Helvetica, sans-serif; font-weight: bold; }
+.svg-tl-scale { font-size: 15px; font-style: italic; margin: 6px 0; }
+.svg-tl-list summary { cursor: pointer; font-family: Arial, Helvetica, sans-serif; font-weight: bold; color: #0b3d91; padding: 6px 0; }
+.svg-tl-list ol { list-style: none; margin: 8px 0 0; padding: 0 0 0 4px; position: relative; }
+.svg-tl-list ol::before { content: ""; position: absolute; left: 14px; top: 8px; bottom: 8px; width: 4px; background: #0b3d91; border-radius: 2px; }
+.tl-li { position: relative; padding: 0 0 14px 40px; }
+.tl-li-dot { position: absolute; left: 0; top: 4px; background: #fff; border-radius: 50%; }
+.tl-li p { margin: 0; }
+.tl-li-date { font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 17px; }
+.tl-li-text { font-size: 19px; }
+.tl-li-src { font-size: 16px; }
+.tl-li.unverified .tl-li-text { font-style: italic; }
+.unv-badge { display: inline-block; font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-weight: bold; font-style: normal; color: #c8102e; border: 2px dashed #c8102e; background: #fff; padding: 0 5px; border-radius: 3px; }
+/* Animation: only once JS has marked the block and it scrolls into view; skipped for reduced motion and print. */
+@keyframes tl-draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+@keyframes tl-pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@keyframes tl-grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@media (prefers-reduced-motion: no-preference) {
+  .svg-tl.js .tl-axis { stroke-dasharray: 1; stroke-dashoffset: 1; }
+  .svg-tl.js .tl-node, .svg-tl.js .tl-year, .svg-tl.js .tl-break { opacity: 0; }
+  .svg-tl.js.tl-run .tl-axis { animation: tl-draw 1.1s ease-out forwards; }
+  .svg-tl.js.tl-run .tl-node { animation: tl-pop .45s ease-out forwards; animation-delay: calc(var(--i) * 110ms + 350ms); }
+  .svg-tl.js.tl-run .tl-year, .svg-tl.js.tl-run .tl-break { animation: tl-pop .5s ease-out forwards; animation-delay: 1.4s; }
+  .svg-tl.js.tl-run .tl-li { animation: tl-pop .4s ease-out both; animation-delay: calc(var(--i) * 70ms); }
+  .svg-chart-bar { transform-box: fill-box; transform-origin: left center; animation: tl-grow .9s ease-out both; }
+  .svg-chart-row:nth-child(2) .svg-chart-bar { animation-delay: .15s; }
+}
+/* Mobile / narrow: vertical layout only (no horizontal scroll). */
+@media (max-width: 720px) {
+  .svg-tl-h-wrap, .svg-tl-panel, .svg-tl-scale, .svg-tl-legend li:last-child { display: none; }
+  .svg-tl-list summary { display: none; }
+  .svg-tl-intro .hint-wide { display: none; }
+}
+@media (min-width: 721px) { .svg-tl-list[open] ol { margin-bottom: 8px; } }
+
+.svg-chart { margin: 24px 0; padding: 14px 16px; border: 1px solid #000; background: #fff; }
+.svg-chart-title { font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 19px; line-height: 1.3; }
+.svg-chart-units { font-family: Arial, Helvetica, sans-serif; font-size: 14px; margin: 2px 0 6px; }
+.svg-chart-svg { display: block; overflow: visible; font-family: Arial, Helvetica, sans-serif; }
+.svg-chart-lab { font-size: 15px; fill: #000; }
+.svg-chart-unv { font-size: 13px; font-weight: bold; font-style: italic; fill: #c8102e; }
+.svg-chart-track { fill: #f2f2f2; }
+.svg-chart-bar { fill: #0b3d91; }
+.svg-chart-row.unverified .svg-chart-bar { stroke: #c8102e; stroke-width: 2; stroke-dasharray: 4 3; }
+.svg-chart-bar.open-ended { fill: #0b3d91; }
+.svg-chart-val { font-size: 15px; font-weight: bold; }
+.svg-chart-val.in { fill: #fff; }
+.svg-chart-val.out { fill: #000; }
+.svg-chart-row.unverified .svg-chart-val.in { fill: #000; paint-order: stroke; stroke: #fff; stroke-width: 4px; }
+.svg-chart-note { font-size: 16px; font-style: italic; margin: 6px 0; }
+.svg-chart-sources { font-size: 15px; line-height: 1.4; margin: 8px 0 0; padding-left: 22px; }
+.svg-chart-sources li { margin: 4px 0; }
+@media print {
+  .svg-tl-h-wrap { left: 0; transform: none; width: 100%; }
+  .svg-tl-panel, .svg-tl-scale, .svg-tl-list summary { display: none; }
+  .svg-tl .tl-node, .svg-tl .tl-year, .svg-tl .tl-break, .tl-li { opacity: 1 !important; animation: none !important; }
+  .svg-tl .tl-axis { stroke-dasharray: none !important; }
+  .svg-chart { break-inside: avoid; border-color: #000; }
+  .svg-chart-bar { animation: none !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .svg-chart-track { fill: #fff; stroke: #000; stroke-width: .5; }
+}
+.svg-tl-svg a, .svg-tl-svg text { text-decoration: none; }
+.svg-tl-svg a.tl-ev:hover .tl-lab, .svg-tl-svg a.tl-ev:focus-visible .tl-lab { text-decoration: underline; }

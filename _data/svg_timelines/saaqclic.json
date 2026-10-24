@@ -1,0 +1,304 @@
+{
+ "id": "saaqclic",
+ "title_en": "SAAQclic and the Gallant Commission, step by step",
+ "title_fr": "SAAQclic et la commission Gallant, étape par étape",
+ "desc_en": "Timeline of the SAAQ’s CASA/SAAQclic program, the Auditor General’s report and the Gallant public inquiry. Each step links to its primary source.",
+ "desc_fr": "Chronologie du programme CASA/SAAQclic de la SAAQ, du rapport de la vérificatrice générale et de l’enquête publique Gallant. Chaque étape renvoie à sa source primaire.",
+ "dossier": "saaqclic",
+ "legend": {
+  "saaq": {
+   "en": "SAAQ",
+   "fr": "SAAQ"
+  },
+  "vgq": {
+   "en": "Auditor General",
+   "fr": "Vérificateur général"
+  },
+  "gov": {
+   "en": "Government",
+   "fr": "Gouvernement"
+  },
+  "commission": {
+   "en": "Gallant Commission",
+   "fr": "Commission Gallant"
+  }
+ },
+ "events": [
+  {
+   "id": "casa-2017",
+   "date": "2017",
+   "kind": "saaq",
+   "label_en": [
+    "CASA program",
+    "launched"
+   ],
+   "label_fr": [
+    "Lancement du",
+    "programme CASA"
+   ],
+   "en": "The SAAQ launches its CASA program (new computer system and SAAQclic platform). Its total 10-year budget is estimated at $638 million.",
+   "fr": "La SAAQ lance son programme CASA (nouveau système informatique et plateforme SAAQclic). Son budget total sur dix ans est estimé à 638 millions de dollars.",
+   "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+   "source_outlet": "Vérificateur général du Québec",
+   "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "closure-2023",
+   "date": "2023-01-27",
+   "kind": "saaq",
+   "label_en": [
+    "Services close",
+    "for the switch"
+   ],
+   "label_fr": [
+    "Fermeture des",
+    "services"
+   ],
+   "en": "Most SAAQ services and transactions close for 21 days, until February 16, 2023, so the new system can be deployed.",
+   "fr": "La plupart des services et des transactions de la SAAQ ferment pour 21 jours, jusqu’au 16 février 2023, pour le déploiement du nouveau système.",
+   "source_title": "Rapport et recommandations (février 2026), Commission d’enquête sur la gestion de la modernisation des systèmes informatiques de la SAAQ",
+   "source_outlet": "Commission Gallant (CESIS), rapport officiel",
+   "source_url": "https://www.cesis.gouv.qc.ca/fileadmin/documents/Rapport/CESIS_rapport_recommandations.pdf#page=412",
+   "source_url_en": "https://www.cesis.gouv.qc.ca/fileadmin/documents/Rapport/CESIS_Executive_Summary.pdf",
+   "source_note": "PDF p. 412",
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "launch-2023",
+   "date": "2023-02-20",
+   "kind": "saaq",
+   "label_en": [
+    "SAAQclic opens",
+    "to the public"
+   ],
+   "label_fr": [
+    "SAAQclic ouvre",
+    "au public"
+   ],
+   "en": "The SAAQclic portal opens to all SAAQ customers. In the first days, outages are reported and waiting lines at service centres grow much longer.",
+   "fr": "Le portail SAAQclic ouvre pour l’ensemble de la clientèle de la SAAQ. Dès les premiers jours, des défaillances sont rapportées et les files d’attente s’allongent considérablement.",
+   "source_title": "Rapport et recommandations (février 2026), Commission d’enquête sur la gestion de la modernisation des systèmes informatiques de la SAAQ",
+   "source_outlet": "Commission Gallant (CESIS), rapport officiel",
+   "source_url": "https://www.cesis.gouv.qc.ca/fileadmin/documents/Rapport/CESIS_rapport_recommandations.pdf#page=32",
+   "source_url_en": "https://www.cesis.gouv.qc.ca/fileadmin/documents/Rapport/CESIS_Executive_Summary.pdf",
+   "source_note": "PDF p. 32",
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "vgq-2025",
+   "date": "2025-02-20",
+   "kind": "vgq",
+   "label_en": [
+    "Auditor General",
+    "report"
+   ],
+   "label_fr": [
+    "Rapport de la",
+    "VG"
+   ],
+   "en": "The Auditor General reports that CASA costs rose by nearly $500 million, to at least $1.1 billion by March 2027 (forecast), that the increase was not clearly communicated to decision-makers, and that nearly 20% of final integrated tests had not been done when the go-live was confirmed in January 2023.",
+   "fr": "La vérificatrice générale rapporte que les coûts de CASA ont augmenté de près de 500 millions de dollars, pour atteindre au moins 1,1 milliard d’ici mars 2027 (prévision), que la hausse n’a pas été clairement communiquée aux décideurs et que près de 20 % des tests intégrés finaux n’avaient pas été réalisés lors de la confirmation de la mise en service, en janvier 2023.",
+   "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+   "source_outlet": "Vérificateur général du Québec",
+   "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "legault-2025",
+   "date": "2025-03-02",
+   "kind": "gov",
+   "label_en": [
+    "Premier orders",
+    "a public inquiry"
+   ],
+   "label_fr": [
+    "Le PM demande",
+    "une enquête"
+   ],
+   "en": "Premier François Legault says he has directed the secretary general of the government to prepare a decree launching an independent public inquiry.",
+   "fr": "Le premier ministre François Legault annonce avoir donné la directive au secrétaire général du gouvernement de préparer un décret pour lancer une enquête publique et indépendante.",
+   "source_title": "Publication de François Legault sur X (2 mars 2025)",
+   "source_outlet": "François Legault, premier ministre (compte X officiel)",
+   "source_url": "https://x.com/francoislegault/status/1896305354801057907",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "decree-2025",
+   "date": "2025-03-18",
+   "kind": "gov",
+   "label_en": [
+    "Inquiry created",
+    "(Decree 299-2025)"
+   ],
+   "label_fr": [
+    "Commission créée",
+    "(décret 299-2025)"
+   ],
+   "en": "Cabinet adopts the decree creating the commission of inquiry. Municipal judge Denis Gallant is named commissioner as of March 24, 2025; the final report is due by September 30, 2025.",
+   "fr": "Le Conseil des ministres adopte le décret constituant la commission d’enquête. Le juge municipal Denis Gallant est nommé commissaire à compter du 24 mars 2025; le rapport final est attendu au plus tard le 30 septembre 2025.",
+   "source_title": "Commission d'enquête sur la gestion de la modernisation des systèmes informatiques de la SAAQ",
+   "source_outlet": "Gouvernement du Québec (Cabinet du ministre de la Justice)",
+   "source_url": "https://www.quebec.ca/nouvelles/actualites/details/commission-denquete-sur-la-gestion-de-la-modernisation-des-systemes-informatiques-de-la-saaq-61606",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "hearings-open-2025",
+   "date": "2025-04-24",
+   "kind": "commission",
+   "label_en": [
+    "Public hearings",
+    "begin"
+   ],
+   "label_fr": [
+    "Début des",
+    "audiences"
+   ],
+   "en": "The commission’s public hearings begin with the commissioner’s opening statement.",
+   "fr": "Les audiences publiques de la commission débutent avec la déclaration d’ouverture du commissaire.",
+   "source_title": "Bienvenue – Commission d’enquête (CESIS)",
+   "source_outlet": "Commission Gallant (site officiel)",
+   "source_url": "https://www.cesis.gouv.qc.ca/accueil",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "ext1-2025",
+   "date": "2025-06-12",
+   "kind": "gov",
+   "label_en": [
+    "Deadline moved",
+    "to Dec. 15"
+   ],
+   "label_fr": [
+    "Échéance reportée",
+    "au 15 déc."
+   ],
+   "en": "The government extends the deadline for the commission’s report and recommendations to December 15, 2025.",
+   "fr": "Le gouvernement prolonge au 15 décembre 2025 l’échéance pour le dépôt du rapport et des recommandations de la commission.",
+   "source_title": "Commission d'enquête … de la SAAQ – prolongation au 15 décembre 2025",
+   "source_outlet": "Gouvernement du Québec (Cabinet du ministre de la Justice)",
+   "source_url": "https://www.quebec.ca/nouvelles/actualites/details/commission-denquete-sur-la-gestion-de-la-modernisation-des-systemes-informatiques-de-la-saaq-63622",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "ext2-2025",
+   "date": "2025-10-23",
+   "kind": "gov",
+   "label_en": [
+    "Deadline moved",
+    "to Feb. 13"
+   ],
+   "label_fr": [
+    "Échéance reportée",
+    "au 13 févr."
+   ],
+   "en": "The government extends the deadline again, to February 13, 2026.",
+   "fr": "Le gouvernement prolonge de nouveau l’échéance, au 13 février 2026.",
+   "source_title": "Commission d'enquête … de la SAAQ – prolongation au 13 février 2026",
+   "source_outlet": "Gouvernement du Québec (Cabinet du ministre de la Justice)",
+   "source_url": "https://www.quebec.ca/nouvelles/actualites/details/commission-denquete-sur-la-gestion-de-la-modernisation-des-systemes-informatiques-de-la-saaq-le-gouvernement-du-quebec-accorde-uneprolongation-au-13-fevrier-2026-pour-le-depot-du-rapport-et-des-recommandations-66571",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "hearings-end-2025",
+   "date": "2025-10-24",
+   "kind": "commission",
+   "label_en": [
+    "Hearings end",
+    "(129 witnesses)"
+   ],
+   "label_fr": [
+    "Fin des audiences",
+    "(129 témoins)"
+   ],
+   "en": "The public hearings end. Over six months, the commissioner heard 129 witnesses over 75 days of hearings.",
+   "fr": "Les audiences publiques se terminent. En six mois, le commissaire a entendu 129 témoins sur 75 jours d’audience.",
+   "source_title": "La commission – CESIS",
+   "source_outlet": "Commission Gallant (site officiel)",
+   "source_url": "https://www.cesis.gouv.qc.ca/la-commission",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "report-submitted-2026",
+   "date": "2026-02-13",
+   "kind": "commission",
+   "label_en": [
+    "Report handed",
+    "to government"
+   ],
+   "label_fr": [
+    "Rapport remis",
+    "au gouvernement"
+   ],
+   "en": "Commissioner Denis Gallant submits his report and recommendations to the government.",
+   "fr": "Le commissaire Denis Gallant remet son rapport et ses recommandations au gouvernement.",
+   "source_title": "Rapport et recommandations (février 2026), Commission d’enquête sur la gestion de la modernisation des systèmes informatiques de la SAAQ",
+   "source_outlet": "Commission Gallant (CESIS), rapport officiel",
+   "source_url": "https://www.cesis.gouv.qc.ca/fileadmin/documents/Rapport/CESIS_rapport_recommandations.pdf#page=3",
+   "source_url_en": "https://www.cesis.gouv.qc.ca/fileadmin/documents/Rapport/CESIS_Executive_Summary.pdf",
+   "source_note": "PDF p. 3",
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  },
+  {
+   "id": "report-public-2026",
+   "date": "2026-02-16",
+   "kind": "commission",
+   "label_en": [
+    "Report made",
+    "public"
+   ],
+   "label_fr": [
+    "Rapport rendu",
+    "public"
+   ],
+   "en": "The report is made public. The government announces a follow-up committee under the president of the Treasury Board.",
+   "fr": "Le rapport est rendu public. Le gouvernement annonce un comité de suivi sous la responsabilité de la présidente du Conseil du trésor.",
+   "source_title": "Dépôt du rapport de la commission Gallant – Le gouvernement analysera rapidement les recommandations",
+   "source_outlet": "Gouvernement du Québec (Cabinet du premier ministre)",
+   "source_url": "https://www.quebec.ca/nouvelles/actualites/details/depot-du-rapport-de-la-commission-gallant-le-gouvernement-analysera-rapidement-les-recommandations-68561",
+   "source_url_en": null,
+   "source_note": null,
+   "primary": true,
+   "verified": true,
+   "checked": "2026-10-24"
+  }
+ ]
+}

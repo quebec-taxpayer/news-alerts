@@ -137,5 +137,50 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
    (anchors `#s-<id>`). It reports an error if a `match` finds no story or more than one.
 3. `python3 _tools/plain.py --strict`, build/preview, commit, push.
 
+## SVG visuals (timeline and charts)
+
+Inline SVG and CSS only, with no libraries. The only script is `assets/js/svg-timeline.js`, which is loaded on the home page and is about 2 KB. Animations run only when `prefers-reduced-motion` is `no-preference`, and they are switched off for print.
+
+### Homepage timeline (`_data/svg_timelines/<id>.json`)
+
+- Render it with `{% include svg-timeline.html data=site.data.svg_timelines.saaqclic %}` (already in `index.html`).
+- Top-level fields are `id`, `title_en`/`title_fr`, `desc_en`/`desc_fr`, `legend` and `events`.
+- Each event has these fields:
+  - `id` and `date` (`YYYY-MM-DD`, or `YYYY` when only the year is known);
+  - `kind`: `saaq` (blue circle), `vgq` (red diamond), `gov` (black square) or `commission` (ringed circle);
+  - `label_en`/`label_fr`: two short lines shown on the SVG;
+  - `en`/`fr`: the full sentence;
+  - `source_title`, `source_outlet` and `source_url` (with optional `source_url_en`);
+  - `primary`, `verified` and `checked`.
+- **Rule:** every event must link to a *primary* public source (government release, report, decree, official account) that you have opened yourself. Never estimate a date. If a date can't be confirmed, set `"verified": false`. The event is then hatched and labelled "Unverified / Non vérifié". Alternatively, leave it out.
+- Layout:
+  - Wider than 720 px: a horizontal SVG with equal spacing. A `//` marks a gap of more than a year. Hover, focus or tap shows the details in the yellow panel. Use Left/Right/Home/End to move between steps. Enter opens the source.
+  - 720 px or less, or with no JS: the same data is shown as a vertical list with sources (`details` element).
+
+### Reusable bar chart (`_data/charts/<id>.json` and `_includes/svg-chart.html`)
+
+```json
+{
+  "id": "saaqclic-cost", "render": true, "dossier": "saaqclic",
+  "title_en": "...", "title_fr": "...", "desc_en": "...", "desc_fr": "...",
+  "units_en": "millions of dollars", "units_fr": "millions de dollars",
+  "prefix_en": "$", "suffix_en": "M", "prefix_fr": "", "suffix_fr": " M$",
+  "note_en": "...", "note_fr": "...",
+  "items": [
+    { "label_en": "...", "label_fr": "...", "value": 638,
+      "display_en": "$638M", "display_fr": "638 M$",
+      "source_title": "...", "source_outlet": "...", "source_url": "https://...",
+      "verified": true, "note_en": "...", "note_fr": "..." }
+  ]
+}
+```
+
+- **Automatic:** a chart whose `dossier` matches a chronology dossier id appears on that dossier page, after the money list.
+- **Manual:** call `{% include svg-chart.html data=site.data.charts.saaqclic_cost %}` anywhere.
+- `"render": false` keeps a chart out of the live site. Use it for placeholders, e.g. `example_placeholder.json`. Add `force=true` to the include only for local tests.
+- `"verified": false` gives a hatched bar with a dashed red outline and the label "Unverified / Non vérifié", in both the chart and the source list.
+- Labels wrap automatically. The bar length is relative to the largest value. Bars are never stacked or added together.
+- Each chart includes `<title>`/`<desc>`, a visually hidden data table for screen readers, and a numbered source list. It prints in black and white without animation.
+
 ## Local preview
 `bundle install && bundle exec jekyll serve` then open http://127.0.0.1:4000/news-alerts/

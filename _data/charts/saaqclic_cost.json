@@ -1,0 +1,61 @@
+{
+ "id": "saaqclic-cost",
+ "render": true,
+ "dossier": "saaqclic",
+ "title_en": "SAAQclic (CASA program): what it was supposed to cost vs. what it costs",
+ "title_fr": "SAAQclic (programme CASA) : coût prévu et coût réel",
+ "desc_en": "Horizontal bar chart of three official cost figures for the SAAQ’s CASA program, in millions of dollars, over ten years (2017–2027).",
+ "desc_fr": "Graphique à barres horizontales de trois chiffres officiels sur le coût du programme CASA de la SAAQ, en millions de dollars, sur dix ans (2017-2027).",
+ "units_en": "millions of dollars",
+ "units_fr": "millions de dollars",
+ "unit_prefix_en": "$",
+ "unit_suffix_en": "M",
+ "unit_prefix_fr": "",
+ "unit_suffix_fr": " M$",
+ "note_en": "The bars are not added together: each is a separate estimate of the same 10-year program.",
+ "note_fr": "Les barres ne s’additionnent pas : chacune est une estimation distincte du même programme sur dix ans.",
+ "items": [
+  {
+   "label_en": "Budget estimated at launch (2017)",
+   "label_fr": "Budget estimé au lancement (2017)",
+   "value": 638,
+   "qualifier": "exact",
+   "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+   "source_outlet": "Vérificateur général du Québec",
+   "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "verified": true,
+   "note_en": "Total 10-year budget estimated when the program was launched in 2017.",
+   "note_fr": "Budget total sur dix ans estimé lors du lancement du programme, en 2017.",
+   "display_en": "$638M",
+   "display_fr": "638 M$"
+  },
+  {
+   "label_en": "SAAQ estimate for the Gallant Commission",
+   "label_fr": "Estimation de la SAAQ pour la commission Gallant",
+   "value": 955,
+   "qualifier": "exact",
+   "source_title": "Rapport et recommandations (février 2026), commission Gallant, p. 460 (PDF p. 487)",
+   "source_outlet": "Commission Gallant (CESIS)",
+   "source_url": "https://www.cesis.gouv.qc.ca/fileadmin/documents/Rapport/CESIS_rapport_recommandations.pdf#page=487",
+   "verified": true,
+   "note_en": "Total costs over 2017–2027 as re-estimated by the SAAQ; the report notes this covers a smaller scope, because deliveries 2.5 and 3 were dropped.",
+   "note_fr": "Coûts totaux 2017-2027 selon une nouvelle estimation de la SAAQ; le rapport précise que la portée est moindre, en raison de l’abandon des livraisons 2.5 et 3.",
+   "display_en": "$955M",
+   "display_fr": "955 M$"
+  },
+  {
+   "label_en": "Auditor General forecast (by March 2027)",
+   "label_fr": "Prévision de la VG (d’ici mars 2027)",
+   "value": 1100,
+   "qualifier": "at_least",
+   "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+   "source_outlet": "Vérificateur général du Québec",
+   "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "verified": true,
+   "note_en": "“A minimum of $1.1 billion” by March 2027, a forecast. The Gallant report calls the Auditor General’s comparison on the initial scope reasonable.",
+   "note_fr": "« Un minimum de 1,1 milliard de dollars » d’ici mars 2027, selon les prévisions. Le rapport Gallant juge raisonnable la comparaison de la VG sur la portée initiale.",
+   "display_en": "at least $1.1B",
+   "display_fr": "au moins 1,1 G$"
+  }
+ ]
+}

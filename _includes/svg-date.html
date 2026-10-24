@@ -1,0 +1,9 @@
+{%- comment -%} Short bilingual date for SVG/charts. Param: date (YYYY | YYYY-MM | YYYY-MM-DD), lang (en|fr). {%- endcomment -%}
+{%- assign sp = include.date | split: "-" -%}
+{%- if sp.size == 1 -%}{{ sp[0] }}
+{%- else -%}{%- assign smi = sp[1] | plus: 0 | minus: 1 -%}
+{%- if include.lang == "fr" -%}{%- assign sm = "janv.,févr.,mars,avril,mai,juin,juill.,août,sept.,oct.,nov.,déc." | split: "," -%}
+{%- if sp.size == 3 -%}{%- assign sd = sp[2] | plus: 0 -%}{%- if sd == 1 -%}1er{%- else -%}{{ sd }}{%- endif %} {% endif -%}{{ sm[smi] }} {{ sp[0] }}
+{%- else -%}{%- assign sm = "Jan.,Feb.,March,April,May,June,July,Aug.,Sept.,Oct.,Nov.,Dec." | split: "," -%}
+{{ sm[smi] }}{% if sp.size == 3 %} {{ sp[2] | plus: 0 }},{% endif %} {{ sp[0] }}
+{%- endif -%}{%- endif -%}
