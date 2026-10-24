@@ -32,8 +32,8 @@ SUMMARY = {
                 "Senior civil-service appointments; PHP flaw: SAQ, STM and SAAQ lock their sites; follow-ups on Lion Électrique and the recounts."),
  "2026-10-23": ("Contrats TI de gré à gré et firmes étrangères; Hydro-Québec et SAQ; Marie-Claude Sarrazin (ex-commission Gallant) à la Justice.",
                 "Untendered IT contracts and foreign firms; Hydro-Québec and the SAQ; Marie-Claude Sarrazin (ex-Gallant commission) at Justice."),
- "2026-10-24": ("Aide d’urgence en itinérance; la SAQ et Consignaction; Hydro-Québec et la faille PHP; FNZ et La Caisse; mandats des nouveaux ministres.",
-                "Emergency homelessness aid; the SAQ and Consignaction; Hydro-Québec and the PHP flaw; FNZ and La Caisse; new ministers’ mandates."),
+ "2026-10-24": ("Aide d’urgence en itinérance; la SAQ et Consignaction; Hydro-Québec et la faille PHP; FNZ et La Caisse; mandats des nouveaux ministres, dont l’audit des projets informatiques; projets d’infrastructures reportés.",
+                "Emergency homelessness aid; the SAQ and Consignaction; Hydro-Québec and the PHP flaw; FNZ and La Caisse; new ministers’ mandates, including an audit of IT projects; infrastructure projects delayed."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {
@@ -42,6 +42,7 @@ HEADINGS = {
  "Energy & industry": ("Énergie & industrie", "Energy & industry"),
  "Lobbying & ethics": ("Lobbyisme & éthique", "Lobbying & ethics"),
  "Mise à jour / Update (après-midi)": ("Mise à jour (après-midi)", "Update (afternoon)"),
+ "Mise à jour / Update (fin de matinée / late morning)": ("Mise à jour (fin de matinée)", "Update (late morning)"),
 }
 e = html.escape
 def strip_star(s): return s.strip()[1:-1].strip()
