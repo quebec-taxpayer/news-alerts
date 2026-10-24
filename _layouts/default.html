@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'fr' }}">
+<html lang="en" class="lang-en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <script>(function(){var l="en";try{l=localStorage.getItem("qgm-lang")||"en";}catch(e){}if(l!=="fr")l="en";var h=document.documentElement;h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;})();</script>
+  {%- capture t_en -%}{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
+  {%- capture t_fr -%}{% if page.title %}{{ page.title_fr | default: page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
+  <title data-en="{{ t_en | escape }}" data-fr="{{ t_fr | escape }}">{{ t_en }}</title>
   <meta name="description" content="{{ page.summary | default: site.description | strip_html | escape }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
@@ -14,5 +17,6 @@
 {{ content }}
 </main>
 {% include footer.html %}
+<script>(function(){var h=document.documentElement,b=document.querySelectorAll("[data-set-lang]"),t=document.querySelector("title");function set(l,save){h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;for(var i=0;i<b.length;i++)b[i].setAttribute("aria-pressed",b[i].getAttribute("data-set-lang")===l?"true":"false");if(t&&t.getAttribute("data-"+l))document.title=t.getAttribute("data-"+l);if(save){try{localStorage.setItem("qgm-lang",l);}catch(e){}}}for(var i=0;i<b.length;i++)b[i].addEventListener("click",function(){set(this.getAttribute("data-set-lang"),true);});set(h.lang==="fr"?"fr":"en",false);})();</script>
 </body>
 </html>

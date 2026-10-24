@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Sources et méthode / Sources and method"
+title: "Sources and method"
+title_fr: "Sources et méthode"
 permalink: /sources/
 ---
-<section lang="fr">
-<h2>Français</h2>
+<section class="l-fr" lang="fr">
 <ul>
 <li>Uniquement des sources publiques et vérifiables.</li>
 <li>Les sources primaires et officielles sont privilégiées : communiqués gouvernementaux, organismes publics, tribunaux, Vérificateur général du Québec, commissions et registres publics.</li>
@@ -14,8 +14,7 @@ permalink: /sources/
 <li>Les allégations sont présentées comme telles (« selon », « allégué », « non prouvé ») jusqu’à une décision d’un tribunal ou d’un organisme compétent.</li>
 </ul>
 </section>
-<section lang="en">
-<h2>English</h2>
+<section class="l-en" lang="en">
 <ul>
 <li>Public, verifiable sources only.</li>
 <li>Primary and official sources are preferred: government releases, public bodies, courts, Quebec’s Auditor General, commissions and public registries.</li>

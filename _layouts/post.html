@@ -2,15 +2,13 @@
 layout: default
 ---
 <article class="post">
-  <h1>{{ page.title }}</h1>
-  {% assign m = page.date | date: "%-m" | minus: 1 %}
-  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d" }} {{ site.fr_months[m] }} {{ page.date | date: "%Y" }} / {{ page.date | date: "%B %-d, %Y" }}</time>
-  · {{ page.story_count }} nouvelles / stories</p>
-  {% if page.summary %}<p class="post-summary">{{ page.summary }}</p>{% endif %}
-  {% if page.tags.size > 0 %}<p class="tags">{% for t in page.tags %}{% assign topic = site.topics | where: "tag", t | first %}<a class="tag" href="{{ '/topics/' | relative_url }}#{{ t }}">{{ topic.en | default: t }}</a>{% endfor %}</p>{% endif %}
+  <h1>{% include ptitle.html p=page %}</h1>
+  <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}">{% include date.html date=page.date %}</time> · {% include count.html n=page.story_count %}</p>
+  {% if page.summary %}<p class="post-summary"><span class="l-en" lang="en">{{ page.summary }}</span><span class="l-fr" lang="fr">{{ page.summary_fr | default: page.summary }}</span></p>{% endif %}
+  {% if page.tags.size > 0 %}<p class="tags">{% for t in page.tags %}{% assign topic = site.topics | where: "tag", t | first %}<a class="tag" href="{{ '/topics/' | relative_url }}#{{ t }}"><span class="l-en" lang="en">{{ topic.en | default: t }}</span><span class="l-fr" lang="fr">{{ topic.fr | default: t }}</span></a>{% endfor %}</p>{% endif %}
   {{ content }}
   <nav class="post-nav">
-    {% if page.previous %}<a href="{{ page.previous.url | relative_url }}">← {{ page.previous.title }}</a>{% endif %}
-    {% if page.next %}<a href="{{ page.next.url | relative_url }}">{{ page.next.title }} →</a>{% endif %}
+    {% if page.previous %}<a href="{{ page.previous.url | relative_url }}">← {% include ptitle.html p=page.previous %}</a>{% endif %}
+    {% if page.next %}<a href="{{ page.next.url | relative_url }}">{% include ptitle.html p=page.next %} →</a>{% endif %}
   </nav>
 </article>

@@ -1,5 +1,6 @@
 /* Quebec Governance Monitor: white background, blue and red accents, pure black text.
-   Arial for headlines and navigation, Times for body copy. No images, no external fonts. */
+   Arial for headlines and navigation, Times for body copy. No images, no external fonts.
+   Language toggle: <html class="lang-en|lang-fr"> hides the other language's .l-fr / .l-en elements. */
 :root { --blue: #0b3d91; --red: #c8102e; --black: #000; --white: #fff; }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
@@ -8,7 +9,7 @@ body {
   font-family: "Times New Roman", Times, serif; font-size: 21px; line-height: 1.6;
 }
 .wrap { max-width: 760px; margin: 0 auto; padding: 0 20px; }
-h1, h2, h3, h4, .site-title, .site-tagline, .site-nav, .post-meta, .tags, .lang, .post-nav, .site-footer, .day-meta {
+h1, h2, h3, h4, .site-title, .site-tagline, .site-nav, .post-meta, .tags, .lang-toggle, .post-nav, .site-footer, .day-meta {
   font-family: Arial, Helvetica, sans-serif; color: var(--black);
 }
 h1 { font-size: 34px; line-height: 1.25; margin: 32px 0 8px; }
@@ -19,6 +20,19 @@ a { color: var(--black); text-decoration: underline; text-decoration-color: var(
 a:hover, a:focus { text-decoration-color: var(--red); }
 h3 a { text-decoration-color: var(--blue); }
 
+/* Language toggle (EN default; without JS the html element keeps class lang-en) */
+html.lang-en .l-fr, html.lang-fr .l-en { display: none !important; }
+
+.header-row { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+.lang-toggle { display: flex; align-items: center; gap: 4px; flex-shrink: 0; margin-top: 4px; }
+.lang-toggle .sep { color: var(--blue); font-size: 18px; font-weight: bold; }
+.lang-toggle button {
+  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; line-height: 1;
+  color: var(--blue); background: var(--white); border: 2px solid var(--blue); border-radius: 3px;
+  padding: 6px 10px; cursor: pointer;
+}
+.lang-toggle button:hover, .lang-toggle button:focus-visible { border-color: var(--red); outline: none; }
+.lang-toggle button[aria-pressed="true"] { color: var(--white); background: var(--red); border-color: var(--red); }
 .site-header { border-top: 8px solid var(--blue); border-bottom: 4px solid var(--red); padding: 18px 0 14px; }
 .site-title { font-size: 30px; font-weight: bold; margin: 0; }
 .site-title a { text-decoration: none; color: var(--black); }
@@ -37,8 +51,6 @@ h3 a { text-decoration-color: var(--blue); }
 
 .story { padding: 4px 0 10px; border-bottom: 1px solid var(--blue); }
 .story:last-child { border-bottom: none; }
-.lang { display: inline-block; min-width: 2.4em; font-size: 15px; font-weight: bold; color: var(--white); background: var(--red); text-align: center; border-radius: 3px; padding: 0 5px; margin-right: 6px; vertical-align: 2px; }
-.summary[lang="en"] .lang { background: var(--blue); }
 
 .day { margin: 0 0 30px; padding-bottom: 20px; border-bottom: 3px solid var(--blue); }
 .day h2 { border-bottom: none; margin-top: 28px; }

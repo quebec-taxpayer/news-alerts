@@ -1,21 +1,20 @@
 ---
 layout: default
 ---
-<h1>Veille quotidienne / Daily digest</h1>
-<p><span lang="fr">Les nouvelles du jour sur la gouvernance au Québec, résumées en français et en anglais, avec un lien vers chaque source.</span><br>
-<span lang="en">Today’s Quebec governance news, summarized in French and English, with a link to every source.</span></p>
+<h1><span class="l-en" lang="en">Daily digest</span><span class="l-fr" lang="fr">Veille quotidienne</span></h1>
+<p class="l-en" lang="en">Today’s Quebec governance news, summarized in English and French, with a link to every source.</p>
+<p class="l-fr" lang="fr">Les nouvelles du jour sur la gouvernance au Québec, résumées en français et en anglais, avec un lien vers chaque source.</p>
 
 {% for post in site.posts %}
-  {% assign m = post.date | date: "%-m" | minus: 1 %}
   <section class="day">
-    {% if forloop.first %}<span class="latest-label">Le plus récent / Latest</span>{% endif %}
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p class="day-meta">{{ post.date | date: "%-d" }} {{ site.fr_months[m] }} {{ post.date | date: "%Y" }} / {{ post.date | date: "%B %-d, %Y" }} · {{ post.story_count }} nouvelles / stories</p>
-    <p class="post-summary">{{ post.summary }}</p>
+    {% if forloop.first %}<span class="latest-label"><span class="l-en" lang="en">Latest</span><span class="l-fr" lang="fr">Le plus récent</span></span>{% endif %}
+    <h2><a href="{{ post.url | relative_url }}">{% include ptitle.html p=post %}</a></h2>
+    <p class="day-meta">{% include date.html date=post.date %} · {% include count.html n=post.story_count %}</p>
+    <p class="post-summary"><span class="l-en" lang="en">{{ post.summary }}</span><span class="l-fr" lang="fr">{{ post.summary_fr | default: post.summary }}</span></p>
     {% if forloop.first %}
       {{ post.content }}
     {% else %}
-      <p><a href="{{ post.url | relative_url }}">Lire le digest / Read the digest →</a></p>
+      <p><a href="{{ post.url | relative_url }}"><span class="l-en" lang="en">Read the digest →</span><span class="l-fr" lang="fr">Lire le digest →</span></a></p>
     {% endif %}
   </section>
 {% endfor %}
