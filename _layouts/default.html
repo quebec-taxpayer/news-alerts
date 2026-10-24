@@ -8,6 +8,7 @@
   {%- capture t_fr -%}{% if page.title %}{{ page.title_fr | default: page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
   <title data-en="{{ t_en | escape }}" data-fr="{{ t_fr | escape }}">{{ t_en }}</title>
   <meta name="description" content="{{ page.summary | default: site.description | strip_html | escape }}">
+  <link rel="icon" href="data:,">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body>

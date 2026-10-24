@@ -1,0 +1,53 @@
+---
+layout: page
+title: "Network"
+title_fr: "Réseau"
+permalink: /network/
+summary: "Bubble map of the people and organizations named in the stories we have published."
+---
+<div class="net-disclaimer" role="note">
+  <p class="l-en" lang="en"><strong>A link means two names were mentioned in the same news story. It does not imply any relationship, wrongdoing or involvement.</strong></p>
+  <p class="l-fr" lang="fr"><strong>Un lien signifie que deux noms ont été mentionnés dans le même article. Il n’implique aucune relation, faute ou implication.</strong></p>
+</div>
+<p class="l-en" lang="en">People and organizations named in the stories published on this site. Bubble size = number of stories naming the entity. Click or tap a bubble to see its stories and the names it appears with; click a connected name or a line to see the stories where both appear together.</p>
+<p class="l-fr" lang="fr">Les personnes et organisations nommées dans les nouvelles publiées sur ce site. Taille de la bulle = nombre d’articles qui nomment l’entité. Cliquez ou touchez une bulle pour voir ses articles et les noms qui apparaissent avec elle; cliquez sur un nom lié ou sur une ligne pour voir les articles où les deux apparaissent ensemble.</p>
+
+<div class="net-tools">
+  <div class="net-search">
+    <label for="net-q"><span class="l-en" lang="en">Search a name</span><span class="l-fr" lang="fr">Chercher un nom</span></label>
+    <input id="net-q" type="search" autocomplete="off" spellcheck="false" aria-controls="net-results" aria-describedby="net-q-help">
+    <span id="net-q-help" class="net-sr"><span class="l-en" lang="en">Type at least 2 letters, then pick a result.</span><span class="l-fr" lang="fr">Tapez au moins 2 lettres, puis choisissez un résultat.</span></span>
+    <ul id="net-results" class="net-results" hidden></ul>
+  </div>
+  <div class="net-zoom" role="group" aria-label="Zoom">
+    <button type="button" data-zoom="in" aria-label="Zoom in / Zoom avant">+</button>
+    <button type="button" data-zoom="out" aria-label="Zoom out / Zoom arrière">−</button>
+    <button type="button" data-zoom="reset"><span class="l-en" lang="en">Reset</span><span class="l-fr" lang="fr">Réinitialiser</span></button>
+  </div>
+</div>
+<ul class="net-legend">
+  <li><span class="net-dot org" aria-hidden="true"></span><span class="l-en" lang="en">Organization</span><span class="l-fr" lang="fr">Organisation</span></li>
+  <li><span class="net-dot per" aria-hidden="true"></span><span class="l-en" lang="en">Person</span><span class="l-fr" lang="fr">Personne</span></li>
+  <li><span class="l-en" lang="en">Bigger bubble = more stories</span><span class="l-fr" lang="fr">Bulle plus grosse = plus d’articles</span></li>
+</ul>
+<div id="net-map" class="net-map" data-src="{{ '/assets/data/network.json' | relative_url }}" data-base="{{ '/' | relative_url }}">
+  <noscript><p><span class="l-en" lang="en">The map needs JavaScript.</span><span class="l-fr" lang="fr">La carte nécessite JavaScript.</span></p></noscript>
+</div>
+<p id="net-stats" class="net-stats"></p>
+
+<details class="net-all">
+  <summary><span class="l-en" lang="en">All names (list)</span><span class="l-fr" lang="fr">Tous les noms (liste)</span></summary>
+  <ul id="net-list" class="net-list"></ul>
+</details>
+
+<aside id="net-panel" class="net-panel" role="dialog" aria-modal="false" aria-labelledby="net-panel-title" hidden>
+  <div class="net-panel-bar">
+    <button type="button" id="net-back" class="net-btn" hidden><span aria-hidden="true">← </span><span class="l-en" lang="en">Back</span><span class="l-fr" lang="fr">Retour</span></button>
+    <div class="lang-toggle net-panel-lang" role="group" aria-label="Language / Langue"><button type="button" data-set-lang="en" aria-pressed="true" lang="en">EN</button><span class="sep" aria-hidden="true">|</span><button type="button" data-set-lang="fr" aria-pressed="false" lang="fr">FR</button></div>
+    <button type="button" id="net-close" class="net-btn net-close"><span aria-hidden="true">✕ </span><span class="l-en" lang="en">Close</span><span class="l-fr" lang="fr">Fermer</span></button>
+  </div>
+  <div id="net-panel-body"></div>
+</aside>
+
+<script src="{{ '/assets/js/d3.v7.min.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/network.js' | relative_url }}"></script>

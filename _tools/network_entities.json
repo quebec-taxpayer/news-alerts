@@ -1,0 +1,1317 @@
+{
+ "_comment": "Curated people/organizations per story for _tools/network.py. Only names that appear in the article (or its headline/summary). 'match' is a unique fragment of the story URL. 'checked' = article text was read by hand (site blocks scripted fetch).",
+ "entities": {
+  "pspp": {
+   "name": "Paul St-Pierre Plamondon",
+   "type": "person",
+   "aliases": [
+    "PSPP",
+    "St-Pierre Plamondon"
+   ]
+  },
+  "bertin-castonguay": {
+   "name": "Bertin Castonguay",
+   "type": "person",
+   "aliases": [
+    "Castonguay"
+   ]
+  },
+  "claude-roy": {
+   "name": "Claude Roy",
+   "type": "person",
+   "aliases": []
+  },
+  "marc-bedard": {
+   "name": "Marc Bédard",
+   "type": "person",
+   "aliases": []
+  },
+  "marie-karlynn-laflamme": {
+   "name": "Marie-Karlynn Laflamme",
+   "type": "person",
+   "aliases": [
+    "Laflamme"
+   ]
+  },
+  "joel-arseneau": {
+   "name": "Joël Arseneau",
+   "type": "person",
+   "aliases": [
+    "Arseneau"
+   ]
+  },
+  "alain-therrien": {
+   "name": "Alain Therrien",
+   "type": "person",
+   "aliases": [
+    "Therrien"
+   ]
+  },
+  "nicolas-marceau": {
+   "name": "Nicolas Marceau",
+   "type": "person",
+   "aliases": [
+    "Marceau"
+   ]
+  },
+  "genevieve-biron": {
+   "name": "Geneviève Biron",
+   "type": "person",
+   "aliases": []
+  },
+  "christian-dube": {
+   "name": "Christian Dubé",
+   "type": "person",
+   "aliases": []
+  },
+  "lawrence-david": {
+   "name": "Lawrence David",
+   "type": "person",
+   "aliases": [
+    "Me Lawrence David"
+   ]
+  },
+  "ian-demers": {
+   "name": "Ian Demers",
+   "type": "person",
+   "aliases": []
+  },
+  "manon-jeannotte": {
+   "name": "Manon Jeannotte",
+   "type": "person",
+   "aliases": [
+    "Manon Jeanotte"
+   ]
+  },
+  "charles-iii": {
+   "name": "Charles III",
+   "type": "person",
+   "aliases": [
+    "roi Charles III",
+    "King Charles III"
+   ]
+  },
+  "adriana-szalontai": {
+   "name": "Adriana Szalontai",
+   "type": "person",
+   "aliases": [
+    "Szalontai"
+   ]
+  },
+  "rene-branchaud": {
+   "name": "René Branchaud",
+   "type": "person",
+   "aliases": [
+    "Branchaud"
+   ]
+  },
+  "eric-martel": {
+   "name": "Éric Martel",
+   "type": "person",
+   "aliases": []
+  },
+  "claudine-bouchard": {
+   "name": "Claudine Bouchard",
+   "type": "person",
+   "aliases": []
+  },
+  "jean-francois-routhier": {
+   "name": "Jean-François Routhier",
+   "type": "person",
+   "aliases": []
+  },
+  "julie-blackburn": {
+   "name": "Julie Blackburn",
+   "type": "person",
+   "aliases": []
+  },
+  "nicolas-paradis": {
+   "name": "Nicolas Paradis",
+   "type": "person",
+   "aliases": []
+  },
+  "catherine-gentilcore": {
+   "name": "Catherine Gentilcore",
+   "type": "person",
+   "aliases": [
+    "Gentilcore"
+   ]
+  },
+  "nicolas-girard": {
+   "name": "Nicolas Girard",
+   "type": "person",
+   "aliases": []
+  },
+  "elsie-lefebvre": {
+   "name": "Elsie Lefebvre",
+   "type": "person",
+   "aliases": []
+  },
+  "sebastien-dastous": {
+   "name": "Sébastien D’Astous",
+   "type": "person",
+   "aliases": [
+    "Sébastien D'Astous"
+   ]
+  },
+  "soraya-martinez-ferrada": {
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": []
+  },
+  "stephane-paquet": {
+   "name": "Stéphane Paquet",
+   "type": "person",
+   "aliases": []
+  },
+  "kokou-nouwozan-langueh": {
+   "name": "Kokou Nouwozan Langueh",
+   "type": "person",
+   "aliases": []
+  },
+  "degna-jean-marcel-sian": {
+   "name": "Degna Jean Marcel Sian",
+   "type": "person",
+   "aliases": []
+  },
+  "stephan-fogaing": {
+   "name": "Stephan Fogaing",
+   "type": "person",
+   "aliases": []
+  },
+  "affine-lwalalika": {
+   "name": "Affine Lwalalika",
+   "type": "person",
+   "aliases": []
+  },
+  "rafael-primeau-ferraro": {
+   "name": "Rafael Primeau-Ferraro",
+   "type": "person",
+   "aliases": []
+  },
+  "genevieve-cantin": {
+   "name": "Geneviève Cantin",
+   "type": "person",
+   "aliases": []
+  },
+  "samantha-mckinley": {
+   "name": "Samantha McKinley",
+   "type": "person",
+   "aliases": []
+  },
+  "julie-white": {
+   "name": "Julie White",
+   "type": "person",
+   "aliases": []
+  },
+  "etienne-grandmont": {
+   "name": "Étienne Grandmont",
+   "type": "person",
+   "aliases": []
+  },
+  "jeremy-easterbrook": {
+   "name": "Jeremy Easterbrook",
+   "type": "person",
+   "aliases": []
+  },
+  "martin-lachance": {
+   "name": "Martin Lachance",
+   "type": "person",
+   "aliases": []
+  },
+  "simon-mathieu-malenfant": {
+   "name": "Simon-Mathieu Malenfant",
+   "type": "person",
+   "aliases": []
+  },
+  "isabelle-dufour": {
+   "name": "Isabelle Dufour",
+   "type": "person",
+   "aliases": []
+  },
+  "marie-josee-tremblay": {
+   "name": "Marie-Josée Tremblay",
+   "type": "person",
+   "aliases": []
+  },
+  "steeve-poulin": {
+   "name": "Steeve Poulin",
+   "type": "person",
+   "aliases": []
+  },
+  "eric-duhaime": {
+   "name": "Éric Duhaime",
+   "type": "person",
+   "aliases": []
+  },
+  "marie-claude-sarrazin": {
+   "name": "Marie-Claude Sarrazin",
+   "type": "person",
+   "aliases": [
+    "Sarrazin"
+   ]
+  },
+  "jean-charles-boily": {
+   "name": "Jean-Charles Boily",
+   "type": "person",
+   "aliases": []
+  },
+  "sylvain-beaudry": {
+   "name": "Sylvain Beaudry",
+   "type": "person",
+   "aliases": []
+  },
+  "francois-chapdelaine": {
+   "name": "François Chapdelaine",
+   "type": "person",
+   "aliases": []
+  },
+  "louis-levesque": {
+   "name": "Louis Lévesque",
+   "type": "person",
+   "aliases": []
+  },
+  "charles-milliard": {
+   "name": "Charles Milliard",
+   "type": "person",
+   "aliases": []
+  },
+  "monsef-derraji": {
+   "name": "Monsef Derraji",
+   "type": "person",
+   "aliases": []
+  },
+  "edith-filion": {
+   "name": "Édith Filion",
+   "type": "person",
+   "aliases": []
+  },
+  "jean-francois-lefort": {
+   "name": "Jean-François Lefort",
+   "type": "person",
+   "aliases": []
+  },
+  "david-rousseau": {
+   "name": "David Rousseau",
+   "type": "person",
+   "aliases": []
+  },
+  "bruno-pierre-godbout": {
+   "name": "Bruno-Pierre Godbout",
+   "type": "person",
+   "aliases": []
+  },
+  "alain-cianchini": {
+   "name": "Alain Cianchini",
+   "type": "person",
+   "aliases": []
+  },
+  "thomas-birch": {
+   "name": "Thomas Birch",
+   "type": "person",
+   "aliases": []
+  },
+  "benoit-raillard": {
+   "name": "Benoit Raillard",
+   "type": "person",
+   "aliases": []
+  },
+  "louis-bourcier": {
+   "name": "Louis Bourcier",
+   "type": "person",
+   "aliases": []
+  },
+  "frederic-alberro": {
+   "name": "Frédéric Alberro",
+   "type": "person",
+   "aliases": []
+  },
+  "natalie-bisaillon": {
+   "name": "Natalie Bisaillon",
+   "type": "person",
+   "aliases": []
+  },
+  "melanie-joly": {
+   "name": "Mélanie Joly",
+   "type": "person",
+   "aliases": []
+  },
+  "jean-simard": {
+   "name": "Jean Simard",
+   "type": "person",
+   "aliases": []
+  },
+  "sebastien-ross": {
+   "name": "Sébastien Ross",
+   "type": "person",
+   "aliases": []
+  },
+  "hugues-mousseau": {
+   "name": "Hugues Mousseau",
+   "type": "person",
+   "aliases": []
+  },
+  "jacques-allard": {
+   "name": "Jacques Allard",
+   "type": "person",
+   "aliases": []
+  },
+  "anne-nguyen": {
+   "name": "Anne Nguyen",
+   "type": "person",
+   "aliases": []
+  },
+  "jeremy-levi": {
+   "name": "Jeremy Levi",
+   "type": "person",
+   "aliases": []
+  },
+  "pq": {
+   "name": "Parti Québécois",
+   "type": "organization",
+   "aliases": [
+    "PQ",
+    "Parti québécois",
+    "péquiste"
+   ]
+  },
+  "caq": {
+   "name": "Coalition Avenir Québec",
+   "type": "organization",
+   "aliases": [
+    "CAQ",
+    "caquiste"
+   ]
+  },
+  "plq": {
+   "name": "Parti libéral du Québec",
+   "type": "organization",
+   "aliases": [
+    "PLQ",
+    "Quebec Liberal Party",
+    "libéraux"
+   ]
+  },
+  "pcq": {
+   "name": "Parti conservateur du Québec",
+   "type": "organization",
+   "aliases": [
+    "PCQ",
+    "Conservative Party",
+    "conservateurs",
+    "conservatrice"
+   ]
+  },
+  "qs": {
+   "name": "Québec solidaire",
+   "type": "organization",
+   "aliases": [
+    "solidaires"
+   ]
+  },
+  "lion": {
+   "name": "Lion Électrique",
+   "type": "organization",
+   "aliases": [
+    "Lion Electric",
+    "Lion"
+   ]
+  },
+  "grc": {
+   "name": "Gendarmerie royale du Canada",
+   "type": "organization",
+   "aliases": [
+    "GRC",
+    "RCMP",
+    "Royal Canadian Mounted Police",
+    "Integrated Market Enforcement Team"
+   ]
+  },
+  "amf": {
+   "name": "Autorité des marchés financiers",
+   "type": "organization",
+   "aliases": [
+    "AMF"
+   ]
+  },
+  "conseil-tresor": {
+   "name": "Conseil du trésor",
+   "type": "organization",
+   "aliases": [
+    "Treasury Board"
+   ]
+  },
+  "sante-quebec": {
+   "name": "Santé Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "msss": {
+   "name": "Ministère de la Santé et des Services sociaux",
+   "type": "organization",
+   "aliases": [
+    "ministère de la Santé",
+    "MSSS"
+   ]
+  },
+  "cour-superieure": {
+   "name": "Cour supérieure du Québec",
+   "type": "organization",
+   "aliases": [
+    "Cour supérieure",
+    "Superior Court"
+   ]
+  },
+  "cour-du-quebec": {
+   "name": "Cour du Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "elections-quebec": {
+   "name": "Élections Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "hydro-quebec": {
+   "name": "Hydro-Québec",
+   "type": "organization",
+   "aliases": [
+    "HQ"
+   ]
+  },
+  "regie-energie": {
+   "name": "Régie de l’énergie",
+   "type": "organization",
+   "aliases": [
+    "Régie de l'énergie",
+    "Régie"
+   ]
+  },
+  "keel": {
+   "name": "Keel Infrastructure",
+   "type": "organization",
+   "aliases": []
+  },
+  "tes-canada": {
+   "name": "TES Canada",
+   "type": "organization",
+   "aliases": []
+  },
+  "charbone": {
+   "name": "Charbone",
+   "type": "organization",
+   "aliases": []
+  },
+  "hydrolux": {
+   "name": "Hydrolux",
+   "type": "organization",
+   "aliases": []
+  },
+  "commissaire-lobbyisme": {
+   "name": "Commissaire au lobbyisme du Québec",
+   "type": "organization",
+   "aliases": [
+    "Commissaire au lobbyisme",
+    "Lobbyisme Québec",
+    "Lobbying Commissioner"
+   ]
+  },
+  "ville-montreal": {
+   "name": "Ville de Montréal",
+   "type": "organization",
+   "aliases": []
+  },
+  "tmf": {
+   "name": "Tribunal administratif des marchés financiers",
+   "type": "organization",
+   "aliases": [
+    "TMF"
+   ]
+  },
+  "magasin-bryan": {
+   "name": "Magasin Bryan inc.",
+   "type": "organization",
+   "aliases": [
+    "Bryan Store"
+   ]
+  },
+  "saq": {
+   "name": "Société des alcools du Québec",
+   "type": "organization",
+   "aliases": [
+    "SAQ"
+   ]
+  },
+  "stm": {
+   "name": "Société de transport de Montréal",
+   "type": "organization",
+   "aliases": [
+    "STM"
+   ]
+  },
+  "saaq": {
+   "name": "Société de l’assurance automobile du Québec",
+   "type": "organization",
+   "aliases": [
+    "SAAQ"
+   ]
+  },
+  "aitq": {
+   "name": "Alliance de l’industrie touristique du Québec",
+   "type": "organization",
+   "aliases": [
+    "Alliance de l'industrie touristique du Québec",
+    "Alliance touristique du Québec"
+   ]
+  },
+  "destination-quebec": {
+   "name": "Destination Québec cité",
+   "type": "organization",
+   "aliases": []
+  },
+  "index": {
+   "name": "Index (agence numérique)",
+   "type": "organization",
+   "aliases": [
+    "Index"
+   ]
+  },
+  "microsoft": {
+   "name": "Microsoft",
+   "type": "organization",
+   "aliases": []
+  },
+  "oracle": {
+   "name": "Oracle",
+   "type": "organization",
+   "aliases": []
+  },
+  "epic": {
+   "name": "Epic",
+   "type": "organization",
+   "aliases": []
+  },
+  "lgs": {
+   "name": "LGS (filiale d’IBM)",
+   "type": "organization",
+   "aliases": [
+    "LGS"
+   ]
+  },
+  "ibm": {
+   "name": "IBM",
+   "type": "organization",
+   "aliases": []
+  },
+  "lenovo": {
+   "name": "Lenovo",
+   "type": "organization",
+   "aliases": []
+  },
+  "cossette": {
+   "name": "Cossette",
+   "type": "organization",
+   "aliases": []
+  },
+  "fiberstore": {
+   "name": "Fiberstore",
+   "type": "organization",
+   "aliases": []
+  },
+  "tat": {
+   "name": "Tribunal administratif du travail",
+   "type": "organization",
+   "aliases": []
+  },
+  "enipso": {
+   "name": "ENIPSO",
+   "type": "organization",
+   "aliases": []
+  },
+  "semb-saq": {
+   "name": "Syndicat des employé(e)s de magasins et de bureaux de la SAQ",
+   "type": "organization",
+   "aliases": [
+    "SEMB-SAQ"
+   ]
+  },
+  "feesp": {
+   "name": "Fédération des employées et employés de services publics",
+   "type": "organization",
+   "aliases": [
+    "FEESP"
+   ]
+  },
+  "commission-gallant": {
+   "name": "Commission Gallant",
+   "type": "organization",
+   "aliases": [
+    "commission Gallant"
+   ]
+  },
+  "accueil-bonneau": {
+   "name": "Accueil Bonneau",
+   "type": "organization",
+   "aliases": []
+  },
+  "mtmd": {
+   "name": "Ministère des Transports et de la Mobilité durable",
+   "type": "organization",
+   "aliases": [
+    "MTMD",
+    "MTQ",
+    "ministère des Transports"
+   ]
+  },
+  "consignaction": {
+   "name": "Consignaction",
+   "type": "organization",
+   "aliases": [
+    "AQRCB",
+    "Association québécoise des récupérateurs de contenants de boissons"
+   ]
+  },
+  "gve": {
+   "name": "Groupe Vision Environnement",
+   "type": "organization",
+   "aliases": []
+  },
+  "stq": {
+   "name": "Société des traversiers du Québec",
+   "type": "organization",
+   "aliases": [
+    "STQ"
+   ]
+  },
+  "ville-chandler": {
+   "name": "Ville de Chandler",
+   "type": "organization",
+   "aliases": []
+  },
+  "clcc": {
+   "name": "Commissaire à la lutte contre la corruption",
+   "type": "organization",
+   "aliases": [
+    "CLCC"
+   ]
+  },
+  "fnz": {
+   "name": "FNZ",
+   "type": "organization",
+   "aliases": []
+  },
+  "la-caisse": {
+   "name": "La Caisse (Caisse de dépôt et placement du Québec)",
+   "type": "organization",
+   "aliases": [
+    "La Caisse",
+    "CDPQ"
+   ]
+  },
+  "gouv-canada": {
+   "name": "Gouvernement du Canada",
+   "type": "organization",
+   "aliases": [
+    "Ottawa"
+   ]
+  },
+  "rio-tinto": {
+   "name": "Rio Tinto",
+   "type": "organization",
+   "aliases": []
+  },
+  "alouette": {
+   "name": "Aluminerie Alouette",
+   "type": "organization",
+   "aliases": [
+    "Alouette"
+   ]
+  },
+  "aac": {
+   "name": "Association de l’aluminium du Canada",
+   "type": "organization",
+   "aliases": [
+    "Association de l'aluminium du Canada"
+   ]
+  },
+  "aqpp": {
+   "name": "Association québécoise des pharmaciens propriétaires",
+   "type": "organization",
+   "aliases": [
+    "AQPP"
+   ]
+  },
+  "aqdp": {
+   "name": "Association québécoise des distributeurs en pharmacie",
+   "type": "organization",
+   "aliases": [
+    "AQDP"
+   ]
+  },
+  "mpo": {
+   "name": "Pêches et Océans Canada",
+   "type": "organization",
+   "aliases": [
+    "Fisheries and Oceans Canada"
+   ]
+  },
+  "ocpaq": {
+   "name": "Ordre des comptables professionnels agréés du Québec",
+   "type": "organization",
+   "aliases": [
+    "Ordre des CPA",
+    "OCPAQ",
+    "Quebec order of professional accountants",
+    "accountants' order"
+   ]
+  },
+  "innergex": {
+   "name": "Innergex",
+   "type": "organization",
+   "aliases": []
+  },
+  "mrc-coaticook": {
+   "name": "MRC de Coaticook",
+   "type": "organization",
+   "aliases": []
+  },
+  "bape": {
+   "name": "Bureau d’audiences publiques sur l’environnement",
+   "type": "organization",
+   "aliases": [
+    "BAPE"
+   ]
+  },
+  "energir": {
+   "name": "Énergir",
+   "type": "organization",
+   "aliases": []
+  }
+ },
+ "stories": [
+  {
+   "match": "lion-electrique-dans-la-ligne-de-mire-de-la-grc",
+   "entities": [
+    "lion",
+    "grc",
+    "amf",
+    "marc-bedard",
+    "bertin-castonguay",
+    "claude-roy"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "un-autre-gros-actionnaire-aurait-vendu",
+   "entities": [
+    "lion",
+    "amf",
+    "bertin-castonguay",
+    "claude-roy"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "une-amende-salee-pour-un-ex-investisseur",
+   "entities": [
+    "lion",
+    "claude-roy",
+    "marc-bedard"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "conseil-ministres-paul-plamondon-pq",
+   "entities": [
+    "pspp",
+    "pq",
+    "marie-karlynn-laflamme",
+    "joel-arseneau",
+    "alain-therrien",
+    "nicolas-marceau",
+    "sante-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "quebec-prepare-labolition-de-sante-quebec",
+   "entities": [
+    "sante-quebec",
+    "pspp",
+    "pq",
+    "caq",
+    "msss",
+    "genevieve-biron",
+    "christian-dube"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "la-cause-d-un-avocat-entendue-a-la-cour-superieure",
+   "entities": [
+    "lawrence-david",
+    "cour-superieure",
+    "ian-demers",
+    "pspp",
+    "charles-iii",
+    "manon-jeannotte"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "judicial-recount-champlain",
+   "entities": [
+    "adriana-szalontai",
+    "rene-branchaud",
+    "pq",
+    "pcq",
+    "elections-quebec",
+    "eric-martel"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "centres-donnees-tarif-electricite-hydro-quebec",
+   "entities": [
+    "hydro-quebec",
+    "regie-energie",
+    "claudine-bouchard",
+    "keel"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "ou-en-est-la-filiere-hydrogene",
+   "entities": [
+    "tes-canada",
+    "charbone",
+    "hydrolux"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "commissaire-lobbyisme-quebec-bar-ouvert",
+   "entities": [
+    "commissaire-lobbyisme",
+    "jean-francois-routhier"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "nominations-du-conseil-des-ministres",
+   "entities": [
+    "julie-blackburn",
+    "nicolas-paradis",
+    "conseil-tresor"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "un-defi-colossal-pour-lequipe-reduite",
+   "entities": [
+    "pspp",
+    "pq",
+    "catherine-gentilcore",
+    "nicolas-girard",
+    "elsie-lefebvre",
+    "sebastien-dastous",
+    "nicolas-marceau",
+    "alain-therrien",
+    "marie-karlynn-laflamme",
+    "sante-quebec"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "conseil-ministre-grand-montreal-itinerance",
+   "entities": [
+    "soraya-martinez-ferrada",
+    "ville-montreal",
+    "stephane-paquet",
+    "pspp"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "absente-de-lassermentation-des-ministres",
+   "entities": [
+    "manon-jeannotte",
+    "pspp",
+    "charles-iii",
+    "pq"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "kokou-nouwozan-langueh",
+   "entities": [
+    "tmf",
+    "amf",
+    "kokou-nouwozan-langueh",
+    "magasin-bryan",
+    "degna-jean-marcel-sian"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "panne-site-web-php",
+   "entities": [
+    "saq",
+    "stm",
+    "saaq",
+    "hydro-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "le-coup-de-grace-pour-le-mazout",
+   "entities": [
+    "hydro-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "police-search-saint-jerome-que-company-lion-electric",
+   "entities": [
+    "lion",
+    "grc"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "judicial-recount-vachon",
+   "entities": [
+    "pq",
+    "plq",
+    "elections-quebec",
+    "stephan-fogaing",
+    "affine-lwalalika"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "ministre-sante-marie-karlynn-laflamme-decentralisation",
+   "entities": [
+    "marie-karlynn-laflamme",
+    "sante-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "absence-ministere-tourisme-quebec",
+   "entities": [
+    "stephane-paquet",
+    "pspp",
+    "aitq",
+    "genevieve-cantin",
+    "destination-quebec",
+    "samantha-mckinley"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "nicolas-girard-pq-quebec-region",
+   "entities": [
+    "nicolas-girard",
+    "pq",
+    "pspp",
+    "plq",
+    "julie-white",
+    "qs",
+    "etienne-grandmont"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "contrats-publics-50-des-contrats-ti",
+   "entities": [
+    "jeremy-easterbrook",
+    "index",
+    "microsoft",
+    "oracle",
+    "epic",
+    "lgs",
+    "ibm",
+    "lenovo",
+    "cossette",
+    "fiberstore"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "hydro-quebec-les-employes-de-metier-en-greve",
+   "entities": [
+    "hydro-quebec",
+    "tat"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "vente-dalcool-aux-mineurs",
+   "entities": [
+    "saq",
+    "semb-saq",
+    "enipso",
+    "martin-lachance",
+    "feesp",
+    "simon-mathieu-malenfant",
+    "isabelle-dufour"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "marie-josee-tremblay-et-a-steeve-poulin",
+   "entities": [
+    "tmf",
+    "amf",
+    "marie-josee-tremblay",
+    "steeve-poulin"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "lion-electrique-toujours-au-neutre",
+   "entities": [
+    "lion",
+    "grc"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "pq-champlain-election-conservateur",
+   "entities": [
+    "pq",
+    "pcq",
+    "adriana-szalontai",
+    "rene-branchaud",
+    "eric-duhaime",
+    "cour-du-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "jaime-les-defis-dit-marie-claude-sarrazin",
+   "entities": [
+    "marie-claude-sarrazin",
+    "commission-gallant"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "itinerance-pspp-budget-urgence",
+   "entities": [
+    "pspp",
+    "accueil-bonneau",
+    "jean-charles-boily"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "rapport-accablant-pspp",
+   "entities": [
+    "pspp",
+    "pq",
+    "caq",
+    "mtmd",
+    "sylvain-beaudry",
+    "francois-chapdelaine",
+    "louis-levesque"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "parti-liberal-charles-milliard-cabinet-fantome",
+   "entities": [
+    "charles-milliard",
+    "plq",
+    "monsef-derraji",
+    "marie-karlynn-laflamme",
+    "sante-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "la-saq-a-avance-10-m-pour-consignaction",
+   "entities": [
+    "saq",
+    "consignaction",
+    "edith-filion",
+    "jean-francois-lefort",
+    "gve",
+    "david-rousseau"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "hydro-quebec-targeted-in-cyber-scare",
+   "entities": [
+    "hydro-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "vulnerabilite-critique-de-php",
+   "entities": [
+    "stq"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "bruno-pierre-godbout",
+   "entities": [
+    "bruno-pierre-godbout",
+    "ville-chandler",
+    "clcc"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "des-proches-de-la-caisse-appeles",
+   "entities": [
+    "fnz",
+    "la-caisse",
+    "alain-cianchini",
+    "thomas-birch",
+    "benoit-raillard"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "sante-quebec-ne-fait-plus-partie-des-cartons",
+   "entities": [
+    "marie-karlynn-laflamme",
+    "sante-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "les-liberaux-contestent-l-invalidite",
+   "entities": [
+    "plq",
+    "pq",
+    "rafael-primeau-ferraro",
+    "stephan-fogaing",
+    "affine-lwalalika",
+    "elections-quebec",
+    "cour-du-quebec"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "les-chefs-de-cabinet-commencent",
+   "entities": [
+    "pspp",
+    "marie-karlynn-laflamme",
+    "msss",
+    "stephane-paquet",
+    "alain-therrien",
+    "louis-bourcier",
+    "frederic-alberro"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "voici-ceux-qui-soccuperont-de-votre-portefeuille",
+   "entities": [
+    "pspp",
+    "nicolas-marceau",
+    "alain-therrien",
+    "stephane-paquet",
+    "sebastien-dastous",
+    "natalie-bisaillon",
+    "hydro-quebec"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "ottawa-prete-193-millions",
+   "entities": [
+    "gouv-canada",
+    "rio-tinto",
+    "alouette",
+    "melanie-joly",
+    "aac",
+    "jean-simard",
+    "sebastien-ross"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "duree-vie-infrastructure-pont-genie",
+   "entities": [
+    "mtmd"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "vaccination-quebec-campagne-insatisfaction",
+   "entities": [
+    "sante-quebec",
+    "aqpp",
+    "aqdp",
+    "hugues-mousseau"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "flooding-damages-major-road-in-lascension",
+   "entities": [
+    "jacques-allard",
+    "mpo"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "decouvrez-les-forces-les-parcours",
+   "entities": [
+    "pspp",
+    "anne-nguyen"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "des-projets-dinfrastructures-attendront",
+   "entities": [
+    "pspp",
+    "mtmd"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "serment-au-roi-un-avocat-veut-bloquer",
+   "entities": [
+    "lawrence-david",
+    "cour-superieure",
+    "pspp",
+    "charles-iii"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "hampstead-mayor-jeremy-levi",
+   "entities": [
+    "jeremy-levi",
+    "ocpaq"
+   ],
+   "checked_by_hand": false
+  },
+  {
+   "match": "vent-de-discorde-dans-la-mrc-de-coaticook",
+   "entities": [
+    "innergex",
+    "hydro-quebec",
+    "mrc-coaticook",
+    "bape"
+   ],
+   "checked_by_hand": true
+  },
+  {
+   "match": "fini-le-gaz-americain-chez-energir",
+   "entities": [
+    "energir",
+    "regie-energie"
+   ],
+   "checked_by_hand": true
+  }
+ ]
+}
