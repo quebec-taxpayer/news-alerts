@@ -64,6 +64,10 @@ def check(strict):
         seen.add(d["id"])
         for e in d.get("entities", []):
             if e not in eids: warns.append(f"{d['id']}: UNKNOWN entity {e}")
+        tl = d.get("tldr") or {}  # "In 30 seconds" box: what / why / now, each {en, fr}, from this dossier's sourced events only
+        for k in ("what", "why", "now"):
+            for lg in ("en", "fr"):
+                if not (tl.get(k) or {}).get(lg): warns.append(f"{d['id']}: tldr.{k}.{lg} missing (In 30 seconds box)")
         for ev in d["events"]:
             tag = f"{d['id']} {ev.get('date')}"
             for k in REQ_E:

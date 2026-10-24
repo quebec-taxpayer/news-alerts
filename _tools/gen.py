@@ -9,11 +9,17 @@ Source format per day file (SRC/YYYY-MM-DD.txt):
   🇫🇷 French summary
   🇬🇧 English summary
   https://url
+  💡🇫🇷 Pourquoi c’est important (optional; else taken from _data/why.json)
+  💡🇬🇧 Why it matters (optional; else taken from _data/why.json)
   — Quebec Governance Monitor           (signature)
+Per story the post also shows, when present: the "Why it matters" line (_data/why.json, keyed by story URL)
+and any "money in human terms" item whose story_url is that story (_data/money.json, run _tools/plain.py money).
 Each language is wrapped in class="l-fr" / class="l-en" so the site's EN|FR toggle shows one at a time.
 Headlines are language-neutral (shown as published in both modes).
 """
 import html, json, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import plain
 SRC = os.environ.get("DIGEST_SRC", "/workspace/governance-digest")
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "_posts")
 FR_MONTHS = ["janvier","février","mars","avril","mai","juin","juillet","août","septembre","octobre","novembre","décembre"]
@@ -52,6 +58,19 @@ def bi(tag, fr, en, cls=""):
     return (f'<{tag} class="l-fr{c}" lang="fr">{e(fr)}</{tag}>'
             f'<{tag} class="l-en{c}" lang="en">{e(en)}</{tag}>')
 
+def money_box(it, pop):
+    """'The money, in human terms' callout (same markup as _includes/money.html)."""
+    src = f'<a href="{e(it["source_url"])}">{e(it["source_outlet"])}</a>'
+    psrc = f'<a href="{e(pop["source_url"])}">ISQ</a>'
+    return ('<div class="callout money"><p class="callout-label">' + bi("span", "L’argent, en termes concrets", "The money, in human terms") + '</p>'
+            + bi("p", it["per_fr"], it["per_en"], "money-big")
+            + bi("p", it["label_fr"], it["label_en"], "money-label")
+            + bi("p", it["calc_fr"], it["calc_en"], "money-calc")
+            + (bi("p", it["note_fr"], it["note_en"], "money-note") if it.get("note_en") else "")
+            + f'<p class="l-fr money-src" lang="fr">Montant : {src}. Population : {psrc}, {e(pop["label_fr"])} (mise à jour {e(pop["source_updated"])}). Une façon de se représenter l’ordre de grandeur, pas une facture que chaque personne paie.</p>'
+            + f'<p class="l-en money-src" lang="en">Amount: {src}. Population: {psrc}, {e(pop["label_en"])} (updated {e(pop["source_updated"])}). A way to picture the size, not a bill each person pays.</p>'
+            + '</div>')
+
 def split_heading(name, day, notes):
     if name in HEADINGS:
         if " / " not in name: notes.append(f"{day}: heading '{name}' was English-only; FR '{HEADINGS[name][0]}' added (trivial translation)")
@@ -74,7 +93,9 @@ def parse(day, issues):
                 st = {"headline": strip_star(l), "fr": None, "en": None, "url": None}; i += 1
                 while i < len(lines) and not is_star(lines[i]) and not lines[i].strip().startswith("—"):
                     t = lines[i].strip()
-                    if t.startswith("🇫🇷"): st["fr"] = t.replace("🇫🇷", "", 1).strip()
+                    if t.startswith("💡🇫🇷"): st["why_fr"] = t.replace("💡🇫🇷", "", 1).strip()
+                    elif t.startswith("💡🇬🇧"): st["why_en"] = t.replace("💡🇬🇧", "", 1).strip()
+                    elif t.startswith("🇫🇷"): st["fr"] = t.replace("🇫🇷", "", 1).strip()
                     elif t.startswith("🇬🇧"): st["en"] = t.replace("🇬🇧", "", 1).strip()
                     elif t.startswith("http"): st["url"] = t
                     else: issues.append(f"{day}: unexpected line: {t}")
@@ -95,6 +116,9 @@ def build(day, issues, notes):
     title_fr = f"Digest du {d}{'er' if d == 1 else ''} {FR_MONTHS[m-1]} {y}"
     title_en = f"Daily digest – {EN_MONTHS[m-1]} {d}, {y}"
     n = sum(len(s["stories"]) for s in sections)
+    why = plain.load("why.json", {})
+    money = plain.load("money.json", {"items": [], "population": {}})
+    plain.compute(money) if money["items"] else None
     body = []
     for s in sections:
         if not s["stories"]: issues.append(f"{day}: empty section {s['name']}")
@@ -105,6 +129,13 @@ def build(day, issues, notes):
             body.append('<article class="story">')
             body.append(f'<h3><a href="{e(st["url"] or "")}">{e(st["headline"])}</a></h3>')
             body.append(bi("p", st["fr"] or "", st["en"] or "", "summary"))
+            w = why.get(st["url"] or "", {})
+            wfr, wen = st.get("why_fr") or w.get("fr"), st.get("why_en") or w.get("en")
+            if wfr and wen:
+                body.append('<div class="callout why"><p class="callout-label">' + bi("span", "Pourquoi c’est important", "Why it matters") + '</p>' + bi("p", wfr, wen) + '</div>')
+            else: notes.append(f"{day}: no Why-it-matters line for {st['url']} (add it to _data/why.json)")
+            for it in [x for x in money["items"] if x.get("story_url") == st["url"]]:
+                body.append(money_box(it, money["population"]))
             body.append('</article>')
         body.append('</section>')
     if any("{{" in t or "{%" in t for t in body): issues.append(f"{day}: Liquid-like text in content")

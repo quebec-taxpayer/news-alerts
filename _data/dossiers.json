@@ -92,7 +92,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "The SAAQ launched its new SAAQclic online system in 2023. The Auditor General found its cost rose by nearly $500M.",
+     "fr": "La SAAQ a lancé sa nouvelle plateforme SAAQclic en 2023. Le Vérificateur général a constaté que son coût a augmenté de près de 500 M$."
+    },
+    "why": {
+     "en": "Public money paid for a system that cost more than planned. Counter service also took longer than before, according to the Auditor General.",
+     "fr": "Des fonds publics ont payé un système plus cher que prévu. Le service au comptoir a aussi pris plus de temps qu’avant, selon le Vérificateur général."
+    },
+    "now": {
+     "en": "A public inquiry (the Gallant commission) published its report in Feb. 2026. A former commission lawyer is now Justice minister.",
+     "fr": "Une commission d’enquête (commission Gallant) a publié son rapport en février 2026. Une ex-avocate de la commission est maintenant ministre de la Justice."
+    }
+   }
   },
   {
    "id": "hydro-quebec",
@@ -185,7 +199,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "Hydro-Québec, the public utility, faces a data-centre rate proposal, an overtime strike and an online account shutdown.",
+     "fr": "Hydro-Québec, la société publique, fait face à un projet de tarif pour les centres de données, à une grève des heures supplémentaires et à la fermeture de l’Espace client."
+    },
+    "why": {
+     "en": "Hydro-Québec belongs to the public. Its rates, its workers and its online services affect almost every household.",
+     "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
+    },
+    "now": {
+     "en": "The Customer Space is expected back on Monday, Oct. 26. The overtime strike is set to end on Nov. 2.",
+     "fr": "L’Espace client devrait revenir le lundi 26 octobre. La grève des heures supplémentaires doit prendre fin le 2 novembre."
+    }
+   }
   },
   {
    "id": "saq",
@@ -232,7 +260,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "The SAQ closed its website over a computer flaw, faced a union study on ID checks and advanced $10M to Consignaction.",
+     "fr": "La SAQ a fermé son site à cause d’une faille informatique, fait face à une étude syndicale sur la vérification de l’âge et a avancé 10 M$ à Consignaction."
+    },
+    "why": {
+     "en": "The SAQ is owned by the government, so its decisions involve public money and public rules, such as not selling alcohol to minors.",
+     "fr": "La SAQ appartient au gouvernement : ses décisions touchent des fonds publics et des règles publiques, comme l’interdiction de vendre de l’alcool aux mineurs."
+    },
+    "now": {
+     "en": "The SAQ says it has not received the union study. It declined an interview about the $10M advance.",
+     "fr": "La SAQ dit ne pas avoir reçu l’étude syndicale. Elle a refusé une entrevue sur l’avance de 10 M$."
+    }
+   }
   },
   {
    "id": "it-procurement",
@@ -282,7 +324,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "Quebec spends billions on computer projects. Many contracts are given without a call for tenders.",
+     "fr": "Québec dépense des milliards en projets informatiques. Beaucoup de contrats sont accordés sans appel d’offres."
+    },
+    "why": {
+     "en": "Contracts without open competition are paid with public money. SAAQclic showed how costs can grow.",
+     "fr": "Les contrats sans concurrence ouverte sont payés avec des fonds publics. SAAQclic a montré comment les coûts peuvent grimper."
+    },
+    "now": {
+     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects.",
+     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État."
+    }
+   }
   },
   {
    "id": "mtq-infrastructure",
@@ -340,7 +396,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "Many of Quebec’s roads, bridges and public buildings need repairs. An expert report says the road repair backlog almost doubled.",
+     "fr": "Beaucoup de routes, de ponts et de bâtiments publics du Québec ont besoin de réparations. Un rapport d’experts dit que le retard d’entretien routier a presque doublé."
+    },
+    "why": {
+     "en": "Drivers and transit users rely on these roads and bridges, and repairs are paid for by taxpayers.",
+     "fr": "Les automobilistes et les usagers du transport en commun dépendent de ces routes et ponts, et les réparations sont payées par les contribuables."
+    },
+    "now": {
+     "en": "The premier says projects that are not essential will wait. The report recommends building no new roads.",
+     "fr": "Le premier ministre dit que les projets non essentiels attendront. Le rapport recommande de ne construire aucune nouvelle route."
+    }
+   }
   },
   {
    "id": "oath-king",
@@ -412,7 +482,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "Since 2022, MNAs do not have to swear an oath to the King. A lawyer is challenging that law in court.",
+     "fr": "Depuis 2022, les députés n’ont plus à prêter serment au roi. Un avocat conteste cette loi devant le tribunal."
+    },
+    "why": {
+     "en": "The case could affect when the National Assembly starts its work after the election.",
+     "fr": "La cause pourrait influer sur le moment où l’Assemblée nationale commence ses travaux après l’élection."
+    },
+    "now": {
+     "en": "The Superior Court heard the case. A ruling is expected by Nov. 24.",
+     "fr": "La Cour supérieure a entendu la cause. Une décision est attendue d’ici le 24 novembre."
+    }
+   }
   },
   {
    "id": "lion",
@@ -506,7 +590,21 @@
      "post": "2026-10-23",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "Electric-vehicle maker Lion sought creditor protection in 2024. Police and the AMF are now looking at possible fraud and insider trading.",
+     "fr": "Le fabricant de véhicules électriques Lion s’est placé sous la protection de ses créanciers en 2024. La police et l’AMF examinent une possible fraude et des délits d’initiés."
+    },
+    "why": {
+     "en": "Quebec lost more than $140M on Lion, according to La Presse. More than 100 investors complained to police, according to investigators.",
+     "fr": "Selon La Presse, Québec a perdu plus de 140 M$ dans Lion. Plus de 100 investisseurs se sont plaints à la police, selon les enquêteurs."
+    },
+    "now": {
+     "en": "The RCMP searched Lion’s headquarters. No one has been charged, and the allegations are unproven.",
+     "fr": "La GRC a perquisitionné le siège de Lion. Personne n’a été accusé, et les allégations ne sont pas prouvées."
+    }
+   }
   },
   {
    "id": "sante-quebec",
@@ -589,7 +687,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "Santé Québec was created by a 2023 law to run the public health network. The new government wants to abolish it.",
+     "fr": "Santé Québec a été créée par une loi de 2023 pour gérer le réseau public de santé. Le nouveau gouvernement veut l’abolir."
+    },
+    "why": {
+     "en": "Santé Québec employs the network’s staff, so any change affects how hospitals and clinics are run.",
+     "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
+    },
+    "now": {
+     "en": "The health minister promises a gradual abolition. No bill has been tabled yet.",
+     "fr": "La ministre de la Santé promet une abolition graduelle. Aucun projet de loi n’a encore été déposé."
+    }
+   }
   },
   {
    "id": "php-flaw",
@@ -660,7 +772,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "A flaw in PHP, a common web programming language, was made public on Oct. 21. Several public websites were shut as a precaution.",
+     "fr": "Une faille dans PHP, un langage de programmation web courant, a été rendue publique le 21 octobre. Plusieurs sites publics ont été fermés par précaution."
+    },
+    "why": {
+     "en": "People could not use some online public services, such as the SAQ, STM and SAAQ sites.",
+     "fr": "Des gens n’ont pas pu utiliser certains services publics en ligne, comme les sites de la SAQ, de la STM et de la SAAQ."
+    },
+    "now": {
+     "en": "The ferry corporation’s web apps are back. Hydro-Québec’s Customer Space is expected back on Oct. 26.",
+     "fr": "Les applications web de la Société des traversiers sont de retour. L’Espace client d’Hydro-Québec devrait revenir le 26 octobre."
+    }
+   }
   },
   {
    "id": "recounts-2026",
@@ -747,7 +873,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "After the Oct. 5 election, judges oversaw vote recounts in two close ridings: Vachon and Champlain.",
+     "fr": "Après l’élection du 5 octobre, des recomptages judiciaires ont eu lieu dans deux circonscriptions serrées : Vachon et Champlain."
+    },
+    "why": {
+     "en": "Recounts check that every vote was counted correctly. They decide who represents the riding.",
+     "fr": "Les recomptages vérifient que chaque vote a été bien compté. Ils décident qui représente la circonscription."
+    },
+    "now": {
+     "en": "The PQ won Vachon by three votes, and the Liberals have 30 days to contest. The PQ conceded Champlain.",
+     "fr": "Le PQ a remporté Vachon par trois voix, et les libéraux ont 30 jours pour contester. Le PQ a concédé Champlain."
+    }
+   }
   },
   {
    "id": "pq-transition",
@@ -857,7 +997,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "The new PQ government named a smaller cabinet of 22 members and new senior civil servants.",
+     "fr": "Le nouveau gouvernement péquiste a nommé un Conseil des ministres réduit de 22 membres et de nouveaux hauts fonctionnaires."
+    },
+    "why": {
+     "en": "These choices decide who runs public services. An analysis says $1.6B a year must be cut from the state payroll.",
+     "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
+    },
+    "now": {
+     "en": "Ministers’ mandates are public, including a review of business subsidies. Chiefs of staff are being named.",
+     "fr": "Les mandats des ministres sont publics, dont une révision des subventions aux entreprises. Les chefs de cabinet sont en cours de nomination."
+    }
+   }
   },
   {
    "id": "homelessness",
@@ -895,7 +1049,21 @@
      "post": "2026-10-24",
      "background": false
     }
-   ]
+   ],
+   "tldr": {
+    "what": {
+     "en": "The new government’s first move was emergency winter money for homelessness.",
+     "fr": "Le premier geste du nouveau gouvernement a été de l’aide d’urgence hivernale en itinérance."
+    },
+    "why": {
+     "en": "The money pays for shelter and help for people with no home during the cold months.",
+     "fr": "L’argent paie de l’hébergement et de l’aide aux personnes sans logis pendant les mois froids."
+    },
+    "now": {
+     "en": "Quebec added a one-time $28M on top of $18M already planned, for about 200 projects and over 1,000 emergency places.",
+     "fr": "Québec a ajouté 28 M$ ponctuels aux 18 M$ déjà prévus, pour environ 200 projets et plus de 1 000 places d’urgence."
+    }
+   }
   }
  ]
 }

@@ -24,6 +24,11 @@ JavaScript is off). The choice is remembered in the browser (localStorage key `q
    If a section heading isn't in `FR / EN` form, add it to `HEADINGS` as `("FR", "EN")`.
 3. Run `python3 _tools/gen.py YYYY-MM-DD`. It writes `_posts/YYYY-MM-DD-digest.md` and reports
    any story missing a field and any one-language heading.
+3b. **Plain-language upkeep (daily):** for every new story add a *Why it matters* line to `_data/why.json`
+   (`"<story url>": {"en": "…", "fr": "…"}`) — one factual sentence on the concrete effect on ordinary people,
+   taken only from that story; if the effect is unclear, write a neutral factual line instead. (Alternatively put
+   `💡🇫🇷 …` / `💡🇬🇧 …` lines under the story's URL in the .txt.) If a story gives a large public-money figure,
+   consider a *money in human terms* item (see below). Then rerun `gen.py` and `python3 _tools/plain.py --strict`.
 4. Commit and push to `main`. Home, archive and topics update automatically (about 1 minute).
 
 **Option B – by hand.** Copy an existing `_posts/…-digest.md`, update the front matter
@@ -82,6 +87,24 @@ Daily routine, after the digest and the network update:
    (`--type primary` for government, VGQ, court, company releases). If unsure, leave it out.
 4. `python3 _tools/chrono.py --strict` must exit 0 (validates fields, dates, entity ids, digest dates, sorts events,
    creates stubs, and fails if a tagged story has no event or a story has no `dossiers` field).
+
+## Plain-language features
+Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warning) before pushing.
+
+- **In 30 seconds / En 30 secondes** (top of every dossier page): `tldr` in `_data/dossiers.json`,
+  `{"what": {en, fr}, "why": {en, fr}, "now": {en, fr}}` — three plain sentences (grade-8 level), written only
+  from that dossier's sourced events. Update `now` when a dossier gets a new event. `chrono.py --strict` checks it.
+- **Why it matters / Pourquoi c'est important** (under each story): `_data/why.json`, keyed by story URL.
+  `plain.py` warns about any published story without one.
+- **The money, in human terms / L'argent, en termes concrets**: `_data/money.json`. Each item: `id`, `dossier`,
+  `story_url` (or null), `amount` (as stated by the source), `qualifier` (`exact|about|at_least|more_than|target`),
+  `per_year`, `label_en/fr`, `source_title`, `source_outlet`, `source_date`, `source_url`, optional `note_en/fr`.
+  Run `python3 _tools/plain.py money` to compute `per_person_*`, `calc_*` (shown as "$X ÷ N people = $Y each").
+  "at least"/"more than" are rounded down. Rules: only amounts quoted by a cited source; never add figures with
+  different scopes (e.g. the $44.8B all-infrastructure and the $22.5B road deficits); leave out private, federal,
+  litigation or multi-year cumulative totals that are not comparable with one year's population.
+  When ISQ publishes a new population estimate, update the `population` block (value, as_of, source_updated) and rerun.
+  Items show on their dossier page and under their story (rerun `gen.py` for posts).
 
 ## Local preview
 `bundle install && bundle exec jekyll serve` then open http://127.0.0.1:4000/news-alerts/
