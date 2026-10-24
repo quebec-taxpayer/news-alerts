@@ -49,5 +49,8 @@ summary: "Bubble map of the people and organizations named in the stories we hav
   <div id="net-panel-body"></div>
 </aside>
 
+{%- assign dl = "" | split: "" -%}
+{%- for d in site.data.dossiers.dossiers -%}{%- capture one -%}{"id":{{ d.id | jsonify }},"en":{{ d.name_en | jsonify }},"fr":{{ d.name_fr | jsonify }},"entities":{{ d.entities | jsonify }}}{%- endcapture -%}{%- assign dl = dl | push: one -%}{%- endfor %}
+<script type="application/json" id="net-dossiers">[{{ dl | join: "," }}]</script>
 <script src="{{ '/assets/js/d3.v7.min.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/network.js' | relative_url }}"></script>

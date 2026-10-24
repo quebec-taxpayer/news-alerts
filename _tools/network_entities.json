@@ -799,7 +799,10 @@
     "bertin-castonguay",
     "claude-roy"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "lion"
+   ]
   },
   {
    "match": "un-autre-gros-actionnaire-aurait-vendu",
@@ -809,7 +812,10 @@
     "bertin-castonguay",
     "claude-roy"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "lion"
+   ]
   },
   {
    "match": "une-amende-salee-pour-un-ex-investisseur",
@@ -818,7 +824,10 @@
     "claude-roy",
     "marc-bedard"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "lion"
+   ]
   },
   {
    "match": "conseil-ministres-paul-plamondon-pq",
@@ -831,7 +840,10 @@
     "nicolas-marceau",
     "sante-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
   },
   {
    "match": "quebec-prepare-labolition-de-sante-quebec",
@@ -844,7 +856,10 @@
     "genevieve-biron",
     "christian-dube"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "sante-quebec"
+   ]
   },
   {
    "match": "la-cause-d-un-avocat-entendue-a-la-cour-superieure",
@@ -856,7 +871,10 @@
     "charles-iii",
     "manon-jeannotte"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "oath-king"
+   ]
   },
   {
    "match": "judicial-recount-champlain",
@@ -868,7 +886,10 @@
     "elections-quebec",
     "eric-martel"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "recounts-2026"
+   ]
   },
   {
    "match": "centres-donnees-tarif-electricite-hydro-quebec",
@@ -878,7 +899,10 @@
     "claudine-bouchard",
     "keel"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec"
+   ]
   },
   {
    "match": "ou-en-est-la-filiere-hydrogene",
@@ -887,7 +911,8 @@
     "charbone",
     "hydrolux"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "commissaire-lobbyisme-quebec-bar-ouvert",
@@ -895,7 +920,8 @@
     "commissaire-lobbyisme",
     "jean-francois-routhier"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "nominations-du-conseil-des-ministres",
@@ -904,7 +930,10 @@
     "nicolas-paradis",
     "conseil-tresor"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
   },
   {
    "match": "un-defi-colossal-pour-lequipe-reduite",
@@ -920,7 +949,10 @@
     "marie-karlynn-laflamme",
     "sante-quebec"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
   },
   {
    "match": "conseil-ministre-grand-montreal-itinerance",
@@ -930,7 +962,10 @@
     "stephane-paquet",
     "pspp"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "homelessness"
+   ]
   },
   {
    "match": "absente-de-lassermentation-des-ministres",
@@ -940,7 +975,10 @@
     "charles-iii",
     "pq"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "oath-king"
+   ]
   },
   {
    "match": "kokou-nouwozan-langueh",
@@ -951,7 +989,8 @@
     "magasin-bryan",
     "degna-jean-marcel-sian"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": []
   },
   {
    "match": "panne-site-web-php",
@@ -961,14 +1000,19 @@
     "saaq",
     "hydro-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "saq",
+    "php-flaw"
+   ]
   },
   {
    "match": "le-coup-de-grace-pour-le-mazout",
    "entities": [
     "hydro-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "police-search-saint-jerome-que-company-lion-electric",
@@ -976,7 +1020,10 @@
     "lion",
     "grc"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "lion"
+   ]
   },
   {
    "match": "judicial-recount-vachon",
@@ -987,7 +1034,10 @@
     "stephan-fogaing",
     "affine-lwalalika"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "recounts-2026"
+   ]
   },
   {
    "match": "ministre-sante-marie-karlynn-laflamme-decentralisation",
@@ -995,7 +1045,10 @@
     "marie-karlynn-laflamme",
     "sante-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "sante-quebec"
+   ]
   },
   {
    "match": "absence-ministere-tourisme-quebec",
@@ -1007,7 +1060,10 @@
     "destination-quebec",
     "samantha-mckinley"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
   },
   {
    "match": "nicolas-girard-pq-quebec-region",
@@ -1020,7 +1076,10 @@
     "qs",
     "etienne-grandmont"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
   },
   {
    "match": "contrats-publics-50-des-contrats-ti",
@@ -1036,7 +1095,10 @@
     "cossette",
     "fiberstore"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "it-procurement"
+   ]
   },
   {
    "match": "hydro-quebec-les-employes-de-metier-en-greve",
@@ -1044,7 +1106,10 @@
     "hydro-quebec",
     "tat"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec"
+   ]
   },
   {
    "match": "vente-dalcool-aux-mineurs",
@@ -1057,7 +1122,10 @@
     "simon-mathieu-malenfant",
     "isabelle-dufour"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "saq"
+   ]
   },
   {
    "match": "marie-josee-tremblay-et-a-steeve-poulin",
@@ -1067,7 +1135,8 @@
     "marie-josee-tremblay",
     "steeve-poulin"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": []
   },
   {
    "match": "lion-electrique-toujours-au-neutre",
@@ -1075,7 +1144,10 @@
     "lion",
     "grc"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "lion"
+   ]
   },
   {
    "match": "pq-champlain-election-conservateur",
@@ -1087,7 +1159,10 @@
     "eric-duhaime",
     "cour-du-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "recounts-2026"
+   ]
   },
   {
    "match": "jaime-les-defis-dit-marie-claude-sarrazin",
@@ -1095,7 +1170,10 @@
     "marie-claude-sarrazin",
     "commission-gallant"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "saaqclic"
+   ]
   },
   {
    "match": "itinerance-pspp-budget-urgence",
@@ -1104,7 +1182,10 @@
     "accueil-bonneau",
     "jean-charles-boily"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "homelessness"
+   ]
   },
   {
    "match": "rapport-accablant-pspp",
@@ -1117,7 +1198,10 @@
     "francois-chapdelaine",
     "louis-levesque"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
   },
   {
    "match": "parti-liberal-charles-milliard-cabinet-fantome",
@@ -1128,7 +1212,11 @@
     "marie-karlynn-laflamme",
     "sante-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "saaqclic",
+    "sante-quebec"
+   ]
   },
   {
    "match": "la-saq-a-avance-10-m-pour-consignaction",
@@ -1140,21 +1228,31 @@
     "gve",
     "david-rousseau"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "saq"
+   ]
   },
   {
    "match": "hydro-quebec-targeted-in-cyber-scare",
    "entities": [
     "hydro-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec",
+    "php-flaw"
+   ]
   },
   {
    "match": "vulnerabilite-critique-de-php",
    "entities": [
     "stq"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "php-flaw"
+   ]
   },
   {
    "match": "bruno-pierre-godbout",
@@ -1163,7 +1261,8 @@
     "ville-chandler",
     "clcc"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "des-proches-de-la-caisse-appeles",
@@ -1174,7 +1273,8 @@
     "thomas-birch",
     "benoit-raillard"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "sante-quebec-ne-fait-plus-partie-des-cartons",
@@ -1182,7 +1282,10 @@
     "marie-karlynn-laflamme",
     "sante-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "sante-quebec"
+   ]
   },
   {
    "match": "les-liberaux-contestent-l-invalidite",
@@ -1195,7 +1298,10 @@
     "elections-quebec",
     "cour-du-quebec"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "recounts-2026"
+   ]
   },
   {
    "match": "les-chefs-de-cabinet-commencent",
@@ -1208,7 +1314,10 @@
     "louis-bourcier",
     "frederic-alberro"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
   },
   {
    "match": "voici-ceux-qui-soccuperont-de-votre-portefeuille",
@@ -1221,7 +1330,11 @@
     "natalie-bisaillon",
     "hydro-quebec"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec",
+    "pq-transition"
+   ]
   },
   {
    "match": "ottawa-prete-193-millions",
@@ -1234,14 +1347,18 @@
     "jean-simard",
     "sebastien-ross"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "duree-vie-infrastructure-pont-genie",
    "entities": [
     "mtmd"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
   },
   {
    "match": "vaccination-quebec-campagne-insatisfaction",
@@ -1251,7 +1368,8 @@
     "aqdp",
     "hugues-mousseau"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "flooding-damages-major-road-in-lascension",
@@ -1259,7 +1377,8 @@
     "jacques-allard",
     "mpo"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "decouvrez-les-forces-les-parcours",
@@ -1267,7 +1386,10 @@
     "pspp",
     "anne-nguyen"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "it-procurement"
+   ]
   },
   {
    "match": "des-projets-dinfrastructures-attendront",
@@ -1275,7 +1397,10 @@
     "pspp",
     "mtmd"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
   },
   {
    "match": "serment-au-roi-un-avocat-veut-bloquer",
@@ -1285,7 +1410,10 @@
     "pspp",
     "charles-iii"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": [
+    "oath-king"
+   ]
   },
   {
    "match": "hampstead-mayor-jeremy-levi",
@@ -1293,7 +1421,8 @@
     "jeremy-levi",
     "ocpaq"
    ],
-   "checked_by_hand": false
+   "checked_by_hand": false,
+   "dossiers": []
   },
   {
    "match": "vent-de-discorde-dans-la-mrc-de-coaticook",
@@ -1303,7 +1432,10 @@
     "mrc-coaticook",
     "bape"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
   },
   {
    "match": "fini-le-gaz-americain-chez-energir",
@@ -1311,7 +1443,8 @@
     "energir",
     "regie-energie"
    ],
-   "checked_by_hand": true
+   "checked_by_hand": true,
+   "dossiers": []
   }
  ]
 }

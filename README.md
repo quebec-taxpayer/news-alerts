@@ -61,5 +61,27 @@ Daily routine, after `gen.py` has written the day's digest post:
 
 `DIGEST_SRC` defaults to `/workspace/governance-digest`.
 
+## Chronology
+
+`/chronology/` lists ongoing subjects ("dossiers"); each dossier has a vertical timeline at `/chronology/<id>/`.
+Data: `_data/dossiers.json` — per dossier `id`, `name_en/fr`, `desc_en/fr`, `entities` (network entity ids, used for
+"Appears in these dossiers" on the Network page) and `events`. Each event: `date` (`YYYY`, `YYYY-MM` or `YYYY-MM-DD`
+— the date it **happened**, not the publication date), `en`, `fr`, `source_title`, `source_outlet`, `source_url`,
+`source_type` (`primary` or `media`), `post` (digest date if the source is a published story, else `null`) and
+`background` (set by the tool). Pages are built by Jekyll from the data (`chronology.html`, `_layouts/dossier.html`,
+one stub per dossier in `chronology/`, created by the tool).
+
+Daily routine, after the digest and the network update:
+1. In `_tools/network_entities.json`, give each new story `"dossiers": [ids]` (or `[]` if it fits none). A new
+   subject gets a dossier only once it has 2+ stories (add it to `_data/dossiers.json` by hand).
+2. For each tag, add the event: `python3 _tools/chrono.py add --dossier ID --date YYYY-MM-DD --en "..." --fr "..."
+   --source-title "headline" --outlet "Outlet" --source-url URL --type media --post YYYY-MM-DD`.
+   Use the date of the event as stated in the article (month or year precision if that is all it gives).
+   Phrase allegations as reported ("X reports…", "alleged"); do not add future dates.
+3. Background events: only from primary sources or credible outlets actually opened, cited with their URL
+   (`--type primary` for government, VGQ, court, company releases). If unsure, leave it out.
+4. `python3 _tools/chrono.py --strict` must exit 0 (validates fields, dates, entity ids, digest dates, sorts events,
+   creates stubs, and fails if a tagged story has no event or a story has no `dossiers` field).
+
 ## Local preview
 `bundle install && bundle exec jekyll serve` then open http://127.0.0.1:4000/news-alerts/

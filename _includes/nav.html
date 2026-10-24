@@ -1,10 +1,16 @@
+{%- comment -%} Current section: posts count as Archive, dossier pages as Chronology. {%- endcomment -%}
+{%- assign sec = page.section -%}
+{%- unless sec -%}
+  {%- if page.collection == "posts" -%}{%- assign sec = "archive" -%}
+  {%- elsif page.dossier -%}{%- assign sec = "chronology" -%}
+  {%- elsif page.url == "/" or page.url == "/index.html" -%}{%- assign sec = "home" -%}
+  {%- else -%}{%- assign sec = page.url | remove_first: "/" | split: "/" | first -%}{%- endif -%}
+{%- endunless -%}
+{%- assign items = "home|/|Home|Accueil;archive|/archive/|Archive|Archives;topics|/topics/|Topics|Thèmes;network|/network/|Network|Réseau;chronology|/chronology/|Chronology|Chronologie;sources|/sources/|Sources|Sources;about|/about/|About|À propos" | split: ";" -%}
 <nav class="site-nav" aria-label="Navigation">
   <div class="wrap">
-    <a href="{{ '/' | relative_url }}"><span class="l-en" lang="en">Home</span><span class="l-fr" lang="fr">Accueil</span></a>
-    <a href="{{ '/archive/' | relative_url }}"><span class="l-en" lang="en">Archive</span><span class="l-fr" lang="fr">Archives</span></a>
-    <a href="{{ '/topics/' | relative_url }}"><span class="l-en" lang="en">Topics</span><span class="l-fr" lang="fr">Thèmes</span></a>
-    <a href="{{ '/network/' | relative_url }}"><span class="l-en" lang="en">Network</span><span class="l-fr" lang="fr">Réseau</span></a>
-    <a href="{{ '/sources/' | relative_url }}"><span class="l-en" lang="en">Sources</span><span class="l-fr" lang="fr">Sources</span></a>
-    <a href="{{ '/about/' | relative_url }}"><span class="l-en" lang="en">About</span><span class="l-fr" lang="fr">À propos</span></a>
+{%- for it in items -%}{%- assign f = it | split: "|" %}
+    <a href="{{ f[1] | relative_url }}"{% if sec == f[0] %} class="active" aria-current="page"{% endif %}><span class="l-en" lang="en">{{ f[2] }}</span><span class="l-fr" lang="fr">{{ f[3] }}</span></a>
+{%- endfor %}
   </div>
 </nav>

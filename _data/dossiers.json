@@ -1,0 +1,901 @@
+{
+ "_comment": "Chronology source. Edit by hand or with `python3 _tools/chrono.py add ...`, then run `python3 _tools/chrono.py --strict`. Dates: YYYY, YYYY-MM or YYYY-MM-DD (date the event happened). source_type: primary|media. post: digest date (YYYY-MM-DD) whose story this event comes from, or null for background.",
+ "dossiers": [
+  {
+   "id": "saaqclic",
+   "name_en": "SAAQclic / Gallant Commission",
+   "name_fr": "SAAQclic / commission Gallant",
+   "desc_en": "The SAAQ’s CASA digital-transformation program and SAAQclic platform, the Auditor General’s findings, and the Gallant public inquiry.",
+   "desc_fr": "Le programme de transformation numérique CASA de la SAAQ et la plateforme SAAQclic, les constats de la vérificatrice générale et la commission d’enquête Gallant.",
+   "entities": [
+    "saaq",
+    "commission-gallant",
+    "marie-claude-sarrazin",
+    "monsef-derraji",
+    "plq"
+   ],
+   "events": [
+    {
+     "date": "2023-02",
+     "en": "The SAAQ puts its new CASA computer system and the SAAQclic platform into service; the Auditor General later finds the needed tests had not been done.",
+     "fr": "La SAAQ met en service son nouveau système informatique CASA et la plateforme SAAQclic; la vérificatrice générale constatera plus tard que les tests nécessaires n’avaient pas été faits.",
+     "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-02-20",
+     "en": "The Auditor General reports that CASA/SAAQclic costs rose by nearly $500M (from $638M to at least $1.1B by March 2027) and that the increase was not clearly communicated to decision-makers.",
+     "fr": "La vérificatrice générale rapporte que les coûts de CASA/SAAQclic ont augmenté de près de 500 M$ (de 638 M$ à au moins 1,1 G$ d’ici mars 2027) et que la hausse n’a pas été clairement communiquée aux décideurs.",
+     "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-03-02",
+     "en": "Premier François Legault announces a public inquiry into SAAQclic.",
+     "fr": "Le premier ministre François Legault déclenche une enquête publique sur SAAQclic.",
+     "source_title": "Fiasco SAAQclic | François Legault déclenche une enquête publique",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2025-03-02/fiasco-saaqclic/francois-legault-declenche-une-enquete-publique.php",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-03-18",
+     "en": "Cabinet adopts the decree creating the commission of inquiry into the SAAQ’s IT modernization; municipal judge Denis Gallant is named commissioner as of March 24, 2025.",
+     "fr": "Le Conseil des ministres adopte le décret constituant la commission d’enquête sur la modernisation des systèmes informatiques de la SAAQ; le juge municipal Denis Gallant est nommé commissaire à compter du 24 mars 2025.",
+     "source_title": "Commission d'enquête sur la gestion de la modernisation des systèmes informatiques de la SAAQ",
+     "source_outlet": "Gouvernement du Québec (Cabinet du ministre de la Justice)",
+     "source_url": "https://www.quebec.ca/nouvelles/actualites/details/commission-denquete-sur-la-gestion-de-la-modernisation-des-systemes-informatiques-de-la-saaq-61606",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-02-16",
+     "en": "Commissioner Denis Gallant makes his final report public; it concludes that SAAQ officials lied about the program’s progress and costs.",
+     "fr": "Le commissaire Denis Gallant rend public son rapport final; il conclut que la direction de la SAAQ a menti sur le déroulement et les coûts du programme.",
+     "source_title": "Quebec auto board officials lied to hide costs of botched SAAQclic launch, report concludes",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/gallant-commission-report-9.7090341",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "Marie-Claude Sarrazin, a former lawyer for the Gallant commission, is sworn in as Justice minister with six other roles, including access to information.",
+     "fr": "Marie-Claude Sarrazin, ex-procureure de la commission Gallant, est assermentée ministre de la Justice avec six autres rôles, dont l’accès à l’information.",
+     "source_title": "Elle obtient 7 rôles au sein du Conseil des ministres : «J’aime les défis», dit Marie-Claude Sarrazin",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/22/elle-obtient-7-roles-au-sein-du-conseil-des-ministres--jaime-les-defis-dit-marie-claude-sarrazin",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "Liberal leader Charles Milliard names Monsef Derraji, who led the Liberal attacks on SAAQclic, as health critic.",
+     "fr": "Le chef libéral Charles Milliard nomme Monsef Derraji, qui a mené les attaques libérales sur SAAQclic, porte-parole en santé.",
+     "source_title": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "hydro-quebec",
+   "name_en": "Hydro-Québec",
+   "name_fr": "Hydro-Québec",
+   "desc_en": "Rates, labour relations, cybersecurity and energy projects at the state-owned utility.",
+   "desc_fr": "Tarifs, relations de travail, cybersécurité et projets énergétiques de la société d’État.",
+   "entities": [
+    "hydro-quebec",
+    "regie-energie",
+    "tat",
+    "innergex",
+    "mrc-coaticook"
+   ],
+   "events": [
+    {
+     "date": "2023-04",
+     "en": "A cyberattack claimed by a pro-Russian hacker group knocks Hydro-Québec’s website and outage map offline (as recalled by the Montreal Gazette).",
+     "fr": "Une cyberattaque revendiquée par un groupe de pirates prorusses met hors ligne le site et la carte des pannes d’Hydro-Québec (rappel de la Montreal Gazette).",
+     "source_title": "Hydro-Québec targeted in cyber scare as global hacking fears spread",
+     "source_outlet": "Montreal Gazette",
+     "source_url": "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": true
+    },
+    {
+     "date": "2023-12-31",
+     "en": "The collective agreement of Hydro-Québec’s trades workers expires.",
+     "fr": "La convention collective des employés de métier d’Hydro-Québec arrive à échéance.",
+     "source_title": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "source_outlet": "La Tribune (La Presse Canadienne)",
+     "source_url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": true
+    },
+    {
+     "date": "2026-10-13",
+     "en": "Radio-Canada reports that Hydro-Québec proposes doubling the data-centre electricity rate and letting those customers voluntarily pay more; critics liken it to an auction.",
+     "fr": "Radio-Canada rapporte qu’Hydro-Québec propose de doubler le tarif des centres de données et de leur permettre de payer davantage volontairement; des critiques y voient des enchères.",
+     "source_title": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "Hydro-Québec takes its online Customer Space offline after unusual and unauthorized login attempts; it says no systems were compromised.",
+     "fr": "Hydro-Québec met hors ligne son Espace client après des tentatives de connexion inhabituelles et non autorisées; elle dit qu’aucun système n’a été compromis.",
+     "source_title": "Hydro-Québec targeted in cyber scare as global hacking fears spread",
+     "source_outlet": "Montreal Gazette",
+     "source_url": "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-22",
+     "en": "The labour tribunal rejects Hydro-Québec’s request for more essential services; an 11-day overtime strike by 6,271 trades workers is set to run from Oct. 23 to Nov. 2.",
+     "fr": "Le Tribunal administratif du travail rejette la demande d’Hydro-Québec d’obtenir davantage de services essentiels; une grève des heures supplémentaires de 11 jours de 6 271 employés de métier doit durer du 23 octobre au 2 novembre.",
+     "source_title": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "source_outlet": "La Tribune",
+     "source_url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "Innergex’s planned 100 MW wind farm (about 16 turbines) for a Hydro-Québec tender divides the MRC de Coaticook; residents call for a moratorium and a BAPE review.",
+     "fr": "Le projet éolien d’Innergex (environ 16 éoliennes, 100 MW) pour un appel d’offres d’Hydro-Québec divise la MRC de Coaticook; des citoyens réclament un moratoire et un BAPE.",
+     "source_title": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-24",
+     "en": "New ministers’ mandates published by TVA Nouvelles include Hydro-Québec power blocks and a pay freeze for Crown corporation executives.",
+     "fr": "Les mandats des nouveaux ministres publiés par TVA Nouvelles comprennent les blocs d’énergie d’Hydro-Québec et un gel de la rémunération des dirigeants de sociétés d’État.",
+     "source_title": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "saq",
+   "name_en": "SAQ (Société des alcools du Québec)",
+   "name_fr": "SAQ (Société des alcools du Québec)",
+   "desc_en": "Operations and governance questions at the state-owned liquor retailer.",
+   "desc_fr": "Activités et questions de gouvernance à la société d’État des alcools.",
+   "entities": [
+    "saq",
+    "semb-saq",
+    "consignaction"
+   ],
+   "events": [
+    {
+     "date": "2026-10-21",
+     "en": "After a global PHP flaw is disclosed, the SAQ locks its transactional website as a precaution, as do the STM and the SAAQ.",
+     "fr": "Après la divulgation d’une faille PHP mondiale, la SAQ verrouille par précaution son site transactionnel, tout comme la STM et la SAAQ.",
+     "source_title": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-22",
+     "en": "Le Journal de Montréal reports a study paid for by the SAQ union alleging that age was not checked in 70% of cases in Zones SAQ; the SAQ says it has not received the study.",
+     "fr": "Le Journal de Montréal fait état d’une étude payée par le syndicat de la SAQ selon laquelle l’âge ne serait pas vérifié dans 70 % des cas dans les Zones SAQ; la SAQ dit ne pas l’avoir reçue.",
+     "source_title": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "TVA Nouvelles reports that the SAQ advanced $10M to cash-strapped Consignaction, whose board includes an SAQ vice-president; the SAQ declined an interview.",
+     "fr": "TVA Nouvelles rapporte que la SAQ a avancé 10 M$ à Consignaction, en manque de liquidités, dont le conseil compte une vice-présidente de la SAQ; la SAQ a refusé l’entrevue.",
+     "source_title": "La SAQ a avancé 10 M$ pour Consignaction",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "it-procurement",
+   "name_en": "Public procurement & IT contracts",
+   "name_fr": "Contrats publics et informatiques",
+   "desc_en": "How Quebec buys and manages government IT projects and contracts.",
+   "desc_fr": "La façon dont Québec achète et gère ses projets et contrats informatiques.",
+   "entities": [
+    "saaq",
+    "jeremy-easterbrook",
+    "lgs",
+    "ibm",
+    "anne-nguyen",
+    "conseil-tresor"
+   ],
+   "events": [
+    {
+     "date": "2025-02-20",
+     "en": "The Auditor General reports that the SAAQ’s CASA/SAAQclic program costs rose by nearly $500M and that the software vendor that helped document the SAAQ’s needs was part of the alliance that later won the contract.",
+     "fr": "La vérificatrice générale rapporte que les coûts du programme CASA/SAAQclic de la SAAQ ont augmenté de près de 500 M$ et que l’éditeur du progiciel qui a aidé à documenter les besoins de la SAAQ faisait partie de l’Alliance qui a ensuite remporté le contrat.",
+     "source_title": "Rapport du Vérificateur général du Québec 2024-2025, février 2025 – Chapitre 2 (CASA/SAAQclic)",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/Fichiers/Publications/rapport-annuel/212/VGQ_Fevr2025_ch2_web.pdf",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "Le Journal de Montréal reports a private analysis by Jeremy Easterbrook (2009–2024) according to which $5.62B of $11.31B in untendered IT contracts went to foreign firms.",
+     "fr": "Le Journal de Montréal fait état d’une analyse privée de Jeremy Easterbrook (2009-2024) selon laquelle 5,62 G$ des 11,31 G$ de contrats TI de gré à gré seraient allés à des firmes étrangères.",
+     "source_title": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    },
+    {
+     "date": "2026-10-24",
+     "en": "Anne Nguyen, minister for AI and Digital, is tasked first with auditing all government IT projects, according to Le Journal de Montréal’s minister profiles.",
+     "fr": "Anne Nguyen, ministre de l’IA et du Numérique, devra d’abord auditer l’ensemble des projets informatiques gouvernementaux, selon les portraits de ministres du Journal de Montréal.",
+     "source_title": "Qui sont les nouveaux ministres: dossiers chauds, gros mandats et diverses missions de l'État",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "mtq-infrastructure",
+   "name_en": "MTQ infrastructure report",
+   "name_fr": "Rapport du MTQ sur les infrastructures",
+   "desc_en": "The state of Quebec’s roads and bridges, the maintenance deficit and the expert committee report.",
+   "desc_fr": "L’état des routes et des ponts du Québec, le déficit de maintien d’actifs et le rapport du comité d’experts.",
+   "entities": [
+    "mtmd",
+    "pspp",
+    "caq"
+   ],
+   "events": [
+    {
+     "date": "2026-03",
+     "en": "The asset-maintenance deficit of public bodies’ infrastructure in poor or very poor condition is estimated at $44.8B (figure reported by Radio-Canada).",
+     "fr": "Le déficit de maintien d’actifs des infrastructures des organismes publics en mauvais ou très mauvais état est évalué à 44,8 G$ (chiffre rapporté par Radio-Canada).",
+     "source_title": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": true
+    },
+    {
+     "date": "2026-10-14",
+     "en": "Closing the left lane of the Honoré-Mercier bridge toward Montreal causes major traffic jams.",
+     "fr": "La fermeture de la voie de gauche du pont Honoré-Mercier en direction de Montréal provoque d’importants embouteillages.",
+     "source_title": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": true
+    },
+    {
+     "date": "2026-10-23",
+     "en": "TVA Nouvelles reports on an MTQ expert committee report recommending no new roads; the road maintenance deficit grew from $12.8B (2017) to $22.5B (2025), calling into question the Saguenay bridge and A-20 promises.",
+     "fr": "TVA Nouvelles fait état d’un rapport d’un comité d’experts du MTQ qui recommande de ne construire aucune nouvelle route; le déficit d’entretien routier est passé de 12,8 G$ (2017) à 22,5 G$ (2025), remettant en question les promesses du pont sur le Saguenay et de l’A-20.",
+     "source_title": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "Premier St-Pierre Plamondon says non-essential infrastructure projects will wait and accuses the former government of hiding the report.",
+     "fr": "Le premier ministre St-Pierre Plamondon prévient que les projets d’infrastructures non essentiels attendront et accuse l’ancien gouvernement d’avoir caché le rapport.",
+     "source_title": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "oath-king",
+   "name_en": "Oath to the King",
+   "name_fr": "Serment au roi",
+   "desc_en": "The court challenge to Quebec’s optional oath to the King and the new government’s break with the ceremony.",
+   "desc_fr": "La contestation judiciaire du serment facultatif au roi et la rupture du nouveau gouvernement avec la cérémonie.",
+   "entities": [
+    "charles-iii",
+    "cour-superieure",
+    "lawrence-david",
+    "manon-jeannotte",
+    "pspp",
+    "ian-demers"
+   ],
+   "events": [
+    {
+     "date": "2022-12",
+     "en": "The National Assembly adopts a law (Law 4) making the oath to the King optional for MNAs.",
+     "fr": "L’Assemblée nationale adopte une loi (la loi 4) qui rend facultatif le serment au roi pour les députés.",
+     "source_title": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2026-10",
+     "en": "Lawyer Lawrence David asks the Superior Court in early October for an interlocutory injunction suspending Law 4.",
+     "fr": "Au début d’octobre, Me Lawrence David demande à la Cour supérieure une injonction interlocutoire pour suspendre la loi 4.",
+     "source_title": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": true
+    },
+    {
+     "date": "2026-10-20",
+     "en": "The Superior Court hears Lawrence David’s bid to make the 127 new MNAs swear allegiance to the King; a ruling is sought before Nov. 24.",
+     "fr": "La Cour supérieure entend la demande de Lawrence David visant à forcer les 127 nouveaux députés à prêter serment au roi; une décision est demandée avant le 24 novembre.",
+     "source_title": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "At Premier St-Pierre Plamondon’s request, Lieutenant Governor Manon Jeannotte is absent from the cabinet swearing-in, a first; a legal opinion is sought on redirecting her office’s budget.",
+     "fr": "À la demande du premier ministre St-Pierre Plamondon, la lieutenante-gouverneure Manon Jeannotte est absente de l’assermentation du Conseil des ministres, une première; un avis juridique est demandé pour réaffecter le budget de son bureau.",
+     "source_title": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "At a press conference in Ottawa, Lawrence David says he intends to block the start of parliamentary work with a Superior Court ruling expected by Nov. 24.",
+     "fr": "En conférence de presse à Ottawa, Me Lawrence David affirme vouloir bloquer le début des travaux parlementaires grâce à une décision de la Cour supérieure attendue d’ici le 24 novembre.",
+     "source_title": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "lion",
+   "name_en": "Lion Électrique",
+   "name_fr": "Lion Électrique",
+   "desc_en": "The electric-vehicle maker’s insolvency, securities cases and the RCMP investment-fraud probe. Allegations are unproven unless stated otherwise.",
+   "desc_fr": "L’insolvabilité du fabricant de véhicules électriques, les dossiers en valeurs mobilières et l’enquête de la GRC pour fraude à l’investissement. Les allégations ne sont pas prouvées, sauf mention contraire.",
+   "entities": [
+    "lion",
+    "grc",
+    "amf",
+    "claude-roy",
+    "bertin-castonguay",
+    "marc-bedard"
+   ],
+   "events": [
+    {
+     "date": "2024-12-19",
+     "en": "Lion Électrique seeks protection under the Companies’ Creditors Arrangement Act (CCAA).",
+     "fr": "Lion Électrique se place sous la protection de la Loi sur les arrangements avec les créanciers des compagnies (LACC).",
+     "source_title": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2025-02",
+     "en": "The RCMP opens an investment-fraud probe after complaints from more than 100 investors, according to investigators.",
+     "fr": "La GRC ouvre une enquête pour fraude à l’investissement après les plaintes de plus de 100 investisseurs, selon les enquêteurs.",
+     "source_title": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": true
+    },
+    {
+     "date": "2025-05",
+     "en": "Lion is sold to a group of Quebec investors.",
+     "fr": "Lion est vendue à un groupe d’investisseurs québécois.",
+     "source_title": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": true
+    },
+    {
+     "date": "2026-10-13",
+     "en": "La Presse reports that investor Claude Roy will pay $1.1M under an agreement with the AMF over insider trading tied to 2024 sales of Lion shares.",
+     "fr": "La Presse rapporte que l’investisseur Claude Roy paiera 1,1 M$ au terme d’une entente avec l’AMF pour un délit d’initié lié à des ventes d’actions de Lion en 2024.",
+     "source_title": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2026-10-20",
+     "en": "TVA Nouvelles reports that, according to an AMF affidavit, Bertin Castonguay allegedly sold his Lion shares just before the insolvency, avoiding at least $870,000 in losses; the allegations are unproven.",
+     "fr": "TVA Nouvelles rapporte que, selon un affidavit de l’AMF, Bertin Castonguay aurait vendu ses actions de Lion juste avant l’insolvabilité, évitant au moins 870 000 $ de pertes; allégations non prouvées.",
+     "source_title": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "The RCMP searches Lion’s Saint-Jérôme headquarters in an investigation into possible investment fraud predating the buyout; no arrests or charges.",
+     "fr": "La GRC perquisitionne le siège de Lion à Saint-Jérôme dans une enquête sur une possible fraude à l’investissement antérieure au rachat; aucune arrestation ni accusation.",
+     "source_title": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": false
+    },
+    {
+     "date": "2026-10-22",
+     "en": "Lion tells employees it cannot resume operations Friday because its systems are still inaccessible; no charges have been laid.",
+     "fr": "Lion informe ses employés qu’elle ne pourra reprendre ses activités vendredi, ses systèmes étant toujours inaccessibles; aucune accusation n’a été déposée.",
+     "source_title": "Perquisition de la GRC – Lion Électrique toujours au neutre",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "sante-quebec",
+   "name_en": "Santé Québec",
+   "name_fr": "Santé Québec",
+   "desc_en": "The health agency created under the CAQ and the new government’s plan to abolish it.",
+   "desc_fr": "L’agence de santé créée sous la CAQ et le projet du nouveau gouvernement de l’abolir.",
+   "entities": [
+    "sante-quebec",
+    "msss",
+    "marie-karlynn-laflamme",
+    "genevieve-biron",
+    "christian-dube",
+    "monsef-derraji"
+   ],
+   "events": [
+    {
+     "date": "2023-12-09",
+     "en": "The National Assembly adopts the law on the governance of the health and social services system, which creates Santé Québec.",
+     "fr": "L’Assemblée nationale adopte la Loi sur la gouvernance du système de santé et de services sociaux, qui crée Santé Québec.",
+     "source_title": "Gouvernance du système de santé et de services sociaux et création de Santé Québec",
+     "source_outlet": "Gouvernement du Québec",
+     "source_url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/systeme-quebecois-de-sante-et-de-services-sociaux/transformation-systeme-sante/reseau-sante-efficace-personnel",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2024-12-01",
+     "en": "Health institutions are integrated into Santé Québec, which becomes the single employer of the network’s staff.",
+     "fr": "Les établissements de santé sont intégrés à Santé Québec, qui devient l’employeur unique du personnel du réseau.",
+     "source_title": "Gouvernance du système de santé et de services sociaux et création de Santé Québec",
+     "source_outlet": "Gouvernement du Québec",
+     "source_url": "https://www.quebec.ca/sante/systeme-et-services-de-sante/organisation-des-services/systeme-quebecois-de-sante-et-de-services-sociaux/transformation-systeme-sante/reseau-sante-efficace-personnel",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-10-14",
+     "en": "Le Journal de Québec reports that the abolition of Santé Québec is already being prepared; according to sources, its management remained under CAQ political control, which its leadership denies.",
+     "fr": "Le Journal de Québec rapporte que l’abolition de Santé Québec serait déjà en préparation; selon des sources, sa gestion serait restée sous contrôle politique caquiste, ce que la direction dément.",
+     "source_title": "Québec prépare l’abolition de Santé Québec",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "New Health Minister Marie-Karlynn Laflamme, tasked with abolishing Santé Québec, says she wants decisions moved closer to the front lines.",
+     "fr": "La nouvelle ministre de la Santé, Marie-Karlynn Laflamme, chargée d’abolir Santé Québec, veut rapprocher les décisions du terrain.",
+     "source_title": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "Minister Laflamme promises a gradual, “intelligent” abolition with decentralization; no bill has been tabled yet.",
+     "fr": "La ministre Laflamme promet une abolition graduelle et « intelligente », avec décentralisation; aucun projet de loi n’a encore été déposé.",
+     "source_title": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "Liberal Monsef Derraji becomes health critic and says he will watch the abolition of Santé Québec.",
+     "fr": "Le libéral Monsef Derraji devient porte-parole en santé et surveillera l’abolition de Santé Québec.",
+     "source_title": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "php-flaw",
+   "name_en": "PHP flaw & public websites",
+   "name_fr": "Faille PHP et sites publics",
+   "desc_en": "The October 2026 PHP vulnerability and the precautionary shutdown of Quebec public-sector websites.",
+   "desc_fr": "La vulnérabilité PHP d’octobre 2026 et la fermeture préventive de sites du secteur public québécois.",
+   "entities": [
+    "saq",
+    "saaq",
+    "stm",
+    "stq",
+    "hydro-quebec"
+   ],
+   "events": [
+    {
+     "date": "2026-08",
+     "en": "Two flaws in the PHP programming language are discovered in late August; they are made public only after PHP fixes them.",
+     "fr": "Deux failles du langage PHP sont découvertes à la fin août; elles ne sont rendues publiques qu’après leur correction par PHP.",
+     "source_title": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "The flaws are made public; the SAQ, the STM and the SAAQ lock their transactional websites as a precaution.",
+     "fr": "Les failles sont rendues publiques; la SAQ, la STM et la SAAQ verrouillent par précaution leurs sites transactionnels.",
+     "source_title": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-21",
+     "en": "Hydro-Québec’s online Customer Space goes offline after unusual and unauthorized login attempts.",
+     "fr": "L’Espace client d’Hydro-Québec est mis hors ligne après des tentatives de connexion inhabituelles et non autorisées.",
+     "source_title": "Hydro-Québec targeted in cyber scare as global hacking fears spread",
+     "source_outlet": "Montreal Gazette",
+     "source_url": "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "The Société des traversiers du Québec says its web applications closed over the PHP flaw (alerts, schedules, customer accounts) are accessible again; the closure was preventive.",
+     "fr": "La Société des traversiers du Québec annonce que ses applications Web fermées en raison de la faille PHP (alertes, horaires, comptes clients) sont à nouveau accessibles; la fermeture était préventive.",
+     "source_title": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
+     "source_outlet": "Communiqué (CNW)",
+     "source_url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html",
+     "source_type": "primary",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "Hydro-Québec says its Customer Space should stay unavailable until Monday, Oct. 26, and that no systems were compromised.",
+     "fr": "Hydro-Québec indique que son Espace client devrait rester inaccessible jusqu’au lundi 26 octobre et qu’aucun système n’a été compromis.",
+     "source_title": "Hydro-Québec targeted in cyber scare as global hacking fears spread",
+     "source_outlet": "Montreal Gazette",
+     "source_url": "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "recounts-2026",
+   "name_en": "Recounts: Champlain and Vachon",
+   "name_fr": "Recomptages : Champlain et Vachon",
+   "desc_en": "Judicial recounts after the Oct. 5, 2026 general election.",
+   "desc_fr": "Les dépouillements judiciaires après les élections générales du 5 octobre 2026.",
+   "entities": [
+    "elections-quebec",
+    "pq",
+    "plq",
+    "pcq",
+    "adriana-szalontai",
+    "rene-branchaud",
+    "affine-lwalalika",
+    "stephan-fogaing",
+    "eric-martel",
+    "cour-du-quebec"
+   ],
+   "events": [
+    {
+     "date": "2026-10-05",
+     "en": "General election: Liberal Affine Lwalalika is declared the winner in Vachon.",
+     "fr": "Élections générales : la libérale Affine Lwalalika est déclarée vainqueure dans Vachon.",
+     "source_title": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": true
+    },
+    {
+     "date": "2026-10-19",
+     "en": "A judicial recount requested by the PQ begins in Vachon at the Longueuil courthouse.",
+     "fr": "Un dépouillement judiciaire demandé par le PQ commence dans Vachon au palais de justice de Longueuil.",
+     "source_title": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": true
+    },
+    {
+     "date": "2026-10-20",
+     "en": "Judge Éric Martel orders a judicial recount in Champlain, where Conservative Adriana Szalontai led PQ candidate René Branchaud by 191 votes.",
+     "fr": "Le juge Éric Martel ordonne un dépouillement judiciaire dans Champlain, où la conservatrice Adriana Szalontai devançait le péquiste René Branchaud par 191 voix.",
+     "source_title": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "Élections Québec confirms the Vachon recount result: PQ candidate Stéphan Fogaing wins by three votes; the Liberals do not concede.",
+     "fr": "Élections Québec confirme le résultat du recomptage dans Vachon : le péquiste Stéphan Fogaing l’emporte par trois voix; les libéraux ne concèdent pas.",
+     "source_title": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-22",
+     "en": "As the Champlain recount proceeds, the PQ concedes the riding to Conservative Adriana Szalontai (186-vote margin).",
+     "fr": "Pendant le dépouillement dans Champlain, le PQ concède la circonscription à la conservatrice Adriana Szalontai (écart de 186 voix).",
+     "source_title": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    },
+    {
+     "date": "2026-10-22",
+     "en": "The Liberals say about 20 ballots rejected at the Vachon recount should count; they have 30 days to contest the result.",
+     "fr": "Les libéraux soutiennent qu’une vingtaine de bulletins rejetés au recomptage de Vachon devraient compter; ils ont 30 jours pour contester le résultat.",
+     "source_title": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "pq-transition",
+   "name_en": "Forming the St-Pierre Plamondon government",
+   "name_fr": "Formation du gouvernement St-Pierre Plamondon",
+   "desc_en": "The cabinet, senior appointments and early structural decisions of the new Parti Québécois government.",
+   "desc_fr": "Le Conseil des ministres, les nominations et les premières décisions de structure du nouveau gouvernement du Parti Québécois.",
+   "entities": [
+    "pspp",
+    "pq",
+    "alain-therrien",
+    "marie-karlynn-laflamme",
+    "nicolas-marceau",
+    "stephane-paquet",
+    "nicolas-girard",
+    "julie-blackburn",
+    "nicolas-paradis",
+    "marie-claude-sarrazin",
+    "anne-nguyen"
+   ],
+   "events": [
+    {
+     "date": "2026-10-05",
+     "en": "Quebec general election.",
+     "fr": "Élections générales au Québec.",
+     "source_title": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": true
+    },
+    {
+     "date": "2026-10-21",
+     "en": "Paul St-Pierre Plamondon presents a reduced cabinet of 22 members: Laflamme at Health, Arseneau at Education, Therrien at the Treasury Board.",
+     "fr": "Paul St-Pierre Plamondon présente un Conseil des ministres réduit à 22 membres : Laflamme à la Santé, Arseneau à l’Éducation, Therrien au Conseil du trésor.",
+     "source_title": "Conseil des ministres : de l’expérience aux postes clés",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq",
+     "source_type": "media",
+     "post": "2026-10-21",
+     "background": false
+    },
+    {
+     "date": "2026-10-21",
+     "en": "Cabinet makes senior civil-service appointments effective Oct. 22, including Julie Blackburn at the Treasury Board secretariat and Nicolas Paradis for government efficiency.",
+     "fr": "Le Conseil des ministres procède à des nominations dans la haute fonction publique, en vigueur le 22 octobre, dont Julie Blackburn au Secrétariat du Conseil du trésor et Nicolas Paradis à l’efficacité gouvernementale.",
+     "source_title": "Nominations du Conseil des ministres",
+     "source_outlet": "Communiqué (CNW)",
+     "source_url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html",
+     "source_type": "primary",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-21",
+     "en": "With no PQ MNA in the Quebec City region, the premier names Nicolas Girard minister responsible for the Capitale-Nationale, then floats a second representative; the opposition asks for clarity.",
+     "fr": "Sans député péquiste dans la région de Québec, le premier ministre nomme Nicolas Girard ministre responsable de la Capitale-Nationale, puis évoque un 2e représentant; l’opposition réclame des clarifications.",
+     "source_title": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    },
+    {
+     "date": "2026-10-22",
+     "en": "The tourism industry worries about the absence of a Tourism ministry, a first in 63 years; tourism moves under Stéphane Paquet’s ministry.",
+     "fr": "L’industrie touristique s’inquiète de l’absence d’un ministère du Tourisme, une première en 63 ans; le Tourisme passe sous le ministère de Stéphane Paquet.",
+     "source_title": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie",
+     "source_type": "media",
+     "post": "2026-10-23",
+     "background": false
+    },
+    {
+     "date": "2026-10-22",
+     "en": "Le Journal de Québec analysis: the smaller cabinet must cut $1.6B a year from the state payroll and reach a zero deficit by 2028-29.",
+     "fr": "Analyse du Journal de Québec : le cabinet réduit doit couper 1,6 G$ par an dans la masse salariale de l’État et atteindre le déficit zéro d’ici 2028-2029.",
+     "source_title": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "A first group of ministerial chiefs of staff is hired, mostly PQ veterans.",
+     "fr": "Une première cohorte de chefs de cabinet ministériels est embauchée, surtout d’anciens du PQ.",
+     "source_title": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-24",
+     "en": "TVA Nouvelles publishes the new ministers’ mandates, including a review of business subsidies and cutting red tape in government.",
+     "fr": "TVA Nouvelles publie les mandats des nouveaux ministres, dont un bilan des aides aux entreprises et la débureaucratisation de l’État.",
+     "source_title": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "homelessness",
+   "name_en": "Homelessness: emergency funding",
+   "name_fr": "Itinérance : aide d’urgence",
+   "desc_en": "The new government’s first funding measures for homelessness this winter.",
+   "desc_fr": "Les premières mesures de financement du nouveau gouvernement en itinérance pour l’hiver.",
+   "entities": [
+    "pspp",
+    "ville-montreal",
+    "soraya-martinez-ferrada",
+    "accueil-bonneau",
+    "jean-charles-boily"
+   ],
+   "events": [
+    {
+     "date": "2026-10-21",
+     "en": "The government’s first move is emergency winter funding for homelessness; Montreal Mayor Soraya Martinez Ferrada welcomes it, with Montreal asking for $20M a year.",
+     "fr": "Premier geste du gouvernement : des fonds d’urgence pour l’itinérance cet hiver; la mairesse de Montréal, Soraya Martinez Ferrada, salue la décision, Montréal réclamant 20 M$ par an.",
+     "source_title": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance",
+     "source_type": "media",
+     "post": "2026-10-22",
+     "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "Quebec announces a one-time $28M fund on top of the $18M planned: about 200 winter projects in 16 regions and over 1,000 emergency places.",
+     "fr": "Québec annonce un fonds ponctuel de 28 M$ en plus des 18 M$ prévus : environ 200 projets hivernaux dans 16 régions et plus de 1 000 places d’urgence.",
+     "source_title": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    }
+   ]
+  }
+ ]
+}

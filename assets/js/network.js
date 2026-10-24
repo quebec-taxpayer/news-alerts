@@ -159,7 +159,8 @@
     /* ---------- panel ---------- */
     var panel = document.getElementById("net-panel"), body = document.getElementById("net-panel-body");
     var back = document.getElementById("net-back"), closeBtn = document.getElementById("net-close");
-    var returnFocus = null, lastEntity = null;
+    var returnFocus = null, lastEntity = null, dossiers = [];
+    try { dossiers = JSON.parse((document.getElementById("net-dossiers") || {}).textContent || "[]"); } catch (e) { dossiers = []; }
     function storyList(list) {
       var s = list.slice().sort(function (a, b) { return b.date.localeCompare(a.date) || a.headline.localeCompare(b.headline); });
       return '<ul class="net-stories">' + s.map(function (st) {
@@ -188,6 +189,11 @@
         '<h2 id="net-panel-title" tabindex="-1">' + esc(d.name) + "</h2>";
       if (d.aliases && d.aliases.length) html += '<p class="net-alias">' + bi("Also: ", "Aussi : ") + esc(d.aliases.join(", ")) + "</p>";
       html += '<h3>' + bi("Stories naming " + esc(d.name), "Articles qui nomment " + esc(d.name)) + " (" + d.stories.length + ")</h3>" + storyList(d.stories);
+      var ds = dossiers.filter(function (x) { return x.entities.indexOf(id) >= 0; });
+      if (ds.length) html += "<h3>" + bi("Appears in these dossiers", "Figure dans ces dossiers") + " (" + ds.length + ")</h3>" +
+        '<ul class="net-dossiers">' + ds.map(function (x) {
+          return '<li><a href="' + esc(BASE + "chronology/" + x.id + "/") + '">' + bi(esc(x.en), esc(x.fr)) + "</a></li>";
+        }).join("") + "</ul>";
       html += '<h3>' + bi("Named in the same stories as", "Nommé dans les mêmes articles que") + " (" + d.nb.length + ")</h3>";
       if (!d.nb.length) html += "<p>" + bi("No other name in these stories.", "Aucun autre nom dans ces articles.") + "</p>";
       else html += '<p class="net-hint">' + bi("Select a name to see the stories where both appear.", "Choisissez un nom pour voir les articles où les deux apparaissent.") + "</p>" +
@@ -251,6 +257,8 @@
       if (ev.key === "ArrowDown" && i < bs.length - 1) { ev.preventDefault(); bs[i + 1].focus(); }
       if (ev.key === "ArrowUp") { ev.preventDefault(); if (i > 0) bs[i - 1].focus(); else q.focus(); }
     });
+    function fromHash() { var h = decodeURIComponent(location.hash.slice(1)); if (h && byId[h]) select(h, true); }
+    window.addEventListener("hashchange", fromHash); fromHash();
     window.qgmNetwork = { select: select, showPair: showPair, close: closePanel, nodes: nodes, links: links };
   }
 })();
