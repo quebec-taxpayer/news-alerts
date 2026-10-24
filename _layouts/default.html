@@ -11,13 +11,15 @@
   <link rel="icon" href="data:,">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-<body>
+<body{% if page.layout == "dossier-print" %} class="print-page"{% endif %}>
 {% include header.html %}
 {% include nav.html %}
 <main class="wrap">
 {{ content }}
 </main>
 {% include footer.html %}
+<script type="application/json" id="gl-data">{{ site.data.glossary.terms | jsonify }}</script>
+<script src="{{ '/assets/js/plain.js' | relative_url }}" data-base="{{ site.baseurl }}" defer></script>
 <script>(function(){var h=document.documentElement,b=document.querySelectorAll("[data-set-lang]"),t=document.querySelector("title");function set(l,save){h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;for(var i=0;i<b.length;i++)b[i].setAttribute("aria-pressed",b[i].getAttribute("data-set-lang")===l?"true":"false");if(t&&t.getAttribute("data-"+l))document.title=t.getAttribute("data-"+l);if(save){try{localStorage.setItem("qgm-lang",l);}catch(e){}}}for(var i=0;i<b.length;i++)b[i].addEventListener("click",function(){set(this.getAttribute("data-set-lang"),true);});set(h.lang==="fr"?"fr":"en",false);})();</script>
 </body>
 </html>

@@ -58,6 +58,11 @@ def bi(tag, fr, en, cls=""):
     return (f'<{tag} class="l-fr{c}" lang="fr">{e(fr)}</{tag}>'
             f'<{tag} class="l-en{c}" lang="en">{e(en)}</{tag}>')
 
+def story_id(url):
+    """Stable anchor for a story (used by the weekly roundup to link into the daily digest)."""
+    import hashlib
+    return "s-" + hashlib.sha1(url.encode("utf-8")).hexdigest()[:8]
+
 def money_box(it, pop):
     """'The money, in human terms' callout (same markup as _includes/money.html)."""
     src = f'<a href="{e(it["source_url"])}">{e(it["source_outlet"])}</a>'
@@ -126,7 +131,7 @@ def build(day, issues, notes):
         body.append('<section class="digest-section">')
         body.append(f'<h2>{bi("span", fr, en)}</h2>' if fr != en else f'<h2>{e(fr)}</h2>')
         for st in s["stories"]:
-            body.append('<article class="story">')
+            body.append(f'<article class="story" id="{story_id(st["url"] or st["headline"])}">')
             body.append(f'<h3><a href="{e(st["url"] or "")}">{e(st["headline"])}</a></h3>')
             body.append(bi("p", st["fr"] or "", st["en"] or "", "summary"))
             w = why.get(st["url"] or "", {})

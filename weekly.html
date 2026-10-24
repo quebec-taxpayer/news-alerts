@@ -1,0 +1,16 @@
+---
+layout: page
+title: "Weekly roundup"
+title_fr: "Bilan de la semaine"
+permalink: /weekly/
+section: weekly
+---
+<p class="l-en" lang="en">Every Sunday: the five stories that mattered most that week, in plain words, with links to the daily digests and the sources.</p>
+<p class="l-fr" lang="fr">Chaque dimanche : les cinq nouvelles les plus importantes de la semaine, en mots simples, avec des liens vers les bulletins quotidiens et les sources.</p>
+{%- assign weeks = site.weekly | sort: "date" | reverse %}
+<ul class="dossier-index">
+{%- for w in weeks %}
+  <li><h2><a href="{{ w.url | relative_url }}"><span class="l-en" lang="en">{{ w.title }}</span><span class="l-fr" lang="fr">{{ w.title_fr }}</span></a></h2>
+    <p class="l-en" lang="en">{{ w.summary }}</p><p class="l-fr" lang="fr">{{ w.summary_fr }}</p></li>
+{%- endfor %}
+</ul>

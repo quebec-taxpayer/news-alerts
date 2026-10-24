@@ -31,6 +31,14 @@ title_fr: "{fr}"
 permalink: /chronology/{id}/
 ---
 """
+PRINT_STUB = """---
+layout: dossier-print
+dossier: {id}
+title: "{en}"
+title_fr: "{fr}"
+permalink: /chronology/{id}/print/
+---
+"""
 
 def load(p): return json.load(open(p, encoding="utf-8"))
 def save(p, d):
@@ -87,6 +95,11 @@ def check(strict):
             os.makedirs(PAGES, exist_ok=True)
             open(stub, "w", encoding="utf-8").write(STUB.format(id=d["id"], en=d["name_en"].replace('"', "'"), fr=d["name_fr"].replace('"', "'")))
             print(f"created {os.path.relpath(stub, ROOT)}")
+        pstub = os.path.join(PAGES, "print", d["id"] + ".html")  # printable fact sheet
+        if not os.path.exists(pstub):
+            os.makedirs(os.path.dirname(pstub), exist_ok=True)
+            open(pstub, "w", encoding="utf-8").write(PRINT_STUB.format(id=d["id"], en=d["name_en"].replace('"', "'"), fr=d["name_fr"].replace('"', "'")))
+            print(f"created {os.path.relpath(pstub, ROOT)}")
     for f in os.listdir(PAGES) if os.path.isdir(PAGES) else []:
         if f.endswith(".html") and f != "index.html" and f[:-5] not in seen: warns.append(f"ORPHAN stub chronology/{f}")
     by = {d["id"]: d for d in data["dossiers"]}

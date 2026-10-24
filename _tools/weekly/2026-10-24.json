@@ -1,0 +1,48 @@
+{
+ "start": "2026-10-21",
+ "end": "2026-10-24",
+ "intro_en": "The first week of the new Parti Québécois government, in five stories. Chosen for their effect on public money and public services, and for how much follow-up they got during the week.",
+ "intro_fr": "La première semaine du nouveau gouvernement du Parti Québécois, en cinq nouvelles. Choisies pour leur effet sur les fonds et les services publics, et pour le nombre de suivis qu’elles ont eus pendant la semaine.",
+ "picks": [
+  {
+   "match": "conseil-ministres-paul-plamondon-pq",
+   "plain_en": "Paul St-Pierre Plamondon’s new government took office with a smaller cabinet of 22 ministers.",
+   "plain_fr": "Le nouveau gouvernement de Paul St-Pierre Plamondon est entré en fonction avec un Conseil des ministres réduit de 22 membres.",
+   "title_en": "A new, smaller government",
+   "title_fr": "Un nouveau gouvernement, plus petit"
+  },
+  {
+   "match": "rapport-accablant-pspp-devrait-abandonner",
+   "plain_en": "An expert report says the backlog of road repairs grew from $12.8B to $22.5B and recommends building no new roads. The premier says projects that are not essential will wait.",
+   "plain_fr": "Un rapport d’experts indique que le retard d’entretien des routes est passé de 12,8 G$ à 22,5 G$ et recommande de ne construire aucune nouvelle route. Le premier ministre dit que les projets non essentiels attendront.",
+   "title_en": "Roads: repairs before new projects",
+   "title_fr": "Routes : l’entretien avant les nouveaux projets"
+  },
+  {
+   "match": "panne-site-web-php",
+   "plain_en": "A flaw in PHP, a common web language, led the SAQ, the STM and the SAAQ to shut some websites as a precaution. Hydro-Québec’s online accounts are expected back on Oct. 26.",
+   "plain_fr": "Une faille dans PHP, un langage web courant, a mené la SAQ, la STM et la SAAQ à fermer certains sites par précaution. Les comptes en ligne d’Hydro-Québec devraient revenir le 26 octobre.",
+   "title_en": "Public websites shut by a computer flaw",
+   "title_fr": "Des sites publics fermés à cause d’une faille"
+  },
+  {
+   "match": "lion-electrique-toujours-au-neutre",
+   "plain_en": "After an RCMP search, electric-vehicle maker Lion still could not restart. Quebec lost more than $140M on Lion, according to La Presse. No charges have been laid.",
+   "plain_fr": "Après une perquisition de la GRC, le fabricant de véhicules électriques Lion ne pouvait toujours pas redémarrer. Selon La Presse, Québec a perdu plus de 140 M$ dans Lion. Aucune accusation n’a été déposée.",
+   "title_en": "Lion Électrique: police probe, public money lost",
+   "title_fr": "Lion Électrique : enquête policière, fonds publics perdus"
+  },
+  {
+   "match": "sante-quebec-ne-fait-plus-partie-des-cartons",
+   "plain_en": "The new health minister promises to abolish Santé Québec, the agency that runs the public health network, gradually. No bill has been tabled yet.",
+   "plain_fr": "La nouvelle ministre de la Santé promet d’abolir graduellement Santé Québec, l’agence qui gère le réseau public de santé. Aucun projet de loi n’a encore été déposé.",
+   "title_en": "Santé Québec to be abolished, step by step",
+   "title_fr": "Santé Québec sera abolie, étape par étape"
+  }
+ ],
+ "also": [
+  "itinerance-pspp-budget-urgence-deces-sorel",
+  "contrats-publics-50-des-contrats-ti",
+  "judicial-recount-vachon-recount-parti-quebecois"
+ ]
+}

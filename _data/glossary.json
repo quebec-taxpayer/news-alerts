@@ -1,0 +1,201 @@
+{
+ "_comment": "Glossary / Lexique. Short neutral definitions with an official source where one exists. 'match_en'/'match_fr' are the phrases auto-marked (first occurrence per page) in dossier and story text; longest phrases are tried first. Validate with `python3 _tools/plain.py --strict`.",
+ "terms": [
+  {
+   "id": "ccaa",
+   "term_en": "CCAA (Companies’ Creditors Arrangement Act)",
+   "term_fr": "LACC (Loi sur les arrangements avec les créanciers des compagnies)",
+   "def_en": "A federal law that lets an insolvent company keep operating under court supervision while it tries to reach an arrangement with its creditors.",
+   "def_fr": "Loi fédérale qui permet à une entreprise insolvable de poursuivre ses activités sous la supervision du tribunal pendant qu’elle tente de conclure un arrangement avec ses créanciers.",
+   "source_en": "https://laws-lois.justice.gc.ca/eng/acts/c-36/",
+   "source_fr": "https://laws-lois.justice.gc.ca/fra/lois/c-36/",
+   "source_label": "Justice Laws Website / Site Web de la législation (Justice), L.R.C. 1985, c. C-36",
+   "match_en": [
+    "Companies’ Creditors Arrangement Act",
+    "CCAA",
+    "creditor protection"
+   ],
+   "match_fr": [
+    "Loi sur les arrangements avec les créanciers des compagnies",
+    "LACC",
+    "protection de ses créanciers",
+    "protection contre ses créanciers"
+   ]
+  },
+  {
+   "id": "vg",
+   "term_en": "Auditor General of Québec",
+   "term_fr": "Vérificateur général du Québec",
+   "def_en": "An independent officer named by the National Assembly (by a two-thirds vote, for one 10-year term) who audits how public funds and property are used and reports findings and recommendations.",
+   "def_fr": "Personne désignée par l’Assemblée nationale (aux deux tiers des voix, pour un mandat unique de 10 ans) qui vérifie l’utilisation des fonds et biens publics et publie ses constatations et recommandations.",
+   "source_en": "https://www.vgq.qc.ca/fr/organisation",
+   "source_fr": "https://www.vgq.qc.ca/fr/organisation",
+   "source_label": "Vérificateur général du Québec — Organisation",
+   "match_en": [
+    "Auditor General"
+   ],
+   "match_fr": [
+    "Vérificateur général",
+    "vérificatrice générale"
+   ]
+  },
+  {
+   "id": "gre-a-gre",
+   "term_en": "Sole-source (untendered) contract",
+   "term_fr": "Contrat de gré à gré",
+   "def_en": "A contract a public body awards directly to a supplier without a public call for tenders. Above the legal thresholds this is allowed only in listed cases, such as an emergency or when only one supplier is possible.",
+   "def_fr": "Contrat qu’un organisme public conclut directement avec un fournisseur, sans appel d’offres public. Au-delà des seuils prévus par la loi, c’est permis seulement dans certains cas, comme une urgence ou un seul fournisseur possible.",
+   "source_en": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-65.1",
+   "source_fr": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-65.1",
+   "source_label": "Act respecting contracting by public bodies / Loi sur les contrats des organismes publics (C-65.1), art. 10 and 13",
+   "match_en": [
+    "untendered",
+    "sole-source",
+    "without a call for tenders"
+   ],
+   "match_fr": [
+    "de gré à gré",
+    "gré à gré",
+    "sans appel d’offres"
+   ]
+  },
+  {
+   "id": "crown",
+   "term_en": "Crown corporation",
+   "term_fr": "Société d’État",
+   "def_en": "A company owned by the government that runs a business or public service, such as Hydro-Québec, the SAQ or the Société des traversiers du Québec. Its decisions involve public money.",
+   "def_fr": "Entreprise appartenant au gouvernement qui exploite une activité commerciale ou un service public, comme Hydro-Québec, la SAQ ou la Société des traversiers du Québec. Ses décisions engagent des fonds publics.",
+   "source_en": null,
+   "source_fr": null,
+   "source_label": null,
+   "match_en": [
+    "Crown corporation",
+    "state-owned"
+   ],
+   "match_fr": [
+    "sociétés d’État",
+    "société d’État"
+   ]
+  },
+  {
+   "id": "upac",
+   "term_en": "UPAC (Anti-Corruption Unit)",
+   "term_fr": "UPAC (Unité permanente anticorruption)",
+   "def_en": "A group of public bodies created by the Quebec government in 2011, led by the Commissaire à la lutte contre la corruption, that prevents, audits and investigates corruption.",
+   "def_fr": "Regroupement d’organismes publics créé par le gouvernement du Québec en 2011, sous la responsabilité du Commissaire à la lutte contre la corruption, qui prévient la corruption, effectue des vérifications et enquête.",
+   "source_en": "https://upac.gouv.qc.ca/decouvrir-lupac/",
+   "source_fr": "https://upac.gouv.qc.ca/decouvrir-lupac/",
+   "source_label": "UPAC — Découvrir l’UPAC",
+   "match_en": [
+    "UPAC"
+   ],
+   "match_fr": [
+    "UPAC"
+   ]
+  },
+  {
+   "id": "amf",
+   "term_en": "AMF (Autorité des marchés financiers)",
+   "term_fr": "AMF (Autorité des marchés financiers)",
+   "def_en": "Quebec’s financial-sector regulator, created on Feb. 1, 2004. It oversees insurance, securities, derivatives, deposit institutions (other than banks) and the distribution of financial products, and helps consumers. It is funded by fees.",
+   "def_fr": "Organisme de réglementation du secteur financier québécois, créé le 1er février 2004. Il encadre l’assurance, les valeurs mobilières, les dérivés, les institutions de dépôt (sauf les banques) et la distribution de produits financiers, et aide les consommateurs. Il est financé par des droits.",
+   "source_en": "https://lautorite.qc.ca/grand-public/a-propos-de-lautorite",
+   "source_fr": "https://lautorite.qc.ca/grand-public/a-propos-de-lautorite",
+   "source_label": "Autorité des marchés financiers — About / À propos",
+   "match_en": [
+    "Autorité des marchés financiers",
+    "AMF"
+   ],
+   "match_fr": [
+    "Autorité des marchés financiers",
+    "AMF"
+   ]
+  },
+  {
+   "id": "tmf",
+   "term_en": "Financial markets tribunal (TMF)",
+   "term_fr": "Tribunal administratif des marchés financiers (TMF)",
+   "def_en": "An administrative tribunal created in 2003 (formerly the Bureau de décision et de révision) that hears and decides financial-sector cases, such as penalties for selling securities without a prospectus.",
+   "def_fr": "Tribunal administratif créé en 2003 (anciennement le Bureau de décision et de révision) qui entend et tranche des dossiers du secteur financier, comme des sanctions pour des placements sans prospectus.",
+   "source_en": "https://tmf.gouv.qc.ca/a-propos-du-tribunal/",
+   "source_fr": "https://tmf.gouv.qc.ca/a-propos-du-tribunal/",
+   "source_label": "TMF — Historique et rôle",
+   "match_en": [
+    "financial markets tribunal",
+    "TMF"
+   ],
+   "match_fr": [
+    "Tribunal administratif des marchés financiers",
+    "TMF"
+   ]
+  },
+  {
+   "id": "commission",
+   "term_en": "Commission of inquiry",
+   "term_fr": "Commission d’enquête",
+   "def_en": "An inquiry the government can set up under Quebec’s Act respecting public inquiry commissions. Commissioners can compel witnesses and documents, with powers like a Superior Court judge, and report to the government.",
+   "def_fr": "Enquête que le gouvernement peut instituer en vertu de la Loi sur les commissions d’enquête. Les commissaires peuvent contraindre des témoins et exiger des documents, avec des pouvoirs semblables à ceux d’un juge de la Cour supérieure, et font rapport au gouvernement.",
+   "source_en": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-37",
+   "source_fr": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/C-37",
+   "source_label": "Act respecting public inquiry commissions / Loi sur les commissions d’enquête (C-37)",
+   "match_en": [
+    "commission of inquiry",
+    "public inquiry"
+   ],
+   "match_fr": [
+    "commission d’enquête"
+   ]
+  },
+  {
+   "id": "dma",
+   "term_en": "Asset-maintenance deficit",
+   "term_fr": "Déficit de maintien d’actifs",
+   "def_en": "The estimated value of the work needed to bring public infrastructure rated in poor or very poor condition (D or E) back to at least a satisfactory state (A, B or C).",
+   "def_fr": "Valeur estimée des travaux requis pour ramener une infrastructure publique en mauvais ou très mauvais état (indice D ou E) à un état au moins satisfaisant (A, B ou C).",
+   "source_en": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/secretariat-du-conseil-du-tresor/publications-adm/budgets/2026-2027/6_plan_quebecois_infrastructures.pdf",
+   "source_fr": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/secretariat-du-conseil-du-tresor/publications-adm/budgets/2026-2027/6_plan_quebecois_infrastructures.pdf",
+   "source_label": "Plan québécois des infrastructures 2026-2036 (Secrétariat du Conseil du trésor), glossaire",
+   "match_en": [
+    "asset-maintenance deficit",
+    "asset maintenance deficit",
+    "asset deficit"
+   ],
+   "match_fr": [
+    "déficit de maintien d’actifs",
+    "déficit d’actifs"
+   ]
+  },
+  {
+   "id": "recount",
+   "term_en": "Judicial recount",
+   "term_fr": "Recomptage judiciaire",
+   "def_en": "A recount of a riding’s ballots carried out under a judge’s authority after a close election result.",
+   "def_fr": "Nouveau dépouillement des bulletins d’une circonscription, fait sous l’autorité d’un juge après un résultat serré.",
+   "source_en": null,
+   "source_fr": null,
+   "source_label": null,
+   "match_en": [
+    "judicial recount"
+   ],
+   "match_fr": [
+    "recomptage judiciaire"
+   ]
+  },
+  {
+   "id": "injunction",
+   "term_en": "Interlocutory injunction",
+   "term_fr": "Injonction interlocutoire",
+   "def_en": "A temporary court order asked for while a case is pending, for example to suspend a law until the court decides the case on its merits.",
+   "def_fr": "Ordonnance temporaire du tribunal demandée pendant qu’une cause est en cours, par exemple pour suspendre une loi jusqu’à la décision sur le fond.",
+   "source_en": null,
+   "source_fr": null,
+   "source_label": null,
+   "match_en": [
+    "interlocutory injunction"
+   ],
+   "match_fr": [
+    "injonction interlocutoire"
+   ]
+  }
+ ]
+}

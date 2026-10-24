@@ -9,6 +9,10 @@ Usage:
 Data files:
   _data/money.json   "The money, in human terms": sourced amounts ÷ the latest ISQ population.
   _data/why.json     "Why it matters": {story_url: {en, fr}}, one plain factual sentence per published story.
+  _data/glossary.json  Glossary terms (definitions, official source, phrases auto-marked on pages).
+  _data/upcoming.json  "What's next" dates (only dates stated in a cited source).
+  _data/promises.json  "Promised vs delivered" pairs (both values sourced).
+  _tools/weekly/*.json Weekly roundup specs (see _tools/weekly.py).
 """
 import json, math, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -53,6 +57,7 @@ def per_person(item, pop):
 
 def compute(d):
     pop = d["population"]["value"]; warns = []
+    d["population"]["value_en"], d["population"]["value_fr"] = _grp(pop, ","), _grp(pop, "\u00a0")
     for it in d["items"]:
         for k in ("id", "dossier", "amount", "qualifier", "label_en", "label_fr", "source_title", "source_outlet", "source_url"):
             if it.get(k) in (None, ""): warns.append(f"money {it.get('id')}: missing {k}")
@@ -94,7 +99,7 @@ def published():
     out = {}
     for f in sorted(glob.glob(os.path.join(ROOT, "_posts", "*-digest.md"))):
         day = os.path.basename(f)[:10]
-        for u in re.findall(r'<article class="story">\s*<h3><a href="([^"]+)"', open(f, encoding="utf-8").read()):
+        for u in re.findall(r'<article class="story"[^>]*>\s*<h3><a href="([^"]+)"', open(f, encoding="utf-8").read()):
             out[__import__("html").unescape(u)] = day
     return out
 
@@ -111,6 +116,69 @@ def check_why():
             if len(e.get(lg, "")) > 260: w.append(f"why: {lg} line over 260 characters for {u}")
     return w
 
+def valid_date(x):
+    import re as _re
+    return bool(_re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", str(x or "")))
+
+def check_glossary():
+    g, w = load("glossary.json"), []
+    if g is None: return w
+    ids = set()
+    for t in g["terms"]:
+        i = t.get("id")
+        if i in ids: w.append(f"glossary: duplicate id {i}")
+        ids.add(i)
+        for k in ("term_en", "term_fr", "def_en", "def_fr", "match_en", "match_fr"):
+            if not t.get(k): w.append(f"glossary {i}: missing {k}")
+        for k in ("source_en", "source_fr"):
+            if t.get(k) and not str(t[k]).startswith("http"): w.append(f"glossary {i}: bad {k}")
+        if len(t.get("def_en", "")) > 300: w.append(f"glossary {i}: definition over 300 characters (keep it short)")
+    seen = {}
+    for t in g["terms"]:
+        for lg in ("en", "fr"):
+            for m in t.get("match_" + lg, []):
+                if seen.get((lg, m.lower()), t["id"]) != t["id"]: w.append(f"glossary: phrase '{m}' used by {seen[(lg, m.lower())]} and {t['id']}")
+                seen[(lg, m.lower())] = t["id"]
+    return w
+
+def check_upcoming():
+    u, w = load("upcoming.json"), []
+    if u is None: return w
+    dossiers = {x["id"] for x in load("dossiers.json")["dossiers"]}
+    for it in u["items"]:
+        i = it.get("id")
+        for k in ("id", "date", "kind", "en", "fr", "source_title", "source_outlet", "source_url", "pages"):
+            if not it.get(k): w.append(f"upcoming {i}: missing {k}")
+        if not valid_date(it.get("date")) or len(str(it.get("date"))) == 7: w.append(f"upcoming {i}: date must be YYYY-MM-DD or YYYY")
+        if it.get("kind") not in ("on", "by", "year"): w.append(f"upcoming {i}: kind must be on|by|year")
+        if it.get("kind") == "year" and len(str(it.get("date"))) != 4: w.append(f"upcoming {i}: kind=year needs a YYYY date")
+        for pg in it.get("pages", []):
+            if pg != "home" and pg not in dossiers: w.append(f"upcoming {i}: unknown page {pg}")
+    return w
+
+def check_promises():
+    pr, w = load("promises.json"), []
+    if pr is None: return w
+    dossiers = {x["id"] for x in load("dossiers.json")["dossiers"]}
+    for it in pr["items"]:
+        i = it.get("id")
+        for k in ("id", "dossier", "type", "item_en", "item_fr", "announced_en", "announced_fr", "announced_source_url",
+                  "announced_source_outlet", "actual_en", "actual_fr", "actual_source_url", "actual_source_outlet", "actual_date"):
+            if not it.get(k): w.append(f"promises {i}: missing {k} (both values must be sourced)")
+        if it.get("type") not in ("cost", "deadline", "outcome"): w.append(f"promises {i}: type must be cost|deadline|outcome")
+        if it.get("dossier") not in dossiers: w.append(f"promises {i}: unknown dossier")
+        for k in ("announced_source_url", "actual_source_url"):
+            if it.get(k) and not str(it[k]).startswith("http"): w.append(f"promises {i}: bad {k}")
+    return w
+
+def check_weekly():
+    import glob
+    w = []
+    for f in sorted(glob.glob(os.path.join(ROOT, "_tools", "weekly", "*.json"))):
+        k = os.path.basename(f)[:-5]
+        if not os.path.exists(os.path.join(ROOT, "_weekly", k + ".md")): w.append(f"weekly {k}: spec has no generated _weekly/{k}.md (run _tools/weekly.py {k})")
+    return w
+
 def main():
     a = sys.argv[1:] or ["check"]
     strict = "--strict" in a
@@ -118,9 +186,13 @@ def main():
         w = check_money()
         for it in load("money.json")["items"]: print(f"  {it['id']:<22} {it['calc_en']}")
     else:
-        w = check_money() + check_why()
+        w = check_money() + check_why() + check_glossary() + check_upcoming() + check_promises() + check_weekly()
     pub = published(); why = load("why.json", {}); m = load("money.json", {"items": []})
-    print(f"stories={len(pub)} why={sum(1 for u in pub if u in why)} money_items={len(m['items'])}")
+    g = load("glossary.json", {"terms": []}); u = load("upcoming.json", {"items": []}); pr = load("promises.json", {"items": []})
+    import glob
+    wk = len(glob.glob(os.path.join(ROOT, "_weekly", "*.md")))
+    print(f"stories={len(pub)} why={sum(1 for u_ in pub if u_ in why)} money_items={len(m['items'])} "
+          f"glossary_terms={len(g['terms'])} upcoming={len(u['items'])} promise_pairs={len(pr['items'])} weekly={wk}")
     for x in w: print("WARN", x)
     if strict and w: sys.exit(1)
 

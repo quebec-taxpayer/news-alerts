@@ -28,7 +28,11 @@ JavaScript is off). The choice is remembered in the browser (localStorage key `q
    (`"<story url>": {"en": "…", "fr": "…"}`) — one factual sentence on the concrete effect on ordinary people,
    taken only from that story; if the effect is unclear, write a neutral factual line instead. (Alternatively put
    `💡🇫🇷 …` / `💡🇬🇧 …` lines under the story's URL in the .txt.) If a story gives a large public-money figure,
-   consider a *money in human terms* item (see below). Then rerun `gen.py` and `python3 _tools/plain.py --strict`.
+   consider a *money in human terms* item (see below). Also, when a story warrants it:
+   update the dossier's `tldr.now` (In 30 seconds); add any new **dated** next step to `_data/upcoming.json`
+   (only dates stated by the source); add a glossary term (and its match phrases) to `_data/glossary.json` if a story
+   uses jargon readers may not know; add a *promised vs delivered* pair only when both values are sourced.
+   Then rerun `gen.py`, `python3 _tools/chrono.py --strict` and `python3 _tools/plain.py --strict`.
 4. Commit and push to `main`. Home, archive and topics update automatically (about 1 minute).
 
 **Option B – by hand.** Copy an existing `_posts/…-digest.md`, update the front matter
@@ -105,6 +109,33 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
   litigation or multi-year cumulative totals that are not comparable with one year's population.
   When ISQ publishes a new population estimate, update the `population` block (value, as_of, source_updated) and rerun.
   Items show on their dossier page and under their story (rerun `gen.py` for posts).
+
+- **Glossary / Lexique** (`/glossary/` + tap tooltips): `_data/glossary.json`. Each term: `id`, `term_en/fr`,
+  `def_en/fr` (one or two plain sentences, nothing beyond what the official source says), `source_label`,
+  `source_en/fr` (official page URL; `null` if none),
+  `match_en`/`match_fr` (exact phrases to mark in text, longest first; avoid generic words). `assets/js/plain.js`
+  wraps the first match per term and language in timelines, story summaries, Why-it-matters lines, In-30-seconds
+  boxes and weekly items; tapping shows the definition (Esc / tap outside closes). `plain.py` warns about a
+  phrase claimed by two terms.
+- **What's next / Prochaines étapes**: `_data/upcoming.json`. Each item: `id`, `date` (`YYYY-MM-DD` or `YYYY`),
+  `kind` (`on` = on that day, `by` = by that date, `year` = sometime that year), `en`/`fr`, `source_title/outlet/url`,
+  `pages` (`home` and/or dossier ids). Only dates a cited source states. The page JS compares with today
+  (America/Toronto) and moves passed items under a collapsed *Past / Passé*; delete items about a month after they pass.
+- **Promised vs delivered / Promis vs réalisé** (`/promises/` and the dossier page): `_data/promises.json`
+  `items[]`: `id`, `dossier`, `type` (`cost|date|outcome`), `item_en/fr`, `announced_en/fr` + `announced_source_*`,
+  `actual_en/fr` + `actual_source_*` + `actual_date`. Both sides must come from cited sources — no estimates.
+- **Printable fact sheet** (`/chronology/<id>/print/`): layout `_layouts/dossier-print.html`, one Letter/A4 page:
+  In 30 seconds, key figures, timeline, main names, sources. `chrono.py` creates the stub
+  `chronology/print/<id>.html` for new dossiers automatically. Check long dossiers still fit on one page (print preview).
+
+## Weekly roundup (every Sunday)
+`/weekly/` lists roundups; each lives at `/weekly/<sunday-or-end-date>/`.
+1. Write `_tools/weekly/YYYY-MM-DD.json` (YYYY-MM-DD = last day covered): `start`, `end`, `intro_en/fr`,
+   `picks` (exactly 5: `match` = a unique fragment of a published story URL from that week, `title_en/fr`,
+   `plain_en/fr` — two plain sentences taken only from the story) and optional `also` (match strings).
+2. `python3 _tools/weekly.py YYYY-MM-DD` writes `_weekly/YYYY-MM-DD.md` with links to each story in its daily digest
+   (anchors `#s-<id>`). It reports an error if a `match` finds no story or more than one.
+3. `python3 _tools/plain.py --strict`, build/preview, commit, push.
 
 ## Local preview
 `bundle install && bundle exec jekyll serve` then open http://127.0.0.1:4000/news-alerts/

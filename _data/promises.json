@@ -1,0 +1,26 @@
+{
+ "_comment": "Promised vs delivered / Promis vs réalisé. Only pairs where BOTH the announced value and the actual (or latest official) value are stated in a cited source. Never estimate. type: cost|deadline|outcome. Validate with `python3 _tools/plain.py --strict`.",
+ "items": [
+  {"id": "saaqclic-cost-vgq", "dossier": "saaqclic", "type": "cost",
+   "item_en": "Cost of the SAAQ’s CASA program (SAAQclic)", "item_fr": "Coût du programme CASA de la SAAQ (SAAQclic)",
+   "announced_en": "$638M — 10-year budget estimated in 2017", "announced_fr": "638 M$ — budget sur 10 ans estimé en 2017",
+   "announced_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale", "announced_source_outlet": "Vérificateur général du Québec", "announced_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "actual_en": "At least $1.1B by March 2027 — latest official figure (a forecast); an increase of nearly $500M that was not clearly communicated, according to the Auditor General", "actual_fr": "Au moins 1,1 G$ d’ici mars 2027 — dernier chiffre officiel (une prévision); une hausse de près de 500 M$ qui n’a pas été clairement communiquée, selon le Vérificateur général",
+   "actual_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale", "actual_source_outlet": "Vérificateur général du Québec", "actual_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "actual_date": "2025-02-20"},
+  {"id": "saaqclic-cost-ministers", "dossier": "saaqclic", "type": "cost",
+   "item_en": "SAAQclic cost figure given to ministers", "item_fr": "Coût de SAAQclic présenté aux ministres",
+   "announced_en": "$682M — highest estimate given to ministers before 2025, according to former premier François Legault", "announced_fr": "682 M$ — estimation la plus élevée présentée aux ministres avant 2025, selon l’ex-premier ministre François Legault",
+   "announced_source_title": "Quebec auto board officials lied to hide costs of botched SAAQclic launch, report concludes", "announced_source_outlet": "CBC News", "announced_source_url": "https://www.cbc.ca/news/canada/montreal/gallant-commission-report-9.7090341",
+   "actual_en": "$1.1B — revised estimate", "actual_fr": "1,1 G$ — estimation révisée",
+   "actual_source_title": "Quebec auto board officials lied to hide costs of botched SAAQclic launch, report concludes", "actual_source_outlet": "CBC News", "actual_source_url": "https://www.cbc.ca/news/canada/montreal/gallant-commission-report-9.7090341",
+   "actual_date": "2026-02-16"},
+  {"id": "saaqclic-services", "dossier": "saaqclic", "type": "outcome",
+   "item_en": "Service to road users after the switch to SAAQclic (Feb. 2023)", "item_fr": "Service aux usagers de la route après le passage à SAAQclic (février 2023)",
+   "announced_en": "Modernized systems and better online services through SAAQclic (the program’s expected benefits)", "announced_fr": "Des systèmes modernisés et de meilleurs services en ligne grâce à SAAQclic (bénéfices attendus du programme)",
+   "announced_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale", "announced_source_outlet": "Vérificateur général du Québec", "announced_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "actual_en": "Counter service takes longer than before; SAAQclic online services are used by fewer road users than the old ones; the expected benefits have not yet been generated; about 20% of final integrated tests were not done at launch", "actual_fr": "Le service au comptoir prend plus de temps qu’avant; les services en ligne de SAAQclic sont utilisés par moins d’usagers que les anciens; les bénéfices attendus ne sont pas encore générés; environ 20 % des tests intégrés finaux n’avaient pas été faits au lancement",
+   "actual_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale", "actual_source_outlet": "Vérificateur général du Québec", "actual_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "actual_date": "2025-02-20"}
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "_comment": "What's next / À surveiller. Only dates stated in a cited source. date: YYYY-MM-DD or YYYY; kind: on (happens that day), by (deadline: by that date), year (sometime that year). The page script moves an item to 'Past' the day after its date (end of year for kind=year), so no rebuild is needed. pages: 'home' and/or dossier ids. Validate with `python3 _tools/plain.py --strict`.",
+ "items": [
+  {"id": "hq-customer-space", "date": "2026-10-26", "kind": "on", "pages": ["home", "hydro-quebec", "php-flaw"],
+   "en": "Hydro-Québec’s online Customer Space is expected to be available again (Monday).", "fr": "L’Espace client en ligne d’Hydro-Québec devrait être de nouveau accessible (lundi).",
+   "source_title": "Hydro-Québec targeted in cyber scare as global hacking fears spread", "source_outlet": "Montreal Gazette", "source_url": "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/"},
+  {"id": "hq-overtime-strike-end", "date": "2026-11-02", "kind": "on", "pages": ["home", "hydro-quebec"],
+   "en": "Scheduled end (11:59 p.m.) of the overtime strike by Hydro-Québec trades workers.", "fr": "Fin prévue (23 h 59) de la grève des heures supplémentaires des employés de métier d’Hydro-Québec.",
+   "source_title": "Hydro-Québec: les employés de métier en grève des heures supplémentaires", "source_outlet": "La Tribune", "source_url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"},
+  {"id": "oath-ruling", "date": "2026-11-24", "kind": "by", "pages": ["home", "oath-king"],
+   "en": "Superior Court ruling on the oath to the King expected by this date.", "fr": "Décision de la Cour supérieure sur le serment au roi attendue d’ici cette date.",
+   "source_title": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires", "source_outlet": "Noovo Info", "source_url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"},
+  {"id": "regie-data-centres", "date": "2026-12-07", "kind": "on", "pages": ["home", "hydro-quebec"],
+   "en": "Next Régie de l’énergie hearing on Hydro-Québec’s proposed data-centre electricity rate.", "fr": "Prochaine audience de la Régie de l’énergie sur le tarif d’électricité proposé par Hydro-Québec pour les centres de données.",
+   "source_title": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"},
+  {"id": "homelessness-summit", "date": "2027", "kind": "year", "pages": ["home", "homelessness"],
+   "en": "Summit on homelessness promised by the PQ leader during the election campaign (no date set).", "fr": "Sommet sur l’itinérance promis par le chef péquiste pendant la campagne électorale (aucune date fixée).",
+   "source_title": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel"}
+ ]
+}

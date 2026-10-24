@@ -8,6 +8,10 @@ lang: fr
 timezone: America/Toronto
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
+collections:
+  weekly:
+    output: true
+    permalink: /weekly/:name/
 fr_months: [janvier, février, mars, avril, mai, juin, juillet, août, septembre, octobre, novembre, décembre]
 topics:
   - tag: it-digital
