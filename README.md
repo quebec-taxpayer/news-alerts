@@ -139,11 +139,12 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
 
 ## SVG visuals (timeline and charts)
 
-Inline SVG and CSS only, with no libraries. The only script is `assets/js/svg-timeline.js`, which is loaded on the home page and is about 2 KB. Animations run only when `prefers-reduced-motion` is `no-preference`, and they are switched off for print.
+Inline SVG and CSS only, with no libraries. The only script is `assets/js/svg-timeline.js`, which is about 2 KB and is loaded only on dossier pages that have a `svg_timeline` (see `_layouts/default.html`). The homepage is reserved for the latest news and has no timeline. Animations run only when `prefers-reduced-motion` is `no-preference`, and they are switched off for print.
 
-### Homepage timeline (`_data/svg_timelines/<id>.json`)
+### Dossier timeline (`_data/svg_timelines/<id>.json`)
 
-- Render it with `{% include svg-timeline.html data=site.data.svg_timelines.saaqclic %}` (already in `index.html`).
+- To give a dossier a visual timeline, create `_data/svg_timelines/<id>.json` and add `"svg_timeline": "<id>"` to that dossier in `_data/dossiers.json`. The dossier page then shows it just after the "In 30 seconds" box, followed by the dossier's charts and then the detailed event list. The script loads automatically, and the Chronology index shows a "Visual timeline" badge. Example: `saaqclic`. On such dossiers, the detailed event list is wrapped in a `<details>` element ("Detailed timeline with all sources / Chronologie détaillée et sources"). It is closed on phones (720 px or less) so the steps aren't repeated, and always open on desktop, without JS and in print.
+- Manual use: `{% include svg-timeline.html data=site.data.svg_timelines.saaqclic %}` (also add the script tag on that page).
 - Top-level fields are `id`, `title_en`/`title_fr`, `desc_en`/`desc_fr`, `legend` and `events`.
 - Each event has these fields:
   - `id` and `date` (`YYYY-MM-DD`, or `YYYY` when only the year is known);
@@ -175,7 +176,7 @@ Inline SVG and CSS only, with no libraries. The only script is `assets/js/svg-ti
 }
 ```
 
-- **Automatic:** a chart whose `dossier` matches a chronology dossier id appears on that dossier page, after the money list.
+- **Automatic:** a chart whose `dossier` matches a chronology dossier id appears on that dossier page, after the visual timeline (if any) and before the detailed event list.
 - **Manual:** call `{% include svg-chart.html data=site.data.charts.saaqclic_cost %}` anywhere.
 - `"render": false` keeps a chart out of the live site. Use it for placeholders, e.g. `example_placeholder.json`. Add `force=true` to the include only for local tests.
 - `"verified": false` gives a hatched bar with a dashed red outline and the label "Unverified / Non vérifié", in both the chart and the source list.

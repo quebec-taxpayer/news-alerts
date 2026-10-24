@@ -17,6 +17,10 @@ section: chronology
     </dl>
   </section>
   {%- endif %}
+  {%- if d.svg_timeline %}{%- assign tld = site.data.svg_timelines[d.svg_timeline] %}{%- if tld %}
+  {% include svg-timeline.html data=tld %}
+  {%- endif %}{%- endif %}
+  {%- for ch in site.data.charts %}{%- assign chd = ch[1] %}{%- if chd.dossier == d.id %}{% include svg-chart.html data=chd %}{% endif %}{%- endfor %}
   <p class="dossier-print"><a href="{{ '/chronology/' | append: d.id | append: '/print/' | relative_url }}"><span class="l-en" lang="en">Printable fact sheet</span><span class="l-fr" lang="fr">Fiche imprimable</span></a></p>
   {% include upcoming.html key=d.id %}
   {%- assign mitems = site.data.money.items | where: "dossier", d.id %}
@@ -25,13 +29,16 @@ section: chronology
   {%- for it in mitems %}{% include money.html item=it %}{% endfor %}
   </section>
   {%- endif %}
-  {%- for ch in site.data.charts %}{%- assign chd = ch[1] %}{%- if chd.dossier == d.id %}{% include svg-chart.html data=chd %}{% endif %}{%- endfor %}
   <p class="dossier-meta">{{ d.events.size }} <span class="l-en" lang="en">events, in the order they happened. Allegations are reported as such and are unproven unless stated.</span><span class="l-fr" lang="fr">événements, dans l’ordre où ils se sont produits. Les allégations sont présentées comme telles et ne sont pas prouvées, sauf mention contraire.</span></p>
   {%- if d.entities.size > 0 %}
   <p class="dossier-ents"><span class="l-en" lang="en">Names in this dossier (see the network map):</span><span class="l-fr" lang="fr">Noms dans ce dossier (voir la carte du réseau) :</span>
     {% for eid in d.entities %}{% assign n = site.data.network.nodes | where: "id", eid | first %}{% if n %}<a href="{{ '/network/' | relative_url }}#{{ n.id }}">{{ n.name }}</a>{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}</p>
   {%- endif %}
   {% include promises.html dossier=d.id %}
+  {%- if d.svg_timeline %}
+  <details class="dossier-detail" open data-dossier-detail>
+    <summary><span class="l-en" lang="en">Detailed timeline with all sources</span><span class="l-fr" lang="fr">Chronologie détaillée et sources</span></summary>
+  {%- endif %}
   <ol class="timeline">
   {%- for e in d.events %}
     {%- assign yr = e.date | slice: 0, 4 -%}
@@ -45,4 +52,7 @@ section: chronology
     </li>
   {%- endfor %}
   </ol>
+  {%- if d.svg_timeline %}
+  </details>
+  {%- endif %}
 </article>

@@ -2,7 +2,7 @@
 {%- assign up = "" | split: "" -%}
 {%- for it in site.data.upcoming.items -%}{%- if it.pages contains include.key -%}{%- assign up = up | push: it -%}{%- endif -%}{%- endfor -%}
 {%- if up.size > 0 %}
-<section class="callout upcoming" aria-labelledby="up-h-{{ include.key }}" data-upcoming>
+<section class="callout upcoming{% if include.compact %} upcoming-compact{% endif %}" aria-labelledby="up-h-{{ include.key }}" data-upcoming>
   <h2 id="up-h-{{ include.key }}" class="callout-label"><span class="l-en" lang="en">What’s next</span><span class="l-fr" lang="fr">À surveiller</span></h2>
   <ul class="up-list up-future">
   {%- for it in up %}

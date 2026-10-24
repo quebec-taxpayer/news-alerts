@@ -417,3 +417,21 @@ a.tl-ev:hover .tl-lab, a.tl-ev:focus-visible .tl-lab { text-decoration: underlin
 }
 .svg-tl-svg a, .svg-tl-svg text { text-decoration: none; }
 .svg-tl-svg a.tl-ev:hover .tl-lab, .svg-tl-svg a.tl-ev:focus-visible .tl-lab { text-decoration: underline; }
+
+/* Homepage: compact What's next after the latest stories; dossier visual-timeline badge */
+.upcoming-compact { margin: 1.5em 0; padding: .7em 1em; font-size: .92em; }
+.upcoming-compact .callout-label { font-size: 1em; margin: 0 0 .3em; }
+.upcoming-compact .up-list { margin: .2em 0; }
+.upcoming-compact .up-note { font-size: .85em; margin: .3em 0 0; }
+.home-earlier { font-family: Arial, Helvetica, sans-serif; font-size: 1.1em; margin: 2.2em 0 .5em; }
+.vis-badge { display: inline-block; vertical-align: middle; font-family: Arial, Helvetica, sans-serif; font-size: .6em; font-weight: 700; color: #0b3d91; border: 1.5px solid #0b3d91; background: #fff8d6; padding: .1em .45em; border-radius: 3px; margin-left: .3em; white-space: nowrap; }
+.dossier .svg-tl { margin-top: 1.5em; }
+
+/* Dossier detailed list: collapsible on phones only (see svg-timeline.js) */
+.dossier-detail > summary { display: none; }
+@media (max-width: 720px) {
+  .dossier-detail > summary { display: list-item; cursor: pointer; font-family: Arial, Helvetica, sans-serif; font-weight: 700; font-size: 1.05em; color: #0b3d91; padding: .7em 0; border-top: 2px solid #0b3d91; border-bottom: 1px solid #ccc; }
+  .dossier-detail[open] > summary { margin-bottom: .8em; }
+}
+@media print { .dossier-detail > summary { display: none !important; } }
+@media print { .dossier-detail::details-content { content-visibility: visible; display: block; height: auto; } }

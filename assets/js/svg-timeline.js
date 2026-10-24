@@ -42,3 +42,16 @@
     });
   });
 })();
+
+/* Dossier pages with a visual timeline: on phones, the detailed event list starts closed to avoid repeating the steps; always open on desktop and in print. */
+(function () {
+  var dd = document.querySelectorAll("[data-dossier-detail]");
+  if (!dd.length || !window.matchMedia) return;
+  var phone = window.matchMedia("(max-width: 720px)");
+  function set() { Array.prototype.forEach.call(dd, function (d) { if (phone.matches) d.removeAttribute("open"); else d.setAttribute("open", ""); }); }
+  set();
+  if (phone.addEventListener) phone.addEventListener("change", set); else if (phone.addListener) phone.addListener(set);
+  var was = [];
+  window.addEventListener("beforeprint", function () { was = Array.prototype.map.call(dd, function (d) { return d.open; }); Array.prototype.forEach.call(dd, function (d) { d.setAttribute("open", ""); }); });
+  window.addEventListener("afterprint", function () { Array.prototype.forEach.call(dd, function (d, i) { if (!was[i]) d.removeAttribute("open"); }); });
+})();

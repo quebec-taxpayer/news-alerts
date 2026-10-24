@@ -5,13 +5,6 @@ layout: default
 <p class="l-en" lang="en">Today’s Quebec governance news, summarized in English and French, with a link to every source.</p>
 <p class="l-fr" lang="fr">Les nouvelles du jour sur la gouvernance au Québec, résumées en français et en anglais, avec un lien vers chaque source.</p>
 
-{% include upcoming.html key="home" %}
-
-{% include svg-timeline.html data=site.data.svg_timelines.saaqclic %}
-{%- assign lastweek = site.weekly | sort: "date" | last %}
-{%- if lastweek %}
-<p class="home-weekly"><a href="{{ lastweek.url | relative_url }}"><span class="l-en" lang="en">{{ lastweek.title }}: the 5 stories that mattered most →</span><span class="l-fr" lang="fr">{{ lastweek.title_fr }} : les 5 nouvelles les plus importantes →</span></a></p>
-{%- endif %}
 
 {% for post in site.posts %}
   <section class="day">
@@ -25,4 +18,14 @@ layout: default
       <p><a href="{{ post.url | relative_url }}"><span class="l-en" lang="en">Read the digest →</span><span class="l-fr" lang="fr">Lire le digest →</span></a></p>
     {% endif %}
   </section>
+  {%- if forloop.first %}
+  {%- assign lastweek = site.weekly | sort: "date" | last %}
+  {%- if lastweek %}
+  <p class="home-weekly"><a href="{{ lastweek.url | relative_url }}"><span class="l-en" lang="en">{{ lastweek.title }}: the 5 stories that mattered most →</span><span class="l-fr" lang="fr">{{ lastweek.title_fr }} : les 5 nouvelles les plus importantes →</span></a></p>
+  {%- endif %}
+  {% include upcoming.html key="home" compact=true %}
+  {%- if site.posts.size > 1 %}
+  <h2 class="home-earlier"><span class="l-en" lang="en">Earlier days</span><span class="l-fr" lang="fr">Jours précédents</span></h2>
+  {%- endif %}
+  {%- endif %}
 {% endfor %}

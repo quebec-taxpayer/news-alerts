@@ -20,7 +20,7 @@
 {% include footer.html %}
 <script type="application/json" id="gl-data">{{ site.data.glossary.terms | jsonify }}</script>
 <script src="{{ '/assets/js/plain.js' | relative_url }}" data-base="{{ site.baseurl }}" defer></script>
-{%- if page.url == "/" %}<script src="{{ '/assets/js/svg-timeline.js' | relative_url }}" defer></script>{% endif %}
+{%- if page.layout == "dossier" and page.dossier %}{%- assign svgd = site.data.dossiers.dossiers | where: "id", page.dossier | first %}{%- if svgd.svg_timeline %}<script src="{{ '/assets/js/svg-timeline.js' | relative_url }}" defer></script>{% endif %}{% endif %}
 <script>(function(){var h=document.documentElement,b=document.querySelectorAll("[data-set-lang]"),t=document.querySelector("title");function set(l,save){h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;for(var i=0;i<b.length;i++)b[i].setAttribute("aria-pressed",b[i].getAttribute("data-set-lang")===l?"true":"false");if(t&&t.getAttribute("data-"+l))document.title=t.getAttribute("data-"+l);if(save){try{localStorage.setItem("qgm-lang",l);}catch(e){}}}for(var i=0;i<b.length;i++)b[i].addEventListener("click",function(){set(this.getAttribute("data-set-lang"),true);});set(h.lang==="fr"?"fr":"en",false);})();</script>
 </body>
 </html>
