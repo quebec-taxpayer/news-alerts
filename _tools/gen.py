@@ -59,7 +59,7 @@ def bi(tag, fr, en, cls=""):
             f'<{tag} class="l-en{c}" lang="en">{e(en)}</{tag}>')
 
 def story_id(url):
-    """Stable anchor for a story (used by the weekly roundup to link into the daily digest)."""
+    """Stable anchor for a story (used to link straight to a story in its daily digest)."""
     import hashlib
     return "s-" + hashlib.sha1(url.encode("utf-8")).hexdigest()[:8]
 

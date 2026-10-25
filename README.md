@@ -14,6 +14,25 @@ JavaScript is off). The choice is remembered in the browser (localStorage key `q
 - Post front matter has both languages: `title` (EN), `title_fr`, `summary` (EN), `summary_fr`.
   Pages use `title` (EN) and `title_fr`.
 
+## Menu and URLs
+Menu order (EN / FR), defined in `_includes/nav.html`:
+
+| # | EN | FR | URL |
+|---|---|---|---|
+| 1 | Home | Accueil | `/` |
+| 2 | Topics | Thèmes | `/topics/` |
+| 3 | Network | Réseau | `/network/` |
+| 4 | Chronology | Chronologie | `/chronology/` |
+| 5 | Glossary | Lexique | `/glossary/` |
+| 6 | About | À propos | `/about/` (includes *Sources and method / Sources et méthode* at `/about/#sources`) |
+| 7 | Past News | Nouvelles passées | `/past-news/` (all daily digests by month; `past-news.md`) |
+
+The current section is highlighted in yellow. Daily digest posts count as *Past News*, dossier pages as
+*Chronology*; other pages use the first URL segment or a `section:` front-matter value.
+Old URLs are kept as plain redirect pages (meta refresh + link, no plugin, not in the menu):
+`/archive/` → `/past-news/` (`archive-redirect.html`) and `/sources/` → `/about/#sources` (`sources-redirect.html`).
+There is no weekly roundup section.
+
 ## Add a day
 **Option A – generator (recommended).**
 1. Save the day's digest as `/workspace/governance-digest/YYYY-MM-DD.txt` in the usual format
@@ -33,7 +52,7 @@ JavaScript is off). The choice is remembered in the browser (localStorage key `q
    (only dates stated by the source); add a glossary term (and its match phrases) to `_data/glossary.json` if a story
    uses jargon readers may not know; add a *promised vs delivered* pair only when both values are sourced.
    Then rerun `gen.py`, `python3 _tools/chrono.py --strict` and `python3 _tools/plain.py --strict`.
-4. Commit and push to `main`. Home, archive and topics update automatically (about 1 minute).
+4. Commit and push to `main`. Home, Past News and Topics update automatically (about 1 minute).
 
 **Option B – by hand.** Copy an existing `_posts/…-digest.md`, update the front matter
 (`title`, `title_fr`, `date`, `summary`, `summary_fr`, `story_count`, `tags`) and the stories,
@@ -115,7 +134,7 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
   `source_en/fr` (official page URL; `null` if none),
   `match_en`/`match_fr` (exact phrases to mark in text, longest first; avoid generic words). `assets/js/plain.js`
   wraps the first match per term and language in timelines, story summaries, Why-it-matters lines, In-30-seconds
-  boxes and weekly items; tapping shows the definition (Esc / tap outside closes). `plain.py` warns about a
+  boxes; tapping shows the definition (Esc / tap outside closes). `plain.py` warns about a
   phrase claimed by two terms.
 - **What's next / Prochaines étapes**: `_data/upcoming.json`. Each item: `id`, `date` (`YYYY-MM-DD` or `YYYY`),
   `kind` (`on` = on that day, `by` = by that date, `year` = sometime that year), `en`/`fr`, `source_title/outlet/url`,
@@ -127,15 +146,6 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
 - **Printable fact sheet** (`/chronology/<id>/print/`): layout `_layouts/dossier-print.html`, one Letter/A4 page:
   In 30 seconds, key figures, timeline, main names, sources. `chrono.py` creates the stub
   `chronology/print/<id>.html` for new dossiers automatically. Check long dossiers still fit on one page (print preview).
-
-## Weekly roundup (every Sunday)
-`/weekly/` lists roundups; each lives at `/weekly/<sunday-or-end-date>/`.
-1. Write `_tools/weekly/YYYY-MM-DD.json` (YYYY-MM-DD = last day covered): `start`, `end`, `intro_en/fr`,
-   `picks` (exactly 5: `match` = a unique fragment of a published story URL from that week, `title_en/fr`,
-   `plain_en/fr` — two plain sentences taken only from the story) and optional `also` (match strings).
-2. `python3 _tools/weekly.py YYYY-MM-DD` writes `_weekly/YYYY-MM-DD.md` with links to each story in its daily digest
-   (anchors `#s-<id>`). It reports an error if a `match` finds no story or more than one.
-3. `python3 _tools/plain.py --strict`, build/preview, commit, push.
 
 ## SVG visuals (timeline and charts)
 

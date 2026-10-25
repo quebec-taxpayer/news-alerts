@@ -1,8 +1,9 @@
 ---
 layout: page
-title: "Archive"
-title_fr: "Archives"
-permalink: /archive/
+title: "Past News"
+title_fr: "Nouvelles passées"
+permalink: /past-news/
+section: past-news
 ---
 <p class="l-en" lang="en">All digests, by month.</p>
 <p class="l-fr" lang="fr">Tous les digests, par mois.</p>

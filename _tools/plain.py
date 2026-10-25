@@ -12,7 +12,6 @@ Data files:
   _data/glossary.json  Glossary terms (definitions, official source, phrases auto-marked on pages).
   _data/upcoming.json  "What's next" dates (only dates stated in a cited source).
   _data/promises.json  "Promised vs delivered" pairs (both values sourced).
-  _tools/weekly/*.json Weekly roundup specs (see _tools/weekly.py).
 """
 import json, math, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -171,14 +170,6 @@ def check_promises():
             if it.get(k) and not str(it[k]).startswith("http"): w.append(f"promises {i}: bad {k}")
     return w
 
-def check_weekly():
-    import glob
-    w = []
-    for f in sorted(glob.glob(os.path.join(ROOT, "_tools", "weekly", "*.json"))):
-        k = os.path.basename(f)[:-5]
-        if not os.path.exists(os.path.join(ROOT, "_weekly", k + ".md")): w.append(f"weekly {k}: spec has no generated _weekly/{k}.md (run _tools/weekly.py {k})")
-    return w
-
 def main():
     a = sys.argv[1:] or ["check"]
     strict = "--strict" in a
@@ -186,13 +177,11 @@ def main():
         w = check_money()
         for it in load("money.json")["items"]: print(f"  {it['id']:<22} {it['calc_en']}")
     else:
-        w = check_money() + check_why() + check_glossary() + check_upcoming() + check_promises() + check_weekly()
+        w = check_money() + check_why() + check_glossary() + check_upcoming() + check_promises()
     pub = published(); why = load("why.json", {}); m = load("money.json", {"items": []})
     g = load("glossary.json", {"terms": []}); u = load("upcoming.json", {"items": []}); pr = load("promises.json", {"items": []})
-    import glob
-    wk = len(glob.glob(os.path.join(ROOT, "_weekly", "*.md")))
     print(f"stories={len(pub)} why={sum(1 for u_ in pub if u_ in why)} money_items={len(m['items'])} "
-          f"glossary_terms={len(g['terms'])} upcoming={len(u['items'])} promise_pairs={len(pr['items'])} weekly={wk}")
+          f"glossary_terms={len(g['terms'])} upcoming={len(u['items'])} promise_pairs={len(pr['items'])}")
     for x in w: print("WARN", x)
     if strict and w: sys.exit(1)
 

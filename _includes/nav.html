@@ -1,13 +1,12 @@
-{%- comment -%} Current section: posts count as Archive, dossier pages as Chronology. {%- endcomment -%}
+{%- comment -%} Current section: posts count as Past News, dossier pages as Chronology. {%- endcomment -%}
 {%- assign sec = page.section -%}
 {%- unless sec -%}
-  {%- if page.collection == "posts" -%}{%- assign sec = "archive" -%}
+  {%- if page.collection == "posts" -%}{%- assign sec = "past-news" -%}
   {%- elsif page.dossier -%}{%- assign sec = "chronology" -%}
-  {%- elsif page.collection == "weekly" -%}{%- assign sec = "weekly" -%}
   {%- elsif page.url == "/" or page.url == "/index.html" -%}{%- assign sec = "home" -%}
   {%- else -%}{%- assign sec = page.url | remove_first: "/" | split: "/" | first -%}{%- endif -%}
 {%- endunless -%}
-{%- assign items = "home|/|Home|Accueil;archive|/archive/|Archive|Archives;topics|/topics/|Topics|Thèmes;network|/network/|Network|Réseau;chronology|/chronology/|Chronology|Chronologie;weekly|/weekly/|Weekly|Bilan;glossary|/glossary/|Glossary|Lexique;sources|/sources/|Sources|Sources;about|/about/|About|À propos" | split: ";" -%}
+{%- assign items = "home|/|Home|Accueil;topics|/topics/|Topics|Thèmes;network|/network/|Network|Réseau;chronology|/chronology/|Chronology|Chronologie;glossary|/glossary/|Glossary|Lexique;about|/about/|About|À propos;past-news|/past-news/|Past News|Nouvelles passées" | split: ";" -%}
 <nav class="site-nav" aria-label="Navigation">
   <div class="wrap">
 {%- for it in items -%}{%- assign f = it | split: "|" %}
