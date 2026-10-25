@@ -897,6 +897,23 @@
    "name": "Ministère de la Sécurité intérieure",
    "type": "organization",
    "aliases": []
+  },
+  "mckinsey": {
+   "name": "McKinsey & Company",
+   "type": "organization",
+   "aliases": [
+    "McKinsey"
+   ]
+  },
+  "accenture": {
+   "name": "Accenture",
+   "type": "organization",
+   "aliases": []
+  },
+  "oliver-wyman": {
+   "name": "Oliver Wyman",
+   "type": "organization",
+   "aliases": []
   }
  },
  "stories": [
@@ -1667,6 +1684,19 @@
    "checked_by_hand": false,
    "dossiers": [
     "lascension"
+   ]
+  },
+  {
+   "match": "DAI-2026-0012-lettre-reponse",
+   "entities": [
+    "hydro-quebec",
+    "mckinsey",
+    "accenture",
+    "oliver-wyman"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec"
    ]
   }
  ]

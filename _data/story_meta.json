@@ -276,6 +276,11 @@
    "category": "government",
    "importance": 4,
    "title_en": "3 months after the landslide, L’Ascension is still waiting to fill its chasm"
+  },
+  "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Response to an access-to-information request (DAI-2026-0012)"
   }
  }
 }

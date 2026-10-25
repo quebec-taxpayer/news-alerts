@@ -124,6 +124,17 @@
    ],
    "events": [
     {
+     "date": "2022-10-26",
+     "en": "Radio-Canada reports that McKinsey obtained 27 Hydro-Québec contracts worth $38M since 2016 ($31M paid, $7M still to be paid for ongoing mandates), including $5.8M by mutual agreement without a call for tenders; Hydro-Québec says the solicitation method respected the regulatory framework.",
+     "fr": "Radio-Canada rapporte que McKinsey a obtenu depuis 2016 27 contrats d’Hydro-Québec d’une valeur de 38 M$ (31 M$ versés, 7 M$ à verser pour des mandats en cours), dont 5,8 M$ de gré à gré, sans appel d’offres; Hydro-Québec assure que le mode de sollicitation respecte le cadre réglementaire.",
+     "source_title": "Hydro-Québec a versé des millions de dollars à McKinsey pour l’aider à gérer ses barrages",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/1927738/mckinsey-hydro-quebec-consultants-barrages-affaires",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
      "date": "2023-04",
      "en": "A cyberattack claimed by a pro-Russian hacker group knocks Hydro-Québec’s website and outage map offline (as recalled by the Montreal Gazette).",
      "fr": "Une cyberattaque revendiquée par un groupe de pirates prorusses met hors ligne le site et la carte des pannes d’Hydro-Québec (rappel de la Montreal Gazette).",
@@ -143,6 +154,17 @@
      "source_url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/",
      "source_type": "media",
      "post": "2026-10-23",
+     "background": true
+    },
+    {
+     "date": "2026-02-27",
+     "en": "In a response to an access-to-information request, Hydro-Québec says it paid McKinsey & Company $9,000 in 2024 and $3,303,442 plus $97,560 in 2025 (strategic advice on organizational transformation, strategic support), and states that these contracts followed calls to the market.",
+     "fr": "Dans une réponse à une demande d’accès à l’information, Hydro-Québec indique avoir versé à McKinsey & Company 9 000 $ en 2024, puis 3 303 442 $ et 97 560 $ en 2025 (conseils stratégiques en transformation organisationnelle, accompagnement stratégique), et précise que ces contrats font suite à des appels au marché.",
+     "source_title": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "source_outlet": "Hydro-Québec",
+     "source_url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf",
+     "source_type": "primary",
+     "post": "2026-10-25",
      "background": true
     },
     {

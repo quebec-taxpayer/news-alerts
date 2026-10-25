@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-25T14:33:13Z",
+ "generated": "2026-10-25T14:38:53Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 61,
+ "story_count": 62,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -641,6 +641,16 @@
       "mpo",
       "msi"
      ]
+    },
+    {
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf",
+     "entities": [
+      "accenture",
+      "hydro-quebec",
+      "mckinsey",
+      "oliver-wyman"
+     ]
     }
    ]
   }
@@ -872,7 +882,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 7,
+   "mentions": 8,
    "stories": [
     {
      "date": "2026-10-21",
@@ -908,6 +918,11 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
     }
    ]
   },
@@ -1773,6 +1788,20 @@
      "date": "2026-10-25",
      "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
      "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
+   "id": "accenture",
+   "name": "Accenture",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
     }
    ]
   },
@@ -2935,6 +2964,22 @@
    ]
   },
   {
+   "id": "mckinsey",
+   "name": "McKinsey & Company",
+   "type": "organization",
+   "aliases": [
+    "McKinsey"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
    "id": "microsoft",
    "name": "Microsoft",
    "type": "organization",
@@ -3029,6 +3074,20 @@
      "date": "2026-10-22",
      "headline": "Nominations du Conseil des ministres",
      "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    }
+   ]
+  },
+  {
+   "id": "oliver-wyman",
+   "name": "Oliver Wyman",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
     }
    ]
   },
@@ -4649,6 +4708,42 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "source": "accenture",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "source": "accenture",
+   "target": "mckinsey",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "source": "accenture",
+   "target": "oliver-wyman",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
     }
    ]
   },
@@ -7618,6 +7713,18 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "mckinsey",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "mrc-coaticook",
    "weight": 1,
    "stories": [
@@ -7649,6 +7756,18 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "oliver-wyman",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
     }
    ]
   },
@@ -8645,6 +8764,18 @@
      "date": "2026-10-25",
      "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
      "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/"
+    }
+   ]
+  },
+  {
+   "source": "mckinsey",
+   "target": "oliver-wyman",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
     }
    ]
   },
