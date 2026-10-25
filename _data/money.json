@@ -167,6 +167,27 @@
    "per_fr": "176 $ par personne au Québec par année",
    "calc_en": "$1.6 billion ÷ 9,067,114 people = $176.46 each per year",
    "calc_fr": "1,6 milliard $ ÷ 9 067 114 personnes = 176,46 $ chacun par année"
+  },
+  {
+   "id": "decades-saaqclic-increase",
+   "dossier": "decades",
+   "story_url": null,
+   "amount": 500000000,
+   "qualifier": "about",
+   "per_year": false,
+   "label_en": "Increase in the cost of the SAAQ’s CASA/SAAQclic program that, per the Auditor General, was not clearly communicated to decision-makers",
+   "label_fr": "Hausse du coût du programme CASA/SAAQclic de la SAAQ qui, selon la vérificatrice générale, n’a pas été clairement communiquée aux décideurs",
+   "source_title": "Communiqué C2025-1 – SAAQ, programme CASA",
+   "source_outlet": "Vérificateur général du Québec",
+   "source_date": "2025-02-20",
+   "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "per_person_value": 55.1443,
+   "amount_en": "$500 million",
+   "amount_fr": "500 millions $",
+   "per_en": "About $55.14 per person in Quebec",
+   "per_fr": "Environ 55,14 $ par personne au Québec",
+   "calc_en": "$500 million ÷ 9,067,114 people = $55.14 each",
+   "calc_fr": "500 millions $ ÷ 9 067 114 personnes = 55,14 $ chacun"
   }
  ]
 }

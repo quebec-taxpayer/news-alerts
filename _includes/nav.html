@@ -6,7 +6,7 @@
   {%- elsif page.url == "/" or page.url == "/index.html" -%}{%- assign sec = "home" -%}
   {%- else -%}{%- assign sec = page.url | remove_first: "/" | split: "/" | first -%}{%- endif -%}
 {%- endunless -%}
-{%- assign items = "home|/|Home|Accueil;topics|/topics/|Topics|Thèmes;network|/network/|Network|Réseau;chronology|/chronology/|Chronology|Chronologie;about|/about/|About|À propos;past-news|/past-news/|Past News|Nouvelles passées" | split: ";" -%}
+{%- assign items = "home|/|Home|Accueil;topics|/topics/|Topics|Thèmes;network|/network/|Network|Réseau;chronology|/chronology/|Chronology|Chronologie;special-reports|/special-reports/|Special Reports|Rapports spéciaux;about|/about/|About|À propos;past-news|/past-news/|Past News|Nouvelles passées" | split: ";" -%}
 <nav class="site-nav" aria-label="Navigation">
   <div class="wrap">
 {%- for it in items -%}{%- assign f = it | split: "|" %}

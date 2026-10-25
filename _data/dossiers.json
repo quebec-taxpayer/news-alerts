@@ -1065,6 +1065,597 @@
      "fr": "Québec a ajouté 28 M$ ponctuels aux 18 M$ déjà prévus, pour environ 200 projets et plus de 1 000 places d’urgence."
     }
    }
+  },
+  {
+   "id": "decades",
+   "name_en": "Investigated, Reported, Ignored: Quebec 1957–2026",
+   "name_fr": "Enquêté, rapporté, ignoré : le Québec de 1957 à 2026",
+   "desc_en": "PRIVATE DRAFT. Master chronology for the Special Reports series: commissions, Auditor General reports, new watchdog bodies and reform attempts, from the natural-gas scandal to SAAQclic. <a href=\"/news-alerts/special-reports/\">Read the four reports</a>.",
+   "desc_fr": "BROUILLON PRIVÉ. Chronologie maîtresse de la série Rapports spéciaux : commissions d’enquête, rapports du Vérificateur général, nouveaux chiens de garde et tentatives de réforme, du scandale du gaz naturel à SAAQclic. <a href=\"/news-alerts/special-reports/\">Lire les quatre rapports</a>.",
+   "entities": [
+    "commissaire-lobbyisme",
+    "jean-francois-routhier",
+    "commission-gallant",
+    "saaq",
+    "conseil-tresor"
+   ],
+   "tldr": {
+    "what": {
+     "en": "Since 1960 Quebec has held inquiry after inquiry into corruption and mismanagement, and created new watchdogs after each crisis.",
+     "fr": "Depuis 1960, le Québec multiplie les commissions d’enquête sur la corruption et la mauvaise gestion, et crée de nouveaux chiens de garde après chaque crise."
+    },
+    "why": {
+     "en": "Many recommendations were only partly applied, and some of the same gaps (lobbying, contracts, follow-up of audits) come back decades later.",
+     "fr": "Bien des recommandations n’ont été que partiellement appliquées, et certaines lacunes (lobbyisme, contrats, suivi des audits) reviennent des décennies plus tard."
+    },
+    "now": {
+     "en": "In 2026 the Gallant report on SAAQclic and a unanimous motion on lobbying were followed by no reform bill before the election.",
+     "fr": "En 2026, le rapport Gallant sur SAAQclic et une motion unanime sur le lobbyisme n’ont été suivis d’aucun projet de loi de réforme avant l’élection."
+    }
+   },
+   "events": [
+    {
+     "date": "1957",
+     "en": "Under Premier Maurice Duplessis, Hydro-Québec’s gas network is sold to the Corporation du gaz naturel du Québec; its shares go on sale on 25 April 1957.",
+     "fr": "Sous Maurice Duplessis, le réseau gazier d’Hydro-Québec est vendu à la Corporation du gaz naturel du Québec; ses actions sont mises en vente le 25 avril 1957.",
+     "source_title": "Scandale du gaz naturel",
+     "source_outlet": "Wikipédia",
+     "source_url": "https://fr.wikipedia.org/wiki/Scandale_du_gaz_naturel",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1958-06-13",
+     "en": "Le Devoir alleges that at least eight Union nationale ministers profited from the gas company’s shares using inside information. Duplessis replies that the sale followed a law adopted unanimously by the legislature.",
+     "fr": "Le Devoir allègue qu’au moins huit ministres de l’Union nationale ont profité des actions de la société gazière grâce à des informations privilégiées. Duplessis réplique que la vente découle d’une loi adoptée à l’unanimité.",
+     "source_title": "Scandale du gaz naturel",
+     "source_outlet": "Wikipédia",
+     "source_url": "https://fr.wikipedia.org/wiki/Scandale_du_gaz_naturel",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1960-10-05",
+     "en": "The new Lesage government creates the Salvas commission to investigate the gas network sale, including share options obtained by ministers, MNAs and officials.",
+     "fr": "Le nouveau gouvernement Lesage crée la commission Salvas pour enquêter sur la vente du réseau gazier, y compris les options d’actions obtenues par des ministres, députés et fonctionnaires.",
+     "source_title": "Commission Salvas (1962)",
+     "source_outlet": "Bibliothèque de l’Assemblée nationale",
+     "source_url": "https://www.bibliotheque.assnat.qc.ca/guides/fr/commissions-d-enquete-au-quebec-depuis-1867/5445-commission-salvas-1962",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1962-08-01",
+     "en": "The Salvas commission’s first report severely blames ministers and officials who used privileged information to obtain gas company shares, and recommends a law against such abuse.",
+     "fr": "Le premier rapport de la commission Salvas blâme sévèrement les ministres et fonctionnaires qui ont profité d’informations privilégiées, et recommande une loi contre ces abus.",
+     "source_title": "Commission Salvas",
+     "source_outlet": "Wikipédia",
+     "source_url": "https://fr.wikipedia.org/wiki/Commission_Salvas",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1963-01",
+     "en": "Salvas’s final report concludes that Duplessis-era government purchasing financed a hidden party fund. Three people, including two ex-ministers, are later charged in the gas affair.",
+     "fr": "Le rapport final Salvas conclut que les achats du gouvernement Duplessis ont financé une caisse électorale occulte. Trois personnes, dont deux ex-ministres, seront accusées dans l’affaire du gaz.",
+     "source_title": "Commission Salvas",
+     "source_outlet": "Wikipédia",
+     "source_url": "https://fr.wikipedia.org/wiki/Commission_Salvas",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1963-04",
+     "en": "No charges are laid against former premier Antonio Barrette. In April 1963 he accepts an appointment as Canada’s ambassador to Greece.",
+     "fr": "Aucune accusation n’est portée contre l’ex-premier ministre Antonio Barrette. En avril 1963, il accepte le poste d’ambassadeur du Canada en Grèce.",
+     "source_title": "Commission Salvas",
+     "source_outlet": "Wikipédia",
+     "source_url": "https://fr.wikipedia.org/wiki/Commission_Salvas",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1972-09-27",
+     "en": "The government creates the CECO inquiry into organized crime; its mandate includes corruption and illegally obtaining permits or decisions from public bodies. It is extended until 1984.",
+     "fr": "Le gouvernement crée la CECO sur le crime organisé; son mandat inclut la corruption et l’obtention illégale de permis ou de décisions d’organismes publics. Elle sera prolongée jusqu’en 1984.",
+     "source_title": "Commission CECO (1972-84)",
+     "source_outlet": "Bibliothèque de l’Assemblée nationale",
+     "source_url": "https://www.bibliotheque.assnat.qc.ca/guides/fr/les-commissions-d-enquete-au-quebec-depuis-1867/7630-commission-ceco-1972-84",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1974-03-27",
+     "en": "Six days after the LG-2 James Bay site is ransacked, the Bourassa government creates the Cliche commission on union freedom in construction.",
+     "fr": "Six jours après le saccage du chantier LG-2 à la Baie-James, le gouvernement Bourassa crée la commission Cliche sur la liberté syndicale dans la construction.",
+     "source_title": "Commission Cliche",
+     "source_outlet": "Wikipédia",
+     "source_url": "https://fr.wikipedia.org/wiki/Commission_Cliche",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1975-05",
+     "en": "The Cliche report makes 134 recommendations, including putting four construction union locals under trusteeship.",
+     "fr": "Le rapport Cliche formule 134 recommandations, dont la mise en tutelle de quatre sections locales syndicales de la construction.",
+     "source_title": "Commission Cliche",
+     "source_outlet": "Wikipédia",
+     "source_url": "https://fr.wikipedia.org/wiki/Commission_Cliche",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1977-07",
+     "en": "Premier René Lévesque asks Judge Albert Malouf to investigate the cost of the 1976 Olympic facilities.",
+     "fr": "Le premier ministre René Lévesque demande au juge Albert Malouf d’enquêter sur le coût des installations olympiques de 1976.",
+     "source_title": "Le rapport Malouf sur le coût des Jeux olympiques",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2169700/rapport-malouf-jeux-olympiques-archives",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1980-06-05",
+     "en": "The Malouf report is tabled: costs estimated at $310 million in 1972 had passed $1.3 billion by August 1974. It says the organizing committee knowingly misled MNAs, and exonerates the Bourassa government.",
+     "fr": "Dépôt du rapport Malouf : estimés à 310 millions $ en 1972, les coûts dépassaient 1,3 milliard $ en août 1974. Le rapport affirme que le COJO a sciemment induit les députés en erreur, et exonère le gouvernement Bourassa.",
+     "source_title": "Le rapport Malouf sur le coût des Jeux olympiques",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2169700/rapport-malouf-jeux-olympiques-archives",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1999-01-29",
+     "en": "The Poitras commission on the Sûreté du Québec makes 175 recommendations and describes a feeling of “immunity and impunity” among officers. The minister says he needs time to study it.",
+     "fr": "La commission Poitras sur la Sûreté du Québec formule 175 recommandations et décrit un sentiment d’« immunité et d’impunité » chez les policiers. Le ministre dit avoir besoin de temps pour l’étudier.",
+     "source_title": "Inquiry recommends big changes for Quebec provincial police",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/inquiry-recommends-big-changes-for-quebec-provincial-police-1.170112",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1999-04",
+     "en": "After the 1998 ice storm, the Nicolet commission finds Quebec lacks a civil-security policy and culture: only explicit government will can end “this alternation of indifference and disorderly mobilization.”",
+     "fr": "Après le verglas de 1998, la commission Nicolet constate l’absence d’une politique et d’une culture de sécurité civile : « seule une volonté gouvernementale explicite pourra mettre fin à cette alternance d’indifférence et de mobilisation désordonnée ».",
+     "source_title": "Retour sur la crise",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/378595/verglas10-retour",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "1999-12",
+     "en": "The government responds to Nicolet by tabling a civil-security bill.",
+     "fr": "Le gouvernement donne suite à Nicolet en déposant un projet de loi sur la sécurité civile.",
+     "source_title": "Retour sur la crise",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/378595/verglas10-retour",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2002",
+     "en": "The National Assembly unanimously adopts the Lobbying Transparency and Ethics Act. It will be amended only “at the margins.”",
+     "fr": "L’Assemblée nationale adopte à l’unanimité la Loi sur la transparence et l’éthique en matière de lobbyisme. Elle ne sera modifiée qu’« à la marge ».",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 7",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=7",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2007",
+     "en": "The Justice Minister’s five-year report on the lobbying law flags problems with its thresholds.",
+     "fr": "Le rapport quinquennal du ministre de la Justice sur la loi sur le lobbyisme signale des problèmes avec ses seuils.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 7–8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=7",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2008",
+     "en": "The lobbying commissioner’s report “Bâtir la confiance” flags the same problems.",
+     "fr": "Le rapport « Bâtir la confiance » du commissaire au lobbyisme signale les mêmes problèmes.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 7–8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=7",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2011-01-19",
+     "en": "The Bastarache commission finds that claims of party fundraisers’ influence on judicial appointments are not supported by clear evidence, but says the process is open to influence and makes 46 recommendations.",
+     "fr": "La commission Bastarache conclut que l’influence alléguée de collecteurs de fonds sur la nomination de juges n’est pas étayée par une preuve claire, mais juge le processus perméable aux influences et formule 46 recommandations.",
+     "source_title": "« Les nominations étaient celles de Me Bellemare », conclut la commission",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/501063/commission-rapport-bastarache",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2011-09-14",
+     "en": "La Presse reports that three-quarters of the Transport Ministry’s anti-collusion unit investigators cannot join the new anti-corruption unit (UPAC) because of a civil-service exam. The government promises flexibility.",
+     "fr": "La Presse rapporte que les trois quarts des enquêteurs de l’Unité anticollusion ne pourront joindre l’UPAC faute d’avoir passé l’examen de la fonction publique. Le gouvernement promet de la souplesse.",
+     "source_title": "Québec veut sauver l’UPAC",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2011/09/14/quebec-veut-sauver-lupac",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2011-10",
+     "en": "The government creates the Charbonneau commission on collusion and corruption in public construction contracts.",
+     "fr": "Le gouvernement crée la commission Charbonneau sur la collusion et la corruption dans les contrats publics de construction.",
+     "source_title": "What is the Autorité des marchés publics?",
+     "source_outlet": "Autorité des marchés publics",
+     "source_url": "https://www.amp.quebec/en/mission-en",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2012",
+     "en": "The lobbying commissioner makes 105 recommendations and proposes a new law.",
+     "fr": "Le commissaire au lobbyisme formule 105 recommandations et propose une nouvelle loi.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=8",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2013",
+     "en": "A National Assembly committee holds consultations on the lobbying law; no legislative follow-up results.",
+     "fr": "Une commission parlementaire mène des consultations sur la loi sur le lobbyisme; aucune suite législative.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=8",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2015-06-12",
+     "en": "The government tables Bill 56 to reform the lobbying law.",
+     "fr": "Le gouvernement dépose le projet de loi 56 pour réformer la loi sur le lobbyisme.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 98",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=98",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2015-11-24",
+     "en": "The Charbonneau commission submits its report with 60 recommendations; the first is to create a public contracts authority.",
+     "fr": "La commission Charbonneau remet son rapport et ses 60 recommandations; la première vise à créer une autorité des marchés publics.",
+     "source_title": "What is the Autorité des marchés publics?",
+     "source_outlet": "Autorité des marchés publics",
+     "source_url": "https://www.amp.quebec/en/mission-en",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2015-11-26",
+     "en": "The National Assembly unanimously asks the government to act on the Charbonneau recommendations.",
+     "fr": "L’Assemblée nationale demande à l’unanimité au gouvernement de donner suite aux recommandations Charbonneau.",
+     "source_title": "Suivi de la Commission Charbonneau : 70 % des recommandations réalisées ou en voie de l’être",
+     "source_outlet": "Gouvernement du Québec (Justice)",
+     "source_url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2016-06-10",
+     "en": "Bill 101 (political financing, six Charbonneau recommendations, more powers for the Chief Electoral Officer) and Bill 83 (municipal) are adopted.",
+     "fr": "Adoption du projet de loi 101 (financement politique, six recommandations Charbonneau, pouvoirs accrus du DGE) et du projet de loi 83 (municipal).",
+     "source_title": "Suivi de la Commission Charbonneau",
+     "source_outlet": "Gouvernement du Québec (Justice)",
+     "source_url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2016-11-24",
+     "en": "The government says 34 of 60 Charbonneau recommendations are carried out in whole or in part, 70% counting work under way.",
+     "fr": "Le gouvernement affirme que 34 des 60 recommandations Charbonneau sont réalisées en tout ou en partie, 70 % en comptant les travaux en cours.",
+     "source_title": "Suivi de la Commission Charbonneau",
+     "source_outlet": "Gouvernement du Québec (Justice)",
+     "source_url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2017",
+     "en": "The Court of Appeal’s Cliche c. DPCP ruling makes a key lobbying-law threshold harder to prove; the commissioner publishes “Le temps est à l’action.”",
+     "fr": "L’arrêt Cliche c. DPCP de la Cour d’appel rend plus difficile la preuve d’un seuil clé de la loi; le commissaire publie « Le temps est à l’action ».",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=8",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2017-11-24",
+     "en": "An independent follow-up committee counts 26 Charbonneau recommendations applied satisfactorily, 10 partly and 24 not at all; only 3 of 9 on organized crime.",
+     "fr": "Un comité de suivi indépendant compte 26 recommandations Charbonneau appliquées de manière satisfaisante, 10 partiellement et 24 lettre morte; seulement 3 sur 9 sur le crime organisé.",
+     "source_title": "Bilan du comité de suivi des recommandations Charbonneau",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2017-12-01",
+     "en": "The law creating the Autorité des marchés publics (AMP) is adopted.",
+     "fr": "Adoption de la loi créant l’Autorité des marchés publics (AMP).",
+     "source_title": "What is the Autorité des marchés publics?",
+     "source_outlet": "Autorité des marchés publics",
+     "source_url": "https://www.amp.quebec/en/mission-en",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2018",
+     "en": "Bill 56 on lobbying dies when the legislature is dissolved.",
+     "fr": "Le projet de loi 56 sur le lobbyisme meurt à la dissolution de la législature.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=8",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2018-07-25",
+     "en": "Denis Gallant takes office as the AMP’s first CEO.",
+     "fr": "Denis Gallant entre en fonction comme premier PDG de l’AMP.",
+     "source_title": "What is the Autorité des marchés publics?",
+     "source_outlet": "Autorité des marchés publics",
+     "source_url": "https://www.amp.quebec/en/mission-en",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2019",
+     "en": "Bill 6 makes “housekeeping adjustments” to the lobbying law, which the commissioner calls far from sufficient.",
+     "fr": "Le projet de loi 6 apporte des « ajustements d’intendance » à la loi sur le lobbyisme, « bien insuffisants » selon le commissaire.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 7–8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=7",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2019-09",
+     "en": "The Viens commission on relations between Indigenous peoples and public services tables 142 calls to action; the Ombudsman is tasked with tracking them.",
+     "fr": "La commission Viens sur les relations entre les Autochtones et certains services publics dépose 142 appels à l’action; le Protecteur du citoyen est chargé d’en assurer le suivi.",
+     "source_title": "Suivi de la Commission d’enquête sur les relations entre les Autochtones et certains services publics",
+     "source_outlet": "Protecteur du citoyen",
+     "source_url": "https://protecteurducitoyen.qc.ca/fr/suivi-commission-enquete-relations-autochtones-services-publics-quebec",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2022",
+     "en": "An OECD review finds Quebec’s lobbying rules behind several international standards.",
+     "fr": "Un examen de l’OCDE constate que l’encadrement québécois du lobbyisme accuse du retard sur plusieurs normes internationales.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 8",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=8",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2022-01",
+     "en": "The Ministry of Cybersecurity and Digital Affairs is created.",
+     "fr": "Création du ministère de la Cybersécurité et du Numérique.",
+     "source_title": "Dépôt du rapport de la Commission Gallant",
+     "source_outlet": "Gouvernement du Québec",
+     "source_url": "https://www.quebec.ca/nouvelles/actualites/details/depot-du-rapport-de-la-commission-gallant-le-gouvernement-analysera-rapidement-les-recommandations-68561",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2022-03-02",
+     "en": "UPAC drops its Mâchurer investigation into Liberal Party financing after eight years without charges; a Le Devoir editorial calls for UPAC to be rebuilt.",
+     "fr": "L’UPAC abandonne l’enquête Mâchurer sur le financement du PLQ après huit ans sans accusations; un éditorial du Devoir appelle à reconstruire l’UPAC.",
+     "source_title": "Fin d’une époque à l’UPAC (éditorial)",
+     "source_outlet": "Le Devoir",
+     "source_url": "https://www.ledevoir.com/opinion/editoriaux/680736/abandon-de-l-enquete-machurer-fin-d-une-epoque-a-l-upac",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2023-02",
+     "en": "SAAQclic goes live, although nearly 20% of final integrated tests had not been done when the launch was confirmed.",
+     "fr": "Mise en service de SAAQclic, alors que près de 20 % des tests intégrés finaux n’avaient pas été faits au moment de confirmer le lancement.",
+     "source_title": "Communiqué C2025-1",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2023-10-04",
+     "en": "The Ombudsman publishes its first follow-up report on the Viens calls to action.",
+     "fr": "Le Protecteur du citoyen publie son premier rapport de suivi des appels à l’action de la commission Viens.",
+     "source_title": "Suivi de la Commission Viens",
+     "source_outlet": "Protecteur du citoyen",
+     "source_url": "https://protecteurducitoyen.qc.ca/fr/suivi-commission-enquete-relations-autochtones-services-publics-quebec",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2024",
+     "en": "Auditor General follow-up: 90% of 130 recommendations “applied or satisfactory progress,” but only 46 fully applied; 78% against an 80% target.",
+     "fr": "Suivi du Vérificateur général : 90 % de 130 recommandations « appliquées ou progrès satisfaisants », mais seulement 46 entièrement appliquées; 78 % pour une cible de 80 %.",
+     "source_title": "Suivi des recommandations 2023-2024, p. 4 et 22",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/211/Suivi%20des%20recommandations%202023-2024.pdf#page=4",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025",
+     "en": "Auditor General follow-up: 85% of 99 recommendations, only 32 fully applied; 79% against the 80% target; 0 of 4 on cybersecurity.",
+     "fr": "Suivi du Vérificateur général : 85 % de 99 recommandations, seulement 32 entièrement appliquées; 79 % pour une cible de 80 %; 0 sur 4 en cybersécurité.",
+     "source_title": "Suivi des recommandations 2024-2025, p. 4 et 27",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=4",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-02-20",
+     "en": "The Auditor General reports that SAAQclic will cost at least $1.1 billion, against $638 million planned, and that nearly $500 million of the increase was not clearly communicated to decision-makers.",
+     "fr": "La vérificatrice générale rapporte que SAAQclic coûtera au moins 1,1 milliard $, contre 638 millions $ prévus, et que près de 500 millions $ de hausse n’ont pas été clairement communiqués aux décideurs.",
+     "source_title": "Communiqué C2025-1",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-03-18",
+     "en": "The government creates the Gallant commission on SAAQclic. Denis Gallant was a Charbonneau commission prosecutor and the AMP’s first CEO.",
+     "fr": "Le gouvernement crée la commission Gallant sur SAAQclic. Denis Gallant a été procureur à la commission Charbonneau et premier PDG de l’AMP.",
+     "source_title": "Commission d’enquête sur la gestion de la modernisation des systèmes informatiques de la SAAQ",
+     "source_outlet": "Gouvernement du Québec",
+     "source_url": "https://www.quebec.ca/nouvelles/actualites/details/commission-denquete-sur-la-gestion-de-la-modernisation-des-systemes-informatiques-de-la-saaq-61606",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-10",
+     "en": "In a brief to the Gallant commission, the lobbying commissioner says it is impossible to know whether lobbying took place around SAAQclic.",
+     "fr": "Dans un mémoire à la commission Gallant, le commissaire au lobbyisme affirme qu’il est impossible de savoir si du lobbyisme a eu lieu autour de SAAQclic.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 9",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=9",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-10-24",
+     "en": "As Gallant hearings end, Radio-Canada reports that two former senior SAAQ figures have retired, others hold new public posts, and only one person was fired.",
+     "fr": "À la fin des audiences Gallant, Radio-Canada rapporte que deux ex-hauts responsables de la SAAQ ont pris leur retraite, que d’autres occupent de nouveaux postes publics et qu’une seule personne a été congédiée.",
+     "source_title": "Commission Gallant : fin des témoignages",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/info/long-format/2201768/commission-gallant-fin-temoignages-retour",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2025-11-06",
+     "en": "The Ombudsman publishes a state of play on the Viens calls to action.",
+     "fr": "Le Protecteur du citoyen publie un état des lieux de la mise en œuvre des appels à l’action de la commission Viens.",
+     "source_title": "Suivi de la Commission Viens",
+     "source_outlet": "Protecteur du citoyen",
+     "source_url": "https://protecteurducitoyen.qc.ca/fr/suivi-commission-enquete-relations-autochtones-services-publics-quebec",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-02-16",
+     "en": "The Gallant report: 586 pages, 26 recommendations; it finds SAAQ management lied to the government and to MNAs. Karl Malenfant denies the allegations against him.",
+     "fr": "Le rapport Gallant : 586 pages, 26 recommandations; il conclut que la direction de la SAAQ a menti au gouvernement et aux parlementaires. Karl Malenfant nie les allégations à son endroit.",
+     "source_title": "Rapport de la commission Gallant en 5 chiffres",
+     "source_outlet": "Le Devoir",
+     "source_url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+     "source_type": "media",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-02-16",
+     "en": "The government creates a follow-up committee and says it will assess all possible recourse against people in positions of responsibility.",
+     "fr": "Le gouvernement crée un comité de suivi et dit évaluer tous les recours possibles à l’égard des personnes en position de responsabilité.",
+     "source_title": "Dépôt du rapport de la Commission Gallant",
+     "source_outlet": "Gouvernement du Québec",
+     "source_url": "https://www.quebec.ca/nouvelles/actualites/details/depot-du-rapport-de-la-commission-gallant-le-gouvernement-analysera-rapidement-les-recommandations-68561",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-02-17",
+     "en": "The National Assembly votes 100 to 0 asking the government to legislate to reform the lobbying law.",
+     "fr": "L’Assemblée nationale vote 100 à 0 pour demander au gouvernement de légiférer afin de réformer la loi sur le lobbyisme.",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 9–10",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=9",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-05-19",
+     "en": "Five years after the Laurent commission on youth protection, the government reports 29 of 65 recommendations done or largely done, and 8 barely started or not started.",
+     "fr": "Cinq ans après la commission Laurent sur la protection de la jeunesse, le gouvernement rapporte 29 recommandations sur 65 réalisées ou largement réalisées, et 8 peu avancées ou non commencées.",
+     "source_title": "Cinq ans après la commission Laurent",
+     "source_outlet": "Gouvernement du Québec",
+     "source_url": "https://www.quebec.ca/nouvelles/actualites/details/cinq-ans-apres-la-commission-laurent-des-avancees-importantes-et-une-transformation-bien-engagee-pour-mieux-proteger-les-enfants-70481",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    },
+    {
+     "date": "2026-05-26",
+     "en": "The lobbying commissioner tables a special report with a complete draft law, noting the Assembly’s February order “has had no follow-up.”",
+     "fr": "Le commissaire au lobbyisme dépose un rapport spécial avec un projet de loi complet, en soulignant que l’ordre de l’Assemblée de février « est demeuré sans suite ».",
+     "source_title": "Le devoir d’agir pour la transparence et l’intégrité (rapport spécial), p. 10",
+     "source_outlet": "Commissaire au lobbyisme du Québec",
+     "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=10",
+     "source_type": "primary",
+     "post": null,
+     "background": true
+    }
+   ]
   }
  ]
 }
