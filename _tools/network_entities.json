@@ -786,6 +786,117 @@
    "name": "Énergir",
    "type": "organization",
    "aliases": []
+  },
+  "apnql": {
+   "name": "Assemblée des Premières Nations Québec-Labrador",
+   "type": "organization",
+   "aliases": [
+    "APNQL"
+   ]
+  },
+  "francis-verreault-paul": {
+   "name": "Francis Verreault-Paul",
+   "type": "person",
+   "aliases": [
+    "Verreault-Paul"
+   ]
+  },
+  "mathieu-lebrun": {
+   "name": "Mathieu Lebrun",
+   "type": "person",
+   "aliases": []
+  },
+  "fcei": {
+   "name": "Fédération canadienne de l’entreprise indépendante",
+   "type": "organization",
+   "aliases": [
+    "Canadian Federation of Independent Business",
+    "CFIB"
+   ]
+  },
+  "fccrq": {
+   "name": "Fraternité des constables du contrôle routier du Québec",
+   "type": "organization",
+   "aliases": [
+    "FCCRQ"
+   ]
+  },
+  "banques-alimentaires-quebec": {
+   "name": "Banques alimentaires du Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "alto": {
+   "name": "Alto",
+   "type": "organization",
+   "aliases": []
+  },
+  "cadence": {
+   "name": "Cadence",
+   "type": "organization",
+   "aliases": []
+  },
+  "cpq-infra": {
+   "name": "CPQ Infra",
+   "type": "organization",
+   "aliases": []
+  },
+  "atkinsrealis": {
+   "name": "AtkinsRéalis",
+   "type": "organization",
+   "aliases": []
+  },
+  "systra-canada": {
+   "name": "SYSTRA Canada",
+   "type": "organization",
+   "aliases": []
+  },
+  "keolis-canada": {
+   "name": "Keolis Canada",
+   "type": "organization",
+   "aliases": []
+  },
+  "sncf-voyageurs": {
+   "name": "SNCF Voyageurs",
+   "type": "organization",
+   "aliases": []
+  },
+  "air-canada": {
+   "name": "Air Canada",
+   "type": "organization",
+   "aliases": []
+  },
+  "hopital-pierre-le-gardeur": {
+   "name": "Hôpital Pierre-Le Gardeur",
+   "type": "organization",
+   "aliases": []
+  },
+  "chsld-wendake": {
+   "name": "CHSLD de Wendake",
+   "type": "organization",
+   "aliases": []
+  },
+  "nation-huronne-wendat": {
+   "name": "Nation huronne-wendat",
+   "type": "organization",
+   "aliases": []
+  },
+  "donald-nicole": {
+   "name": "Donald Nicole",
+   "type": "person",
+   "aliases": []
+  },
+  "spvm": {
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ]
+  },
+  "msi": {
+   "name": "Ministère de la Sécurité intérieure",
+   "type": "organization",
+   "aliases": []
   }
  },
  "stories": [
@@ -1378,7 +1489,9 @@
     "mpo"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "lascension"
+   ]
   },
   {
    "match": "decouvrez-les-forces-les-parcours",
@@ -1445,6 +1558,116 @@
    ],
    "checked_by_hand": true,
    "dossiers": []
+  },
+  {
+   "match": "retour-historique-des-chefs-autochtones",
+   "entities": [
+    "apnql",
+    "francis-verreault-paul",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "quebecs-new-government-pledges-three-weeks",
+   "entities": [
+    "pspp",
+    "mathieu-lebrun",
+    "fcei"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "2295415/ministre-education--etats-generaux",
+   "entities": [
+    "joel-arseneau",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "2295065/controleurs-routiers-arme",
+   "entities": [
+    "saaq",
+    "fccrq",
+    "tat"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "la-saq-annonce-une-vente-exceptionnelle-de-vins-americains",
+   "entities": [
+    "saq",
+    "banques-alimentaires-quebec"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "saq"
+   ]
+  },
+  {
+   "match": "2295314/alto-tgv-tests-trace-train",
+   "entities": [
+    "alto",
+    "cadence",
+    "cpq-infra",
+    "atkinsrealis",
+    "systra-canada",
+    "keolis-canada",
+    "sncf-voyageurs",
+    "air-canada"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "faute-dinstruments-steriles",
+   "entities": [
+    "sante-quebec",
+    "hopital-pierre-le-gardeur"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "une-ainee-meurt-en-chsld",
+   "entities": [
+    "chsld-wendake",
+    "nation-huronne-wendat",
+    "donald-nicole",
+    "sante-quebec"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "montrealers-outrage-alleged-act-of-humiliation-police",
+   "entities": [
+    "spvm",
+    "soraya-martinez-ferrada"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2295592/lascension-gouffre",
+   "entities": [
+    "jacques-allard",
+    "msi",
+    "mpo"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "lascension"
+   ]
   }
  ]
 }

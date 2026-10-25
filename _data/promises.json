@@ -105,6 +105,44 @@
    "status_source_outlet": "Vérificateur général du Québec",
    "status_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
    "status_source_date": "2025-02-20"
+  },
+  {
+   "id": "pq-three-week-vacation",
+   "dossier": "pq-transition",
+   "type": "outcome",
+   "status": "promised",
+   "item_en": "Three weeks of paid vacation after one year",
+   "item_fr": "Trois semaines de vacances payées après un an",
+   "announced_en": "A minimum of three weeks of paid vacation after one year with the same employer, one of the government’s electoral commitments",
+   "announced_fr": "Un minimum de trois semaines de vacances payées après un an chez le même employeur, l’un des engagements électoraux du gouvernement",
+   "announced_source_title": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+   "announced_source_outlet": "CTV News",
+   "announced_source_url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/",
+   "actual_en": "The Premier’s mandate letter instructs Labour Minister Mathieu Lebrun to establish it; current rule: two weeks after one year, three after three years",
+   "actual_fr": "La lettre de mandat du premier ministre demande au ministre du Travail, Mathieu Lebrun, de l’établir; règle actuelle : deux semaines après un an, trois après trois ans",
+   "actual_source_title": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+   "actual_source_outlet": "CTV News",
+   "actual_source_url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/",
+   "actual_date": "2026-10-24"
+  },
+  {
+   "id": "pq-etats-generaux-education",
+   "dossier": "pq-transition",
+   "type": "outcome",
+   "status": "promised",
+   "item_en": "États généraux on education",
+   "item_fr": "États généraux en éducation",
+   "announced_en": "États généraux on education, promised by the PQ during the election campaign",
+   "announced_fr": "Des États généraux en éducation, promis par le PQ pendant la campagne électorale",
+   "announced_source_title": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+   "announced_source_outlet": "Radio-Canada",
+   "announced_source_url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole",
+   "actual_en": "Education Minister Joël Arseneau confirms they will be held quickly; the exercise is to start in the coming months",
+   "actual_fr": "Le ministre de l’Éducation, Joël Arseneau, confirme leur tenue rapide; l’exercice doit démarrer dans les prochains mois",
+   "actual_source_title": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+   "actual_source_outlet": "Radio-Canada",
+   "actual_source_url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole",
+   "actual_date": "2026-10-24"
   }
  ]
 }

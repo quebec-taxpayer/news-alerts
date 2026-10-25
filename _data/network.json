@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-24T14:48:27Z",
+ "generated": "2026-10-25T14:33:13Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 51,
+ "story_count": 61,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -546,6 +546,103 @@
      ]
     }
    ]
+  },
+  "2026-10-25": {
+   "post": "/2026/10/25/digest/",
+   "stories": [
+    {
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php",
+     "entities": [
+      "apnql",
+      "francis-verreault-paul",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/",
+     "entities": [
+      "fcei",
+      "mathieu-lebrun",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole",
+     "entities": [
+      "joel-arseneau",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction",
+     "entities": [
+      "fccrq",
+      "saaq",
+      "tat"
+     ]
+    },
+    {
+     "headline": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire",
+     "entities": [
+      "banques-alimentaires-quebec",
+      "saq"
+     ]
+    },
+    {
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train",
+     "entities": [
+      "air-canada",
+      "alto",
+      "atkinsrealis",
+      "cadence",
+      "cpq-infra",
+      "keolis-canada",
+      "sncf-voyageurs",
+      "systra-canada"
+     ]
+    },
+    {
+     "headline": "Faute d’instruments stériles, des dizaines d’interventions chirurgicales sont annulées et des salles d’opération fermées au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/faute-dinstruments-steriles-des-dizaines-de-chirurgies-sont-annulees-et-des-salles-doperation-fermees-au-quebec",
+     "entities": [
+      "hopital-pierre-le-gardeur",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours",
+     "entities": [
+      "chsld-wendake",
+      "donald-nicole",
+      "nation-huronne-wendat",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794",
+     "entities": [
+      "soraya-martinez-ferrada",
+      "spvm"
+     ]
+    },
+    {
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain",
+     "entities": [
+      "jacques-allard",
+      "mpo",
+      "msi"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -557,7 +654,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 15,
+   "mentions": 18,
    "stories": [
     {
      "date": "2026-10-21",
@@ -633,6 +730,21 @@
      "date": "2026-10-24",
      "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
      "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
     }
    ]
   },
@@ -700,6 +812,60 @@
    ]
   },
   {
+   "id": "sante-quebec",
+   "name": "Santé Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 9,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Faute d’instruments stériles, des dizaines d’interventions chirurgicales sont annulées et des salles d’opération fermées au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/faute-dinstruments-steriles-des-dizaines-de-chirurgies-sont-annulees-et-des-salles-doperation-fermees-au-quebec"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
    "id": "hydro-quebec",
    "name": "Hydro-Québec",
    "type": "organization",
@@ -742,50 +908,6 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
-    }
-   ]
-  },
-  {
-   "id": "sante-quebec",
-   "name": "Santé Québec",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 7,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
-     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
     }
    ]
   },
@@ -963,6 +1085,37 @@
    ]
   },
   {
+   "id": "saq",
+   "name": "Société des alcools du Québec",
+   "type": "organization",
+   "aliases": [
+    "SAQ"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
+     "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire"
+    }
+   ]
+  },
+  {
    "id": "stephane-paquet",
    "name": "Stéphane Paquet",
    "type": "person",
@@ -1126,32 +1279,6 @@
    ]
   },
   {
-   "id": "saq",
-   "name": "Société des alcools du Québec",
-   "type": "organization",
-   "aliases": [
-    "SAQ"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
-     "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
-    }
-   ]
-  },
-  {
    "id": "elections-quebec",
    "name": "Élections Québec",
    "type": "organization",
@@ -1300,6 +1427,46 @@
    ]
   },
   {
+   "id": "jacques-allard",
+   "name": "Jacques Allard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    }
+   ]
+  },
+  {
+   "id": "joel-arseneau",
+   "name": "Joël Arseneau",
+   "type": "person",
+   "aliases": [
+    "Arseneau"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
+    }
+   ]
+  },
+  {
    "id": "lawrence-david",
    "name": "Lawrence David",
    "type": "person",
@@ -1426,6 +1593,27 @@
    ]
   },
   {
+   "id": "mpo",
+   "name": "Pêches et Océans Canada",
+   "type": "organization",
+   "aliases": [
+    "Fisheries and Oceans Canada"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    }
+   ]
+  },
+  {
    "id": "rene-branchaud",
    "name": "René Branchaud",
    "type": "person",
@@ -1465,6 +1653,46 @@
      "date": "2026-10-24",
      "headline": "Fini le gaz américain chez Énergir",
      "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
+    }
+   ]
+  },
+  {
+   "id": "saaq",
+   "name": "Société de l’assurance automobile du Québec",
+   "type": "organization",
+   "aliases": [
+    "SAAQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
     }
    ]
   },
@@ -1530,6 +1758,25 @@
    ]
   },
   {
+   "id": "tat",
+   "name": "Tribunal administratif du travail",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
    "id": "accueil-bonneau",
    "name": "Accueil Bonneau",
    "type": "organization",
@@ -1540,6 +1787,20 @@
      "date": "2026-10-24",
      "headline": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires",
      "url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel"
+    }
+   ]
+  },
+  {
+   "id": "air-canada",
+   "name": "Air Canada",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
     }
    ]
   },
@@ -1575,6 +1836,20 @@
    ]
   },
   {
+   "id": "alto",
+   "name": "Alto",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
    "id": "alouette",
    "name": "Aluminerie Alouette",
    "type": "organization",
@@ -1601,6 +1876,22 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: dossiers chauds, gros mandats et diverses missions de l'État",
      "url": "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec"
+    }
+   ]
+  },
+  {
+   "id": "apnql",
+   "name": "Assemblée des Premières Nations Québec-Labrador",
+   "type": "organization",
+   "aliases": [
+    "APNQL"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
     }
    ]
   },
@@ -1653,6 +1944,34 @@
    ]
   },
   {
+   "id": "atkinsrealis",
+   "name": "AtkinsRéalis",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "id": "banques-alimentaires-quebec",
+   "name": "Banques alimentaires du Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire"
+    }
+   ]
+  },
+  {
    "id": "benoit-raillard",
    "name": "Benoit Raillard",
    "type": "person",
@@ -1693,6 +2012,48 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    }
+   ]
+  },
+  {
+   "id": "chsld-wendake",
+   "name": "CHSLD de Wendake",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "id": "cpq-infra",
+   "name": "CPQ Infra",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "id": "cadence",
+   "name": "Cadence",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
     }
    ]
   },
@@ -1908,6 +2269,20 @@
    ]
   },
   {
+   "id": "donald-nicole",
+   "name": "Donald Nicole",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
    "id": "enipso",
    "name": "ENIPSO",
    "type": "organization",
@@ -1978,6 +2353,22 @@
    ]
   },
   {
+   "id": "francis-verreault-paul",
+   "name": "Francis Verreault-Paul",
+   "type": "person",
+   "aliases": [
+    "Verreault-Paul"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    }
+   ]
+  },
+  {
    "id": "francois-chapdelaine",
    "name": "François Chapdelaine",
    "type": "person",
@@ -1992,6 +2383,22 @@
    ]
   },
   {
+   "id": "fccrq",
+   "name": "Fraternité des constables du contrôle routier du Québec",
+   "type": "organization",
+   "aliases": [
+    "FCCRQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
    "id": "frederic-alberro",
    "name": "Frédéric Alberro",
    "type": "person",
@@ -2002,6 +2409,23 @@
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    }
+   ]
+  },
+  {
+   "id": "fcei",
+   "name": "Fédération canadienne de l’entreprise indépendante",
+   "type": "organization",
+   "aliases": [
+    "Canadian Federation of Independent Business",
+    "CFIB"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/"
     }
    ]
   },
@@ -2108,6 +2532,20 @@
    ]
   },
   {
+   "id": "hopital-pierre-le-gardeur",
+   "name": "Hôpital Pierre-Le Gardeur",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Faute d’instruments stériles, des dizaines d’interventions chirurgicales sont annulées et des salles d’opération fermées au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/faute-dinstruments-steriles-des-dizaines-de-chirurgies-sont-annulees-et-des-salles-doperation-fermees-au-quebec"
+    }
+   ]
+  },
+  {
    "id": "ibm",
    "name": "IBM",
    "type": "organization",
@@ -2176,20 +2614,6 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
-    }
-   ]
-  },
-  {
-   "id": "jacques-allard",
-   "name": "Jacques Allard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
     }
    ]
   },
@@ -2278,22 +2702,6 @@
    ]
   },
   {
-   "id": "joel-arseneau",
-   "name": "Joël Arseneau",
-   "type": "person",
-   "aliases": [
-    "Arseneau"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    }
-   ]
-  },
-  {
    "id": "julie-blackburn",
    "name": "Julie Blackburn",
    "type": "person",
@@ -2332,6 +2740,20 @@
      "date": "2026-10-21",
      "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
      "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    }
+   ]
+  },
+  {
+   "id": "keolis-canada",
+   "name": "Keolis Canada",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
     }
    ]
   },
@@ -2499,6 +2921,20 @@
    ]
   },
   {
+   "id": "mathieu-lebrun",
+   "name": "Mathieu Lebrun",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/"
+    }
+   ]
+  },
+  {
    "id": "microsoft",
    "name": "Microsoft",
    "type": "organization",
@@ -2509,6 +2945,20 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "msi",
+   "name": "Ministère de la Sécurité intérieure",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
     }
    ]
   },
@@ -2551,6 +3001,20 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "id": "nation-huronne-wendat",
+   "name": "Nation huronne-wendat",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
     }
    ]
   },
@@ -2602,22 +3066,6 @@
    ]
   },
   {
-   "id": "mpo",
-   "name": "Pêches et Océans Canada",
-   "type": "organization",
-   "aliases": [
-    "Fisheries and Oceans Canada"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
-    }
-   ]
-  },
-  {
    "id": "qs",
    "name": "Québec solidaire",
    "type": "organization",
@@ -2662,6 +3110,34 @@
    ]
   },
   {
+   "id": "sncf-voyageurs",
+   "name": "SNCF Voyageurs",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "id": "systra-canada",
+   "name": "SYSTRA Canada",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
    "id": "samantha-mckinley",
    "name": "Samantha McKinley",
    "type": "person",
@@ -2676,6 +3152,22 @@
    ]
   },
   {
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    }
+   ]
+  },
+  {
    "id": "simon-mathieu-malenfant",
    "name": "Simon-Mathieu Malenfant",
    "type": "person",
@@ -2686,22 +3178,6 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
-    }
-   ]
-  },
-  {
-   "id": "saaq",
-   "name": "Société de l’assurance automobile du Québec",
-   "type": "organization",
-   "aliases": [
-    "SAAQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
     }
    ]
   },
@@ -2734,20 +3210,6 @@
      "date": "2026-10-24",
      "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
      "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
-    }
-   ]
-  },
-  {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
     }
    ]
   },
@@ -2834,20 +3296,6 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
-    }
-   ]
-  },
-  {
-   "id": "tat",
-   "name": "Tribunal administratif du travail",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
-     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
     }
    ]
   },
@@ -3793,6 +4241,40 @@
    ]
   },
   {
+   "source": "jacques-allard",
+   "target": "mpo",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    }
+   ]
+  },
+  {
+   "source": "joel-arseneau",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
+    }
+   ]
+  },
+  {
    "source": "lawrence-david",
    "target": "pspp",
    "weight": 2,
@@ -4267,6 +4749,90 @@
    ]
   },
   {
+   "source": "air-canada",
+   "target": "alto",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "air-canada",
+   "target": "atkinsrealis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "air-canada",
+   "target": "cadence",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "air-canada",
+   "target": "cpq-infra",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "air-canada",
+   "target": "keolis-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "air-canada",
+   "target": "sncf-voyageurs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "air-canada",
+   "target": "systra-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
    "source": "aitq",
    "target": "destination-quebec",
    "weight": 1,
@@ -4543,6 +5109,78 @@
    ]
   },
   {
+   "source": "alto",
+   "target": "atkinsrealis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "alto",
+   "target": "cadence",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "alto",
+   "target": "cpq-infra",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "alto",
+   "target": "keolis-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "alto",
+   "target": "sncf-voyageurs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "alto",
+   "target": "systra-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
    "source": "amf",
    "target": "degna-jean-marcel-sian",
    "weight": 1,
@@ -4639,6 +5277,30 @@
    ]
   },
   {
+   "source": "apnql",
+   "target": "francis-verreault-paul",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    }
+   ]
+  },
+  {
+   "source": "apnql",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    }
+   ]
+  },
+  {
    "source": "aqdp",
    "target": "aqpp",
    "weight": 1,
@@ -4695,6 +5357,78 @@
      "date": "2026-10-24",
      "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
      "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
+    }
+   ]
+  },
+  {
+   "source": "atkinsrealis",
+   "target": "cadence",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "atkinsrealis",
+   "target": "cpq-infra",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "atkinsrealis",
+   "target": "keolis-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "atkinsrealis",
+   "target": "sncf-voyageurs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "atkinsrealis",
+   "target": "systra-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "banques-alimentaires-quebec",
+   "target": "saq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire"
     }
    ]
   },
@@ -4815,6 +5549,54 @@
      "date": "2026-10-24",
      "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
      "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+    }
+   ]
+  },
+  {
+   "source": "cadence",
+   "target": "cpq-infra",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "cadence",
+   "target": "keolis-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "cadence",
+   "target": "sncf-voyageurs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "cadence",
+   "target": "systra-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
     }
    ]
   },
@@ -5163,6 +5945,42 @@
      "date": "2026-10-21",
      "headline": "Québec prépare l’abolition de Santé Québec",
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    }
+   ]
+  },
+  {
+   "source": "chsld-wendake",
+   "target": "donald-nicole",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "source": "chsld-wendake",
+   "target": "nation-huronne-wendat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "source": "chsld-wendake",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
     }
    ]
   },
@@ -5551,6 +6369,42 @@
    ]
   },
   {
+   "source": "cpq-infra",
+   "target": "keolis-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "cpq-infra",
+   "target": "sncf-voyageurs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "cpq-infra",
+   "target": "systra-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
    "source": "david-rousseau",
    "target": "edith-filion",
    "weight": 1,
@@ -5679,6 +6533,30 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    }
+   ]
+  },
+  {
+   "source": "donald-nicole",
+   "target": "nation-huronne-wendat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "source": "donald-nicole",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
     }
    ]
   },
@@ -6175,6 +7053,54 @@
    ]
   },
   {
+   "source": "fccrq",
+   "target": "saaq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
+   "source": "fccrq",
+   "target": "tat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
+   "source": "fcei",
+   "target": "mathieu-lebrun",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/"
+    }
+   ]
+  },
+  {
+   "source": "fcei",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/"
+    }
+   ]
+  },
+  {
    "source": "feesp",
    "target": "isabelle-dufour",
    "weight": 1,
@@ -6339,6 +7265,18 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "source": "francis-verreault-paul",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
     }
    ]
   },
@@ -6627,6 +7565,18 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "source": "hopital-pierre-le-gardeur",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Faute d’instruments stériles, des dizaines d’interventions chirurgicales sont annulées et des salles d’opération fermées au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/faute-dinstruments-steriles-des-dizaines-de-chirurgies-sont-annulees-et-des-salles-doperation-fermees-au-quebec"
     }
    ]
   },
@@ -7040,13 +7990,13 @@
   },
   {
    "source": "jacques-allard",
-   "target": "mpo",
+   "target": "msi",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
     }
    ]
   },
@@ -7208,18 +8158,6 @@
   },
   {
    "source": "joel-arseneau",
-   "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    }
-   ]
-  },
-  {
-   "source": "joel-arseneau",
    "target": "sante-quebec",
    "weight": 1,
    "stories": [
@@ -7311,6 +8249,30 @@
      "date": "2026-10-21",
      "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
      "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    }
+   ]
+  },
+  {
+   "source": "keolis-canada",
+   "target": "sncf-voyageurs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "keolis-canada",
+   "target": "systra-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
     }
    ]
   },
@@ -7675,6 +8637,18 @@
    ]
   },
   {
+   "source": "mathieu-lebrun",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/"
+    }
+   ]
+  },
+  {
    "source": "melanie-joly",
    "target": "rio-tinto",
    "weight": 1,
@@ -7731,6 +8705,18 @@
      "date": "2026-10-24",
      "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    }
+   ]
+  },
+  {
+   "source": "mpo",
+   "target": "msi",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
     }
    ]
   },
@@ -7839,6 +8825,18 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "nation-huronne-wendat",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
     }
    ]
   },
@@ -8119,6 +9117,18 @@
    ]
   },
   {
+   "source": "saaq",
+   "target": "tat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
    "source": "samantha-mckinley",
    "target": "stephane-paquet",
    "weight": 1,
@@ -8199,6 +9209,30 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "source": "sncf-voyageurs",
+   "target": "systra-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
     }
    ]
   },

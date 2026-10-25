@@ -35,7 +35,8 @@ EN_MONTHS = ["January","February","March","April","May","June","July","August","
 TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-10-22": ["it-digital", "crown-corporations"],
         "2026-10-23": ["it-digital", "crown-corporations", "procurement"],
-        "2026-10-24": ["it-digital", "crown-corporations"]}
+        "2026-10-24": ["it-digital", "crown-corporations"],
+        "2026-10-25": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -46,6 +47,8 @@ SUMMARY = {
                 "Untendered IT contracts and foreign firms; Hydro-Québec and the SAQ; Marie-Claude Sarrazin (ex-Gallant commission) at Justice."),
  "2026-10-24": ("Aide d’urgence en itinérance; la SAQ et Consignaction; l’Espace client d’Hydro-Québec hors ligne; FNZ et La Caisse; mandats des nouveaux ministres, dont l’audit des projets informatiques; projets d’infrastructures reportés.",
                 "Emergency homelessness aid; the SAQ and Consignaction; Hydro-Québec’s customer accounts offline; FNZ and La Caisse; new ministers’ mandates, including an audit of IT projects; infrastructure projects delayed."),
+ "2026-10-25": ("Contrôleurs routiers de la SAAQ de retour sur les routes; vente de vins américains à la SAQ; voie d’essais du TGV d’Alto; chirurgies reportées faute d’instruments stériles; PSPP absent de la rencontre avec les chefs autochtones; L’Ascension attend toujours Québec.",
+                "SAAQ road controllers back on patrol; SAQ sale of American wines; Alto’s high-speed rail test track; surgeries postponed for lack of sterile instruments; PSPP absent from the meeting with Indigenous leaders; L’Ascension still waiting for Quebec."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

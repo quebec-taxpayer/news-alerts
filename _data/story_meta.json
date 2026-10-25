@@ -226,6 +226,56 @@
    "category": "energy",
    "importance": 2,
    "title_en": "No more American gas at Énergir"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Indigenous chiefs make a historic return to the first ministers’ table"
+  },
+  "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/": {
+   "category": "government",
+   "importance": 3,
+   "title_fr": "Le nouveau gouvernement du Québec promet trois semaines de vacances payées à tous les travailleurs"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "The new Education minister starts with the wind at his back"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Now armed, road controllers are gradually resuming patrols"
+  },
+  "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "The SAQ announces an exceptional sale of American wines in the middle of a tariff war"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Alto would test the country’s first high-speed trains east of Ottawa"
+  },
+  "https://www.tvanouvelles.ca/2026/10/23/faute-dinstruments-steriles-des-dizaines-de-chirurgies-sont-annulees-et-des-salles-doperation-fermees-au-quebec": {
+   "category": "health",
+   "importance": 4,
+   "title_en": "For lack of sterile instruments, dozens of surgeries are cancelled and operating rooms closed in Quebec"
+  },
+  "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "A senior died in a CHSLD of a urinary infection ignored for five days"
+  },
+  "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794": {
+   "category": "justice",
+   "importance": 3,
+   "title_fr": "Des Montréalais manifestent contre l’humiliation alléguée de citoyens itinérants et racisés par des policiers"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "3 months after the landslide, L’Ascension is still waiting to fill its chasm"
   }
  }
 }

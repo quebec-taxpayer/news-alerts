@@ -15,6 +15,15 @@
    "source_title": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"},
   {"id": "homelessness-summit", "date": "2027", "kind": "year", "pages": ["home", "homelessness"],
    "en": "Summit on homelessness promised by the PQ leader during the election campaign; due in early 2027, according to the premier.", "fr": "Sommet sur l’itinérance promis par le chef péquiste pendant la campagne électorale; prévu au début de 2027, selon le premier ministre.",
-   "source_title": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel"}
- ]
+   "source_title": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel"},
+  {"id": "fn-first-ministers-meeting", "date": "2026-10-26", "kind": "on", "pages": ["home"],
+   "en": "First ministers’ meeting with Indigenous leaders in Ottawa (Monday); Premier St-Pierre Plamondon will not attend.", "fr": "Rencontre des premiers ministres avec les chefs autochtones à Ottawa (lundi); le premier ministre St-Pierre Plamondon n’y participera pas.",
+   "source_title": "Retour historique des chefs autochtones à la table des premiers ministres", "source_outlet": "La Presse", "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"},
+  {"id": "saaq-road-controllers-full-return", "date": "2027", "kind": "year", "pages": ["home"],
+   "en": "Road controllers to return to patrol across the whole road network during 2027 (SAAQ–union joint release).", "fr": "Retour des contrôleurs routiers sur l’ensemble du réseau routier au courant de 2027 (communiqué conjoint SAAQ–syndicat).",
+   "source_title": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"},
+  {"id": "alto-final-route", "date": "2027", "kind": "year", "pages": ["home"],
+   "en": "Alto’s final high-speed rail route to be known.", "fr": "Le tracé final du TGV d’Alto doit être connu.",
+   "source_title": "Alto testerait les premiers TGV du pays à l’est d’Ottawa", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"}
+]
 }

@@ -260,6 +260,17 @@
      "source_type": "media",
      "post": "2026-10-24",
      "background": false
+    },
+    {
+     "date": "2026-10-23",
+     "en": "The SAQ starts a 15%-off sale of 233 American products in SAQ Dépôt stores and online, giving Banques alimentaires du Québec an amount equal to their cost; the ban on new US products remains.",
+     "fr": "La SAQ lance une vente à 15 % de rabais de 233 produits américains en SAQ Dépôt et en ligne et remettra aux Banques alimentaires du Québec un montant équivalent à leur coût; l’interdiction de nouveaux produits américains demeure.",
+     "source_title": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": false
     }
    ],
    "tldr": {
@@ -272,8 +283,8 @@
      "fr": "La SAQ appartient au gouvernement : ses décisions touchent des fonds publics et des règles publiques, comme l’interdiction de vendre de l’alcool aux mineurs."
     },
     "now": {
-     "en": "The SAQ says it has not received the union study. It declined an interview about the $10M advance.",
-     "fr": "La SAQ dit ne pas avoir reçu l’étude syndicale. Elle a refusé une entrevue sur l’avance de 10 M$."
+     "en": "The SAQ is selling 233 American products at 15% off, under an authorization from February. A sum equal to their cost goes to food banks.",
+     "fr": "La SAQ vend 233 produits américains à 15 % de rabais, en vertu d’une autorisation de février. Un montant égal à leur coût ira aux banques alimentaires."
     }
    }
   },
@@ -911,6 +922,28 @@
    ],
    "events": [
     {
+     "date": "2026-10",
+     "en": "The Premier’s mandate letter instructs Labour Minister Mathieu Lebrun to set a minimum of three weeks of paid vacation after one year, CTV News reports.",
+     "fr": "La lettre de mandat du premier ministre demande au ministre du Travail, Mathieu Lebrun, d’établir un minimum de trois semaines de vacances payées après un an, rapporte CTV News.",
+     "source_title": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+     "source_outlet": "CTV News",
+     "source_url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": true
+    },
+    {
+     "date": "2026-10",
+     "en": "Education Minister Joël Arseneau confirms États généraux on education, promised during the campaign, will be held quickly, Radio-Canada reports.",
+     "fr": "Le ministre de l’Éducation, Joël Arseneau, confirme la tenue rapide d’États généraux en éducation, promis pendant la campagne, rapporte Radio-Canada.",
+     "source_title": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": true
+    },
+    {
      "date": "2026-10-05",
      "en": "Quebec general election.",
      "fr": "Élections générales au Québec.",
@@ -1009,8 +1042,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Ministers’ mandates are public, including a review of business subsidies. Chiefs of staff are being named.",
-     "fr": "Les mandats des ministres sont publics, dont une révision des subventions aux entreprises. Les chefs de cabinet sont en cours de nomination."
+     "en": "Ministers’ mandates are public, including three weeks of paid vacation after one year. The Education minister confirms États généraux on education.",
+     "fr": "Les mandats des ministres sont publics, dont trois semaines de vacances payées après un an. Le ministre de l’Éducation confirme des États généraux en éducation."
     }
    }
   },
@@ -1656,6 +1689,67 @@
      "background": true
     }
    ]
+  },
+  {
+   "id": "lascension",
+   "name_en": "L’Ascension: the landslide and the wait for repairs",
+   "name_fr": "L’Ascension : le glissement de terrain et l’attente des réparations",
+   "desc_en": "A landslide cut the main street of a small Hautes-Laurentides village in two; repairs wait on government approvals.",
+   "desc_fr": "Un glissement de terrain a coupé en deux la rue principale d’un petit village des Hautes-Laurentides; les réparations attendent l’aval des gouvernements.",
+   "entities": [
+    "jacques-allard",
+    "mpo",
+    "msi"
+   ],
+   "events": [
+    {
+     "date": "2026-08-03",
+     "en": "Heavy rain causes a landslide on L’Ascension’s main street, opening a hole about 13 m deep that cuts the village in two; the mayor declares a state of emergency.",
+     "fr": "Des pluies diluviennes font glisser le sol de la rue principale de L’Ascension et creusent un trou d’environ 13 m qui coupe le village en deux; le maire déclare l’état d’urgence.",
+     "source_title": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": true
+    },
+    {
+     "date": "2026-10-24",
+     "en": "CBC reports that 82 days after the landslide, no repairs have started; Mayor Jacques Allard blames the bureaucracy of different levels of government.",
+     "fr": "CBC rapporte que 82 jours après le glissement de terrain, aucune réparation n’a commencé; le maire Jacques Allard blâme la bureaucratie des différents ordres de gouvernement.",
+     "source_title": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956",
+     "source_type": "media",
+     "post": "2026-10-24",
+     "background": false
+    },
+    {
+     "date": "2026-10-24",
+     "en": "Residents protest on both sides of the hole; the village is still waiting for approval from the ministère de la Sécurité intérieure, and the local MNA promises priority treatment.",
+     "fr": "Des résidents manifestent de part et d’autre du gouffre; le village attend toujours l’aval du ministère de la Sécurité intérieure, et la députée du secteur promet un traitement prioritaire.",
+     "source_title": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "On Aug. 3, a landslide cut the main street of L’Ascension, a village in the Hautes-Laurentides, in two.",
+     "fr": "Le 3 août, un glissement de terrain a coupé en deux la rue principale de L’Ascension, un village des Hautes-Laurentides."
+    },
+    "why": {
+     "en": "About 30% of the roughly 900 residents are cut off, and children drive an hour each way to school.",
+     "fr": "Près de 30 % des quelque 900 habitants sont coupés du village, et les enfants font une heure de route matin et soir pour l’école."
+    },
+    "now": {
+     "en": "Nearly three months later, the village is still waiting for approval from Quebec’s ministère de la Sécurité intérieure to start repairs.",
+     "fr": "Près de trois mois plus tard, le village attend toujours l’aval du ministère de la Sécurité intérieure du Québec pour commencer les travaux."
+    }
+   }
   }
  ]
 }
