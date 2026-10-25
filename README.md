@@ -23,8 +23,9 @@ Menu order (EN / FR), defined in `_includes/nav.html`:
 | 2 | Topics | Thèmes | `/topics/` |
 | 3 | Network | Réseau | `/network/` |
 | 4 | Chronology | Chronologie | `/chronology/` |
-| 5 | About | À propos | `/about/` (includes *Sources and method / Sources et méthode* at `/about/#sources`) |
-| 6 | Past News | Nouvelles passées | `/past-news/` (all daily digests by month; `past-news.md`) |
+| 5 | Special Reports | Rapports spéciaux | `/special-reports/` (long-form report series; see below) |
+| 6 | About | À propos | `/about/` (includes *Sources and method / Sources et méthode* at `/about/#sources`) |
+| 7 | Past News | Nouvelles passées | `/past-news/` (all daily digests by month; `past-news.md`) |
 
 The current section is highlighted in yellow. Daily digest posts count as *Past News*, dossier pages as
 *Chronology*; other pages use the first URL segment or a `section:` front-matter value.
@@ -110,6 +111,25 @@ Daily routine, after the digest and the network update:
    (`--type primary` for government, VGQ, court, company releases). If unsure, leave it out.
 4. `python3 _tools/chrono.py --strict` must exit 0 (validates fields, dates, entity ids, digest dates, sorts events,
    creates stubs, and fails if a tagged story has no event or a story has no `dossiers` field).
+
+## Special Reports (`/special-reports/`)
+
+Long-form, bilingual report series. The first series is *Investigated, Reported, Ignored: Seventy Years of Quebec
+Governance Failures, from Duplessis to SAAQclic* / *Enquêté, rapporté, ignoré*. It has four reports:
+`special-reports/lobbying.html`, `auditor-general.html`, `charbonneau.html` and `saaqclic.html`.
+`special-reports/index.html` lists them under the series title. Each page uses `layout: page`, `section: special-reports`
+(the menu highlight) and a `permalink` under `/special-reports/`.
+
+Each report has the same structure:
+- an "In 30 seconds" box;
+- "Why it matters" callouts;
+- money boxes (`_data/money.json`, per person via `plain.py`) where a sourced figure supports one;
+- a "What's against this view" section;
+- inline source links, with `#page=N` for PDFs.
+
+Allegations are attributed, never stated as fact. The series' master chronology is the `decades` dossier at
+`/chronology/decades/`, and every report links to it. Internal links in dossier `desc_en/fr` may be written root-relative
+(`href="/special-reports/"`); `chronology.html` and `_layouts/dossier.html` prefix them via `relative_url`.
 
 ## Plain-language features
 Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warning) before pushing.

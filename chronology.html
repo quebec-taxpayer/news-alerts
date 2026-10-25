@@ -5,13 +5,14 @@ title_fr: "Chronologie"
 permalink: /chronology/
 section: chronology
 ---
+{%- capture rel_href -%}href="{{ '/' | relative_url }}{%- endcapture -%}
 <p class="l-en" lang="en">Timelines of ongoing subjects (“dossiers”) covered in the digest. Events are in the order they happened, each with its source. Background events come only from primary sources or major outlets.</p>
 <p class="l-fr" lang="fr">Chronologies des sujets suivis (« dossiers ») dans le bulletin. Les événements sont classés selon la date où ils se sont produits, chacun avec sa source. Les événements de contexte proviennent uniquement de sources primaires ou de grands médias.</p>
 <ul class="dossier-index">
 {%- for d in site.data.dossiers.dossiers %}{% assign last = d.events | last %}{% assign first = d.events | first %}
   <li>
     <h2><a href="{{ '/chronology/' | append: d.id | append: '/' | relative_url }}"><span class="l-en" lang="en">{{ d.name_en }}</span><span class="l-fr" lang="fr">{{ d.name_fr }}</span></a>{% if d.svg_timeline %} <span class="vis-badge"><span class="l-en" lang="en">Visual timeline</span><span class="l-fr" lang="fr">Chronologie visuelle</span></span>{% endif %}</h2>
-    <p class="l-en" lang="en">{{ d.desc_en }}</p><p class="l-fr" lang="fr">{{ d.desc_fr }}</p>
+    <p class="l-en" lang="en">{{ d.desc_en | replace: 'href="/', rel_href }}</p><p class="l-fr" lang="fr">{{ d.desc_fr | replace: 'href="/', rel_href }}</p>
     <p class="dossier-meta"><span class="count">{{ d.events.size }} <span class="l-en" lang="en">events</span><span class="l-fr" lang="fr">événements</span></span>
       · <span class="l-en" lang="en">Latest:</span><span class="l-fr" lang="fr">Dernier :</span> {% include edate.html date=last.date %}
       · <span class="l-en" lang="en">Since</span><span class="l-fr" lang="fr">Depuis</span> {% include edate.html date=first.date %}</p>

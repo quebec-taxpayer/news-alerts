@@ -1070,8 +1070,8 @@
    "id": "decades",
    "name_en": "Investigated, Reported, Ignored: Quebec 1957–2026",
    "name_fr": "Enquêté, rapporté, ignoré : le Québec de 1957 à 2026",
-   "desc_en": "PRIVATE DRAFT. Master chronology for the Special Reports series: commissions, Auditor General reports, new watchdog bodies and reform attempts, from the natural-gas scandal to SAAQclic. <a href=\"/news-alerts/special-reports/\">Read the four reports</a>.",
-   "desc_fr": "BROUILLON PRIVÉ. Chronologie maîtresse de la série Rapports spéciaux : commissions d’enquête, rapports du Vérificateur général, nouveaux chiens de garde et tentatives de réforme, du scandale du gaz naturel à SAAQclic. <a href=\"/news-alerts/special-reports/\">Lire les quatre rapports</a>.",
+   "desc_en": "Master chronology for the Special Reports series: commissions, Auditor General reports, new watchdog bodies and reform attempts, from the natural-gas scandal to SAAQclic. <a href=\"/special-reports/\">Read the four reports</a>.",
+   "desc_fr": "Chronologie maîtresse de la série Rapports spéciaux : commissions d’enquête, rapports du Vérificateur général, nouveaux chiens de garde et tentatives de réforme, du scandale du gaz naturel à SAAQclic. <a href=\"/special-reports/\">Lire les quatre rapports</a>.",
    "entities": [
     "commissaire-lobbyisme",
     "jean-francois-routhier",
