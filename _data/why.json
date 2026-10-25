@@ -16,8 +16,8 @@
   "fr": "Ces 22 ministres dirigent désormais les ministères qui offrent les services publics, comme la santé, l’éducation et le Conseil du trésor."
  },
  "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec": {
-  "en": "Santé Québec manages the public health network; a plan to abolish it could change how hospitals and clinics are run. No bill has been tabled.",
-  "fr": "Santé Québec gère le réseau public de santé; un projet d’abolition pourrait changer la façon dont les hôpitaux et cliniques sont gérés. Aucun projet de loi n’a été déposé."
+  "en": "Santé Québec manages the public health network; a plan to abolish it could change how hospitals and clinics are run.",
+  "fr": "Santé Québec gère le réseau public de santé; un projet d’abolition pourrait changer la façon dont les hôpitaux et cliniques sont gérés."
  },
  "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php": {
   "en": "The ruling will decide whether MNAs must swear an oath to the King to sit in the National Assembly.",
@@ -124,48 +124,48 @@
   "fr": "Les automobilistes roulent sur des routes dont le retard d’entretien atteint 22,5 G$, selon le rapport; il remet en question des promesses comme le pont du Saguenay et l’A-20."
  },
  "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome": {
-  "en": "Opposition critics question ministers in the National Assembly; this critic will follow the abolition of Santé Québec.",
-  "fr": "Les porte-parole de l’opposition questionnent les ministres à l’Assemblée nationale; celui-ci suivra l’abolition de Santé Québec."
+  "en": "Opposition critics question ministers in the National Assembly; this critic will follow the promised abolition of Santé Québec.",
+  "fr": "Les porte-parole de l’opposition questionnent les ministres à l’Assemblée nationale; celui-ci suivra l’abolition promise de Santé Québec."
  },
  "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction": {
   "en": "The SAQ is owned by the government; it advanced $10M to the organization that runs container deposits.",
   "fr": "La SAQ appartient au gouvernement; elle a avancé 10 M$ à l’organisme qui gère la consigne des contenants."
  },
  "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/": {
-  "en": "Hydro-Québec customers cannot use their online accounts until Monday, Oct. 26; the utility says no systems were compromised.",
-  "fr": "Les clients d’Hydro-Québec ne peuvent pas utiliser leur compte en ligne avant le lundi 26 octobre; la société dit qu’aucun système n’a été compromis."
+  "en": "Hydro-Québec customers cannot use their online accounts, which are expected back on Monday, Oct. 26; the utility says no systems were compromised and the shutdown is unrelated to the PHP flaw.",
+  "fr": "Les clients d’Hydro-Québec ne peuvent pas utiliser leur compte en ligne, dont le retour est prévu le lundi 26 octobre; la société dit qu’aucun système n’a été compromis et que la fermeture n’est pas liée à la faille PHP."
  },
  "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html": {
   "en": "Ferry users can again see alerts and schedules and use their customer accounts online.",
   "fr": "Les usagers des traversiers peuvent de nouveau consulter les alertes et horaires et utiliser leur compte client en ligne."
  },
  "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html": {
-  "en": "The false expense claims, about $10,000, were paid with the municipality’s money; he pleaded guilty.",
-  "fr": "Les fausses réclamations de dépenses, environ 10 000 $, ont été payées avec l’argent de la municipalité; il a plaidé coupable."
+  "en": "The fraud, estimated at $10,000, was against the municipality; he must also repay $3,345 to the town and donate $2,000 to a charity.",
+  "fr": "La fraude, évaluée à 10 000 $, visait la municipalité; il doit aussi rembourser 3 345 $ à la ville et faire un don de 2 000 $ à un organisme de charité."
  },
  "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php": {
   "en": "La Caisse manages Quebecers’ pension savings and owns about half of FNZ, which faces a $6B claim; the allegations are unproven.",
   "fr": "La Caisse gère l’épargne-retraite des Québécois et possède environ la moitié de FNZ, visée par une poursuite de 6 G$; les allégations ne sont pas prouvées."
  },
  "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/": {
-  "en": "The minister promises a gradual abolition of Santé Québec; no bill has been tabled yet, so nothing has changed for patients so far.",
-  "fr": "La ministre promet une abolition graduelle de Santé Québec; aucun projet de loi n’a encore été déposé, rien n’a donc changé pour les patients jusqu’ici."
+  "en": "The minister calls Santé Québec “a useless layer of management” (translated) and wants health decisions made more in the regions; she says the change will be gradual.",
+  "fr": "La ministre qualifie Santé Québec de « niveau de gestion inutile » et veut que les décisions en santé se prennent davantage en région; elle dit que le changement sera graduel."
  },
  "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php": {
-  "en": "About 20 rejected ballots could decide who represents Vachon if the Liberals contest the result in court.",
-  "fr": "Une vingtaine de bulletins rejetés pourraient décider qui représente Vachon si les libéraux contestent le résultat devant le tribunal."
+  "en": "The Liberals say about 20 ballots invalidated in the judicial recount should have counted, which they argue skews the result in a riding won by three votes; they are seriously considering a court challenge.",
+  "fr": "Selon les libéraux, une vingtaine de bulletins invalidés lors du dépouillement judiciaire auraient dû compter, ce qui fausserait le résultat dans une circonscription gagnée par trois voix; ils envisagent sérieusement de contester devant le tribunal."
  },
  "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php": {
-  "en": "Chiefs of staff run ministers’ offices; most of those named so far are PQ veterans.",
-  "fr": "Les chefs de cabinet dirigent les cabinets des ministres; la plupart de ceux nommés jusqu’ici sont d’anciens du PQ."
+  "en": "Chiefs of staff run ministers’ offices; many of those named so far served in past PQ governments.",
+  "fr": "Les chefs de cabinet dirigent les cabinets des ministres; plusieurs de ceux nommés jusqu’ici ont servi sous d’anciens gouvernements péquistes."
  },
  "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille": {
-  "en": "The mandates include a pay freeze for Crown corporation executives and a review of business subsidies, both paid with public money.",
-  "fr": "Les mandats prévoient un gel salarial des dirigeants de sociétés d’État et une révision des subventions aux entreprises, payées avec des fonds publics."
+  "en": "The Treasury Board president must freeze the pay of MNAs, ministers and top Crown corporation executives until the budget is balanced.",
+  "fr": "Le président du Conseil du trésor devra geler la rémunération des députés, des ministres et des principaux dirigeants de sociétés d’État jusqu’au retour à l’équilibre budgétaire."
  },
  "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php": {
-  "en": "These federal loans are meant to modernize two aluminium plants; about 6,000 jobs are targeted.",
-  "fr": "Ces prêts fédéraux visent à moderniser deux alumineries; environ 6 000 emplois sont visés."
+  "en": "These federal loans are meant to modernize two aluminium producers’ plants; Ottawa says the projects should maintain 6,000 jobs.",
+  "fr": "Ces prêts fédéraux visent à moderniser les installations de deux producteurs d’aluminium; selon Ottawa, les projets devraient maintenir 6 000 emplois."
  },
  "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie": {
   "en": "Public infrastructure in poor or very poor condition needed an estimated $44.8B in work in March 2026; an expert says maintenance has too often been neglected in budgets.",
@@ -184,23 +184,23 @@
   "fr": "Les projets informatiques de l’État sont payés avec des fonds publics; la première tâche de la nouvelle ministre est de tous les auditer."
  },
  "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon": {
-  "en": "Some planned roads, buildings or other projects may be delayed if the government judges them not essential.",
-  "fr": "Certains projets prévus, routes, bâtiments ou autres, pourraient être reportés si le gouvernement les juge non essentiels."
+  "en": "Some planned infrastructure projects may be delayed; the premier names Maisonneuve-Rosemont Hospital as one that cannot wait.",
+  "fr": "Certains projets d’infrastructures prévus pourraient être reportés; le premier ministre cite l’hôpital Maisonneuve-Rosemont parmi ceux qui ne peuvent plus attendre."
  },
  "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/": {
   "en": "If the court grants the request, the start of work at the National Assembly could be delayed; a ruling is expected by Nov. 24.",
   "fr": "Si le tribunal accueille la demande, le début des travaux à l’Assemblée nationale pourrait être retardé; une décision est attendue d’ici le 24 novembre."
  },
  "https://www.cbc.ca/news/canada/montreal/hampstead-mayor-jeremy-levi-fined-anti-palestine-posts-9.7394105": {
-  "en": "The case is before the disciplinary council of his professional order (CPA); a $30,000 fine is recommended but not yet imposed.",
-  "fr": "Le dossier est devant le conseil de discipline de son ordre professionnel (CPA); une amende de 30 000 $ est recommandée, mais pas encore imposée."
+  "en": "The case is before the disciplinary council of his professional order (CPA); a $30,000 fine and mandatory training are recommended.",
+  "fr": "Le dossier est devant le conseil de discipline de son ordre professionnel (CPA); une amende de 30 000 $ et une formation obligatoire sont recommandées."
  },
  "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook": {
-  "en": "Residents want a moratorium and a review by the BAPE, the public environmental hearings office, before the 16 planned turbines go ahead.",
-  "fr": "Des citoyens réclament un moratoire et un examen du BAPE, l’organisme d’audiences publiques sur l’environnement, avant que les 16 éoliennes prévues aillent de l’avant."
+  "en": "Residents want a moratorium and a review by the BAPE, the public environmental hearings office, before the roughly 16 planned turbines go ahead.",
+  "fr": "Des citoyens réclament un moratoire et un examen du BAPE, l’organisme d’audiences publiques sur l’environnement, avant que les quelque 16 éoliennes prévues aillent de l’avant."
  },
  "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir": {
-  "en": "Énergir customers pay a certification premium of up to $6M a year, approved by the Régie de l’énergie.",
-  "fr": "Les clients d’Énergir paient une prime de certification pouvant atteindre 6 M$ par année, approuvée par la Régie de l’énergie."
+  "en": "The Régie de l’énergie lets Énergir pay a certification premium of up to $6M a year, passed on to customers’ bills; Énergir says it spends less than that.",
+  "fr": "La Régie de l’énergie autorise Énergir à verser une prime de certification pouvant atteindre 6 M$ par année, refilée sur la facture des clients; Énergir dit dépenser moins que ce montant."
  }
 }
