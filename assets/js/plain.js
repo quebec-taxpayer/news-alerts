@@ -1,4 +1,4 @@
-/* Plain-language helpers: glossary tooltips (first use per page, tap/click, keyboard) and What's next date sorting. */
+/* Plain-language helpers: pop-up term definitions (first mention per page; hover, tap, keyboard) and What's next date sorting. */
 (function () {
   "use strict";
   var BASE = (document.currentScript && document.currentScript.getAttribute("data-base")) || "";
@@ -24,58 +24,74 @@
     }
   }
 
-  /* ---------- Glossary tooltips ---------- */
+  /* ---------- Pop-up term definitions (data: _data/glossary.json, emitted as #gl-data) ----------
+     The first mention of each term per page and per language is wrapped in a <button class="gl-term">.
+     Hover (mouse), tap/click, or keyboard focus shows the definition; Enter toggles, Esc / tap outside closes.
+     Never inside links, buttons, headings, nav, code, SVG, form controls or labels. With JS off: plain text. */
   var dataEl = document.getElementById("gl-data");
   var TERMS = [];
   try { TERMS = dataEl ? JSON.parse(dataEl.textContent) : []; } catch (e) { TERMS = []; }
-  var SCOPE = ".tl-text, .story .summary, .callout.why p, .tldr dd span, .wk-text";
-  function esc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/[’']/g, "['’]"); }
+  var SCOPE = "main";
+  var SKIP = "a, button, h1, h2, h3, h4, h5, h6, nav, header, footer, code, pre, kbd, samp, script, style, noscript, svg, summary, label, input, textarea, select, option, .gl-term, .gl-tip, .callout-label, .post-meta, .day-meta, .tags, .crumb, .latest-label, [data-no-gl]";
+  function esc(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&").replace(/[’']/g, "['’]").replace(/[\s\u00a0]+/g, "[\\s\\u00a0]+").replace(/-/g, "[-\\u2011]"); }
+  // A plain plural (-s, and -x in French) of a listed form also matches, e.g. "Crown corporations".
   function build(lg) {
     var list = [];
-    TERMS.forEach(function (t) { (t["match_" + lg] || []).forEach(function (m) { list.push({ t: t, m: m }); }); });
+    TERMS.forEach(function (t) { (t["match_" + lg] || []).forEach(function (m) { if (m) list.push({ t: t, m: m }); }); });
     list.sort(function (a, b) { return b.m.length - a.m.length; });
     return list.map(function (x) {
-      var cs = x.m === x.m.toUpperCase();  // acronyms are case-sensitive
-      return { t: x.t, re: new RegExp("(^|[^\\p{L}\\p{N}])(" + esc(x.m) + ")(?![\\p{L}\\p{N}])", cs ? "u" : "iu") };
+      return { t: x.t, re: new RegExp("(^|[^\\p{L}\\p{N}])(" + esc(x.m) + "(?:s|x)?)(?![\\p{L}\\p{N}])", "iu") };
     });
   }
-  var tip, openBtn = null, n = 0;
+  function nodeLang(el) { var c = el.closest("[lang]") || document.documentElement; return c.getAttribute("lang") === "fr" ? "fr" : "en"; }
+  var tip, openBtn = null, pinned = false, n = 0, hideTimer = null;
   function closeTip() {
-    if (!tip || tip.hidden) return;
+    clearTimeout(hideTimer);
+    if (!tip || tip.hidden) { openBtn = null; pinned = false; return; }
     tip.hidden = true;
     if (openBtn) { openBtn.setAttribute("aria-expanded", "false"); openBtn.removeAttribute("aria-describedby"); }
-    openBtn = null;
+    openBtn = null; pinned = false;
   }
-  function openTip(btn) {
+  function place(btn) {
+    var vw = document.documentElement.clientWidth || window.innerWidth, vh = window.innerHeight;
+    var w = Math.min(340, vw - 24);
+    tip.style.width = w + "px"; tip.style.maxWidth = (vw - 24) + "px";
+    var r = btn.getBoundingClientRect();
+    var left = Math.max(12, Math.min(r.left, vw - w - 12));
+    tip.style.left = (left + window.scrollX) + "px";
+    var top = r.bottom + 6, h = tip.offsetHeight;
+    if (top + h > vh - 8 && r.top - h - 6 > 8) top = r.top - h - 6;  // flip above when there is no room below
+    tip.style.top = (top + window.scrollY) + "px";
+  }
+  function openTip(btn, pin) {
+    clearTimeout(hideTimer);
     var t = TERMS.filter(function (x) { return x.id === btn.getAttribute("data-term"); })[0]; if (!t) return;
-    if (openBtn === btn && !tip.hidden) { closeTip(); return; }
+    if (openBtn === btn && !tip.hidden) { if (pin) pinned = true; return; }
     closeTip();
-    var lg = btn.closest("[lang]") ? btn.closest("[lang]").getAttribute("lang") : lang();
-    if (lg !== "fr") lg = "en";
+    var lg = nodeLang(btn);
     tip.innerHTML = "";
     var h = document.createElement("strong"); h.textContent = t["term_" + lg]; tip.appendChild(h);
     var p = document.createElement("span"); p.className = "gl-def"; p.textContent = t["def_" + lg]; tip.appendChild(p);
-    var a = document.createElement("a"); a.href = BASE + "/glossary/#" + t.id; a.textContent = lg === "fr" ? "Voir le lexique →" : "See the glossary →"; tip.appendChild(a);
+    var src = t["source_" + lg];
+    if (src) { var a = document.createElement("a"); a.href = src; a.rel = "noopener"; a.target = "_blank"; a.textContent = lg === "fr" ? "Source officielle" : "Official source"; tip.appendChild(a); }
     var c = document.createElement("button"); c.type = "button"; c.className = "gl-close"; c.setAttribute("aria-label", lg === "fr" ? "Fermer" : "Close"); c.textContent = "×";
     c.addEventListener("click", function () { var b = openBtn; closeTip(); if (b) b.focus(); }); tip.appendChild(c);
     tip.setAttribute("lang", lg);
-    tip.hidden = false; openBtn = btn;
+    tip.hidden = false; openBtn = btn; pinned = !!pin;
     btn.setAttribute("aria-expanded", "true"); btn.setAttribute("aria-describedby", "gl-tip");
-    var r = btn.getBoundingClientRect(), w = Math.min(340, document.documentElement.clientWidth - 24);
-    tip.style.width = w + "px";
-    var left = Math.max(12, Math.min(r.left + window.scrollX, window.scrollX + document.documentElement.clientWidth - w - 12));
-    tip.style.left = left + "px"; tip.style.top = (r.bottom + window.scrollY + 6) + "px";
+    place(btn);
   }
+  function laterClose() { clearTimeout(hideTimer); hideTimer = setTimeout(function () { if (!pinned) closeTip(); }, 250); }
   function mark() {
     if (!TERMS.length) return;
-    var els = document.querySelectorAll(SCOPE); if (!els.length) return;
+    var roots = document.querySelectorAll(SCOPE); if (!roots.length) return;
     var R = { en: build("en"), fr: build("fr") }, done = { en: {}, fr: {} };
-    for (var i = 0; i < els.length; i++) {
-      var el = els[i], lg = (el.closest("[lang]") || document.documentElement).getAttribute("lang") === "fr" ? "fr" : "en";
-      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null), nodes = [], nd;
-      while ((nd = walker.nextNode())) if (!nd.parentNode.closest("a, button, .gl-term")) nodes.push(nd);
+    for (var i = 0; i < roots.length; i++) {
+      if (roots[i].closest("[data-no-gl]")) continue;
+      var walker = document.createTreeWalker(roots[i], NodeFilter.SHOW_TEXT, null), nodes = [], nd;
+      while ((nd = walker.nextNode())) if (nd.nodeValue.trim() && !nd.parentNode.closest(SKIP)) nodes.push(nd);
       nodes.forEach(function (node) {
-        var changed = true;
+        var lg = nodeLang(node.parentNode), changed = true;
         while (changed) {
           changed = false;
           for (var k = 0; k < R[lg].length; k++) {
@@ -93,14 +109,40 @@
       });
     }
     if (!n) return;
-    tip = document.createElement("div"); tip.id = "gl-tip"; tip.className = "gl-tip"; tip.hidden = true;
+    tip = document.createElement("div"); tip.id = "gl-tip"; tip.className = "gl-tip"; tip.setAttribute("role", "tooltip"); tip.hidden = true;
     document.body.appendChild(tip);
     document.addEventListener("click", function (e) {
       var b = e.target.closest && e.target.closest(".gl-term");
-      if (b) { e.preventDefault(); openTip(b); return; }
+      if (b) { e.preventDefault(); if (openBtn === b && pinned) { closeTip(); } else { openTip(b, true); } return; }
       if (!tip.contains(e.target)) closeTip();
     });
-    document.addEventListener("keydown", function (e) { if (e.key === "Escape" && openBtn) { var b = openBtn; closeTip(); b.focus(); } });
+    document.addEventListener("pointerover", function (e) {
+      if (e.pointerType !== "mouse") return;  // hover only for a real mouse; touch uses tap
+      var b = e.target.closest && e.target.closest(".gl-term");
+      if (b) { if (!pinned || openBtn === b) openTip(b, false); }
+      else if (tip.contains(e.target)) clearTimeout(hideTimer);
+    });
+    document.addEventListener("pointerout", function (e) {
+      if (e.pointerType !== "mouse" || pinned || !openBtn) return;
+      var to = e.relatedTarget;
+      if (to && (to === openBtn || openBtn.contains(to) || tip.contains(to))) return;
+      if ((e.target.closest && e.target.closest(".gl-term")) || tip.contains(e.target)) laterClose();
+    });
+    document.addEventListener("focusin", function (e) {
+      var b = e.target.closest && e.target.closest(".gl-term");
+      if (!b) return;
+      var kb = true; try { kb = b.matches(":focus-visible"); } catch (x) {}
+      if (kb && openBtn !== b) openTip(b, false);
+    });
+    document.addEventListener("focusout", function (e) {
+      if (!openBtn || pinned) return;
+      var to = e.relatedTarget;
+      if (to && (to === openBtn || tip.contains(to))) return;
+      if (e.target === openBtn || tip.contains(e.target)) closeTip();
+    });
+    document.addEventListener("keydown", function (e) {
+      if ((e.key === "Escape" || e.key === "Esc") && openBtn) { var b = openBtn; closeTip(); b.focus(); }
+    });
     window.addEventListener("resize", closeTip);
     var ls = document.querySelectorAll("[data-set-lang]"); for (var j = 0; j < ls.length; j++) ls[j].addEventListener("click", closeTip);
   }

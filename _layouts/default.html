@@ -14,7 +14,7 @@
 <body{% if page.layout == "dossier-print" %} class="print-page"{% endif %}>
 {% include header.html %}
 {% include nav.html %}
-<main class="wrap">
+<main class="wrap"{% if page.no_popups %} data-no-gl{% endif %}>
 {{ content }}
 </main>
 {% include footer.html %}

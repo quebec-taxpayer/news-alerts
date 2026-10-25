@@ -23,14 +23,14 @@ Menu order (EN / FR), defined in `_includes/nav.html`:
 | 2 | Topics | Thèmes | `/topics/` |
 | 3 | Network | Réseau | `/network/` |
 | 4 | Chronology | Chronologie | `/chronology/` |
-| 5 | Glossary | Lexique | `/glossary/` |
-| 6 | About | À propos | `/about/` (includes *Sources and method / Sources et méthode* at `/about/#sources`) |
-| 7 | Past News | Nouvelles passées | `/past-news/` (all daily digests by month; `past-news.md`) |
+| 5 | About | À propos | `/about/` (includes *Sources and method / Sources et méthode* at `/about/#sources`) |
+| 6 | Past News | Nouvelles passées | `/past-news/` (all daily digests by month; `past-news.md`) |
 
 The current section is highlighted in yellow. Daily digest posts count as *Past News*, dossier pages as
 *Chronology*; other pages use the first URL segment or a `section:` front-matter value.
 Old URLs are kept as plain redirect pages (meta refresh + link, no plugin, not in the menu):
-`/archive/` → `/past-news/` (`archive-redirect.html`) and `/sources/` → `/about/#sources` (`sources-redirect.html`).
+`/archive/` → `/past-news/` (`archive-redirect.html`), `/sources/` → `/about/#sources` (`sources-redirect.html`) and
+`/glossary/` → `/` (`glossary-redirect.html`; the glossary page was replaced by pop-up definitions, see below).
 There is no weekly roundup section.
 
 ## Add a day
@@ -49,7 +49,7 @@ There is no weekly roundup section.
    `💡🇫🇷 …` / `💡🇬🇧 …` lines under the story's URL in the .txt.) If a story gives a large public-money figure,
    consider a *money in human terms* item (see below). Also, when a story warrants it:
    update the dossier's `tldr.now` (In 30 seconds); add any new **dated** next step to `_data/upcoming.json`
-   (only dates stated by the source); add a glossary term (and its match phrases) to `_data/glossary.json` if a story
+   (only dates stated by the source); add a pop-up definition term (and its EN/FR match phrases) to `_data/glossary.json` if a story
    uses jargon readers may not know; add a *promised vs delivered* pair only when both values are sourced.
    Then rerun `gen.py`, `python3 _tools/chrono.py --strict` and `python3 _tools/plain.py --strict`.
 4. Commit and push to `main`. Home, Past News and Topics update automatically (about 1 minute).
@@ -129,13 +129,23 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
   When ISQ publishes a new population estimate, update the `population` block (value, as_of, source_updated) and rerun.
   Items show on their dossier page and under their story (rerun `gen.py` for posts).
 
-- **Glossary / Lexique** (`/glossary/` + tap tooltips): `_data/glossary.json`. Each term: `id`, `term_en/fr`,
-  `def_en/fr` (one or two plain sentences, nothing beyond what the official source says), `source_label`,
-  `source_en/fr` (official page URL; `null` if none),
-  `match_en`/`match_fr` (exact phrases to mark in text, longest first; avoid generic words). `assets/js/plain.js`
-  wraps the first match per term and language in timelines, story summaries, Why-it-matters lines, In-30-seconds
-  boxes; tapping shows the definition (Esc / tap outside closes). `plain.py` warns about a
-  phrase claimed by two terms.
+- **Pop-up definitions / Définitions en contexte** (there is no glossary page any more): `_data/glossary.json` is the
+  single source. Each term: `id`, `term_en/fr`, `def_en/fr` (one or two plain sentences, nothing beyond what the official
+  source says), `source_label`, `source_en/fr` (official page URL; `null` if none), and `match_en` / `match_fr`.
+  **A new term added to the file automatically appears as a pop-up definition on every page** after the next build.
+  How matching works (`assets/js/plain.js`, data emitted by `_layouts/default.html` as `#gl-data`):
+  - `match_en` lists the English forms/aliases, `match_fr` the French ones (e.g. `["Auditor General"]` /
+    `["Vérificateur général", "vérificatrice générale"]`). English text (`lang="en"`) is matched only against `match_en`,
+    French text only against `match_fr`; the pop-up shows the definition in the language of the text.
+  - Case-insensitive, whole words only; `'`/`’`, spaces and hyphens are interchangeable. Longer phrases win
+    (list the full name and the acronym separately). Avoid generic words.
+  - Only the **first** mention of each term per page (per language) is marked, with a dotted blue underline.
+  - Marked anywhere in the page body (homepage, posts, topics, chronology/dossiers, About, Past News), but never in
+    links (so not in headlines as published), buttons, headings, the nav/header/footer, code, SVG, labels or
+    callout labels. A page can opt out with `no_popups: true` in its front matter (used by `/network/`).
+  - Hover (mouse) or keyboard focus shows the pop-up; click/tap or Enter pins it; Esc, tap outside or × closes it.
+    With JavaScript off the text reads normally, with no marks.
+  `plain.py --strict` validates the file and warns about a phrase claimed by two terms.
 - **What's next / Prochaines étapes**: `_data/upcoming.json`. Each item: `id`, `date` (`YYYY-MM-DD` or `YYYY`),
   `kind` (`on` = on that day, `by` = by that date, `year` = sometime that year), `en`/`fr`, `source_title/outlet/url`,
   `pages` (`home` and/or dossier ids). Only dates a cited source states. The page JS compares with today
