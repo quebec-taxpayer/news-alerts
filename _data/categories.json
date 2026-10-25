@@ -1,0 +1,12 @@
+{
+ "_comment": "Homepage news categories, in display order. Each story gets one via _data/story_meta.json (key: story URL). gen.py falls back to the section heading (HEADING_CATEGORY in _tools/gen.py), then to 'other'.",
+ "items": [
+  {"id": "government", "en": "Government & National Assembly", "fr": "Gouvernement & Assemblée nationale"},
+  {"id": "finances", "en": "Public finances & infrastructure", "fr": "Finances publiques & infrastructures"},
+  {"id": "crown-it", "en": "Crown corporations, IT & contracts", "fr": "Sociétés d’État, TI & contrats"},
+  {"id": "justice", "en": "Fraud, investigations & ethics", "fr": "Fraude, enquêtes & éthique"},
+  {"id": "health", "en": "Health & social services", "fr": "Santé & services sociaux"},
+  {"id": "energy", "en": "Energy & economy", "fr": "Énergie & économie"},
+  {"id": "other", "en": "Other news", "fr": "Autres nouvelles"}
+ ]
+}

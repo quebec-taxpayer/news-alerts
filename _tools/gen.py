@@ -14,8 +14,14 @@ Source format per day file (SRC/YYYY-MM-DD.txt):
   — Quebec Governance Monitor           (signature)
 Per story the post also shows, when present: the "Why it matters" line (_data/why.json, keyed by story URL)
 and any "money in human terms" item whose story_url is that story (_data/money.json, run _tools/plain.py money).
-Each language is wrapped in class="l-fr" / class="l-en" so the site's EN|FR toggle shows one at a time.
-Headlines are language-neutral (shown as published in both modes).
+Each language is wrapped in class="l-fr" / class="l-en" so the site's FR|EN toggle shows one at a time.
+Headlines are language-neutral in the post body (shown as published in both modes).
+
+The front matter also gets a structured `stories:` list that the homepage renders (featured stories, news by
+category). Per story it combines the .txt with _data/story_meta.json (keyed by story URL: category, importance 1-5,
+optional title_en / title_fr translations of the headline) and _data/why.json. The 3 stories with the highest
+importance (ties keep digest order) get featured: 1..3. Missing metadata never fails: the category falls back to
+HEADING_CATEGORY (section heading), then 'other'; importance defaults to 2.
 """
 import html, json, os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -50,6 +56,39 @@ HEADINGS = {
  "Mise à jour / Update (après-midi)": ("Mise à jour (après-midi)", "Update (afternoon)"),
  "Mise à jour / Update (fin de matinée / late morning)": ("Mise à jour (fin de matinée)", "Update (late morning)"),
 }
+# Section heading (EN part) -> homepage category id, used when a story has no category in _data/story_meta.json.
+HEADING_CATEGORY = {
+ "Government & institutions": "government", "Fraud & investigations": "justice", "Energy & industry": "energy",
+ "Energy & digital": "energy", "Lobbying & ethics": "justice", "Crown corporations & IT": "crown-it",
+ "Contracting & Crown corporations": "crown-it", "Health": "health",
+}
+# Domain -> outlet name shown next to each story on the homepage (fallback: the domain).
+OUTLETS = {
+ "ici.radio-canada.ca": "Radio-Canada", "www.lapresse.ca": "La Presse", "www.tvanouvelles.ca": "TVA Nouvelles",
+ "www.journaldemontreal.com": "Le Journal de Montréal", "www.journaldequebec.com": "Le Journal de Québec",
+ "www.cbc.ca": "CBC News", "montrealgazette.com": "Montreal Gazette", "www.newswire.ca": "Newswire (communiqué)",
+ "www.noovo.info": "Noovo Info", "lautorite.qc.ca": "Autorité des marchés financiers", "www.latribune.ca": "La Tribune",
+ "www.ledevoir.com": "Le Devoir", "www.vgq.qc.ca": "Vérificateur général du Québec", "www.quebec.ca": "Gouvernement du Québec",
+ "www.assnat.qc.ca": "Assemblée nationale", "lobbyisme.quebec": "Commissaire au lobbyisme",
+}
+def outlet(url):
+    from urllib.parse import urlparse
+    h = urlparse(url or "").netloc.lower()
+    return OUTLETS.get(h) or h.removeprefix("www.")
+
+STOP = set("""les des une est sont pour par dans avec sur que qui aux ses son leur leurs cette ces pas plus the and for are with that this from has have was were its their they will been into than about after also more who what
+selon environ dont mais encore elle elles ils lui être fait avoir""".split())
+def _words(t):
+    import re
+    return {w for w in re.findall(r"[\w’']+", (t or "").lower()) if len(w) > 3 and w not in STOP}
+def _overlap(summary, why):
+    w, s = {x[:5] for x in _words(why)}, {x[:5] for x in _words(summary)}
+    return len(w & s) / len(w) if w else 1.0
+def why_adds(st, wfr, wen):
+    """Homepage only: show Why it matters when it adds to the summary (on average, under half of its words repeat it).
+    The full digest post always shows it."""
+    return (_overlap(st["fr"], wfr) + _overlap(st["en"], wen)) / 2 < 0.5
+
 e = html.escape
 def strip_star(s): return s.strip()[1:-1].strip()
 def is_star(s): s = s.strip(); return len(s) > 2 and s.startswith("*") and s.endswith("*")
@@ -124,7 +163,9 @@ def build(day, issues, notes):
     why = plain.load("why.json", {})
     money = plain.load("money.json", {"items": [], "population": {}})
     plain.compute(money) if money["items"] else None
-    body = []
+    meta = plain.load("story_meta.json", {"stories": {}}).get("stories", {})
+    cats = {c["id"] for c in plain.load("categories.json", {"items": []})["items"]}
+    body, items = [], []
     for s in sections:
         if not s["stories"]: issues.append(f"{day}: empty section {s['name']}")
         fr, en = split_heading(s["name"], day, notes)
@@ -139,11 +180,24 @@ def build(day, issues, notes):
             if wfr and wen:
                 body.append('<div class="callout why"><p class="callout-label">' + bi("span", "Pourquoi c’est important", "Why it matters") + '</p>' + bi("p", wfr, wen) + '</div>')
             else: notes.append(f"{day}: no Why-it-matters line for {st['url']} (add it to _data/why.json)")
+            m = meta.get(st["url"] or "", {})
+            cat = m.get("category") or HEADING_CATEGORY.get(en.split(" (")[0]) or "other"
+            if not m.get("category"): notes.append(f"{day}: no category in _data/story_meta.json for {st['url']} (using '{cat}')")
+            if cat not in cats: issues.append(f"{day}: unknown category '{cat}' for {st['url']}"); cat = "other"
+            it_ = {"id": story_id(st["url"] or st["headline"]), "url": st["url"] or "", "headline": st["headline"],
+                   "title_en": m.get("title_en") or st["headline"], "title_fr": m.get("title_fr") or st["headline"],
+                   "outlet": outlet(st["url"]), "category": cat, "importance": int(m.get("importance", 2)),
+                   "summary_fr": st["fr"] or "", "summary_en": st["en"] or ""}
+            if wfr and wen and why_adds(st, wfr, wen):
+                it_["why_fr"], it_["why_en"] = wfr, wen
+            items.append(it_)
             for it in [x for x in money["items"] if x.get("story_url") == st["url"]]:
                 body.append(money_box(it, money["population"]))
             body.append('</article>')
         body.append('</section>')
     if any("{{" in t or "{%" in t for t in body): issues.append(f"{day}: Liquid-like text in content")
+    for rank, it_ in enumerate(sorted(items, key=lambda x: -x["importance"])[:3], 1): it_["featured"] = rank
+    for it_ in items: it_.setdefault("featured", 0)
     sfr, sen = SUMMARY[day]
     fm = ["---", "layout: post",
           f"title: {json.dumps(title_en, ensure_ascii=False)}",
@@ -153,7 +207,8 @@ def build(day, issues, notes):
           f"summary_fr: {json.dumps(sfr, ensure_ascii=False)}",
           f"story_count: {n}",
           "tags: [" + ", ".join(TAGS[day]) + "]",
-          f"source_heading: {json.dumps(title_line, ensure_ascii=False)}", "---", ""]
+          f"source_heading: {json.dumps(title_line, ensure_ascii=False)}",
+          "stories:"] + [f"  - {json.dumps(it_, ensure_ascii=False)}" for it_ in items] + ["---", ""]
     os.makedirs(OUT, exist_ok=True)
     open(f"{OUT}/{day}-digest.md", "w", encoding="utf-8").write("\n".join(fm) + "\n".join(body) + "\n")
     return {s["name"]: len(s["stories"]) for s in sections} | {"_total": n}

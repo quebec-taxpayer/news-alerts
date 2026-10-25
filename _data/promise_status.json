@@ -1,0 +1,35 @@
+{
+ "_comment": "Promised vs delivered status labels, in display order. 'mark' is a text symbol shown with the label so status never relies on colour alone.",
+ "items": [
+  {
+   "id": "promised",
+   "en": "Promised",
+   "fr": "Promis",
+   "mark": "○"
+  },
+  {
+   "id": "in_progress",
+   "en": "In progress",
+   "fr": "En cours",
+   "mark": "◐"
+  },
+  {
+   "id": "completed",
+   "en": "Completed",
+   "fr": "Réalisé",
+   "mark": "✓"
+  },
+  {
+   "id": "delayed",
+   "en": "Delayed",
+   "fr": "En retard",
+   "mark": "!"
+  },
+  {
+   "id": "unfulfilled",
+   "en": "Unfulfilled",
+   "fr": "Non réalisé",
+   "mark": "✕"
+  }
+ ]
+}

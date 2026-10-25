@@ -1,27 +1,67 @@
 ---
 layout: default
 ---
-<h1><span class="l-en" lang="en">Daily digest</span><span class="l-fr" lang="fr">Veille quotidienne</span></h1>
-<p class="l-en" lang="en">Today’s Quebec governance news, summarized in English and French, with a link to every source.</p>
-<p class="l-fr" lang="fr">Les nouvelles du jour sur la gouvernance au Québec, résumées en français et en anglais, avec un lien vers chaque source.</p>
+{%- comment -%}
+Homepage: data-driven from the latest digest post's front-matter `stories` (written by _tools/gen.py).
+Top 3 by importance (field `featured`), then the rest grouped by category (_data/categories.json),
+the Promised vs delivered tracker, What's next and earlier days. Nothing here is hardcoded news.
+{%- endcomment -%}
+{%- assign latest = site.posts.first -%}
+<h1 class="home-h1"><span class="l-fr" lang="fr">Gouvernance au Québec : l’essentiel du jour</span><span class="l-en" lang="en">Quebec governance: today’s essentials</span></h1>
+<p class="home-intro"><span class="l-fr" lang="fr">Les nouvelles du jour sur la gouvernance au Québec, résumées et liées à leur source.</span><span class="l-en" lang="en">Today’s Quebec governance news, summarized and linked to its source.</span></p>
+{%- if latest %}
+{%- assign cats_used = latest.stories | map: "category" | uniq %}
+<p class="home-meta"><time datetime="{{ latest.date | date: '%Y-%m-%d' }}">{% include date.html date=latest.date %}</time> · {% include count.html n=latest.story_count %} · <span class="l-fr" lang="fr">{{ cats_used.size }} catégories</span><span class="l-en" lang="en">{{ cats_used.size }} categories</span></p>
 
+{%- if latest.stories and latest.stories.size > 0 %}
+{%- assign feats = latest.stories | where_exp: "s", "s.featured > 0" | sort: "featured" %}
+<section class="home-sec top" aria-labelledby="h-top">
+  <h2 id="h-top" class="sec-h"><span class="l-fr" lang="fr">À la une</span><span class="l-en" lang="en">Top stories</span></h2>
+  <div class="feat-grid">
+  {%- for s in feats %}{% assign cat = site.data.categories.items | where: "id", s.category | first %}
+  {% include news-item.html s=s post=latest cat=cat featured=true %}
+  {%- endfor %}
+  </div>
+</section>
 
-{% for post in site.posts %}
-  <section class="day">
-    {% if forloop.first %}<span class="latest-label"><span class="l-en" lang="en">Latest</span><span class="l-fr" lang="fr">Le plus récent</span></span>{% endif %}
-    <h2><a href="{{ post.url | relative_url }}">{% include ptitle.html p=post %}</a></h2>
-    <p class="day-meta">{% include date.html date=post.date %} · {% include count.html n=post.story_count %}</p>
-    <p class="post-summary"><span class="l-en" lang="en">{{ post.summary }}</span><span class="l-fr" lang="fr">{{ post.summary_fr | default: post.summary }}</span></p>
-    {% if forloop.first %}
-      {{ post.content }}
-    {% else %}
-      <p><a href="{{ post.url | relative_url }}"><span class="l-en" lang="en">Read the digest →</span><span class="l-fr" lang="fr">Lire le digest →</span></a></p>
-    {% endif %}
+{% include tracker-home.html %}
+
+<section class="home-sec all" aria-labelledby="h-all">
+  <h2 id="h-all" class="sec-h"><span class="l-fr" lang="fr">Toutes les nouvelles du jour</span><span class="l-en" lang="en">All of today’s news</span> <span class="sec-count">{{ latest.story_count }}</span></h2>
+  {%- for cat in site.data.categories.items %}
+  {%- assign items = latest.stories | where: "category", cat.id | where_exp: "s", "s.featured == 0" %}
+  {%- if items.size > 0 %}
+  <section class="cat" aria-labelledby="cat-{{ cat.id }}">
+    <h3 id="cat-{{ cat.id }}" class="cat-h"><span class="l-fr" lang="fr">{{ cat.fr }}</span><span class="l-en" lang="en">{{ cat.en }}</span> <span class="cat-n">{{ items.size }}</span></h3>
+    <ul class="ni-list">
+    {%- for s in items %}{% include news-item.html s=s post=latest cat=cat %}{% endfor %}
+    </ul>
   </section>
-  {%- if forloop.first %}
-  {% include upcoming.html key="home" compact=true %}
-  {%- if site.posts.size > 1 %}
-  <h2 class="home-earlier"><span class="l-en" lang="en">Earlier days</span><span class="l-fr" lang="fr">Jours précédents</span></h2>
   {%- endif %}
-  {%- endif %}
-{% endfor %}
+  {%- endfor %}
+  <p class="sec-more"><a href="{{ latest.url | relative_url }}"><span class="l-fr" lang="fr">Lire la veille complète du jour</span><span class="l-en" lang="en">Read the full daily digest</span> →</a></p>
+</section>
+{%- else %}
+{%- comment -%} Fallback for a hand-made post without `stories`: show it as before. {%- endcomment -%}
+<section class="home-sec all">
+  <h2 class="sec-h"><a href="{{ latest.url | relative_url }}">{% include ptitle.html p=latest %}</a></h2>
+  {{ latest.content }}
+</section>
+{% include tracker-home.html %}
+{%- endif %}
+
+{% include upcoming.html key="home" compact=true %}
+
+{%- if site.posts.size > 1 %}
+<section class="home-sec earlier" aria-labelledby="h-earlier">
+  <h2 id="h-earlier" class="sec-h"><span class="l-fr" lang="fr">Jours précédents</span><span class="l-en" lang="en">Earlier days</span></h2>
+  <ul class="day-list">
+  {%- for post in site.posts offset: 1 limit: 6 %}
+    <li><a href="{{ post.url | relative_url }}"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{% include date.html date=post.date %}</time></a> <span class="day-n">· {% include count.html n=post.story_count %}</span>
+      <span class="day-sum"><span class="l-fr" lang="fr">{{ post.summary_fr | default: post.summary }}</span><span class="l-en" lang="en">{{ post.summary }}</span></span></li>
+  {%- endfor %}
+  </ul>
+  <p class="sec-more"><a href="{{ '/past-news/' | relative_url }}"><span class="l-fr" lang="fr">Toutes les nouvelles passées</span><span class="l-en" lang="en">All past news</span> →</a></p>
+</section>
+{%- endif %}
+{%- endif %}

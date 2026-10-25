@@ -3,14 +3,34 @@
 Daily digest on Quebec governance, published with Jekyll on GitHub Pages:
 https://quebec-taxpayer.github.io/news-alerts/
 
-The site has an **EN | FR** toggle at the top right. English is the default (also when
-JavaScript is off). The choice is remembered in the browser (localStorage key `qgm-lang`).
+The site has a **FR | EN** toggle at the top right. **French is the default** for first-time visitors (also when
+JavaScript is off). The choice is remembered in the browser (localStorage key `qgm-lang`), and switching keeps the
+reader's place on the page (the first visible element is measured before/after and the page is scrolled to compensate).
+
+Design rules (see `assets/css/style.css`): one system sans-serif stack (`--font`, no web-font service), white
+background, dark text, deep blue for links/navigation/accents, red only as a sparing accent (the top story, *Delayed*
+status). Yellow (`#ffd400`) marks the current menu item; plain-language boxes are `#fff8d6` with black text.
+Mobile: title 28 px, section headings 22 px, headlines 18 px, summaries 16 px, metadata 14 px, line height 1.5,
+16–20 px side padding, touch targets ≥ 44 px, no horizontal scroll from 320 px. No animations, banners or images.
+
+## Homepage (`index.html`, data-driven)
+Built from the front-matter `stories:` list of the latest post (`site.posts.first.stories`, written by `gen.py`):
+1. Title, a one-sentence intro, date · story count · category count.
+2. **À la une / Top stories** – the 3 stories with `featured: 1..3` (highest `importance`; ties keep digest order).
+3. **Promis vs réalisé** tracker (`_includes/tracker-home.html`, data `_data/promises.json` + `_data/promise_status.json`).
+4. **All of today's news** – the remaining stories as compact headlines grouped by category (`_data/categories.json`
+   order), each a `<details>` with summary, *Why it matters* (only when it adds to the summary), source link and a
+   link to the story in the full digest. Markup: `_includes/news-item.html`.
+5. Upcoming dates, then the previous 6 days and a link to Past News.
+Posts without `stories:` fall back to a plain link to the digest.
 
 ## How the language toggle works
 - Every piece of language-specific text exists twice: `<span class="l-en" lang="en">…</span>`
   and `<span class="l-fr" lang="fr">…</span>` (or `<p>`, `<section>` with the same classes).
 - The `<html>` element carries `lang-en` or `lang-fr`; `assets/css/style.css` hides the other language.
-- Headlines are not wrapped: they link to the original article and stay as published in both modes.
+- Headlines link to the original article. On the homepage a translated display title (`title_fr` / `title_en` in
+  `_data/story_meta.json`) may be shown; the original title is then shown as *Titre original / Original title*.
+  Inside the daily digest posts the headline stays exactly as published.
 - Post front matter has both languages: `title` (EN), `title_fr`, `summary` (EN), `summary_fr`.
   Pages use `title` (EN) and `title_fr`.
 
@@ -44,6 +64,13 @@ There is no weekly roundup section.
    If a section heading isn't in `FR / EN` form, add it to `HEADINGS` as `("FR", "EN")`.
 3. Run `python3 _tools/gen.py YYYY-MM-DD`. It writes `_posts/YYYY-MM-DD-digest.md` and reports
    any story missing a field and any one-language heading.
+3a. **Homepage metadata (daily):** for every new story add an entry to `_data/story_meta.json` →
+   `"stories": {"<story url>": {"category": "<id>", "importance": 1-5, "title_en": "…", "title_fr": "…"}}`.
+   `category` is an id from `_data/categories.json` (`government`, `finances`, `crown-it`, `justice`, `health`,
+   `energy`, `other`). `importance` is editorial: 5 = major public-money/accountability impact, 4 = significant,
+   3 = notable, 2 = routine, 1 = minor/local; the top 3 become *À la une*. Add `title_en` for French headlines and
+   `title_fr` for English ones: a faithful translation of the original title, nothing added. If an entry is missing,
+   `gen.py` falls back to the section heading's category and importance 2 (`plain.py` prints a NOTE).
 3b. **Plain-language upkeep (daily):** for every new story add a *Why it matters* line to `_data/why.json`
    (`"<story url>": {"en": "…", "fr": "…"}`) — one factual sentence on the concrete effect on ordinary people,
    taken only from that story; if the effect is unclear, write a neutral factual line instead. (Alternatively put
@@ -173,6 +200,12 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
 - **Promised vs delivered / Promis vs réalisé** (`/promises/` and the dossier page): `_data/promises.json`
   `items[]`: `id`, `dossier`, `type` (`cost|date|outcome`), `item_en/fr`, `announced_en/fr` + `announced_source_*`,
   `actual_en/fr` + `actual_source_*` + `actual_date`. Both sides must come from cited sources — no estimates.
+  `type` is `cost|deadline|outcome`. Every item has a `status`: `promised` (Promis), `in_progress` (En cours),
+  `completed` (Réalisé), `delayed` (En retard), `unfulfilled` (Non réalisé); labels/marks in `_data/promise_status.json`,
+  always shown as text + symbol, never colour alone. Optional `status_note_en/fr`. **`delayed` and `unfulfilled`
+  require cited evidence:** `status_evidence_en/fr`, `status_source_url`, `status_source_outlet`, `status_source_date`
+  (`plain.py --strict` fails otherwise). The homepage tracker and `/promises/` link each entry to its sources and to
+  the dossier's chronology (related coverage).
 - **Printable fact sheet** (`/chronology/<id>/print/`): layout `_layouts/dossier-print.html`, one Letter/A4 page:
   In 30 seconds, key figures, timeline, main names, sources. `chrono.py` creates the stub
   `chronology/print/<id>.html` for new dossiers automatically. Check long dossiers still fit on one page (print preview).

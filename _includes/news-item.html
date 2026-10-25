@@ -1,0 +1,29 @@
+{%- comment -%} One homepage news item. Params: s (story from a post's front-matter `stories`), post, cat (category object), featured (true for a top story). {%- endcomment -%}
+{%- assign s = include.s -%}
+{%- capture src_link -%}<a class="ni-src" href="{{ s.url }}" rel="noopener"><span class="l-fr" lang="fr">Lire la source</span><span class="l-en" lang="en">Read the source</span> : {{ s.outlet }} <span aria-hidden="true">↗</span></a>{%- endcapture -%}
+{%- capture orig -%}{% if s.title_fr != s.headline or s.title_en != s.headline %}<p class="ni-orig"><span class="l-fr" lang="fr">Titre original</span><span class="l-en" lang="en">Original headline</span> : <cite>{{ s.headline }}</cite></p>{% endif %}{%- endcapture -%}
+{%- capture meta -%}<p class="ni-meta"><span class="ni-cat"><span class="l-fr" lang="fr">{{ include.cat.fr }}</span><span class="l-en" lang="en">{{ include.cat.en }}</span></span> · <time datetime="{{ include.post.date | date: '%Y-%m-%d' }}">{% include date.html date=include.post.date %}</time> · {{ s.outlet }}</p>{%- endcapture -%}
+{%- capture why -%}{% if s.why_fr %}<p class="ni-why"><strong><span class="l-fr" lang="fr">Pourquoi c’est important :</span><span class="l-en" lang="en">Why it matters:</span></strong> <span class="l-fr" lang="fr">{{ s.why_fr }}</span><span class="l-en" lang="en">{{ s.why_en }}</span></p>{% endif %}{%- endcapture -%}
+{%- if include.featured %}
+<article class="feat" id="top-{{ s.id }}">
+  <p class="feat-kicker"><span class="feat-rank">{{ s.featured }}</span><span class="l-fr" lang="fr">{{ include.cat.fr }}</span><span class="l-en" lang="en">{{ include.cat.en }}</span></p>
+  <h3 class="feat-h"><a href="{{ s.url }}" rel="noopener"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-en" lang="en">{{ s.title_en }}</span></a></h3>
+  {{ meta }}
+  <p class="ni-sum"><span class="l-fr" lang="fr">{{ s.summary_fr }}</span><span class="l-en" lang="en">{{ s.summary_en }}</span></p>
+  {{ why }}
+  <p class="ni-links">{{ src_link }} · <a href="{{ include.post.url | relative_url }}#{{ s.id }}"><span class="l-fr" lang="fr">Dans la veille du jour</span><span class="l-en" lang="en">In the daily digest</span></a></p>
+  {{ orig }}
+</article>
+{%- else %}
+<li class="ni" id="n-{{ s.id }}">
+  <details>
+    <summary><span class="ni-h"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-en" lang="en">{{ s.title_en }}</span></span><span class="ni-out">{{ s.outlet }}</span></summary>
+    <div class="ni-body">
+      <p class="ni-sum"><span class="l-fr" lang="fr">{{ s.summary_fr }}</span><span class="l-en" lang="en">{{ s.summary_en }}</span></p>
+      {{ why }}
+      <p class="ni-links">{{ src_link }} · <a href="{{ include.post.url | relative_url }}#{{ s.id }}"><span class="l-fr" lang="fr">Dans la veille du jour</span><span class="l-en" lang="en">In the daily digest</span></a></p>
+      {{ orig }}
+    </div>
+  </details>
+</li>
+{%- endif -%}

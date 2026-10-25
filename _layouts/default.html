@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en" class="lang-en">
+<html lang="fr" class="lang-fr">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script>(function(){var l="en";try{l=localStorage.getItem("qgm-lang")||"en";}catch(e){}if(l!=="fr")l="en";var h=document.documentElement;h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;})();</script>
+  <script>(function(){var l="fr";try{l=localStorage.getItem("qgm-lang")||"fr";}catch(e){}if(l!=="en")l="fr";var h=document.documentElement;h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;})();</script>
   {%- capture t_en -%}{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
   {%- capture t_fr -%}{% if page.title %}{{ page.title_fr | default: page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
-  <title data-en="{{ t_en | escape }}" data-fr="{{ t_fr | escape }}">{{ t_en }}</title>
+  <title data-en="{{ t_en | escape }}" data-fr="{{ t_fr | escape }}">{{ t_fr }}</title>
   <meta name="description" content="{{ page.summary | default: site.description | strip_html | escape }}">
   <link rel="icon" href="data:,">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -21,6 +21,16 @@
 <script type="application/json" id="gl-data">{{ site.data.glossary.terms | jsonify }}</script>
 <script src="{{ '/assets/js/plain.js' | relative_url }}" data-base="{{ site.baseurl }}" defer></script>
 {%- if page.layout == "dossier" and page.dossier %}{%- assign svgd = site.data.dossiers.dossiers | where: "id", page.dossier | first %}{%- if svgd.svg_timeline %}<script src="{{ '/assets/js/svg-timeline.js' | relative_url }}" defer></script>{% endif %}{% endif %}
-<script>(function(){var h=document.documentElement,b=document.querySelectorAll("[data-set-lang]"),t=document.querySelector("title");function set(l,save){h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;for(var i=0;i<b.length;i++)b[i].setAttribute("aria-pressed",b[i].getAttribute("data-set-lang")===l?"true":"false");if(t&&t.getAttribute("data-"+l))document.title=t.getAttribute("data-"+l);if(save){try{localStorage.setItem("qgm-lang",l);}catch(e){}}}for(var i=0;i<b.length;i++)b[i].addEventListener("click",function(){set(this.getAttribute("data-set-lang"),true);});set(h.lang==="fr"?"fr":"en",false);})();</script>
+<script>/* FR|EN toggle: French by default, choice saved in localStorage "qgm-lang". Keeps the reader's place:
+   the first visible element is measured before and after the switch and the page is scrolled to compensate. */
+(function(){var h=document.documentElement,b=document.querySelectorAll("[data-set-lang]"),t=document.querySelector("title");
+function anchor(){var c=document.querySelectorAll("main h1,main h2,main h3,main p,main li,main summary,main dt,main dd,main tr");var f=null;for(var i=0;i<c.length;i++){if(c[i].closest(".l-en,.l-fr"))continue;var r=c[i].getBoundingClientRect();if(r.height>0&&r.top>=0)return c[i];if(!f&&r.height>0&&r.bottom>0)f=c[i];}return f;}
+function set(l,save){var a=save?anchor():null,y0=a?a.getBoundingClientRect().top:0;
+h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;
+for(var i=0;i<b.length;i++)b[i].setAttribute("aria-pressed",b[i].getAttribute("data-set-lang")===l?"true":"false");
+if(t&&t.getAttribute("data-"+l))document.title=t.getAttribute("data-"+l);
+if(save){try{localStorage.setItem("qgm-lang",l);}catch(e){}if(a&&window.scrollY>0){var dy=a.getBoundingClientRect().top-y0;if(dy)window.scrollBy(0,dy);}}}
+for(var i=0;i<b.length;i++)b[i].addEventListener("click",function(){set(this.getAttribute("data-set-lang"),true);});
+set(h.lang==="en"?"en":"fr",false);})();</script>
 </body>
 </html>

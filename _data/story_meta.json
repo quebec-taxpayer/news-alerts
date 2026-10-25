@@ -1,0 +1,231 @@
+{
+ "_comment": "Per-story homepage metadata, keyed by story URL (like why.json). category: an id from _data/categories.json. importance: 1 (minor) to 5 (major), an editorial judgment of public impact and accountability relevance; the 3 highest of the latest day are featured on the homepage (ties keep digest order). title_en / title_fr: faithful translation of a headline published in the other language (optional; the original headline is always kept and shown as the source title).",
+ "stories": {
+  "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php": {
+   "category": "justice",
+   "importance": 4
+  },
+  "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps": {
+   "category": "justice",
+   "importance": 2
+  },
+  "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php": {
+   "category": "justice",
+   "importance": 2
+  },
+  "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq": {
+   "category": "government",
+   "importance": 4
+  },
+  "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec": {
+   "category": "health",
+   "importance": 3
+  },
+  "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php": {
+   "category": "government",
+   "importance": 2
+  },
+  "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085": {
+   "category": "government",
+   "importance": 2
+  },
+  "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres": {
+   "category": "energy",
+   "importance": 3
+  },
+  "https://www.lapresse.ca/affaires/economie/2026-10-17/ou-en-est-la-filiere-hydrogene.php": {
+   "category": "energy",
+   "importance": 2
+  },
+  "https://ici.radio-canada.ca/nouvelle/2291328/commissaire-lobbyisme-quebec-bar-ouvert": {
+   "category": "justice",
+   "importance": 3
+  },
+  "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html": {
+   "category": "government",
+   "importance": 3
+  },
+  "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon": {
+   "category": "government",
+   "importance": 2
+  },
+  "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance": {
+   "category": "health",
+   "importance": 2
+  },
+  "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television": {
+   "category": "government",
+   "importance": 1
+  },
+  "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/placements-sans-prospectus-le-tmf-impose-des-mesures-a-kokou-nouwozan-langueh-et-a-magasin-bryan-inc": {
+   "category": "justice",
+   "importance": 2
+  },
+  "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php": {
+   "category": "crown-it",
+   "importance": 4
+  },
+  "https://www.lapresse.ca/affaires/2026-10-21/hausse-de-prix/le-coup-de-grace-pour-le-mazout.php": {
+   "category": "energy",
+   "importance": 2
+  },
+  "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125": {
+   "category": "justice",
+   "importance": 3
+  },
+  "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843": {
+   "category": "government",
+   "importance": 3
+  },
+  "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation": {
+   "category": "health",
+   "importance": 3
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie": {
+   "category": "government",
+   "importance": 2
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region": {
+   "category": "government",
+   "importance": 1
+  },
+  "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres": {
+   "category": "crown-it",
+   "importance": 5
+  },
+  "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/": {
+   "category": "crown-it",
+   "importance": 3
+  },
+  "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq": {
+   "category": "crown-it",
+   "importance": 3
+  },
+  "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin": {
+   "category": "justice",
+   "importance": 2
+  },
+  "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php": {
+   "category": "justice",
+   "importance": 2
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur": {
+   "category": "government",
+   "importance": 2
+  },
+  "https://www.tvanouvelles.ca/2026/10/22/elle-obtient-7-roles-au-sein-du-conseil-des-ministres--jaime-les-defis-dit-marie-claude-sarrazin": {
+   "category": "government",
+   "importance": 3
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Emergency homelessness aid: Quebec releases an additional $28 million"
+  },
+  "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "Damning report: PSPP should drop two major road-project promises to fund the deteriorating network"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome": {
+   "category": "government",
+   "importance": 1,
+   "title_en": "Liberal shadow cabinet: Charles Milliard chooses experience to take on the PQ"
+  },
+  "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "The SAQ advanced $10M for Consignaction"
+  },
+  "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_fr": "Hydro-Québec visée par une alerte informatique, alors que les craintes de piratage se répandent dans le monde"
+  },
+  "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html": {
+   "category": "crown-it",
+   "importance": 2,
+   "title_en": "Critical PHP vulnerability – Affected IT applications accessible again"
+  },
+  "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html": {
+   "category": "justice",
+   "importance": 2,
+   "title_en": "Former Chandler deputy mayor Bruno-Pierre Godbout found guilty of fraud against the municipality"
+  },
+  "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "Fintech FNZ – People close to La Caisse called before the courts"
+  },
+  "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "“Santé Québec is no longer in the plans,” the new Health minister says"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Result in the riding of Vachon – The Liberals contest the invalidation of some ballots"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "St-Pierre Plamondon government – Chiefs of staff are starting to be appointed"
+  },
+  "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Who are the new ministers: here are those who will look after your wallet"
+  },
+  "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php": {
+   "category": "energy",
+   "importance": 2,
+   "title_en": "Ottawa lends $193 million to two aluminium giants"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Mercier Bridge and Île-d’Orléans Bridge: what “end of useful life” means"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction": {
+   "category": "health",
+   "importance": 2,
+   "title_en": "Pharmacists denounce a vaccine distribution system they consider inefficient"
+  },
+  "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956": {
+   "category": "finances",
+   "importance": 2,
+   "title_fr": "82 jours plus tard, aucune réparation n’a commencé sur la route emportée qui divise une petite ville du Québec"
+  },
+  "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec": {
+   "category": "government",
+   "importance": 5,
+   "title_en": "Who are the new ministers: hot files, big mandates and the state’s various missions"
+  },
+  "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Infrastructure projects will wait if they are not essential, warns Premier St-Pierre Plamondon"
+  },
+  "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Oath to the King: a lawyer wants to block the start of parliamentary proceedings"
+  },
+  "https://www.cbc.ca/news/canada/montreal/hampstead-mayor-jeremy-levi-fined-anti-palestine-posts-9.7394105": {
+   "category": "justice",
+   "importance": 1,
+   "title_fr": "Le maire de Hampstead (Qc) plaide coupable et s’expose à une amende de 30 000 $ après des publications anti-Palestine"
+  },
+  "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook": {
+   "category": "energy",
+   "importance": 1,
+   "title_en": "Wind farm project: discord in the MRC of Coaticook"
+  },
+  "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir": {
+   "category": "energy",
+   "importance": 2,
+   "title_en": "No more American gas at Énergir"
+  }
+ }
+}

@@ -11,7 +11,8 @@ Data files:
   _data/why.json     "Why it matters": {story_url: {en, fr}}, one plain factual sentence per published story.
   _data/glossary.json  Glossary terms (definitions, official source, phrases auto-marked on pages).
   _data/upcoming.json  "What's next" dates (only dates stated in a cited source).
-  _data/promises.json  "Promised vs delivered" pairs (both values sourced).
+  _data/promises.json  "Promised vs delivered" pairs (both values sourced) with a status; delayed/unfulfilled need cited evidence.
+  _data/story_meta.json  homepage category + importance per story (missing entries are notes, not warnings).
 """
 import json, math, os, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -166,9 +167,30 @@ def check_promises():
             if not it.get(k): w.append(f"promises {i}: missing {k} (both values must be sourced)")
         if it.get("type") not in ("cost", "deadline", "outcome"): w.append(f"promises {i}: type must be cost|deadline|outcome")
         if it.get("dossier") not in dossiers: w.append(f"promises {i}: unknown dossier")
-        for k in ("announced_source_url", "actual_source_url"):
+        for k in ("announced_source_url", "actual_source_url", "status_source_url"):
             if it.get(k) and not str(it[k]).startswith("http"): w.append(f"promises {i}: bad {k}")
+        st = it.get("status")
+        if st not in STATUSES: w.append(f"promises {i}: status must be one of {'|'.join(STATUSES)}")
+        if st in ("delayed", "unfulfilled"):
+            for k in ("status_evidence_en", "status_evidence_fr", "status_source_url", "status_source_outlet", "status_source_date"):
+                if not it.get(k): w.append(f"promises {i}: status '{st}' needs {k} (a cited source that states it; never inferred)")
     return w
+
+STATUSES = ("promised", "in_progress", "completed", "delayed", "unfulfilled")
+
+def check_story_meta():
+    """Homepage metadata (_data/story_meta.json). Returns (warnings, notes): a missing entry is only a note, because
+    gen.py falls back to the section heading; a bad value is a warning."""
+    sm, w, n = load("story_meta.json", {"stories": {}}).get("stories", {}), [], []
+    cats = {c["id"] for c in load("categories.json", {"items": []})["items"]}
+    pub = published()
+    for u in pub:
+        if u not in sm: n.append(f"story_meta: no category/importance for {u} (homepage uses the section heading)")
+    for u, m in sm.items():
+        if u not in pub: w.append(f"story_meta: entry for an unpublished story {u}")
+        if m.get("category") not in cats: w.append(f"story_meta: unknown category {m.get('category')} for {u}")
+        if not isinstance(m.get("importance", 2), int) or not 1 <= m.get("importance", 2) <= 5: w.append(f"story_meta: importance must be 1-5 for {u}")
+    return w, n
 
 def main():
     a = sys.argv[1:] or ["check"]
@@ -177,7 +199,9 @@ def main():
         w = check_money()
         for it in load("money.json")["items"]: print(f"  {it['id']:<22} {it['calc_en']}")
     else:
-        w = check_money() + check_why() + check_glossary() + check_upcoming() + check_promises()
+        smw, smn = check_story_meta()
+        w = check_money() + check_why() + check_glossary() + check_upcoming() + check_promises() + smw
+        for x in smn: print("NOTE", x)
     pub = published(); why = load("why.json", {}); m = load("money.json", {"items": []})
     g = load("glossary.json", {"terms": []}); u = load("upcoming.json", {"items": []}); pr = load("promises.json", {"items": []})
     print(f"stories={len(pub)} why={sum(1 for u_ in pub if u_ in why)} money_items={len(m['items'])} "
