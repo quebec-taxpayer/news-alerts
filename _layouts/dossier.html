@@ -5,7 +5,7 @@ section: chronology
 {%- capture rel_href -%}href="{{ '/' | relative_url }}{%- endcapture -%}
 {%- assign d = site.data.dossiers.dossiers | where: "id", page.dossier | first -%}
 <article class="page dossier">
-  <p class="crumb"><a href="{{ '/chronology/' | relative_url }}">← <span class="l-en" lang="en">Chronology</span><span class="l-fr" lang="fr">Chronologie</span></a></p>
+  <p class="crumb"><a href="{{ '/chronology/' | relative_url }}">← <span class="l-en" lang="en">Dossiers</span><span class="l-fr" lang="fr">Dossiers</span></a></p>
   <h1><span class="l-en" lang="en">{{ d.name_en }}</span><span class="l-fr" lang="fr">{{ d.name_fr }}</span></h1>
   <p class="l-en" lang="en">{{ d.desc_en | replace: 'href="/', rel_href }}</p><p class="l-fr" lang="fr">{{ d.desc_fr | replace: 'href="/', rel_href }}</p>
   {%- if d.tldr %}

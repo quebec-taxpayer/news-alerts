@@ -1,5 +1,5 @@
 {%- comment -%} Promised vs delivered table. Param: dossier (id) or all=true. {%- endcomment -%}
-{%- if include.all -%}{%- assign pr = site.data.promises.items -%}{%- else -%}{%- assign pr = site.data.promises.items | where: "dossier", include.dossier -%}{%- endif -%}
+{%- if include.all -%}{%- assign pr = site.data.promises.items | sort: "updated" | reverse -%}{%- else -%}{%- assign pr = site.data.promises.items | where: "dossier", include.dossier | sort: "updated" | reverse -%}{%- endif -%}
 {%- if pr.size > 0 %}
 <section class="callout promises" aria-labelledby="pr-h-{{ include.dossier | default: 'all' }}">
   {% unless include.nohead %}<h2 id="pr-h-{{ include.dossier | default: 'all' }}" class="callout-label"><span class="l-en" lang="en">Promised vs delivered</span><span class="l-fr" lang="fr">Promis vs réalisé</span></h2>{% endunless %}
@@ -7,9 +7,9 @@
     <thead><tr><th scope="col"><span class="l-en" lang="en">Item</span><span class="l-fr" lang="fr">Élément</span></th><th scope="col"><span class="l-en" lang="en">Announced</span><span class="l-fr" lang="fr">Annoncé</span></th><th scope="col"><span class="l-en" lang="en">Actual / latest official</span><span class="l-fr" lang="fr">Réel / dernier chiffre officiel</span></th></tr></thead>
     <tbody>
     {%- for pi in pr %}
-      <tr><th scope="row">{% include pstatus.html s=pi.status %}<span class="l-en" lang="en">{{ pi.item_en }}</span><span class="l-fr" lang="fr">{{ pi.item_fr }}</span><span class="pr-type">{{ pi.type }}</span>{% if pi.status_evidence_en %}<span class="pr-ev"><span class="l-en" lang="en">{{ pi.status_evidence_en }}</span><span class="l-fr" lang="fr">{{ pi.status_evidence_fr }}</span> (<a href="{{ pi.status_source_url }}" rel="noopener" target="_blank">{{ pi.status_source_outlet }}</a>)</span>{% elsif pi.status_note_en %}<span class="pr-ev"><span class="l-en" lang="en">{{ pi.status_note_en }}</span><span class="l-fr" lang="fr">{{ pi.status_note_fr }}</span></span>{% endif %}</th>
-        <td><span class="l-en" lang="en">{{ pi.announced_en }}</span><span class="l-fr" lang="fr">{{ pi.announced_fr }}</span> <span class="pr-src">(<a href="{{ pi.announced_source_url }}" rel="noopener" target="_blank">{{ pi.announced_source_outlet }}</a>)</span></td>
-        <td><span class="l-en" lang="en">{{ pi.actual_en }}</span><span class="l-fr" lang="fr">{{ pi.actual_fr }}</span> <span class="pr-src">(<a href="{{ pi.actual_source_url }}" rel="noopener" target="_blank">{{ pi.actual_source_outlet }}</a>, {% include edate.html date=pi.actual_date %})</span></td></tr>
+      <tr><th scope="row">{% include pstatus.html s=pi.status %}<span class="l-en" lang="en">{{ pi.item_en }}</span><span class="l-fr" lang="fr">{{ pi.item_fr }}</span><span class="pr-type">{{ pi.type }}</span>{% if pi.party_en %}<span class="pr-ev"><span class="l-en" lang="en">{{ pi.party_en }}</span><span class="l-fr" lang="fr">{{ pi.party_fr }}</span></span>{% endif %}<span class="pr-ev"><strong><span class="l-en" lang="en">Why this status:</span><span class="l-fr" lang="fr">Pourquoi ce statut :</span></strong> <span class="l-en" lang="en">{{ pi.status_evidence_en }}</span><span class="l-fr" lang="fr">{{ pi.status_evidence_fr }}</span> (<a href="{{ pi.status_source_url }}" rel="noopener" target="_blank">{{ pi.status_source_outlet }}</a>, {% include edate.html date=pi.status_source_date %})</span><span class="pr-ev"><span class="l-en" lang="en">Last update:</span><span class="l-fr" lang="fr">Dernière mise à jour :</span> {% include edate.html date=pi.updated %}</span></th>
+        <td>{% include promise-lines.html lines=pi.announced_lines en=pi.announced_en fr=pi.announced_fr outlet=pi.announced_source_outlet url=pi.announced_source_url %}</td>
+        <td>{% include promise-lines.html lines=pi.actual_lines en=pi.actual_en fr=pi.actual_fr outlet=pi.actual_source_outlet url=pi.actual_source_url date=pi.actual_date %}</td></tr>
     {%- endfor %}
     </tbody>
   </table></div>

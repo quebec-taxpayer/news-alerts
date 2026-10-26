@@ -4,7 +4,7 @@
   var BASE = (document.currentScript && document.currentScript.getAttribute("data-base")) || "";
   function lang() { return document.documentElement.classList.contains("lang-fr") ? "fr" : "en"; }
 
-  /* ---------- What's next: move past dates under "Past" (today in Quebec time) ---------- */
+  /* ---------- What's next: label today's items, hide (homepage) or move under "Past" (dossiers) passed ones; today in Quebec time ---------- */
   function todayQC() {
     try { return new Intl.DateTimeFormat("en-CA", { timeZone: "America/Toronto", year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date()); }
     catch (e) { var d = new Date(); return d.toISOString().slice(0, 10); }
@@ -13,16 +13,30 @@
     var today = todayQC();
     var boxes = document.querySelectorAll("[data-upcoming]");
     for (var i = 0; i < boxes.length; i++) {
-      var box = boxes[i], fut = box.querySelector(".up-future"), past = box.querySelector(".up-past"), pul = past.querySelector("ul");
+      var box = boxes[i], fut = box.querySelector(".up-future"), past = box.querySelector(".up-past"), pul = past ? past.querySelector("ul") : null;
+      var hide = box.hasAttribute("data-hide-past");
       var lis = fut.querySelectorAll("li[data-date]"), moved = 0;
       for (var j = 0; j < lis.length; j++) {
         var d = lis[j].getAttribute("data-date"), end = d.length === 4 ? d + "-12-31" : d;
-        if (end < today) { lis[j].classList.add("up-is-past"); pul.insertBefore(lis[j], pul.firstChild); moved++; }
+        if (end < today) {
+          if (hide || !pul) { lis[j].parentNode.removeChild(lis[j]); }
+          else { lis[j].classList.add("up-is-past"); pul.insertBefore(lis[j], pul.firstChild); moved++; }
+        } else if (d === today) {
+          var w = lis[j].querySelector(".up-when"), t = lis[j].querySelector(".up-today");
+          if (w && t) { w.hidden = true; t.hidden = false; lis[j].classList.add("up-is-today"); }
+        }
       }
-      if (moved) past.hidden = false;
+      if (moved && past) past.hidden = false;
       if (!fut.querySelector("li")) box.querySelector(".up-none").hidden = false;
     }
   }
+  /* A link to a collapsed homepage story (#n-…) opens its <details>. */
+  function openTarget() {
+    var id = decodeURIComponent((location.hash || "").slice(1)); if (!id) return;
+    var el = document.getElementById(id); if (!el) return;
+    var dt = el.querySelector("details"); if (dt && !dt.open) dt.open = true;
+  }
+  window.addEventListener("hashchange", openTarget);
 
   /* ---------- Pop-up term definitions (data: _data/glossary.json, emitted as #gl-data) ----------
      The first mention of each term per page and per language is wrapped in a <button class="gl-term">.
@@ -146,6 +160,6 @@
     window.addEventListener("resize", closeTip);
     var ls = document.querySelectorAll("[data-set-lang]"); for (var j = 0; j < ls.length; j++) ls[j].addEventListener("click", closeTip);
   }
-  function init() { upcoming(); mark(); }
+  function init() { upcoming(); openTarget(); mark(); }
   if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", init); else init();
 })();

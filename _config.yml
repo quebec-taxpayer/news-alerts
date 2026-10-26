@@ -1,8 +1,10 @@
 title: "Quebec Governance Monitor"
 title_fr: "Observatoire de la gouvernance du Québec"
-tagline_fr: "Veille quotidienne sur la gouvernance au Québec"
-tagline_en: "Daily digest on Quebec governance"
-description: "Veille quotidienne indépendante et non partisane sur la gouvernance, la transparence et la reddition de comptes au Québec. / Independent, non-partisan daily digest on governance, transparency and accountability in Quebec."
+tagline_fr: "Indépendant, non partisan. Une page par jour. Chaque nouvelle renvoie à sa source."
+tagline_en: "Independent, non-partisan. One page a day. Every story linked to its source."
+# description = the <meta name="description"> (French only); description_en = og:description (English).
+description: "Veille quotidienne indépendante et non partisane sur la gouvernance, la transparence et la reddition de comptes au Québec."
+description_en: "Independent, non-partisan daily digest on governance, transparency and accountability in Quebec."
 url: "https://quebec-taxpayer.github.io"
 baseurl: "/news-alerts"
 lang: fr

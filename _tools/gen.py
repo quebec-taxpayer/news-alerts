@@ -13,6 +13,9 @@ Source format per day file (SRC/YYYY-MM-DD.txt):
   💡🇬🇧 Why it matters (optional; else taken from _data/why.json)
   — Quebec Governance Monitor           (signature; skipped: the site footer signs each page in the reader's
                                          language, site.title_fr / site.title in _config.yml)
+Why it matters rule (README step 3b; enforced by plain.py --strict): the line must add one thing the summary does not
+say (the public stake, what to watch next, or the gap in the record) and never repeat a number from the summary.
+Every fact is checked against the cached article.
 Per story the post also shows, when present: the "Why it matters" line (_data/why.json, keyed by story URL)
 and any "money in human terms" item whose story_url is that story (_data/money.json, run _tools/plain.py money).
 Each language is wrapped in class="l-fr" / class="l-en" so the site's FR|EN toggle shows one at a time.

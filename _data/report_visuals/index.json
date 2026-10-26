@@ -3,7 +3,7 @@
   {
    "n": 0,
    "tone": "zero",
-   "href": "/special‑reports/lobbying/",
+   "href": "/special-reports/lobbying/",
    "label_en": "1. Lobbying: government reform proposals after the unanimous 2026 vote",
    "label_fr": "1. Lobbyisme : propositions de réforme du gouvernement après le vote unanime de 2026",
    "detail_en": "Formally tabled, as of May 2026.",
@@ -19,7 +19,7 @@
   {
    "n": 32,
    "of": "/99",
-   "href": "/special‑reports/auditor‑general/",
+   "href": "/special-reports/auditor-general/",
    "label_en": "2. Auditor General: recommendations fully applied",
    "label_fr": "2. Vérificateur général : recommandations entièrement appliquées",
    "detail_en": "2024‑25 follow‑up. The headline says 85%.",
@@ -36,7 +36,7 @@
    "n": 24,
    "of": "/60",
    "tone": "zero",
-   "href": "/special‑reports/charbonneau/",
+   "href": "/special-reports/charbonneau/",
    "label_en": "3. Charbonneau: recommendations still a dead letter",
    "label_fr": "3. Charbonneau : recommandations restées lettre morte",
    "detail_en": "Independent committee, November 2017.",
@@ -52,7 +52,7 @@
   {
    "value_en": "$1.1B",
    "value_fr": "1,1 milliard $",
-   "href": "/special‑reports/saaqclic/",
+   "href": "/special-reports/saaqclic/",
    "label_en": "4. SAAQclic: forecast cost, at least",
    "label_fr": "4. SAAQclic : coût prévu, au moins",
    "detail_en": "By March 2027, up from $638M budgeted in 2017.",

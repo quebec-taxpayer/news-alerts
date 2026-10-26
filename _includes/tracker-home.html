@@ -1,22 +1,25 @@
 {%- comment -%} Homepage "Promised vs delivered" tracker: reuses _data/promises.json (same data as /promises/ and dossier pages). {%- endcomment -%}
-{%- assign pr = site.data.promises.items -%}
+{%- assign pr = site.data.promises.items | sort: "updated" | reverse -%}
 {%- if pr.size > 0 %}
 <section class="home-sec tracker" aria-labelledby="h-tracker">
   <h2 id="h-tracker" class="sec-h"><span class="l-fr" lang="fr">Promis vs réalisé</span><span class="l-en" lang="en">Promised vs delivered</span> <span class="sec-count">{{ pr.size }}</span></h2>
   <p class="sec-note"><span class="l-fr" lang="fr">Ce qui a été annoncé, à côté de ce qui s’est passé. Chaque statut s’appuie sur une source citée.</span><span class="l-en" lang="en">What was announced, next to what happened. Every status rests on a cited source.</span></p>
   <ul class="pst-legend" aria-label="Statuts / Statuses">{% for ps in site.data.promise_status.items %}<li>{% include pstatus.html s=ps.id %}</li>{% endfor %}</ul>
+  <p class="pst-defs"><span class="l-fr" lang="fr">{% for ps in site.data.promise_status.items %}<strong>{{ ps.fr }}</strong> : {{ ps.def_fr }}.{% unless forloop.last %} {% endunless %}{% endfor %}</span><span class="l-en" lang="en">{% for ps in site.data.promise_status.items %}<strong>{{ ps.en }}</strong>: {{ ps.def_en }}.{% unless forloop.last %} {% endunless %}{% endfor %}</span></p>
+  <p class="sec-note"><span class="l-fr" lang="fr">Du plus récent au plus ancien.</span><span class="l-en" lang="en">Most recently updated first.</span></p>
   <ol class="tk-list">
   {%- for pi in pr %}{%- assign d = site.data.dossiers.dossiers | where: "id", pi.dossier | first %}
     <li class="tk" id="tk-{{ pi.id }}">
       <div class="tk-top">{% include pstatus.html s=pi.status %}<h3 class="tk-h"><span class="l-fr" lang="fr">{{ pi.item_fr }}</span><span class="l-en" lang="en">{{ pi.item_en }}</span></h3></div>
+      {%- if pi.party_en %}<p class="tk-party"><span class="l-fr" lang="fr">{{ pi.party_fr }}</span><span class="l-en" lang="en">{{ pi.party_en }}</span></p>{% endif %}
       <dl class="tk-dl">
         <dt><span class="l-fr" lang="fr">Annoncé</span><span class="l-en" lang="en">Announced</span></dt>
-        <dd><span class="l-fr" lang="fr">{{ pi.announced_fr }}</span><span class="l-en" lang="en">{{ pi.announced_en }}</span> <span class="tk-src">(<a href="{{ pi.announced_source_url }}" rel="noopener">{{ pi.announced_source_outlet }}</a>)</span></dd>
+        <dd>{% include promise-lines.html lines=pi.announced_lines en=pi.announced_en fr=pi.announced_fr outlet=pi.announced_source_outlet url=pi.announced_source_url %}</dd>
         <dt><span class="l-fr" lang="fr">Réel / dernier état</span><span class="l-en" lang="en">Actual / latest</span></dt>
-        <dd><span class="l-fr" lang="fr">{{ pi.actual_fr }}</span><span class="l-en" lang="en">{{ pi.actual_en }}</span> <span class="tk-src">(<a href="{{ pi.actual_source_url }}" rel="noopener">{{ pi.actual_source_outlet }}</a>, {% include edate.html date=pi.actual_date %})</span></dd>
+        <dd>{% include promise-lines.html lines=pi.actual_lines en=pi.actual_en fr=pi.actual_fr outlet=pi.actual_source_outlet url=pi.actual_source_url date=pi.actual_date %}</dd>
       </dl>
-      {%- if pi.status_evidence_fr %}<p class="tk-ev"><strong><span class="l-fr" lang="fr">Pourquoi ce statut :</span><span class="l-en" lang="en">Why this status:</span></strong> <span class="l-fr" lang="fr">{{ pi.status_evidence_fr }}</span><span class="l-en" lang="en">{{ pi.status_evidence_en }}</span> <span class="tk-src">(<a href="{{ pi.status_source_url }}" rel="noopener">{{ pi.status_source_outlet }}</a>, {% include edate.html date=pi.status_source_date %})</span></p>
-      {%- elsif pi.status_note_fr %}<p class="tk-ev"><span class="l-fr" lang="fr">{{ pi.status_note_fr }}</span><span class="l-en" lang="en">{{ pi.status_note_en }}</span></p>{% endif %}
+      <p class="tk-ev"><strong><span class="l-fr" lang="fr">Pourquoi ce statut :</span><span class="l-en" lang="en">Why this status:</span></strong> <span class="l-fr" lang="fr">{{ pi.status_evidence_fr }}</span><span class="l-en" lang="en">{{ pi.status_evidence_en }}</span> <span class="tk-src">(<a href="{{ pi.status_source_url }}" rel="noopener">{{ pi.status_source_outlet }}</a>, {% include edate.html date=pi.status_source_date %})</span></p>
+      <p class="tk-upd"><span class="l-fr" lang="fr">Dernière mise à jour :</span><span class="l-en" lang="en">Last update:</span> <time datetime="{{ pi.updated }}">{% include edate.html date=pi.updated %}</time></p>
       {%- if d %}<p class="tk-rel"><a href="{{ '/chronology/' | append: d.id | append: '/' | relative_url }}"><span class="l-fr" lang="fr">Couverture liée : {{ d.name_fr }}</span><span class="l-en" lang="en">Related coverage: {{ d.name_en }}</span> →</a></p>{% endif %}
     </li>
   {%- endfor %}

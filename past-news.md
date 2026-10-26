@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Past News"
-title_fr: "Nouvelles passées"
+title: "Archive"
+title_fr: "Archives"
 permalink: /past-news/
 section: past-news
 ---

@@ -1,0 +1,6 @@
+{%- comment -%} One side of a tracker card. Params: lines (announced_lines / actual_lines, optional), en, fr, outlet, url, date (optional). {%- endcomment -%}
+{%- if include.lines and include.lines.size > 0 -%}
+<ul class="tk-lines">{% for l in include.lines %}<li><span class="l-fr" lang="fr">{{ l.fr }}</span><span class="l-en" lang="en">{{ l.en }}</span> <span class="tk-src">(<a href="{{ l.source_url }}" rel="noopener">{{ l.source_outlet }}</a>{% if l.date %}, {% include edate.html date=l.date %}{% endif %})</span></li>{% endfor %}</ul>
+{%- else -%}
+<span class="l-fr" lang="fr">{{ include.fr }}</span><span class="l-en" lang="en">{{ include.en }}</span> <span class="tk-src">(<a href="{{ include.url }}" rel="noopener">{{ include.outlet }}</a>{% if include.date %}, {% include edate.html date=include.date %}{% endif %})</span>
+{%- endif -%}

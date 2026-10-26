@@ -688,3 +688,17 @@ details[open] > summary .vt-who::after { content: " −"; }
 .vt-table { margin: 0 0 14px; }
 .vt-table > summary { cursor: pointer; display: flex; align-items: center; min-height: 44px; font-weight: 700; color: var(--blue); }
 .vt-table > summary:hover { color: var(--red); }
+
+/* ---------- Homepage clarity: header RSS link, tracker details, What's next links ---------- */
+.header-tools { display: inline-flex; flex-shrink: 0; align-items: center; gap: 8px; }
+.rss-link { display: inline-flex; align-items: center; min-height: 40px; min-width: 44px; justify-content: center; font-size: 13px; font-weight: 700; color: var(--blue); text-decoration: underline; }
+.rss-link:hover, .rss-link:focus { color: var(--black); }
+@media (max-width: 360px) { .header-tools { gap: 4px; } .rss-link { min-width: 36px; font-size: 12px; } }
+.pst-defs { font-size: 14px; margin: 4px 0 8px; }
+.tk-party { font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: var(--blue); margin: 0 0 4px; }
+.tk-lines { margin: 2px 0; padding-left: 18px; }
+.tk-lines li { margin: 2px 0; }
+.tk-upd { font-size: 13px; margin: 0 0 6px; }
+.up-story { font-weight: 600; white-space: normal; }
+.up-is-today .up-date { color: var(--red); }
+@media print { .rss-link { display: none !important; } }

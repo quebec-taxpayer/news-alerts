@@ -1,35 +1,45 @@
 {
- "_comment": "Promised vs delivered status labels, in display order. 'mark' is a text symbol shown with the label so status never relies on colour alone.",
+ "_comment": "Promised vs delivered status labels, in display order. 'mark' is a text symbol shown with the label so status never relies on colour alone. def_en/def_fr: the definition each status must meet (shown under the legend); check every status against it.",
  "items": [
   {
    "id": "promised",
    "en": "Promised",
    "fr": "Promis",
-   "mark": "○"
+   "mark": "○",
+   "def_en": "announced, no concrete step yet",
+   "def_fr": "annoncé, aucune étape concrète pour l’instant"
   },
   {
    "id": "in_progress",
    "en": "In progress",
    "fr": "En cours",
-   "mark": "◐"
+   "mark": "◐",
+   "def_en": "a bill, mandate letter, budget line or contract exists",
+   "def_fr": "un projet de loi, une lettre de mandat, un crédit budgétaire ou un contrat existe"
   },
   {
    "id": "completed",
    "en": "Completed",
    "fr": "Réalisé",
-   "mark": "✓"
+   "mark": "✓",
+   "def_en": "in force",
+   "def_fr": "en vigueur"
   },
   {
    "id": "delayed",
    "en": "Delayed",
    "fr": "En retard",
-   "mark": "!"
+   "mark": "!",
+   "def_en": "past a date the government itself gave",
+   "def_fr": "une date fixée par le gouvernement lui-même est dépassée"
   },
   {
    "id": "unfulfilled",
    "en": "Unfulfilled",
    "fr": "Non réalisé",
-   "mark": "✕"
+   "mark": "✕",
+   "def_en": "dropped or contradicted",
+   "def_fr": "abandonné ou contredit"
   }
  ]
 }

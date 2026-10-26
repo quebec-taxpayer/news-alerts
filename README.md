@@ -4,8 +4,16 @@ Daily digest on Quebec governance, published with Jekyll on GitHub Pages:
 https://quebec-taxpayer.github.io/news-alerts/
 
 The site has a **FR | EN** toggle at the top right. **French is the default** for first-time visitors (also when
-JavaScript is off). The choice is remembered in the browser (localStorage key `qgm-lang`), and switching keeps the
-reader's place on the page (the first visible element is measured before/after and the page is scrolled to compensate).
+JavaScript is off); there is no automatic switch based on the browser's language. The choice is remembered in the
+browser (localStorage key `qgm-lang`), and switching keeps the reader's place on the page (the first visible element is
+measured before/after and the page is scrolled to compensate).
+- `?lang=en` / `?lang=fr` in any URL overrides the saved choice and is saved. The toggle writes the current language to
+  the URL with `history.replaceState` (no reload), so a copied link opens in the same language.
+- `document.title` swaps with the toggle on every page (`data-en` / `data-fr` on `<title>`, `_layouts/default.html`).
+- `<meta name="description">` stays French (`page.summary_fr`, else `site.description`); `og:title` and
+  `og:description` are English (`page.summary`, else `site.description_en`).
+- **RSS:** `feed.xml` (hand-written RSS 2.0, bilingual item titles "FR / EN"; jekyll-feed is not used because it would
+  give English-only titles). Linked with `<link rel="alternate">` in the head and a small *RSS* link next to the toggle.
 
 Design rules (see `assets/css/style.css`): one system sans-serif stack (`--font`, no web-font service), white
 background, dark text, deep blue for links/navigation/accents, red only as a sparing accent (the top story, *Delayed*
@@ -15,13 +23,20 @@ Mobile: title 28 px, section headings 22 px, headlines 18 px, summaries 16 px, m
 
 ## Homepage (`index.html`, data-driven)
 Built from the front-matter `stories:` list of the latest post (`site.posts.first.stories`, written by `gen.py`):
-1. Title, a one-sentence intro, date · story count · category count.
+1. Title, the subtitle (what the site covers), then the meta line: date · *Updated daily around 10:00 ET / Mis à jour
+   chaque jour vers 10 h (HE)* (the daily routine runs at about 10:00 Toronto time) · story count · number of promises
+   tracked (computed from `_data/promises.json`). The header tagline is `tagline_en` / `tagline_fr` in `_config.yml`.
 2. **À la une / Top stories** – the 3 stories with `featured: 1..3` (highest `importance`; ties keep digest order).
+   Each card: category badge, headline, byline = the source only (no category or date on the homepage; digest and
+   archive pages keep dates), summary, *Why it matters*, *Read the source* and *Permalink / Lien permanent* (the story
+   in the day's digest). *Headline as published (FR) / Titre tel que publié (EN)* appears only in the language whose
+   displayed title differs from the original, with the original's language code.
 3. **Promis vs réalisé** tracker (`_includes/tracker-home.html`, data `_data/promises.json` + `_data/promise_status.json`).
-4. **All of today's news** – the remaining stories as compact headlines grouped by category (`_data/categories.json`
-   order), each a `<details>` with summary, *Why it matters* (only when it adds to the summary), source link and a
-   link to the story in the full digest. Markup: `_includes/news-item.html`.
-5. Upcoming dates, then the previous 6 days and a link to Past News.
+4. **The other N stories / Les N autres nouvelles** (badge = number of rows) – the non-featured stories as compact
+   headlines grouped by category (`_data/categories.json` order), each a `<details>` with summary, *Why it matters*
+   (only when it adds to the summary), source link and *Permalink*. Then *Today's digest on one page (permanent link)*
+   (it holds the same stories; if a hand-made post ever differs, its own count is shown). Markup: `_includes/news-item.html`.
+5. **What's next**, then the previous 6 days and a link to the Archive.
 Posts without `stories:` fall back to a plain link to the digest.
 
 ## How the language toggle works
@@ -29,28 +44,31 @@ Posts without `stories:` fall back to a plain link to the digest.
   and `<span class="l-fr" lang="fr">…</span>` (or `<p>`, `<section>` with the same classes).
 - The `<html>` element carries `lang-en` or `lang-fr`; `assets/css/style.css` hides the other language.
 - Headlines link to the original article. On the homepage a translated display title (`title_fr` / `title_en` in
-  `_data/story_meta.json`) may be shown; the original title is then shown as *Titre original / Original title*.
+  `_data/story_meta.json`) may be shown; the original title is then shown as *Titre tel que publié (EN) / Headline as
+  published (FR)*, only in the language where the display title differs.
   Inside the daily digest posts the headline stays exactly as published.
 - Post front matter has both languages: `title` (EN), `title_fr`, `summary` (EN), `summary_fr`.
   Pages use `title` (EN) and `title_fr`.
 
 ## Menu and URLs
-Menu order (EN / FR), defined in `_includes/nav.html`:
+Menu order (EN / FR), defined in `_includes/nav.html`. Labels were renamed in October 2026; **URLs did not change**.
 
 | # | EN | FR | URL |
 |---|---|---|---|
 | 1 | Home | Accueil | `/` |
-| 2 | Topics | Thèmes | `/topics/` |
-| 3 | Network | Réseau | `/network/` |
-| 4 | Chronology | Chronologie | `/chronology/` |
+| 2 | Dossiers | Dossiers | `/chronology/` (ongoing subjects with timelines; formerly *Chronology*) |
+| 3 | Topics | Thèmes | `/topics/` (the team's three priority topics, by day) |
+| 4 | Who's named | Qui est nommé | `/network/` (formerly *Network*; the disclaimer stays first on the page) |
 | 5 | Special Reports | Rapports spéciaux | `/special-reports/` (long-form report series; see below) |
-| 6 | About | À propos | `/about/` (includes *Sources and method / Sources et méthode* at `/about/#sources`) |
-| 7 | Past News | Nouvelles passées | `/past-news/` (all daily digests by month; `past-news.md`) |
+| 6 | Archive | Archives | `/past-news/` (all daily digests by month; `past-news.md`; formerly *Past News*) |
+| 7 | About | À propos | `/about/` (includes *Sources and method / Sources et méthode* at `/about/#sources`) |
 
-The current section is highlighted in yellow. Daily digest posts count as *Past News*, dossier pages as
-*Chronology*; other pages use the first URL segment or a `section:` front-matter value.
+The current section is highlighted in yellow. Daily digest posts count as *Archive*, dossier pages as
+*Dossiers*; other pages use the first URL segment or a `section:` front-matter value.
+Homepage category badges are plain labels (not links): homepage categories (`_data/categories.json`) and the Topics
+page (`topics:` in `_config.yml`) are two different lists.
 Old URLs are kept as plain redirect pages (meta refresh + link, no plugin, not in the menu):
-`/archive/` → `/past-news/` (`archive-redirect.html`), `/sources/` → `/about/#sources` (`sources-redirect.html`) and
+`/archive/` → `/past-news/` (`archive-redirect.html`, the Archive), `/sources/` → `/about/#sources` (`sources-redirect.html`) and
 `/glossary/` → `/` (`glossary-redirect.html`; the glossary page was replaced by pop-up definitions, see below).
 There is no weekly roundup section.
 
@@ -66,27 +84,31 @@ There is no weekly roundup section.
    any story missing a field and any one-language heading.
 3a. **Homepage metadata (daily):** for every new story add an entry to `_data/story_meta.json` →
    `"stories": {"<story url>": {"category": "<id>", "importance": 1-5, "title_en": "…", "title_fr": "…"}}`.
-   `category` is an id from `_data/categories.json` (`government`, `finances`, `crown-it`, `justice`, `health`,
-   `energy`, `other`). `importance` is editorial: 5 = major public-money/accountability impact, 4 = significant,
+   `category` is an id from `_data/categories.json`: `government` (*Governments and assemblies / Gouvernements et
+   assemblées*: any level of government, the National Assembly, Parliament, municipal councils), `finances`, `crown-it`,
+   `justice`, `health`, `energy`, `other`. `importance` is editorial: 5 = major public-money/accountability impact, 4 = significant,
    3 = notable, 2 = routine, 1 = minor/local; the top 3 become *À la une*. Add `title_en` for French headlines and
    `title_fr` for English ones: a faithful translation of the original title, nothing added. If an entry is missing,
    `gen.py` falls back to the section heading's category and importance 2 (`plain.py` prints a NOTE).
 3b. **Plain-language upkeep (daily):** for every new story add a *Why it matters* line to `_data/why.json`
-   (`"<story url>": {"en": "…", "fr": "…"}`) — one factual sentence on the concrete effect on ordinary people,
-   taken only from that story; if the effect is unclear, write a neutral factual line instead. (Alternatively put
+   (`"<story url>": {"en": "…", "fr": "…"}`) — one or two plain sentences taken only from that story's source.
+   **Rule: it must add one thing the summary did not say** — the public stake, what to watch next, or the gap in the
+   record (what is not known or not public) — **and never repeat a number already in the summary.** `plain.py --strict`
+   fails when a figure in the latest day's line also appears in its summary (older days: NOTE only). Verify every fact
+   against the cached article; if nothing new can be sourced, write a short neutral line that still repeats no figure. (Alternatively put
    `💡🇫🇷 …` / `💡🇬🇧 …` lines under the story's URL in the .txt.) If a story gives a large public-money figure,
    consider a *money in human terms* item (see below). Also, when a story warrants it:
    update the dossier's `tldr.now` (In 30 seconds); add any new **dated** next step to `_data/upcoming.json`
    (only dates stated by the source); add a pop-up definition term (and its EN/FR match phrases) to `_data/glossary.json` if a story
    uses jargon readers may not know; add a *promised vs delivered* pair only when both values are sourced.
    Then rerun `gen.py`, `python3 _tools/chrono.py --strict` and `python3 _tools/plain.py --strict`.
-4. Commit and push to `main`. Home, Past News and Topics update automatically (about 1 minute).
+4. Commit and push to `main`. Home, Archive, Topics and the RSS feed update automatically (about 1 minute).
 
 **Option B – by hand.** Copy an existing `_posts/…-digest.md`, update the front matter
 (`title`, `title_fr`, `date`, `summary`, `summary_fr`, `story_count`, `tags`) and the stories,
 keeping the `l-en` / `l-fr` markup for summaries and section headings.
 
-## Network page (`/network/`)
+## Who's named page (`/network/`, formerly Network)
 
 A bubble map of the people and organizations named in the published stories.
 Bubble size = number of stories naming the entity; blue = organization, red = person.
@@ -117,11 +139,11 @@ Daily routine, after `gen.py` has written the day's digest post:
 
 `DIGEST_SRC` defaults to `/workspace/governance-digest`.
 
-## Chronology
+## Dossiers (`/chronology/`, formerly Chronology)
 
 `/chronology/` lists ongoing subjects ("dossiers"); each dossier has a vertical timeline at `/chronology/<id>/`.
 Data: `_data/dossiers.json` — per dossier `id`, `name_en/fr`, `desc_en/fr`, `entities` (network entity ids, used for
-"Appears in these dossiers" on the Network page) and `events`. Each event: `date` (`YYYY`, `YYYY-MM` or `YYYY-MM-DD`
+"Appears in these dossiers" on the Who's named page) and `events`. Each event: `date` (`YYYY`, `YYYY-MM` or `YYYY-MM-DD`
 — the date it **happened**, not the publication date), `en`, `fr`, `source_title`, `source_outlet`, `source_url`,
 `source_type` (`primary` or `media`), `post` (digest date if the source is a published story, else `null`) and
 `background` (set by the tool). Pages are built by Jekyll from the data (`chronology.html`, `_layouts/dossier.html`,
@@ -187,7 +209,7 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
   - Case-insensitive, whole words only; `'`/`’`, spaces and hyphens are interchangeable. Longer phrases win
     (list the full name and the acronym separately). Avoid generic words.
   - Only the **first** mention of each term per page (per language) is marked, with a dotted blue underline.
-  - Marked anywhere in the page body (homepage, posts, topics, chronology/dossiers, About, Past News), but never in
+  - Marked anywhere in the page body (homepage, posts, topics, chronology/dossiers, About, Archive), but never in
     links (so not in headlines as published), buttons, headings, the nav/header/footer, code, SVG, labels or
     callout labels. A page can opt out with `no_popups: true` in its front matter (used by `/network/`).
   - Hover (mouse) or keyboard focus shows the pop-up; click/tap or Enter pins it; Esc, tap outside or × closes it.
@@ -195,8 +217,12 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
   `plain.py --strict` validates the file and warns about a phrase claimed by two terms.
 - **What's next / Prochaines étapes**: `_data/upcoming.json`. Each item: `id`, `date` (`YYYY-MM-DD` or `YYYY`),
   `kind` (`on` = on that day, `by` = by that date, `year` = sometime that year), `en`/`fr`, `source_title/outlet/url`,
-  `pages` (`home` and/or dossier ids). Only dates a cited source states. The page JS compares with today
-  (America/Toronto) and moves passed items under a collapsed *Past / Passé*; delete items about a month after they pass.
+  `pages` (`home` and/or dossier ids), optional `story_url`. Only dates a cited source states. The box lists items
+  strictly by date, year-only items last, with the note *Only dates stated in a cited source* at the top. Today
+  (America/Toronto) shows as *Today / Aujourd'hui* (page JS; without JS the date is shown). On the homepage, passed
+  items are left out at build time and hidden by the page JS; on dossier pages they move under a collapsed
+  *Past / Passé*. If `story_url` (or `source_url`) is one of today's stories, the homepage item links to its card.
+  Delete items about a month after they pass.
 - **Promised vs delivered / Promis vs réalisé** (`/promises/` and the dossier page): `_data/promises.json`
   `items[]`: `id`, `dossier`, `type` (`cost|date|outcome`), `item_en/fr`, `announced_en/fr` + `announced_source_*`,
   `actual_en/fr` + `actual_source_*` + `actual_date`. Both sides must come from cited sources — no estimates.
@@ -204,8 +230,15 @@ Validate everything with `python3 _tools/plain.py --strict` (exit 1 on any warni
   `completed` (Réalisé), `delayed` (En retard), `unfulfilled` (Non réalisé); labels/marks in `_data/promise_status.json`,
   always shown as text + symbol, never colour alone. Optional `status_note_en/fr`. **`delayed` and `unfulfilled`
   require cited evidence:** `status_evidence_en/fr`, `status_source_url`, `status_source_outlet`, `status_source_date`
-  (`plain.py --strict` fails otherwise). The homepage tracker and `/promises/` link each entry to its sources and to
-  the dossier's chronology (related coverage).
+  (`plain.py --strict` fails otherwise). **Every item, whatever its status, now needs this sourced *Why this status*.**
+  Status definitions (shown under the legend; check each status against them, and report a doubtful one rather than
+  silently changing it): *Promised* = announced, no concrete step yet; *In progress* = a bill, mandate letter, budget
+  line or contract exists; *Completed* = in force; *Delayed* = past a date the government itself gave; *Unfulfilled* =
+  dropped or contradicted. Also: `updated` (YYYY-MM-DD of the latest sourced change; cards show *Last update* and sort
+  newest first), optional `party_en/fr` for an election promise (e.g. *PQ election promise*), optional
+  `announced_lines` / `actual_lines` (`[{en, fr, source_title, source_outlet, source_url, date}]`) when one card
+  compares several sourced figures (e.g. *SAAQclic: what it was supposed to cost vs the latest estimate*). The homepage
+  tracker and `/promises/` link each entry to its sources and to the dossier (related coverage).
 - **Printable fact sheet** (`/chronology/<id>/print/`): layout `_layouts/dossier-print.html`, one Letter/A4 page:
   In 30 seconds, key figures, timeline, main names, sources. `chrono.py` creates the stub
   `chronology/print/<id>.html` for new dossiers automatically. Check long dossiers still fit on one page (print preview).
@@ -216,7 +249,7 @@ Inline SVG and CSS only, with no libraries. The only script is `assets/js/svg-ti
 
 ### Dossier timeline (`_data/svg_timelines/<id>.json`)
 
-- To give a dossier a visual timeline, create `_data/svg_timelines/<id>.json` and add `"svg_timeline": "<id>"` to that dossier in `_data/dossiers.json`. The dossier page then shows it just after the "In 30 seconds" box, followed by the dossier's charts and then the detailed event list. The script loads automatically, and the Chronology index shows a "Visual timeline" badge. Example: `saaqclic`. On such dossiers, the detailed event list is wrapped in a `<details>` element ("Detailed timeline with all sources / Chronologie détaillée et sources"). It is closed on phones (720 px or less) so the steps aren't repeated, and always open on desktop, without JS and in print.
+- To give a dossier a visual timeline, create `_data/svg_timelines/<id>.json` and add `"svg_timeline": "<id>"` to that dossier in `_data/dossiers.json`. The dossier page then shows it just after the "In 30 seconds" box, followed by the dossier's charts and then the detailed event list. The script loads automatically, and the Dossiers index shows a "Visual timeline" badge. Example: `saaqclic`. On such dossiers, the detailed event list is wrapped in a `<details>` element ("Detailed timeline with all sources / Chronologie détaillée et sources"). It is closed on phones (720 px or less) so the steps aren't repeated, and always open on desktop, without JS and in print.
 - Manual use: `{% include svg-timeline.html data=site.data.svg_timelines.saaqclic %}` (also add the script tag on that page).
 - Top-level fields are `id`, `title_en`/`title_fr`, `desc_en`/`desc_fr`, `legend` and `events`.
 - Each event has these fields:

@@ -9,6 +9,9 @@ Usage:
 Data files:
   _data/money.json   "The money, in human terms": sourced amounts ÷ the latest ISQ population.
   _data/why.json     "Why it matters": {story_url: {en, fr}}, one plain factual sentence per published story.
+                     Rule: it must ADD one thing the summary did not say (the public stake, what to watch next, or the
+                     gap in the record) and must never repeat a number already in the summary. check_why_numbers()
+                     flags a repeated number: a warning (fails --strict) for the latest digest, a NOTE for older days.
   _data/glossary.json  Glossary terms (definitions, official source, phrases auto-marked on pages).
   _data/upcoming.json  "What's next" dates (only dates stated in a cited source).
   _data/promises.json  "Promised vs delivered" pairs (both values sourced) with a status; delayed/unfulfilled need cited evidence.
@@ -116,6 +119,42 @@ def check_why():
             if len(e.get(lg, "")) > 260: w.append(f"why: {lg} line over 260 characters for {u}")
     return w
 
+def _nums(t):
+    """Figures in a text, normalized so '90 000 $', '$90,000' and '90000' compare equal and '1,1' (FR) = '1.1' (EN).
+    Years (1900-2099 standing alone) are not counted as figures."""
+    import re as _re
+    out = set()
+    for m in _re.findall(r"\d{1,3}(?:[\u00a0\u202f ,]\d{3})+(?:\.\d+)?(?!\d)|\d+(?:[.,]\d+)?", t or ""):
+        x = _re.sub(r"[\u00a0\u202f ]", "", m)
+        x = _re.sub(r",(?=\d{3}(?:\D|$))", "", x).replace(",", ".")
+        if _re.fullmatch(r"(19|20)\d\d", x): continue
+        out.add(x)
+    return out
+
+def story_summaries():
+    """{url: (day, summary_fr, summary_en)} from each post's front-matter `stories:` (written by gen.py)."""
+    import glob
+    out = {}
+    for f in sorted(glob.glob(os.path.join(ROOT, "_posts", "*-digest.md"))):
+        day = os.path.basename(f)[:10]
+        for line in open(f, encoding="utf-8"):
+            if line.startswith("  - {"):
+                st = json.loads(line[4:])
+                out[st["url"]] = (day, st.get("summary_fr", ""), st.get("summary_en", ""))
+    return out
+
+def check_why_numbers():
+    """Why it matters must not repeat a number from the summary. Returns (warnings for the latest day, notes for older days)."""
+    why, sums, w, n = load("why.json", {}), story_summaries(), [], []
+    latest = max((d for d, _, _ in sums.values()), default="")
+    for u, (day, sfr, sen) in sums.items():
+        e = why.get(u) or {}
+        rep = sorted((_nums(e.get("fr")) & _nums(sfr)) | (_nums(e.get("en")) & _nums(sen)))
+        if rep:
+            msg = f"why: repeats number(s) {', '.join(rep)} from the summary ({day}) for {u} — say something the summary does not"
+            (w if day == latest else n).append(msg)
+    return w, n
+
 def valid_date(x):
     import re as _re
     return bool(_re.fullmatch(r"\d{4}(-\d{2}(-\d{2})?)?", str(x or "")))
@@ -171,9 +210,15 @@ def check_promises():
             if it.get(k) and not str(it[k]).startswith("http"): w.append(f"promises {i}: bad {k}")
         st = it.get("status")
         if st not in STATUSES: w.append(f"promises {i}: status must be one of {'|'.join(STATUSES)}")
-        if st in ("delayed", "unfulfilled"):
-            for k in ("status_evidence_en", "status_evidence_fr", "status_source_url", "status_source_outlet", "status_source_date"):
-                if not it.get(k): w.append(f"promises {i}: status '{st}' needs {k} (a cited source that states it; never inferred)")
+        for k in ("status_evidence_en", "status_evidence_fr", "status_source_url", "status_source_outlet", "status_source_date"):
+            if not it.get(k): w.append(f"promises {i}: needs {k} (every card shows a sourced 'Why this status'; never inferred)")
+        if not valid_date(it.get("updated")) or len(str(it.get("updated"))) != 10: w.append(f"promises {i}: updated must be YYYY-MM-DD (cards sort by it)")
+        if bool(it.get("party_en")) != bool(it.get("party_fr")): w.append(f"promises {i}: party_en and party_fr go together")
+        for side in ("announced_lines", "actual_lines"):
+            for n_, l in enumerate(it.get(side) or []):
+                for k in ("en", "fr", "source_outlet", "source_url"):
+                    if not l.get(k): w.append(f"promises {i}: {side}[{n_}] missing {k}")
+                if l.get("source_url") and not str(l["source_url"]).startswith("http"): w.append(f"promises {i}: {side}[{n_}] bad source_url")
     return w
 
 STATUSES = ("promised", "in_progress", "completed", "delayed", "unfulfilled")
@@ -200,8 +245,9 @@ def main():
         for it in load("money.json")["items"]: print(f"  {it['id']:<22} {it['calc_en']}")
     else:
         smw, smn = check_story_meta()
-        w = check_money() + check_why() + check_glossary() + check_upcoming() + check_promises() + smw
-        for x in smn: print("NOTE", x)
+        wnw, wnn = check_why_numbers()
+        w = check_money() + check_why() + wnw + check_glossary() + check_upcoming() + check_promises() + smw
+        for x in smn + wnn: print("NOTE", x)
     pub = published(); why = load("why.json", {}); m = load("money.json", {"items": []})
     g = load("glossary.json", {"terms": []}); u = load("upcoming.json", {"items": []}); pr = load("promises.json", {"items": []})
     print(f"stories={len(pub)} why={sum(1 for u_ in pub if u_ in why)} money_items={len(m['items'])} "

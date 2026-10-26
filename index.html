@@ -8,10 +8,11 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
 {%- endcomment -%}
 {%- assign latest = site.posts.first -%}
 <h1 class="home-h1"><span class="l-fr" lang="fr">Gouvernance au Québec : l’essentiel du jour</span><span class="l-en" lang="en">Quebec governance: today’s essentials</span></h1>
-<p class="home-intro"><span class="l-fr" lang="fr">Les nouvelles du jour sur la gouvernance au Québec, résumées et liées à leur source.</span><span class="l-en" lang="en">Today’s Quebec governance news, summarized and linked to its source.</span></p>
+<p class="home-intro"><span class="l-fr" lang="fr">Contrats publics, sociétés d’État, projets informatiques, éthique et enquêtes. Courts résumés en français et en anglais, chacun lié à sa source.</span><span class="l-en" lang="en">Public contracts, Crown corporations, IT projects, ethics and investigations. Short summaries in French and English, each linked to where it came from.</span></p>
 {%- if latest %}
-{%- assign cats_used = latest.stories | map: "category" | uniq %}
-<p class="home-meta"><time datetime="{{ latest.date | date: '%Y-%m-%d' }}">{% include date.html date=latest.date %}</time> · {% include count.html n=latest.story_count %} · <span class="l-fr" lang="fr">{{ cats_used.size }} catégories</span><span class="l-en" lang="en">{{ cats_used.size }} categories</span></p>
+{%- comment -%} The daily routine runs around 10:00 Toronto time (America/Toronto, ET). {%- endcomment -%}
+{%- assign n_promises = site.data.promises.items | size %}
+<p class="home-meta"><time datetime="{{ latest.date | date: '%Y-%m-%d' }}">{% include date.html date=latest.date %}</time> · <span class="l-fr" lang="fr">Mis à jour chaque jour vers 10 h (HE)</span><span class="l-en" lang="en">Updated daily around 10:00 ET</span> · {% include count.html n=latest.story_count %} · <span class="l-fr" lang="fr">{{ n_promises }} promesses suivies</span><span class="l-en" lang="en">{{ n_promises }} promises tracked</span></p>
 
 {%- if latest.stories and latest.stories.size > 0 %}
 {%- assign feats = latest.stories | where_exp: "s", "s.featured > 0" | sort: "featured" %}
@@ -27,7 +28,8 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
 {% include tracker-home.html %}
 
 <section class="home-sec all" aria-labelledby="h-all">
-  <h2 id="h-all" class="sec-h"><span class="l-fr" lang="fr">Toutes les nouvelles du jour</span><span class="l-en" lang="en">All of today’s news</span> <span class="sec-count">{{ latest.story_count }}</span></h2>
+  {%- assign others = latest.stories | where_exp: "s", "s.featured == 0" %}
+  <h2 id="h-all" class="sec-h"><span class="l-fr" lang="fr">Les {{ others.size }} autres nouvelles</span><span class="l-en" lang="en">The other {{ others.size }} stories</span> <span class="sec-count">{{ others.size }}</span></h2>
   {%- for cat in site.data.categories.items %}
   {%- assign items = latest.stories | where: "category", cat.id | where_exp: "s", "s.featured == 0" %}
   {%- if items.size > 0 %}
@@ -39,7 +41,8 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
   </section>
   {%- endif %}
   {%- endfor %}
-  <p class="sec-more"><a href="{{ latest.url | relative_url }}"><span class="l-fr" lang="fr">Lire la veille complète du jour</span><span class="l-en" lang="en">Read the full daily digest</span> →</a></p>
+  {%- comment -%} The digest post holds exactly the stories of latest.stories (both written by gen.py); if a hand-made post ever differs, its own count is shown. {%- endcomment -%}
+  <p class="sec-more"><a href="{{ latest.url | relative_url }}">{% if latest.story_count == latest.stories.size %}<span class="l-fr" lang="fr">La veille du jour sur une seule page (lien permanent)</span><span class="l-en" lang="en">Today’s digest on one page (permanent link)</span>{% else %}<span class="l-fr" lang="fr">La veille du jour sur une seule page ({{ latest.story_count }} nouvelles, lien permanent)</span><span class="l-en" lang="en">Today’s digest on one page ({{ latest.story_count }} stories, permanent link)</span>{% endif %} →</a></p>
 </section>
 {%- else %}
 {%- comment -%} Fallback for a hand-made post without `stories`: show it as before. {%- endcomment -%}
@@ -61,7 +64,7 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
       <span class="day-sum"><span class="l-fr" lang="fr">{{ post.summary_fr | default: post.summary }}</span><span class="l-en" lang="en">{{ post.summary }}</span></span></li>
   {%- endfor %}
   </ul>
-  <p class="sec-more"><a href="{{ '/past-news/' | relative_url }}"><span class="l-fr" lang="fr">Toutes les nouvelles passées</span><span class="l-en" lang="en">All past news</span> →</a></p>
+  <p class="sec-more"><a href="{{ '/past-news/' | relative_url }}"><span class="l-fr" lang="fr">Toutes les archives</span><span class="l-en" lang="en">Full archive</span> →</a></p>
 </section>
 {%- endif %}
 {%- endif %}

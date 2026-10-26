@@ -1,5 +1,5 @@
 {
- "_comment": "What's next / À surveiller. Only dates stated in a cited source. date: YYYY-MM-DD or YYYY; kind: on (happens that day), by (deadline: by that date), year (sometime that year). The page script moves an item to 'Past' the day after its date (end of year for kind=year), so no rebuild is needed. pages: 'home' and/or dossier ids. Validate with `python3 _tools/plain.py --strict`.",
+ "_comment": "What's next / À surveiller. Only dates stated in a cited source. date: YYYY-MM-DD or YYYY; kind: on (happens that day), by (deadline: by that date), year (sometime that year). Sorted by date (year-only items last). On the homepage a passed item is hidden, both at build time and by the page script (the day after its date; after the year for kind=year); on dossier pages the script moves it under 'Past'. The script labels today's items 'Today / Aujourd’hui'. Optional story_url: a published story about the same event; when it is one of today's stories, the homepage item links to its card (source_url is also matched). pages: 'home' and/or dossier ids. Validate with `python3 _tools/plain.py --strict`.",
  "items": [
   {"id": "hq-customer-space", "date": "2026-10-26", "kind": "on", "pages": ["home", "hydro-quebec", "php-flaw"],
    "en": "Hydro-Québec’s online Customer Space is expected to be available again (Monday).", "fr": "L’Espace client en ligne d’Hydro-Québec devrait être de nouveau accessible (lundi).",
@@ -16,7 +16,7 @@
   {"id": "homelessness-summit", "date": "2027", "kind": "year", "pages": ["home", "homelessness"],
    "en": "Summit on homelessness promised by the PQ leader during the election campaign; due in early 2027, according to the premier.", "fr": "Sommet sur l’itinérance promis par le chef péquiste pendant la campagne électorale; prévu au début de 2027, selon le premier ministre.",
    "source_title": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel"},
-  {"id": "fn-first-ministers-meeting", "date": "2026-10-26", "kind": "on", "pages": ["home"],
+  {"id": "fn-first-ministers-meeting", "story_url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa", "date": "2026-10-26", "kind": "on", "pages": ["home"],
    "en": "First ministers’ meeting with Indigenous leaders in Ottawa (Monday); Premier St-Pierre Plamondon will not attend.", "fr": "Rencontre des premiers ministres avec les chefs autochtones à Ottawa (lundi); le premier ministre St-Pierre Plamondon n’y participera pas.",
    "source_title": "Retour historique des chefs autochtones à la table des premiers ministres", "source_outlet": "La Presse", "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"},
   {"id": "saaq-road-controllers-full-return", "date": "2027", "kind": "year", "pages": ["home"],

@@ -1,5 +1,5 @@
 {
- "_comment": "Promised vs delivered / Promis vs réalisé. Only pairs where BOTH the announced value and the actual (or latest official) value are stated in a cited source. Never estimate. type: cost|deadline|outcome. status: promised | in_progress | completed | delayed | unfulfilled (labels in _data/promise_status.json). delayed and unfulfilled REQUIRE status_evidence_en/fr + status_source_url/outlet/date: a cited source that states the delay or the failure; never infer it. Optional status_note_en/fr: one factual line shown under the badge. Validate with `python3 _tools/plain.py --strict`.",
+ "_comment": "Promised vs delivered / Promis vs réalisé. Only pairs where BOTH the announced value and the actual (or latest official) value are stated in a cited source. Never estimate. type: cost|deadline|outcome. status: promised | in_progress | completed | delayed | unfulfilled (labels and definitions in _data/promise_status.json: promised = announced, no concrete step yet; in_progress = a bill, mandate letter, budget line or contract exists; completed = in force; delayed = past a date the government itself gave; unfulfilled = dropped or contradicted). EVERY item needs a sourced 'Why this status': status_evidence_en/fr + status_source_title/outlet/url/date (never inferred). updated: YYYY-MM-DD of the latest sourced change (cards sort by it, newest first). Optional party_en/fr for an election promise (e.g. 'PQ election promise'). Optional announced_lines / actual_lines: [{en, fr, source_title, source_outlet, source_url, date}] when one card compares several sourced figures; announced_en/fr and actual_en/fr stay as the one-line summary. Validate with `python3 _tools/plain.py --strict`.",
  "items": [
   {
    "id": "pq-abolish-sante-quebec",
@@ -18,7 +18,16 @@
    "actual_source_title": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
    "actual_source_outlet": "Noovo Info",
    "actual_source_url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/",
-   "actual_date": "2026-10-23"
+   "actual_date": "2026-10-23",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-10-23",
+   "status_evidence_en": "The minister says it will be done gradually; the cited source reports no bill, mandate letter, budget line or contract yet.",
+   "status_evidence_fr": "La ministre dit que ce sera fait graduellement; la source citée ne fait encore état d’aucun projet de loi, lettre de mandat, crédit budgétaire ou contrat.",
+   "status_source_title": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+   "status_source_outlet": "Noovo Info",
+   "status_source_url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/",
+   "status_source_date": "2026-10-23"
   },
   {
    "id": "pq-homelessness-summit",
@@ -37,49 +46,76 @@
    "actual_source_title": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires",
    "actual_source_outlet": "Radio-Canada",
    "actual_source_url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel",
-   "actual_date": "2026-10-23"
+   "actual_date": "2026-10-23",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-10-23",
+   "status_evidence_en": "The Premier says it is to take place in early 2027; the cited source reports no bill, mandate letter, budget line or contract for it yet.",
+   "status_evidence_fr": "Le premier ministre dit qu’il doit avoir lieu au début de 2027; la source citée ne fait encore état d’aucun projet de loi, lettre de mandat, crédit budgétaire ou contrat pour ce sommet.",
+   "status_source_title": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires",
+   "status_source_outlet": "Radio-Canada",
+   "status_source_url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel",
+   "status_source_date": "2026-10-23"
   },
   {
-   "id": "saaqclic-cost-vgq",
+   "id": "saaqclic-cost",
    "dossier": "saaqclic",
    "type": "cost",
-   "item_en": "Cost of the SAAQ’s CASA program (SAAQclic)",
-   "item_fr": "Coût du programme CASA de la SAAQ (SAAQclic)",
-   "announced_en": "$638M — 10-year budget estimated in 2017",
-   "announced_fr": "638 M$ — budget sur 10 ans estimé en 2017",
+   "status": "in_progress",
+   "item_en": "SAAQclic: what it was supposed to cost vs the latest estimate",
+   "item_fr": "SAAQclic : ce que ça devait coûter vs la dernière estimation",
+   "announced_en": "$638M (2017 ten-year budget); $682M (highest figure given to ministers before 2025, according to François Legault)",
+   "announced_fr": "638 M$ (budget sur 10 ans de 2017); 682 M$ (chiffre le plus élevé présenté aux ministres avant 2025, selon François Legault)",
    "announced_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
    "announced_source_outlet": "Vérificateur général du Québec",
    "announced_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
-   "actual_en": "At least $1.1B by March 2027 — latest official figure (a forecast); an increase of nearly $500M that was not clearly communicated, according to the Auditor General",
-   "actual_fr": "Au moins 1,1 G$ d’ici mars 2027 — dernier chiffre officiel (une prévision); une hausse de près de 500 M$ qui n’a pas été clairement communiquée, selon le Vérificateur général",
+   "announced_lines": [
+    {
+     "en": "$638M — 10-year budget estimated in 2017",
+     "fr": "638 M$ — budget sur 10 ans estimé en 2017",
+     "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1"
+    },
+    {
+     "en": "$682M — highest estimate given to ministers before 2025, according to former premier François Legault",
+     "fr": "682 M$ — estimation la plus élevée présentée aux ministres avant 2025, selon l’ex-premier ministre François Legault",
+     "source_title": "Quebec auto board officials lied to hide costs of botched SAAQclic launch, report concludes",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/gallant-commission-report-9.7090341"
+    }
+   ],
+   "actual_en": "$1.1B — the latest estimate: at least $1.1B by March 2027 (a forecast), an increase of nearly $500M that was not clearly communicated, according to the Auditor General; the figure Legault said his government was never told about",
+   "actual_fr": "1,1 G$ — la dernière estimation : au moins 1,1 G$ d’ici mars 2027 (une prévision), une hausse de près de 500 M$ qui n’a pas été clairement communiquée, selon le Vérificateur général; le chiffre dont, selon François Legault, son gouvernement n’a jamais été informé",
    "actual_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
    "actual_source_outlet": "Vérificateur général du Québec",
    "actual_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
    "actual_date": "2025-02-20",
-   "status": "in_progress",
-   "status_note_en": "The program is still under way; the latest official figure is a forecast above the 2017 budget (Auditor General).",
-   "status_note_fr": "Le programme est toujours en cours; le dernier chiffre officiel est une prévision supérieure au budget de 2017 (Vérificateur général)."
-  },
-  {
-   "id": "saaqclic-cost-ministers",
-   "dossier": "saaqclic",
-   "type": "cost",
-   "item_en": "SAAQclic cost figure given to ministers",
-   "item_fr": "Coût de SAAQclic présenté aux ministres",
-   "announced_en": "$682M — highest estimate given to ministers before 2025, according to former premier François Legault",
-   "announced_fr": "682 M$ — estimation la plus élevée présentée aux ministres avant 2025, selon l’ex-premier ministre François Legault",
-   "announced_source_title": "Quebec auto board officials lied to hide costs of botched SAAQclic launch, report concludes",
-   "announced_source_outlet": "CBC News",
-   "announced_source_url": "https://www.cbc.ca/news/canada/montreal/gallant-commission-report-9.7090341",
-   "actual_en": "$1.1B — revised estimate",
-   "actual_fr": "1,1 G$ — estimation révisée",
-   "actual_source_title": "Quebec auto board officials lied to hide costs of botched SAAQclic launch, report concludes",
-   "actual_source_outlet": "CBC News",
-   "actual_source_url": "https://www.cbc.ca/news/canada/montreal/gallant-commission-report-9.7090341",
-   "actual_date": "2026-02-16",
-   "status": "in_progress",
-   "status_note_en": "The final cost is not yet known; $1.1B is a revised estimate.",
-   "status_note_fr": "Le coût final n’est pas encore connu; 1,1 G$ est une estimation révisée."
+   "actual_lines": [
+    {
+     "en": "At least $1.1B by March 2027 — latest official figure (a forecast); an increase of nearly $500M that was not clearly communicated, according to the Auditor General",
+     "fr": "Au moins 1,1 G$ d’ici mars 2027 — dernier chiffre officiel (une prévision); une hausse de près de 500 M$ qui n’a pas été clairement communiquée, selon le Vérificateur général",
+     "source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+     "source_outlet": "Vérificateur général du Québec",
+     "source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+     "date": "2025-02-20"
+    },
+    {
+     "en": "$1.1B — revised cost; Legault says his government was never told of it",
+     "fr": "1,1 G$ — coût révisé; selon François Legault, son gouvernement n’en a jamais été informé",
+     "source_title": "Quebec auto board officials lied to hide costs of botched SAAQclic launch, report concludes",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/gallant-commission-report-9.7090341",
+     "date": "2026-02-16"
+    }
+   ],
+   "updated": "2026-02-16",
+   "status_evidence_en": "The program has had a budget since 2017 and is still under way; its final cost is not yet known, and $1.1B is a forecast.",
+   "status_evidence_fr": "Le programme a un budget depuis 2017 et il est toujours en cours; son coût final n’est pas encore connu, et 1,1 G$ est une prévision.",
+   "status_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
+   "status_source_outlet": "Vérificateur général du Québec",
+   "status_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+   "status_source_date": "2025-02-20"
   },
   {
    "id": "saaqclic-services",
@@ -104,13 +140,14 @@
    "status_source_title": "Le Vérificateur général du Québec présente le tome de février 2025 de son rapport à l’Assemblée nationale",
    "status_source_outlet": "Vérificateur général du Québec",
    "status_source_url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
-   "status_source_date": "2025-02-20"
+   "status_source_date": "2025-02-20",
+   "updated": "2025-02-20"
   },
   {
    "id": "pq-three-week-vacation",
    "dossier": "pq-transition",
    "type": "outcome",
-   "status": "promised",
+   "status": "in_progress",
    "item_en": "Three weeks of paid vacation after one year",
    "item_fr": "Trois semaines de vacances payées après un an",
    "announced_en": "A minimum of three weeks of paid vacation after one year with the same employer, one of the government’s electoral commitments",
@@ -123,7 +160,16 @@
    "actual_source_title": "Quebec’s new government pledges three weeks of paid vacation for all workers",
    "actual_source_outlet": "CTV News",
    "actual_source_url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/",
-   "actual_date": "2026-10-24"
+   "actual_date": "2026-10-24",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-10-24",
+   "status_evidence_en": "A mandate letter exists: the Premier instructs the Labour Minister to establish the three-week minimum. It is not yet in force.",
+   "status_evidence_fr": "Une lettre de mandat existe : le premier ministre demande au ministre du Travail d’établir le minimum de trois semaines. La mesure n’est pas encore en vigueur.",
+   "status_source_title": "Quebec’s new government pledges three weeks of paid vacation for all workers",
+   "status_source_outlet": "CTV News",
+   "status_source_url": "https://www.ctvnews.ca/montreal/article/quebecs-new-government-pledges-three-weeks-of-paid-vacation-for-all-workers/",
+   "status_source_date": "2026-10-24"
   },
   {
    "id": "pq-etats-generaux-education",
@@ -142,7 +188,16 @@
    "actual_source_title": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
    "actual_source_outlet": "Radio-Canada",
    "actual_source_url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole",
-   "actual_date": "2026-10-24"
+   "actual_date": "2026-10-24",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-10-24",
+   "status_evidence_en": "The minister confirms they will be held and are to start in the coming months; the cited source reports no bill, mandate letter, budget line or contract for them yet.",
+   "status_evidence_fr": "Le ministre confirme leur tenue et l’exercice doit démarrer dans les prochains mois; la source citée ne fait encore état d’aucun projet de loi, lettre de mandat, crédit budgétaire ou contrat.",
+   "status_source_title": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+   "status_source_outlet": "Radio-Canada",
+   "status_source_url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole",
+   "status_source_date": "2026-10-24"
   }
  ]
 }
