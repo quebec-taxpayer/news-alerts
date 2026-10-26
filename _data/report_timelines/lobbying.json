@@ -1,0 +1,317 @@
+{
+ "id": "lobbying",
+ "title_en": "Twenty years of warnings, at a glance",
+ "title_fr": "Vingt ans d’avertissements, en un coup d’œil",
+ "intro_en": "Each dot is a milestone listed by the lobbying commissioner in his special report of 26 May 2026. Colour and shape show who acted; the label shows what kind of step it was. Tap a milestone for details and the page in the report.",
+ "intro_fr": "Chaque point est un jalon énuméré par le commissaire au lobbyisme dans son rapport spécial du 26 mai 2026. La couleur et la forme indiquent qui a agi; l’étiquette, le type d’étape. Touchez un jalon pour les détails et la page du rapport.",
+ "source_url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf",
+ "source_en": "Commissaire au lobbyisme du Québec, special report, 26 May 2026",
+ "source_fr": "Commissaire au lobbyisme du Québec, rapport spécial, 26 mai 2026",
+ "start": 2006.5,
+ "end": 2026.6,
+ "ticks": [
+  2007,
+  2010,
+  2015,
+  2020,
+  2025
+ ],
+ "actors": {
+  "commissioner": {
+   "en": "Lobbying commissioner",
+   "fr": "Commissaire au lobbyisme"
+  },
+  "government": {
+   "en": "Government / bill",
+   "fr": "Gouvernement / projet de loi"
+  },
+  "assembly": {
+   "en": "National Assembly",
+   "fr": "Assemblée nationale"
+  },
+  "external": {
+   "en": "Outside body (OECD, inquiry)",
+   "fr": "Organisme externe (OCDE, commission d’enquête)"
+  }
+ },
+ "types": {
+  "report": {
+   "en": "Report",
+   "fr": "Rapport"
+  },
+  "bill-tabled": {
+   "en": "Bill tabled",
+   "fr": "Projet de loi déposé"
+  },
+  "bill-died": {
+   "en": "Bill died",
+   "fr": "Projet de loi mort"
+  },
+  "motion": {
+   "en": "Motion",
+   "fr": "Motion"
+  }
+ },
+ "stats": {
+  "reforms_adopted": 0,
+  "reforms_note_en": "Despite the work of recent years, “no proposal has been formally tabled by the government” (p. 10); the law has been amended only “at the margins” (p. 7).",
+  "reforms_note_fr": "Malgré les travaux des dernières années, « aucune proposition n’a été formellement déposée par le gouvernement » (p. 10); la loi n’a été modifiée qu’« à la marge » (p. 7).",
+  "reforms_pages": [
+   7,
+   10
+  ],
+  "motion_en": "100 for, 0 against, 0 abstentions",
+  "motion_fr": "100 pour, 0 contre, 0 abstention",
+  "motion_pages": [
+   10
+  ]
+ },
+ "events": [
+  {
+   "id": "2007-justice",
+   "pos": 2007.0,
+   "lane": 0,
+   "date_en": "2007",
+   "date_fr": "2007",
+   "actor": "government",
+   "type": "report",
+   "who_en": "Justice Minister",
+   "who_fr": "Ministre de la Justice",
+   "en": "Five-year report on the law already flags problems with the notion of a “significant part” (the threshold).",
+   "fr": "Le rapport quinquennal sur la loi relève déjà les difficultés liées à la notion de « partie importante » (le seuil).",
+   "pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "2008-commissioner",
+   "pos": 2008.0,
+   "lane": 1,
+   "date_en": "2008",
+   "date_fr": "2008",
+   "actor": "commissioner",
+   "type": "report",
+   "who_en": "Commissioner",
+   "who_fr": "Commissaire",
+   "en": "Five-year report “Bâtir la confiance” flags the same “significant part” problems.",
+   "fr": "Le rapport quinquennal « Bâtir la confiance » relève les mêmes difficultés liées à la « partie importante ».",
+   "pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "id": "2012-commissioner",
+   "pos": 2012.0,
+   "lane": 0,
+   "date_en": "2012",
+   "date_fr": "2012",
+   "actor": "commissioner",
+   "type": "report",
+   "who_en": "Commissioner",
+   "who_fr": "Commissaire",
+   "en": "105 recommendations and a proposed new law.",
+   "fr": "105 recommandations et une proposition de nouvelle loi.",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "id": "2013-committee",
+   "pos": 2013.0,
+   "lane": 1,
+   "date_en": "2013",
+   "date_fr": "2013",
+   "actor": "assembly",
+   "type": "report",
+   "who_en": "Committee on Institutions (MNAs)",
+   "who_fr": "Commission des institutions (députés)",
+   "en": "Consultations and recommendations; the report says “no legislative follow-up” was given.",
+   "fr": "Consultations et recommandations; le rapport note qu’« aucune suite législative n’a été donnée ».",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "id": "2015-bill56",
+   "pos": 2015.45,
+   "lane": 0,
+   "date_en": "12 June 2015",
+   "date_fr": "12 juin 2015",
+   "actor": "government",
+   "type": "bill-tabled",
+   "who_en": "Government",
+   "who_fr": "Gouvernement",
+   "en": "Bill 56, the Lobbying Transparency Act, is tabled.",
+   "fr": "Dépôt du projet de loi 56, Loi sur la transparence en matière de lobbyisme.",
+   "pages": [
+    8,
+    98
+   ]
+  },
+  {
+   "id": "2017-commissioner",
+   "pos": 2017.0,
+   "lane": 1,
+   "date_en": "2017",
+   "date_fr": "2017",
+   "actor": "commissioner",
+   "type": "report",
+   "who_en": "Commissioner",
+   "who_fr": "Commissaire",
+   "en": "“Le temps est à l’action”: amendments proposed to Bill 56 and an explicit call for legislative reform.",
+   "fr": "« Le temps est à l’action » : amendements proposés au projet de loi 56 et appel explicite à une réforme législative.",
+   "pages": [
+    8,
+    98
+   ]
+  },
+  {
+   "id": "2018-bill56-dies",
+   "pos": 2018.6,
+   "lane": 0,
+   "date_en": "2018",
+   "date_fr": "2018",
+   "actor": "assembly",
+   "type": "bill-died",
+   "who_en": "National Assembly",
+   "who_fr": "Assemblée nationale",
+   "en": "Bill 56 dies on the order paper when the 41st legislature is dissolved.",
+   "fr": "Le projet de loi 56 meurt au feuilleton à la dissolution de la 41e législature.",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "id": "2019-commissioner",
+   "pos": 2019.4,
+   "lane": 1,
+   "date_en": "2019",
+   "date_fr": "2019",
+   "actor": "commissioner",
+   "type": "report",
+   "who_en": "Commissioner",
+   "who_fr": "Commissaire",
+   "en": "Report “Simplicité, clarté, pertinence, efficacité”: a diagnosis and principles for a structural reform.",
+   "fr": "Rapport « Simplicité, clarté, pertinence, efficacité » : un diagnostic et les principes d’une réforme structurante.",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "id": "2022-oecd",
+   "pos": 2022.0,
+   "lane": 0,
+   "date_en": "2022",
+   "date_fr": "2022",
+   "actor": "external",
+   "type": "report",
+   "who_en": "OECD",
+   "who_fr": "OCDE",
+   "en": "Review finds Quebec behind several international standards and backs the commissioner’s proposed reform.",
+   "fr": "Un examen constate le retard du Québec sur plusieurs normes internationales et souligne la pertinence de la réforme proposée par le commissaire.",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "id": "2023-commissioner",
+   "pos": 2023.0,
+   "lane": 1,
+   "date_en": "2023",
+   "date_fr": "2023",
+   "actor": "commissioner",
+   "type": "report",
+   "who_en": "Commissioner",
+   "who_fr": "Commissaire",
+   "en": "Brief to the National Assembly’s Committee on Institutions (MNAs’ code of ethics review).",
+   "fr": "Mémoire à la Commission des institutions de l’Assemblée nationale (étude du Code d’éthique des députés).",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "id": "2025-commissioner",
+   "pos": 2025.8,
+   "lane": 0,
+   "date_en": "Oct. 2025",
+   "date_fr": "oct. 2025",
+   "actor": "commissioner",
+   "type": "report",
+   "who_en": "Commissioner",
+   "who_fr": "Commissaire",
+   "en": "Brief to the Gallant commission: impossible to know whether lobbying took place around SAAQclic.",
+   "fr": "Mémoire à la commission Gallant : impossible de savoir s’il y a eu du lobbyisme autour de SAAQclic.",
+   "pages": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "2026-gallant",
+   "pos": 2026.12,
+   "lane": 1,
+   "date_en": "16 Feb. 2026",
+   "date_fr": "16 févr. 2026",
+   "actor": "external",
+   "type": "report",
+   "who_en": "Gallant commission",
+   "who_fr": "Commission Gallant",
+   "en": "Recommendation 25: overhaul the law in depth.",
+   "fr": "Recommandation 25 : refondre la loi en profondeur.",
+   "pages": [
+    8,
+    9
+   ]
+  },
+  {
+   "id": "2026-motion",
+   "pos": 2026.13,
+   "lane": 2,
+   "date_en": "17 Feb. 2026",
+   "date_fr": "17 févr. 2026",
+   "actor": "assembly",
+   "type": "motion",
+   "who_en": "National Assembly",
+   "who_fr": "Assemblée nationale",
+   "en": "Unanimous motion (100–0–0) asking the government to legislate to reform the law; still “without follow-up” in May 2026.",
+   "fr": "Motion unanime (100-0-0) demandant au gouvernement de légiférer pour réformer la loi; « demeuré sans suite » en mai 2026.",
+   "pages": [
+    9,
+    10
+   ]
+  }
+ ],
+ "gaps": [
+  {
+   "id": "gap-1",
+   "from": 2007.0,
+   "to": 2015.45,
+   "after": "2013-committee",
+   "en": "2007 → 2015: eight years between the first milestone listed and Bill 56",
+   "fr": "2007 → 2015 : huit ans entre le premier jalon énuméré et le projet de loi 56",
+   "pages": [
+    7,
+    8
+   ],
+   "short_en": "8 years before Bill 56",
+   "short_fr": "8 ans avant le projet de loi 56"
+  },
+  {
+   "id": "gap-2",
+   "from": 2018.6,
+   "to": 2026.4,
+   "after": "2018-bill56-dies",
+   "en": "2018 → May 2026: no reform bill since Bill 56 died. Only Bill 6 (2019) passed: “housekeeping adjustments” that remain “far from sufficient”.",
+   "fr": "2018 → mai 2026 : aucun projet de réforme depuis la mort du projet de loi 56. Seul le projet de loi 6 (2019) a été adopté : des « ajustements d’intendance » qui demeurent « bien insuffisants ».",
+   "pages": [
+    7,
+    8,
+    10
+   ],
+   "short_en": "No reform bill since 2018",
+   "short_fr": "Aucun projet de réforme depuis 2018"
+  }
+ ]
+}
