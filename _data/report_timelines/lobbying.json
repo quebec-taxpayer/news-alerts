@@ -313,5 +313,64 @@
    "short_en": "No reform bill since 2018",
    "short_fr": "Aucun projet de réforme depuis 2018"
   }
+ ],
+ "cards": [
+  {
+   "count": "years",
+   "label_en": "years of warnings",
+   "label_fr": "ans d’avertissements",
+   "detail_en": "From the first milestone listed (%Y0%) to the unanimous motion (%Y1%).",
+   "detail_fr": "Du premier jalon énuméré (%Y0%) à la motion unanime (%Y1%).",
+   "pages": [
+    7,
+    8
+   ]
+  },
+  {
+   "count": "type",
+   "type": "report",
+   "sub_actor": "commissioner",
+   "label_en": "reports & recommendations",
+   "label_fr": "rapports et recommandations",
+   "detail_en": "Reports, briefs and recommendations, %SUB% of them by the commissioner.",
+   "detail_fr": "Rapports, mémoires et recommandations, dont %SUB% du commissaire.",
+   "pages": [
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "count": "type",
+   "type": "bill-tabled",
+   "label_en": "reform bill tabled",
+   "label_fr": "projet de réforme déposé",
+   "detail_en": "Bill 56 (2015); it died on the order paper in 2018.",
+   "detail_fr": "Projet de loi 56 (2015), mort au feuilleton en 2018.",
+   "pages": [
+    8
+   ]
+  },
+  {
+   "value": "100–0",
+   "label_en": "unanimous vote",
+   "label_fr": "vote unanime",
+   "detail_en": "Assembly motion of 17 Feb. 2026: 100 for, 0 against, 0 abstentions.",
+   "detail_fr": "Motion de l’Assemblée du 17 févr. 2026 : 100 pour, 0 contre, 0 abstention.",
+   "pages": [
+    10
+   ]
+  },
+  {
+   "value": "0",
+   "tone": "zero",
+   "label_en": "government reform proposals",
+   "label_fr": "proposition de réforme du gouvernement",
+   "detail_en": "Formally tabled, as of May 2026.",
+   "detail_fr": "Formellement déposée, en date de mai 2026.",
+   "pages": [
+    10
+   ]
+  }
  ]
 }

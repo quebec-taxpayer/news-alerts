@@ -25,22 +25,22 @@
   </svg>
   <figcaption id="{{ vid }}-cap" class="vt-cap"><span class="l-en" lang="en">{{ T.intro_en }}</span><span class="l-fr" lang="fr">{{ T.intro_fr }}</span></figcaption>
 
+  {%- comment -%} Number cards: from T.cards. "count": "years" (first to last event year) or "type" (events of that type,
+       optionally "sub_actor" = how many of those by one actor, shown as %SUB%); otherwise the literal "value". {%- endcomment %}
   <ul class="vt-stats">
-    <li class="vt-stat"><strong class="vt-num" data-n="{{ n_years }}">{{ n_years }}</strong>
-      <span class="l-en" lang="en">years from the first milestone listed ({{ y0 }}) to the unanimous motion ({{ y1 }}) <a href="{{ pdf }}7">pp.&nbsp;7–8</a></span>
-      <span class="l-fr" lang="fr">ans entre le premier jalon énuméré ({{ y0 }}) et la motion unanime ({{ y1 }}) <a href="{{ pdf }}7">p.&nbsp;7-8</a></span></li>
-    <li class="vt-stat"><strong class="vt-num" data-n="{{ n_reports }}">{{ n_reports }}</strong>
-      <span class="l-en" lang="en">reports, briefs and recommendations, {{ n_comm }} of them by the commissioner <a href="{{ pdf }}7">pp.&nbsp;7–9</a></span>
-      <span class="l-fr" lang="fr">rapports, mémoires et recommandations, dont {{ n_comm }} du commissaire <a href="{{ pdf }}7">p.&nbsp;7-9</a></span></li>
-    <li class="vt-stat"><strong class="vt-num" data-n="{{ n_bills }}">{{ n_bills }}</strong>
-      <span class="l-en" lang="en">reform bill tabled (Bill 56, 2015), and it died in 2018 <a href="{{ pdf }}8">p.&nbsp;8</a></span>
-      <span class="l-fr" lang="fr">projet de réforme déposé (projet de loi 56, 2015), mort au feuilleton en 2018 <a href="{{ pdf }}8">p.&nbsp;8</a></span></li>
-    <li class="vt-stat"><strong class="vt-num vt-num-txt">100–0</strong>
-      <span class="l-en" lang="en">vote on the Assembly’s motion of 17 Feb. 2026 ({{ T.stats.motion_en }}) <a href="{{ pdf }}10">p.&nbsp;10</a></span>
-      <span class="l-fr" lang="fr">vote sur la motion de l’Assemblée du 17 févr. 2026 ({{ T.stats.motion_fr }}) <a href="{{ pdf }}10">p.&nbsp;10</a></span></li>
-    <li class="vt-stat vt-stat-zero"><strong class="vt-num" data-n="{{ T.stats.reforms_adopted }}">{{ T.stats.reforms_adopted }}</strong>
-      <span class="l-en" lang="en">reform proposal tabled by the government, as of May 2026 <a href="{{ pdf }}10">p.&nbsp;10</a></span>
-      <span class="l-fr" lang="fr">proposition de réforme déposée par le gouvernement, en date de mai 2026 <a href="{{ pdf }}10">p.&nbsp;10</a></span></li>
+    {%- for c in T.cards %}
+    {%- if c.count == "years" -%}{%- assign num = n_years | append: "" -%}
+    {%- elsif c.count == "type" -%}{%- assign num = evs | where: "type", c.type | size | append: "" -%}
+    {%- else -%}{%- assign num = c.value | append: "" -%}{%- endif -%}
+    {%- assign sub = "" -%}{%- if c.sub_actor -%}{%- assign sub = evs | where: "type", c.type | where: "actor", c.sub_actor | size | append: "" -%}{%- endif -%}
+    {%- assign isint = num | plus: 0 | append: "" -%}
+    <li class="vt-stat{% if c.tone %} vt-stat-{{ c.tone }}{% endif %}">
+      <strong class="vt-num"{% if isint == num %} data-n="{{ num }}"{% endif %}>{{ num | replace: "–", "&#8288;–&#8288;" }}</strong>
+      <span class="vt-stat-label"><span class="l-en" lang="en">{{ c.label_en | escape }}</span><span class="l-fr" lang="fr">{{ c.label_fr | escape }}</span></span>
+      {%- assign pf = c.pages.first -%}{%- assign pl = c.pages.last -%}
+      <span class="vt-stat-detail"><span class="l-en" lang="en">{{ c.detail_en | replace: "%Y0%", y0 | replace: "%Y1%", y1 | replace: "%SUB%", sub }} <a href="{{ pdf }}{{ pf }}">{% if pf == pl %}p.&nbsp;{{ pf }}{% else %}pp.&nbsp;{{ pf }}–{{ pl }}{% endif %}</a></span><span class="l-fr" lang="fr">{{ c.detail_fr | replace: "%Y0%", y0 | replace: "%Y1%", y1 | replace: "%SUB%", sub }} <a href="{{ pdf }}{{ pf }}">p.&nbsp;{{ pf }}{% if pf != pl %}-{{ pl }}{% endif %}</a></span></span>
+    </li>
+    {%- endfor %}
   </ul>
 
   <ul class="vt-legend" aria-label="Legend / Légende">
