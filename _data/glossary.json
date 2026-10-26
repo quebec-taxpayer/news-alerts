@@ -214,6 +214,61 @@
     "Bureau des enquêtes indépendantes",
     "BEI"
    ]
+  },
+  {
+   "id": "whistleblower",
+   "term_en": "Whistleblower",
+   "term_fr": "Lanceur d’alerte (divulgateur)",
+   "def_en": "Common name for a person who reports wrongdoing. Under Quebec law, anyone may, at any time, disclose to the Protecteur du citoyen information that may show a wrongdoing has been or is about to be committed in relation to a public body.",
+   "def_fr": "Nom courant d’une personne qui signale un acte répréhensible. Selon la loi québécoise, toute personne peut, en tout temps, divulguer au Protecteur du citoyen des renseignements pouvant démontrer qu’un acte répréhensible a été commis ou est sur le point de l’être à l’égard d’un organisme public.",
+   "source_en": "https://www.legisquebec.gouv.qc.ca/en/document/cs/D-11.1",
+   "source_fr": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-11.1",
+   "source_label": "LégisQuébec, D-11.1, s. 6 / art. 6",
+   "match_en": [
+    "whistleblower",
+    "whistle-blower"
+   ],
+   "match_fr": [
+    "lanceur d’alerte",
+    "lanceurs d’alerte",
+    "lanceuse d’alerte",
+    "lanceuses d’alerte",
+    "divulgateur",
+    "divulgatrice"
+   ]
+  },
+  {
+   "id": "pdc",
+   "term_en": "Protecteur du citoyen",
+   "term_fr": "Protecteur du citoyen",
+   "def_en": "Quebec body that receives disclosures of wrongdoing involving Quebec government departments and bodies, and can investigate them. Since 30 November 2024, it also handles reprisal complaints and offers free mediation and legal representation.",
+   "def_fr": "Organisme québécois qui reçoit les divulgations d’actes répréhensibles visant les ministères et organismes du gouvernement du Québec, et qui peut enquêter. Depuis le 30 novembre 2024, il traite aussi les plaintes pour représailles et offre une médiation et une représentation juridique sans frais.",
+   "source_en": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=124",
+   "source_fr": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=124",
+   "source_label": "Protecteur du citoyen, Rapport annuel d’activités 2024-2025, p. 122",
+   "match_en": [
+    "Protecteur du citoyen"
+   ],
+   "match_fr": [
+    "Protecteur du citoyen"
+   ]
+  },
+  {
+   "id": "reprisal",
+   "term_en": "Reprisal",
+   "term_fr": "Représailles",
+   "def_en": "Under Quebec’s 2024 law, reprisals include moving, suspending, demoting or dismissing someone, or any other disciplinary measure or measure that harms their job or working conditions, because they made a disclosure or cooperated in an investigation.",
+   "def_fr": "Selon la loi québécoise de 2024, constituent notamment des représailles le fait de déplacer, de suspendre, de rétrograder ou de congédier une personne, ou toute autre mesure disciplinaire ou portant atteinte à son emploi ou à ses conditions de travail, parce qu’elle a fait une divulgation ou collaboré à une enquête.",
+   "source_en": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/en/2024/2024C21A.PDF#page=6",
+   "source_fr": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=6",
+   "source_label": "Publications du Québec, 2024, c. 21, ss. 3–4 / art. 3-4",
+   "match_en": [
+    "reprisal",
+    "reprisals"
+   ],
+   "match_fr": [
+    "représailles"
+   ]
   }
  ]
 }

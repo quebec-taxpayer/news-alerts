@@ -1,0 +1,30 @@
+{%- comment -%}
+  Comparison grid (CSS only). Usage: {% include compare-grid.html data=V.compare %}
+  Data: id, cap_en/fr, cols [{k, en, fr}], marks {yes|part|no|na: {en, fr}},
+  rows [{q_en, q_fr, cells {colkey: {m (yes|part|no|na|null), en, fr, links [{url,en,fr}]}}}].
+  It is a real <table>: the mark is a symbol AND a word, so the table is its own text equivalent.
+  Under 720px each row becomes a stacked card; the column name is repeated in each cell.
+{%- endcomment -%}
+{%- assign G = include.data -%}
+<figure class="cg" id="cg-{{ G.id }}" aria-labelledby="cg-{{ G.id }}-cap">
+  <figcaption id="cg-{{ G.id }}-cap" class="sb-cap"><span class="l-en" lang="en">{{ G.cap_en }}</span><span class="l-fr" lang="fr">{{ G.cap_fr }}</span></figcaption>
+  <ul class="cg-key" aria-hidden="true">{% for m in G.marks %}<li><span class="cg-m cg-m-{{ m[0] }}"></span> <span class="l-en" lang="en">{{ m[1].en }}</span><span class="l-fr" lang="fr">{{ m[1].fr }}</span></li>{% endfor %}</ul>
+  <table class="cg-t">
+    <thead><tr><th scope="col"><span class="l-en" lang="en">Question</span><span class="l-fr" lang="fr">Question</span></th>{% for c in G.cols %}<th scope="col" class="cg-c-{{ c.k }}"><span class="l-en" lang="en">{{ c.en }}</span><span class="l-fr" lang="fr">{{ c.fr }}</span></th>{% endfor %}</tr></thead>
+    <tbody>
+    {%- for r in G.rows %}
+      <tr>
+        <th scope="row"><span class="l-en" lang="en">{{ r.q_en }}</span><span class="l-fr" lang="fr">{{ r.q_fr }}</span></th>
+        {%- for c in G.cols %}{%- assign x = r.cells[c.k] %}
+        <td class="cg-c-{{ c.k }}{% if x.m %} cg-is-{{ x.m }}{% endif %}">
+          <span class="cg-col" aria-hidden="true"><span class="l-en" lang="en">{{ c.en }}</span><span class="l-fr" lang="fr">{{ c.fr }}</span></span>
+          {%- if x.m %}<span class="cg-mark"><span class="cg-m cg-m-{{ x.m }}" aria-hidden="true"></span><b><span class="l-en" lang="en">{{ G.marks[x.m].en }}</span><span class="l-fr" lang="fr">{{ G.marks[x.m].fr }}</span></b></span>{% endif %}
+          {%- if x.en != "" %}<span class="cg-txt"><span class="l-en" lang="en">{{ x.en }}</span><span class="l-fr" lang="fr">{{ x.fr }}</span></span>{% endif %}
+          {%- if x.links.size > 0 %}<span class="cg-src"><span class="l-en" lang="en">{% for l in x.links %}<a href="{{ l.url }}">{{ l.en }}</a>{% unless forloop.last %}; {% endunless %}{% endfor %}</span><span class="l-fr" lang="fr">{% for l in x.links %}<a href="{{ l.url }}">{{ l.fr }}</a>{% unless forloop.last %}; {% endunless %}{% endfor %}</span></span>{% endif %}
+        </td>
+        {%- endfor %}
+      </tr>
+    {%- endfor %}
+    </tbody>
+  </table>
+</figure>

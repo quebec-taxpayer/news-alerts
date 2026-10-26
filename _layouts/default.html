@@ -10,6 +10,7 @@ if(l!=="en")l="fr";var h=document.documentElement;h.className=(h.className.repla
   {%- capture t_en -%}{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
   {%- capture t_fr -%}{% if page.title %}{{ page.title_fr | default: page.title }} | {% endif %}{{ site.title_fr | default: site.title }}{%- endcapture -%}
   <title data-en="{{ t_en | escape }}" data-fr="{{ t_fr | escape }}">{{ t_fr }}</title>
+  {% if page.noindex %}<meta name="robots" content="noindex, nofollow">{% endif %}
   {%- comment -%} The meta description stays French; og:title / og:description are English. {%- endcomment -%}
   <meta name="description" content="{{ page.summary_fr | default: site.description | strip_html | escape }}">
   <meta property="og:type" content="website">

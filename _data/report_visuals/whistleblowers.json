@@ -1,0 +1,650 @@
+{
+ "cards": [
+  {
+   "n": 386,
+   "label_en": "disclosures received",
+   "label_fr": "divulgations reçues",
+   "detail_en": "By the Protecteur du citoyen in 2024‑25, up from 216 the year before.",
+   "detail_fr": "Par le Protecteur du citoyen en 2024‑2025, contre 216 l’année précédente.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=125",
+     "en": "Protecteur du citoyen, 2024‑25 report, p. 123",
+     "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 123"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "label_en": "wrongdoings found",
+   "label_fr": "actes répréhensibles constatés",
+   "detail_en": "Out of 365 disclosure grounds closed in 2024‑25.",
+   "detail_fr": "Sur 365 motifs de divulgation conclus en 2024‑2025.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=128",
+     "en": "Protecteur du citoyen, 2024‑25 report, p. 126",
+     "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 126"
+    }
+   ]
+  },
+  {
+   "n": 0,
+   "tone": "zero",
+   "label_en": "reprisal complaints found admissible",
+   "label_fr": "plainte pour représailles jugée recevable",
+   "detail_en": "Out of 18 reprisal complaint grounds closed in 2024‑25.",
+   "detail_fr": "Sur 18 motifs de plainte pour représailles conclus en 2024‑2025.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=130",
+     "en": "Protecteur du citoyen, 2024‑25 report, p. 128",
+     "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 128"
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "label_en": "mediations opened",
+   "label_fr": "médiations ouvertes",
+   "detail_en": "Under the new reprisal law, 30 Nov 2024 to 31 Mar 2025. All 9 were still under way; no settlement yet.",
+   "detail_fr": "En vertu de la nouvelle loi sur les représailles, du 30 nov. 2024 au 31 mars 2025. Les 9 étaient encore en cours; aucune entente encore.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=130",
+     "en": "Protecteur du citoyen, 2024‑25 report, p. 128",
+     "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 128"
+    }
+   ]
+  },
+  {
+   "value_en": "$250,000",
+   "value_fr": "250 000 $",
+   "label_en": "maximum fine for reprisal",
+   "label_fr": "amende maximale pour représailles",
+   "detail_en": "For an organization, under the 2024 law ($30,000 for an individual).",
+   "detail_fr": "Pour une organisation, selon la loi de 2024 (30 000 $ pour une personne physique).",
+   "links": [
+    {
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=11",
+     "en": "2024, c. 21, s. 21 (French text)",
+     "fr": "2024, c. 21, art. 21"
+    }
+   ]
+  }
+ ],
+ "series": {
+  "id": "wb-series",
+  "scale": 400,
+  "cap_en": "Disclosures of wrongdoing received by the Protecteur du citoyen, per year (April to March).",
+  "cap_fr": "Divulgations d’actes répréhensibles reçues par le Protecteur du citoyen, par année (avril à mars).",
+  "rows": [
+   {
+    "label_en": "2017‑18",
+    "label_fr": "2017‑2018",
+    "v": 135,
+    "show_en": "135",
+    "show_fr": "135"
+   },
+   {
+    "label_en": "2018‑19",
+    "label_fr": "2018‑2019",
+    "v": 182,
+    "show_en": "182",
+    "show_fr": "182"
+   },
+   {
+    "label_en": "2019‑20",
+    "label_fr": "2019‑2020",
+    "v": 244,
+    "show_en": "244",
+    "show_fr": "244"
+   },
+   {
+    "label_en": "2020‑21",
+    "label_fr": "2020‑2021",
+    "v": 190,
+    "show_en": "190",
+    "show_fr": "190"
+   },
+   {
+    "label_en": "2021‑22",
+    "label_fr": "2021‑2022",
+    "v": 193,
+    "show_en": "193",
+    "show_fr": "193"
+   },
+   {
+    "label_en": "2022‑23",
+    "label_fr": "2022‑2023",
+    "v": 166,
+    "show_en": "166",
+    "show_fr": "166"
+   },
+   {
+    "label_en": "2023‑24",
+    "label_fr": "2023‑2024",
+    "v": 216,
+    "show_en": "216",
+    "show_fr": "216"
+   },
+   {
+    "label_en": "2024‑25",
+    "label_fr": "2024‑2025",
+    "v": 386,
+    "show_en": "386",
+    "show_fr": "386"
+   }
+  ],
+  "note_en": "The 2024‑25 jump came in the year a new law on reprisals took effect (30 November 2024). The reports do not say why the number rose.",
+  "note_fr": "Le bond de 2024‑2025 survient l’année où une nouvelle loi sur les représailles est entrée en vigueur (30 novembre 2024). Les rapports ne disent pas pourquoi le nombre a augmenté.",
+  "src_links": [
+   {
+    "url": "https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_annuels/2020-2021-protecteur-rapport-annuel.pdf#page=136",
+    "en": "2020‑21 report, p. 139",
+    "fr": "rapport 2020‑2021, p. 139"
+   },
+   {
+    "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2024-09/rapport-annuel-activites-2023-2024.pdf#page=118",
+    "en": "2023‑24 report, p. 116",
+    "fr": "rapport 2023‑2024, p. 116"
+   },
+   {
+    "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=125",
+    "en": "Protecteur du citoyen, 2024‑25 report, p. 123",
+    "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 123"
+   }
+  ]
+ },
+ "grounds": {
+  "id": "wb-grounds",
+  "cap_en": "What happened to the disclosure grounds the Protecteur du citoyen closed in 2023‑24 and 2024‑25. One disclosure can contain several grounds.",
+  "cap_fr": "Ce qu’il est advenu des motifs de divulgation conclus par le Protecteur du citoyen en 2023‑2024 et 2024‑2025. Une divulgation peut contenir plusieurs motifs.",
+  "keys": {
+   "inad": {
+    "en": "not admissible",
+    "fr": "non recevables",
+    "style": "muted"
+   },
+   "noinv": {
+    "en": "admissible, closed without an investigation",
+    "fr": "recevables, conclus sans enquête",
+    "style": "pattern",
+    "note_en": "includes grounds whose processing was not completed: 106 in 2024‑25, 80 in 2023‑24",
+    "note_fr": "dont des motifs dont le traitement n’a pas été complété : 106 en 2024‑2025, 80 en 2023‑2024"
+   },
+   "none": {
+    "en": "investigated, no wrongdoing found",
+    "fr": "enquête, aucun acte répréhensible constaté",
+    "style": "light"
+   },
+   "found": {
+    "en": "investigated, wrongdoing found",
+    "fr": "enquête, acte répréhensible constaté",
+    "style": "red"
+   }
+  },
+  "rows": [
+   {
+    "label_en": "2023‑24",
+    "label_fr": "2023‑2024",
+    "sub_en": "223 grounds",
+    "sub_fr": "223 motifs",
+    "total": 223,
+    "segs": [
+     {
+      "k": "inad",
+      "v": 64
+     },
+     {
+      "k": "noinv",
+      "v": 127
+     },
+     {
+      "k": "none",
+      "v": 20
+     },
+     {
+      "k": "found",
+      "v": 12
+     }
+    ],
+    "links": [
+     {
+      "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2024-09/rapport-annuel-activites-2023-2024.pdf#page=120",
+      "en": "Protecteur du citoyen, 2023‑24 report, p. 118",
+      "fr": "Protecteur du citoyen, rapport 2023‑2024, p. 118"
+     }
+    ]
+   },
+   {
+    "label_en": "2024‑25",
+    "label_fr": "2024‑2025",
+    "sub_en": "365 grounds",
+    "sub_fr": "365 motifs",
+    "total": 365,
+    "segs": [
+     {
+      "k": "inad",
+      "v": 105
+     },
+     {
+      "k": "noinv",
+      "v": 237
+     },
+     {
+      "k": "none",
+      "v": 18
+     },
+     {
+      "k": "found",
+      "v": 5
+     }
+    ],
+    "links": [
+     {
+      "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=128",
+      "en": "Protecteur du citoyen, 2024‑25 report, p. 126",
+      "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 126"
+     }
+    ]
+   }
+  ],
+  "note_en": "In 2024‑25, 16 of the 23 investigated grounds led to recommendations, including 11 where no wrongdoing was found. In all, the Protecteur made 62 recommendations that year, and none was refused (2024‑25 report, pp. 126 and 128).",
+  "note_fr": "En 2024‑2025, 16 des 23 motifs ayant fait l’objet d’une enquête ont mené à des recommandations, dont 11 où aucun acte répréhensible n’a été constaté. Au total, le Protecteur a formulé 62 recommandations cette année-là, et aucune n’a été refusée (rapport 2024‑2025, p. 126 et 128)."
+ },
+ "compare": {
+  "id": "wb-compare",
+  "cap_en": "Quebec, the EU and the US: how the rules compare. Each cell links to the text it is based on. “Not compared” means we did not check that point for this report.",
+  "cap_fr": "Québec, UE et États-Unis : comparaison des règles. Chaque case renvoie au texte sur lequel elle s’appuie. « Non comparé » signifie que nous n’avons pas vérifié ce point pour ce rapport.",
+  "cols": [
+   {
+    "k": "qc",
+    "en": "Quebec",
+    "fr": "Québec"
+   },
+   {
+    "k": "eu",
+    "en": "European Union (2019 directive)",
+    "fr": "Union européenne (directive de 2019)"
+   },
+   {
+    "k": "us",
+    "en": "United States (federal laws, examples)",
+    "fr": "États-Unis (lois fédérales, exemples)"
+   }
+  ],
+  "marks": {
+   "yes": {
+    "en": "Yes",
+    "fr": "Oui"
+   },
+   "part": {
+    "en": "Limited",
+    "fr": "Limité"
+   },
+   "no": {
+    "en": "No",
+    "fr": "Non"
+   },
+   "na": {
+    "en": "Not compared",
+    "fr": "Non comparé"
+   }
+  },
+  "rows": [
+   {
+    "q_en": "What can be reported?",
+    "q_fr": "Que peut-on signaler?",
+    "cells": {
+     "qc": {
+      "m": null,
+      "en": "Wrongdoing involving a public body: breaking a law or regulation, a serious ethics breach, gross mismanagement, misuse of public funds, or a serious risk to health, safety or the environment.",
+      "fr": "Un acte répréhensible à l’égard d’un organisme public : contravention à une loi, manquement grave à l’éthique, cas grave de mauvaise gestion, usage abusif de fonds publics ou atteinte grave à la santé, à la sécurité ou à l’environnement.",
+      "links": [
+       {
+        "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-11.1",
+        "en": "D‑11.1, s. 6",
+        "fr": "D‑11.1, art. 6"
+       },
+       {
+        "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=129",
+        "en": "Protecteur du citoyen, 2024‑25 report, p. 127",
+        "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 127"
+       }
+      ]
+     },
+     "eu": {
+      "m": null,
+      "en": "Breaches of EU law in listed areas, such as public procurement, financial services, product safety, the environment and public health. Countries may protect more.",
+      "fr": "Les violations du droit de l’Union dans des domaines énumérés : marchés publics, services financiers, sécurité des produits, environnement, santé publique, etc. Les pays peuvent protéger davantage.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 2",
+        "fr": "directive 2019/1937, art. 2"
+       }
+      ]
+     },
+     "us": {
+      "m": null,
+      "en": "It depends on the law. Examples: federal employees; employees of listed companies who report fraud; people who report fraud against the government.",
+      "fr": "Cela dépend de la loi. Exemples : employés fédéraux; employés de sociétés cotées qui signalent une fraude; personnes qui signalent une fraude contre l’État.",
+      "links": [
+       {
+        "url": "https://www.law.cornell.edu/uscode/text/5/1221",
+        "en": "5 U.S.C. §1221",
+        "fr": "5 U.S.C. §1221"
+       },
+       {
+        "url": "https://www.law.cornell.edu/uscode/text/18/1514A",
+        "en": "18 U.S.C. §1514A",
+        "fr": "18 U.S.C. §1514A"
+       },
+       {
+        "url": "https://www.law.cornell.edu/uscode/text/31/3730",
+        "en": "31 U.S.C. §3730",
+        "fr": "31 U.S.C. §3730"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Are private-sector workers protected?",
+    "q_fr": "Les travailleurs du privé sont-ils protégés?",
+    "cells": {
+     "qc": {
+      "m": "part",
+      "en": "Only when the wrongdoing involves a public body. Since 2024, this includes reporting it inside one’s own company.",
+      "fr": "Seulement si l’acte répréhensible vise un organisme public. Depuis 2024, cela inclut le signalement fait à l’intérieur de sa propre entreprise.",
+      "links": [
+       {
+        "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=5",
+        "en": "2024, c. 21, s. 1 (French text)",
+        "fr": "2024, c. 21, art. 1"
+       }
+      ]
+     },
+     "eu": {
+      "m": "yes",
+      "en": "Yes, in the areas covered. Companies with 50 or more workers must set up internal reporting channels.",
+      "fr": "Oui, dans les domaines visés. Les entreprises de 50 travailleurs ou plus doivent mettre en place des canaux de signalement internes.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 4",
+        "fr": "directive 2019/1937, art. 4"
+       },
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 8",
+        "fr": "directive 2019/1937, art. 8"
+       }
+      ]
+     },
+     "us": {
+      "m": "part",
+      "en": "Under some laws, for example employees of listed companies, and employees or contractors who act against fraud on the government.",
+      "fr": "En vertu de certaines lois, par exemple pour les employés de sociétés cotées, et les employés ou sous-traitants qui agissent contre une fraude visant l’État.",
+      "links": [
+       {
+        "url": "https://www.law.cornell.edu/uscode/text/18/1514A",
+        "en": "§1514A",
+        "fr": "§1514A"
+       },
+       {
+        "url": "https://www.law.cornell.edu/uscode/text/31/3730",
+        "en": "§3730(h)",
+        "fr": "§3730(h)"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "After a firing or demotion, who has to prove what?",
+    "q_fr": "Après un congédiement ou une rétrogradation, qui doit prouver quoi?",
+    "cells": {
+     "qc": {
+      "m": "yes",
+      "en": "Since 30 November 2024, reprisal is presumed. The employer must prove another good and sufficient reason.",
+      "fr": "Depuis le 30 novembre 2024, les représailles sont présumées. L’employeur doit prouver une autre cause juste et suffisante.",
+      "links": [
+       {
+        "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=9",
+        "en": "2024, c. 21, s. 15 (French text)",
+        "fr": "2024, c. 21, art. 15"
+       }
+      ]
+     },
+     "eu": {
+      "m": "yes",
+      "en": "Retaliation is presumed. The employer must prove the measure had duly justified grounds.",
+      "fr": "Les représailles sont présumées. L’employeur doit prouver que la mesure reposait sur des motifs dûment justifiés.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 21(5)",
+        "fr": "directive 2019/1937, art. 21(5)"
+       }
+      ]
+     },
+     "us": {
+      "m": "yes",
+      "en": "Federal employees: the worker shows the disclosure was a “contributing factor”. The agency must then show by “clear and convincing evidence” that it would have acted anyway.",
+      "fr": "Employés fédéraux : la personne montre que la divulgation a été un « facteur contributif ». L’agence doit ensuite démontrer par une preuve « claire et convaincante » qu’elle aurait agi de la même façon.",
+      "links": [
+       {
+        "url": "https://www.law.cornell.edu/uscode/text/5/1221",
+        "en": "5 U.S.C. §1221(e)",
+        "fr": "5 U.S.C. §1221(e)"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Can a report be anonymous?",
+    "q_fr": "Un signalement peut-il être anonyme?",
+    "cells": {
+     "qc": {
+      "m": "yes",
+      "en": "Yes. A disclosure to the Protecteur du citoyen can be made anonymously.",
+      "fr": "Oui. Une divulgation au Protecteur du citoyen peut se faire sous le couvert de l’anonymat.",
+      "links": [
+       {
+        "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-11.1",
+        "en": "D‑11.1, s. 6",
+        "fr": "D‑11.1, art. 6"
+       }
+      ]
+     },
+     "eu": {
+      "m": "part",
+      "en": "Each country decides. Anonymous reporters who are later identified are protected.",
+      "fr": "Chaque pays décide. La personne anonyme qui est ensuite identifiée est protégée.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 6(2)–(3)",
+        "fr": "directive 2019/1937, art. 6(2)–(3)"
+       }
+      ]
+     },
+     "us": {
+      "m": "na",
+      "en": "",
+      "fr": "",
+      "links": []
+     }
+    }
+   },
+   {
+    "q_en": "Can you go to the media and stay protected?",
+    "q_fr": "Peut-on s’adresser aux médias en restant protégé?",
+    "cells": {
+     "qc": {
+      "m": "part",
+      "en": "Only for a serious risk to health, safety or the environment, when it is urgent, and after first telling the police or the anti-corruption commissioner.",
+      "fr": "Seulement en cas de risque grave pour la santé, la sécurité ou l’environnement, en situation d’urgence, et après avoir d’abord informé la police ou le Commissaire à la lutte contre la corruption.",
+      "links": [
+       {
+        "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-11.1",
+        "en": "D‑11.1, s. 7",
+        "fr": "D‑11.1, art. 7"
+       }
+      ]
+     },
+     "eu": {
+      "m": "part",
+      "en": "Yes, if a report got no appropriate action in time, or if there is an imminent danger, a risk of retaliation or little chance the report will be dealt with.",
+      "fr": "Oui, si un signalement n’a pas mené à des mesures appropriées dans les délais, ou en cas de danger imminent, de risque de représailles ou de faible chance que le signalement soit traité.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 15",
+        "fr": "directive 2019/1937, art. 15"
+       }
+      ]
+     },
+     "us": {
+      "m": "na",
+      "en": "",
+      "fr": "",
+      "links": []
+     }
+    }
+   },
+   {
+    "q_en": "What help or remedy after reprisal?",
+    "q_fr": "Quelle aide ou réparation après des représailles?",
+    "cells": {
+     "qc": {
+      "m": "yes",
+      "en": "Free mediation and a lawyer appointed by the Protecteur du citoyen. A dismissal complaint that looks well founded is heard urgently by the Administrative Labour Tribunal.",
+      "fr": "Médiation gratuite et avocat mandaté par le Protecteur du citoyen. Une plainte de congédiement qui paraît fondée est entendue d’urgence par le Tribunal administratif du travail.",
+      "links": [
+       {
+        "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=124",
+        "en": "Protecteur du citoyen, 2024‑25 report, p. 122",
+        "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 122"
+       },
+       {
+        "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=9",
+        "en": "2024, c. 21, s. 16 (French text)",
+        "fr": "2024, c. 21, art. 16"
+       }
+      ]
+     },
+     "eu": {
+      "m": "yes",
+      "en": "Interim relief while the case is pending, and full compensation for the damage.",
+      "fr": "Mesures provisoires pendant la procédure, et réparation intégrale du préjudice.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 21(6)",
+        "fr": "directive 2019/1937, art. 21(6)"
+       },
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 21(8)",
+        "fr": "directive 2019/1937, art. 21(8)"
+       }
+      ]
+     },
+     "us": {
+      "m": "yes",
+      "en": "False Claims Act: reinstatement, twice the back pay, interest, special damages and legal costs.",
+      "fr": "False Claims Act : réintégration, le double du salaire perdu, les intérêts, une indemnité pour les dommages particuliers et les frais d’avocat.",
+      "links": [
+       {
+        "url": "https://www.law.cornell.edu/uscode/text/31/3730",
+        "en": "31 U.S.C. §3730(h)",
+        "fr": "31 U.S.C. §3730(h)"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Money rewards for reporting?",
+    "q_fr": "Récompense en argent pour un signalement?",
+    "cells": {
+     "qc": {
+      "m": "no",
+      "en": "None in the Quebec laws reviewed for this report.",
+      "fr": "Aucune dans les lois québécoises examinées pour ce rapport.",
+      "links": []
+     },
+     "eu": {
+      "m": "no",
+      "en": "None in the directive’s articles.",
+      "fr": "Aucune dans les articles de la directive.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937",
+        "fr": "directive 2019/1937"
+       }
+      ]
+     },
+     "us": {
+      "m": "yes",
+      "en": "SEC: 10% to 30% of sanctions over $1 million. False Claims Act: typically 15% to 30% of what is recovered.",
+      "fr": "SEC : 10 % à 30 % des sanctions de plus de 1 million $. False Claims Act : généralement 15 % à 30 % des sommes récupérées.",
+      "links": [
+       {
+        "url": "https://www.sec.gov/files/fy25-annual-whistleblower-report.pdf#page=1",
+        "en": "SEC, FY2025 report, p. 1",
+        "fr": "SEC, rapport 2025, p. 1"
+       },
+       {
+        "url": "https://www.justice.gov/opa/pr/false-claims-act-settlements-and-judgments-exceed-68b-fiscal-year-2025",
+        "en": "U.S. Justice Department, 16 Jan 2026",
+        "fr": "département de la Justice des États-Unis, 16 janv. 2026"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Fines for reprisal?",
+    "q_fr": "Amendes pour représailles?",
+    "cells": {
+     "qc": {
+      "m": "yes",
+      "en": "$5,000 to $30,000 for an individual; $15,000 to $250,000 in other cases.",
+      "fr": "5 000 $ à 30 000 $ pour une personne physique; 15 000 $ à 250 000 $ dans les autres cas.",
+      "links": [
+       {
+        "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=11",
+        "en": "2024, c. 21, s. 21 (French text)",
+        "fr": "2024, c. 21, art. 21"
+       }
+      ]
+     },
+     "eu": {
+      "m": "yes",
+      "en": "Countries must set “effective, proportionate and dissuasive” penalties.",
+      "fr": "Les pays doivent prévoir des sanctions effectives, proportionnées et dissuasives.",
+      "links": [
+       {
+        "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+        "en": "Directive 2019/1937, art. 23",
+        "fr": "directive 2019/1937, art. 23"
+       }
+      ]
+     },
+     "us": {
+      "m": "na",
+      "en": "",
+      "fr": "",
+      "links": []
+     }
+    }
+   }
+  ]
+ }
+}

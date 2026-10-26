@@ -1,0 +1,396 @@
+{
+ "id": "whistleblowers",
+ "intro_en": "Ten years of whistleblower rules in Quebec, with the EU alongside. Each dot is a dated step from the sources linked in it. Colour and shape show who acted; the label shows what kind of step it was. Tap a step for details and its source.",
+ "intro_fr": "Dix ans de règles sur les lanceurs d’alerte au Québec, avec l’UE en parallèle. Chaque point est une étape datée, tirée des sources qui y sont liées. La couleur et la forme indiquent qui a agi; l’étiquette, le type d’étape. Touchez une étape pour les détails et la source.",
+ "start": 2015.5,
+ "end": 2027.0,
+ "ticks": [
+  2016,
+  2018,
+  2020,
+  2022,
+  2024,
+  2026
+ ],
+ "actors": {
+  "government": {
+   "en": "Quebec government",
+   "fr": "Gouvernement du Québec"
+  },
+  "assembly": {
+   "en": "National Assembly",
+   "fr": "Assemblée nationale"
+  },
+  "watchdog": {
+   "en": "Protecteur du citoyen",
+   "fr": "Protecteur du citoyen"
+  },
+  "person": {
+   "en": "Whistleblower",
+   "fr": "Lanceur d’alerte"
+  },
+  "external": {
+   "en": "European Union (EU bodies and EU court)",
+   "fr": "Union européenne (institutions et Cour de l’UE)"
+  }
+ },
+ "types": {
+  "bill-tabled": {
+   "en": "Bill tabled",
+   "fr": "Projet de loi déposé"
+  },
+  "bill-adopted": {
+   "en": "Law adopted",
+   "fr": "Loi adoptée"
+  },
+  "launch": {
+   "en": "In force or deadline",
+   "fr": "Entrée en vigueur ou échéance"
+  },
+  "report": {
+   "en": "Report",
+   "fr": "Rapport"
+  },
+  "scorecard": {
+   "en": "Figures",
+   "fr": "Chiffres"
+  },
+  "alert": {
+   "en": "Case",
+   "fr": "Cas"
+  },
+  "statement": {
+   "en": "Statement",
+   "fr": "Déclaration"
+  },
+  "court": {
+   "en": "Court ruling",
+   "fr": "Jugement"
+  }
+ },
+ "gap_key_en": "Before the 2024 law: workplace reprisal went through labour-law remedies",
+ "gap_key_fr": "Avant la loi de 2024 : les représailles au travail relevaient des recours du droit du travail",
+ "gaps": [
+  {
+   "id": "gap-labour",
+   "from": 2017.33,
+   "to": 2024.91,
+   "after": "2017-inforce",
+   "h_en": "Until 30 November 2024",
+   "h_fr": "Jusqu’au 30 novembre 2024",
+   "en": "Under the 2016 law, people who believed they faced reprisals at work had to use labour-law remedies, the Protecteur du citoyen wrote in 2019 (<a href=\"https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_speciaux/rapport-mapaq-manquements-traitement-divulgation.pdf#page=6\">MAPAQ report, p.&nbsp;4</a>). The 2024 law gave it the job of handling reprisal complaints.",
+   "fr": "Sous la loi de 2016, les personnes qui s’estimaient victimes de représailles au travail devaient exercer leurs recours selon les lois du travail, écrivait le Protecteur du citoyen en 2019 (<a href=\"https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_speciaux/rapport-mapaq-manquements-traitement-divulgation.pdf#page=6\">rapport MAPAQ, p.&nbsp;4</a>). La loi de 2024 lui a confié le traitement des plaintes pour représailles.",
+   "short_en": "Workplace reprisal: labour-law remedies",
+   "short_fr": "Représailles au travail : droit du travail"
+  }
+ ],
+ "src_en": "Sources: the Protecteur du citoyen, the Publications du Québec, La Presse, Radio‑Canada, EUR‑Lex, the Court of Justice of the EU and TVA Nouvelles, as linked in each step.",
+ "src_fr": "Sources : le Protecteur du citoyen, les Publications du Québec, La Presse, Radio‑Canada, EUR‑Lex, la Cour de justice de l’UE et TVA Nouvelles, tels que liés à chaque étape.",
+ "events": [
+  {
+   "id": "2015-bill",
+   "pos": 2015.92,
+   "lane": 0,
+   "date_en": "2 Dec 2015",
+   "date_fr": "2 déc. 2015",
+   "actor": "government",
+   "type": "bill-tabled",
+   "who_en": "Government",
+   "who_fr": "Gouvernement",
+   "en": "The government tables a bill to facilitate the disclosure of wrongdoing in public bodies. La Presse notes that the Charbonneau commission had asked for a general regime covering both the public and private sectors.",
+   "fr": "Le gouvernement dépose un projet de loi facilitant la divulgation d’actes répréhensibles dans les organismes publics. La Presse souligne que la commission Charbonneau avait réclamé un régime général couvrant autant le public que le privé.",
+   "links": [
+    {
+     "url": "https://www.lapresse.ca/actualites/politique/politique-quebecoise/201512/02/01-4927079-lanceurs-dalerte-quebec-applique-en-partie-une-recommandation-du-rapport-charbonneau.php",
+     "en": "La Presse, 2 Dec 2015",
+     "fr": "La Presse, 2 déc. 2015"
+    }
+   ]
+  },
+  {
+   "id": "2017-inforce",
+   "pos": 2017.33,
+   "lane": 1,
+   "date_en": "1 May 2017",
+   "date_fr": "1er mai 2017",
+   "actor": "watchdog",
+   "type": "launch",
+   "who_en": "Disclosure law in force",
+   "who_fr": "Loi sur la divulgation en vigueur",
+   "en": "The 2016 law on disclosing wrongdoing in public bodies takes effect. From this date, the Protecteur du citoyen can investigate disclosures.",
+   "fr": "La loi de 2016 sur la divulgation d’actes répréhensibles dans les organismes publics est mise en œuvre. Dès cette date, le Protecteur du citoyen peut enquêter à la suite de divulgations.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_speciaux/rapport-mapaq-manquements-traitement-divulgation.pdf#page=10",
+     "en": "Protecteur du citoyen, MAPAQ report, p. 8",
+     "fr": "Protecteur du citoyen, rapport MAPAQ, p. 8"
+    },
+    {
+     "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/D-11.1",
+     "en": "D‑11.1 (2016, c. 34)",
+     "fr": "D‑11.1 (2016, c. 34)"
+    }
+   ]
+  },
+  {
+   "id": "2017-mapaq",
+   "pos": 2017.83,
+   "lane": 0,
+   "date_en": "30 Oct 2017",
+   "date_fr": "30 oct. 2017",
+   "actor": "person",
+   "type": "alert",
+   "who_en": "A MAPAQ employee",
+   "who_fr": "Un employé du MAPAQ",
+   "en": "An employee of the agriculture ministry (MAPAQ) makes an internal disclosure under the new law.",
+   "fr": "Un employé du ministère de l’Agriculture (MAPAQ) fait une divulgation interne en vertu de la nouvelle loi.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_speciaux/rapport-mapaq-manquements-traitement-divulgation.pdf#page=6",
+     "en": "Protecteur du citoyen, MAPAQ report, p. 4",
+     "fr": "Protecteur du citoyen, rapport MAPAQ, p. 4"
+    }
+   ]
+  },
+  {
+   "id": "2019-fired",
+   "pos": 2019.07,
+   "lane": 1,
+   "date_en": "24 Jan 2019",
+   "date_fr": "24 janv. 2019",
+   "actor": "government",
+   "type": "alert",
+   "who_en": "MAPAQ",
+   "who_fr": "MAPAQ",
+   "en": "The employee who made the disclosure is dismissed following press leaks, according to the Protecteur du citoyen.",
+   "fr": "Le divulgateur est congédié « à la suite de fuites journalistiques », selon les termes du Protecteur du citoyen.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_speciaux/rapport-mapaq-manquements-traitement-divulgation.pdf#page=11",
+     "en": "Protecteur du citoyen, MAPAQ report, p. 9",
+     "fr": "Protecteur du citoyen, rapport MAPAQ, p. 9"
+    }
+   ]
+  },
+  {
+   "id": "2019-report",
+   "pos": 2019.45,
+   "lane": 0,
+   "date_en": "13 Jun 2019",
+   "date_fr": "13 juin 2019",
+   "actor": "watchdog",
+   "type": "report",
+   "who_en": "Protecteur du citoyen",
+   "who_fr": "Protecteur du citoyen",
+   "en": "Special report: major failings in how MAPAQ handled the disclosure, including a failure to protect the discloser’s identity.",
+   "fr": "Rapport spécial : « manquements majeurs » dans le traitement de la divulgation par le MAPAQ, dont une absence de protection de l’identité du divulgateur.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_speciaux/rapport-mapaq-manquements-traitement-divulgation.pdf#page=1",
+     "en": "Protecteur du citoyen, MAPAQ report, title",
+     "fr": "Protecteur du citoyen, rapport MAPAQ, titre"
+    },
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/pdf/rapports_speciaux/rapport-mapaq-manquements-traitement-divulgation.pdf#page=24",
+     "en": "Protecteur du citoyen, MAPAQ report, p. 22",
+     "fr": "Protecteur du citoyen, rapport MAPAQ, p. 22"
+    }
+   ]
+  },
+  {
+   "id": "2019-apology",
+   "pos": 2019.47,
+   "lane": 2,
+   "date_en": "14 Jun 2019",
+   "date_fr": "14 juin 2019",
+   "actor": "government",
+   "type": "statement",
+   "who_en": "Premier",
+   "who_fr": "Premier ministre",
+   "en": "Premier François Legault apologizes “on behalf of the Quebec state” (our translation) to agronomist Louis Robert. On 30 July, MAPAQ confirms he is being reinstated, under a confidential agreement, La Presse reports.",
+   "fr": "Le premier ministre François Legault s’excuse « au nom de l’État québécois » auprès de l’agronome Louis Robert. Le 30 juillet, le MAPAQ confirme sa réintégration, en vertu d’une entente confidentielle, rapporte La Presse.",
+   "links": [
+    {
+     "url": "https://ici.radio-canada.ca/nouvelle/1185136/francois-legault-excuses-louis-robert-pesticides-agronome",
+     "en": "Radio‑Canada, 14 Jun 2019",
+     "fr": "Radio‑Canada, 14 juin 2019"
+    },
+    {
+     "url": "https://www.lapresse.ca/actualites/2019-07-30/le-lanceur-d-alerte-louis-robert-retrouve-son-emploi-au-ministere-de-l-agriculture",
+     "en": "La Presse, 30 Jul 2019",
+     "fr": "La Presse, 30 juill. 2019"
+    }
+   ]
+  },
+  {
+   "id": "2019-eu",
+   "pos": 2019.81,
+   "lane": 1,
+   "date_en": "23 Oct 2019",
+   "date_fr": "23 oct. 2019",
+   "actor": "external",
+   "type": "bill-adopted",
+   "who_en": "European Union",
+   "who_fr": "Union européenne",
+   "en": "The EU adopts its whistleblower directive: common minimum protection for people who report breaches of EU law, in the public and private sectors.",
+   "fr": "L’UE adopte sa directive sur les lanceurs d’alerte : une protection minimale commune pour les personnes qui signalent des violations du droit de l’Union, dans les secteurs public et privé.",
+   "links": [
+    {
+     "url": "https://eur-lex.europa.eu/eli/dir/2019/1937/oj",
+     "en": "Directive (EU) 2019/1937",
+     "fr": "directive (UE) 2019/1937"
+    }
+   ]
+  },
+  {
+   "id": "2021-deadline",
+   "pos": 2021.96,
+   "lane": 0,
+   "date_en": "17 Dec 2021",
+   "date_fr": "17 déc. 2021",
+   "actor": "external",
+   "type": "launch",
+   "who_en": "EU deadline",
+   "who_fr": "Échéance de l’UE",
+   "en": "Deadline for EU countries to bring the directive into national law.",
+   "fr": "Date limite pour que les pays de l’UE intègrent la directive dans leur droit national.",
+   "links": [
+    {
+     "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-03/cp250029en.pdf",
+     "en": "EU Court of Justice, release 29/25",
+     "fr": "Cour de justice de l’UE, communiqué 29/25"
+    }
+   ]
+  },
+  {
+   "id": "2024-bill53",
+   "pos": 2024.12,
+   "lane": 0,
+   "date_en": "15 Feb 2024",
+   "date_fr": "15 févr. 2024",
+   "actor": "government",
+   "type": "bill-tabled",
+   "who_en": "Bill 53",
+   "who_fr": "Projet de loi 53",
+   "en": "Bill 53 is tabled. It creates a separate law on protection against reprisals and gives the Protecteur du citoyen the job of handling reprisal complaints.",
+   "fr": "Le projet de loi 53 est présenté. Il édicte une loi distincte sur la protection contre les représailles et confie au Protecteur du citoyen le traitement des plaintes pour représailles.",
+   "links": [
+    {
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=1",
+     "en": "2024, c. 21, title page and notes",
+     "fr": "2024, c. 21, page titre et notes explicatives"
+    }
+   ]
+  },
+  {
+   "id": "2024-adopted",
+   "pos": 2024.41,
+   "lane": 1,
+   "date_en": "29–30 May 2024",
+   "date_fr": "29-30 mai 2024",
+   "actor": "assembly",
+   "type": "bill-adopted",
+   "who_en": "National Assembly",
+   "who_fr": "Assemblée nationale",
+   "en": "Bill 53 is adopted on 29 May and assented to on 30 May 2024.",
+   "fr": "Le projet de loi 53 est adopté le 29 mai et sanctionné le 30 mai 2024.",
+   "links": [
+    {
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=1",
+     "en": "2024, c. 21, title page",
+     "fr": "2024, c. 21, page titre"
+    }
+   ]
+  },
+  {
+   "id": "2024-inforce",
+   "pos": 2024.91,
+   "lane": 2,
+   "date_en": "30 Nov 2024",
+   "date_fr": "30 nov. 2024",
+   "actor": "watchdog",
+   "type": "launch",
+   "who_en": "Reprisal law in force",
+   "who_fr": "Loi sur les représailles en vigueur",
+   "en": "The new law applies: reprisal is presumed, and the Protecteur du citoyen offers free mediation and a lawyer it appoints.",
+   "fr": "La nouvelle loi s’applique : les représailles sont présumées, et le Protecteur du citoyen offre une médiation gratuite et un avocat qu’il mandate.",
+   "links": [
+    {
+     "url": "https://www.publicationsduquebec.gouv.qc.ca/fileadmin/Fichiers_client/lois_et_reglements/LoisAnnuelles/fr/2024/2024C21F.PDF#page=28",
+     "en": "2024, c. 21, s. 74",
+     "fr": "2024, c. 21, art. 74"
+    },
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=124",
+     "en": "Protecteur du citoyen, 2024‑25 report, p. 122",
+     "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 122"
+    }
+   ]
+  },
+  {
+   "id": "2025-cjeu",
+   "pos": 2025.18,
+   "lane": 0,
+   "date_en": "6 Mar 2025",
+   "date_fr": "6 mars 2025",
+   "actor": "external",
+   "type": "court",
+   "who_en": "EU Court of Justice",
+   "who_fr": "Cour de justice de l’UE",
+   "en": "The court fines five countries for failing to bring the directive into national law, including Germany (€34 million). A sixth judgment, against Poland, came on 25 April 2024.",
+   "fr": "La Cour condamne cinq pays à des sanctions financières pour ne pas avoir intégré la directive dans leur droit, dont l’Allemagne (34 millions d’euros). Un sixième jugement, contre la Pologne, avait été rendu le 25 avril 2024.",
+   "links": [
+    {
+     "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2025-03/cp250029en.pdf",
+     "en": "EU Court of Justice, release 29/25",
+     "fr": "Cour de justice de l’UE, communiqué 29/25"
+    }
+   ]
+  },
+  {
+   "id": "2025-figures",
+   "pos": 2025.35,
+   "lane": 1,
+   "date_en": "2024‑25",
+   "date_fr": "2024‑2025",
+   "actor": "watchdog",
+   "type": "scorecard",
+   "who_en": "Protecteur du citoyen",
+   "who_fr": "Protecteur du citoyen",
+   "en": "First annual figures under the new law: 386 disclosures and 31 reprisal complaints received; of 18 reprisal complaint grounds closed, none found admissible.",
+   "fr": "Premiers chiffres annuels sous la nouvelle loi : 386 divulgations et 31 plaintes pour représailles reçues; des 18 motifs de plainte pour représailles conclus, aucun n’a été jugé recevable.",
+   "links": [
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=125",
+     "en": "Protecteur du citoyen, 2024‑25 report, p. 123",
+     "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 123"
+    },
+    {
+     "url": "https://protecteurducitoyen.qc.ca/sites/default/files/2025-10/rapport-annuel-activites-2024-2025.pdf#page=130",
+     "en": "Protecteur du citoyen, 2024‑25 report, p. 128",
+     "fr": "Protecteur du citoyen, rapport 2024‑2025, p. 128"
+    }
+   ]
+  },
+  {
+   "id": "2026-rigaud",
+   "pos": 2026.8,
+   "lane": 0,
+   "date_en": "Oct 2026",
+   "date_fr": "oct. 2026",
+   "actor": "person",
+   "type": "alert",
+   "who_en": "Rigaud (reported)",
+   "who_fr": "Rigaud (rapporté)",
+   "en": "TVA Nouvelles reports that UPAC is investigating whether the Town of Rigaud fired its interim director general because he had reported a possible misappropriation of funds to UPAC. The person he reported disputes the allegations. UPAC would neither confirm nor deny its investigations.",
+   "fr": "TVA Nouvelles rapporte que l’UPAC enquête pour déterminer si la Ville de Rigaud a congédié son directeur général par intérim parce qu’il avait signalé à l’UPAC un possible détournement de fonds. La personne visée conteste les allégations. L’UPAC ne confirme pas ses enquêtes.",
+   "links": [
+    {
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud",
+     "en": "TVA Nouvelles",
+     "fr": "TVA Nouvelles"
+    }
+   ]
+  }
+ ]
+}
