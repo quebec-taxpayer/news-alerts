@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-25T14:38:53Z",
+ "generated": "2026-10-26T14:41:17Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 62,
+ "story_count": 70,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -653,6 +653,88 @@
      ]
     }
    ]
+  },
+  "2026-10-26": {
+   "post": "/2026/10/26/digest/",
+   "stories": [
+    {
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud",
+     "entities": [
+      "jean-virgile-tasse-themens",
+      "upac",
+      "ville-rigaud"
+     ]
+    },
+    {
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php",
+     "entities": [
+      "at-construction",
+      "ccq",
+      "cnesst",
+      "rbq",
+      "swimko"
+     ]
+    },
+    {
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733",
+     "entities": [
+      "cpiq",
+      "elvira-carhuallanqui",
+      "projet-montreal",
+      "soraya-martinez-ferrada",
+      "ville-montreal",
+      "vivre-en-ville"
+     ]
+    },
+    {
+     "headline": "Des délais 13 fois plus élevés que les cibles pour le dépistage du cancer du sein",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295365/mammographie-depistage-cancer-sein",
+     "entities": [
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien",
+     "entities": [
+      "eric-pronovost",
+      "fpss-csq",
+      "fqde"
+     ]
+    },
+    {
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm",
+     "entities": [
+      "bei",
+      "commissaire-deontologie-policiere",
+      "guy-lapointe-fils",
+      "soraya-martinez-ferrada",
+      "spvm"
+     ]
+    },
+    {
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa",
+     "entities": [
+      "apn",
+      "apnql",
+      "cindy-woodhouse-nepinak",
+      "francis-verreault-paul",
+      "mark-carney"
+     ]
+    },
+    {
+     "headline": "750K appointments booked: Quebecers rush to get flu shots, amid reports of shortage",
+     "url": "https://montreal.citynews.ca/2026/10/26/750k-appointments-booked-flu-vaccine/",
+     "entities": [
+      "sante-quebec"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -759,6 +841,70 @@
    ]
   },
   {
+   "id": "sante-quebec",
+   "name": "Santé Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 11,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Faute d’instruments stériles, des dizaines d’interventions chirurgicales sont annulées et des salles d’opération fermées au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/faute-dinstruments-steriles-des-dizaines-de-chirurgies-sont-annulees-et-des-salles-doperation-fermees-au-quebec"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
+     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Des délais 13 fois plus élevés que les cibles pour le dépistage du cancer du sein",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295365/mammographie-depistage-cancer-sein"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "750K appointments booked: Quebecers rush to get flu shots, amid reports of shortage",
+     "url": "https://montreal.citynews.ca/2026/10/26/750k-appointments-booked-flu-vaccine/"
+    }
+   ]
+  },
+  {
    "id": "pq",
    "name": "Parti Québécois",
    "type": "organization",
@@ -818,60 +964,6 @@
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    }
-   ]
-  },
-  {
-   "id": "sante-quebec",
-   "name": "Santé Québec",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 9,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
-     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Faute d’instruments stériles, des dizaines d’interventions chirurgicales sont annulées et des salles d’opération fermées au Québec",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/faute-dinstruments-steriles-des-dizaines-de-chirurgies-sont-annulees-et-des-salles-doperation-fermees-au-quebec"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
-     "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
     }
    ]
   },
@@ -1131,6 +1223,35 @@
    ]
   },
   {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
    "id": "stephane-paquet",
    "name": "Stéphane Paquet",
    "type": "person",
@@ -1358,6 +1479,27 @@
    ]
   },
   {
+   "id": "apnql",
+   "name": "Assemblée des Premières Nations Québec-Labrador",
+   "type": "organization",
+   "aliases": [
+    "APNQL"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
    "id": "bertin-castonguay",
    "name": "Bertin Castonguay",
    "type": "person",
@@ -1438,6 +1580,27 @@
      "date": "2026-10-24",
      "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
      "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    }
+   ]
+  },
+  {
+   "id": "francis-verreault-paul",
+   "name": "Francis Verreault-Paul",
+   "type": "person",
+   "aliases": [
+    "Verreault-Paul"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
     }
    ]
   },
@@ -1672,6 +1835,27 @@
    ]
   },
   {
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
    "id": "saaq",
    "name": "Société de l’assurance automobile du Québec",
    "type": "organization",
@@ -1689,25 +1873,6 @@
      "date": "2026-10-25",
      "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
      "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
-    }
-   ]
-  },
-  {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
     }
    ]
   },
@@ -1788,6 +1953,41 @@
      "date": "2026-10-25",
      "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
      "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
+   "id": "ville-montreal",
+   "name": "Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "City of Montreal"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "id": "at-construction",
+   "name": "A.T. Construction",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
     }
    ]
   },
@@ -1909,18 +2109,19 @@
    ]
   },
   {
-   "id": "apnql",
-   "name": "Assemblée des Premières Nations Québec-Labrador",
+   "id": "apn",
+   "name": "Assemblée des Premières Nations",
    "type": "organization",
    "aliases": [
-    "APNQL"
+    "APN",
+    "Assembly of First Nations"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-25",
-     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
     }
    ]
   },
@@ -2025,6 +2226,22 @@
      "date": "2026-10-24",
      "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
      "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+    }
+   ]
+  },
+  {
+   "id": "bei",
+   "name": "Bureau des enquêtes indépendantes",
+   "type": "organization",
+   "aliases": [
+    "BEI"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -2145,6 +2362,22 @@
    ]
   },
   {
+   "id": "cindy-woodhouse-nepinak",
+   "name": "Cindy Woodhouse Nepinak",
+   "type": "person",
+   "aliases": [
+    "Woodhouse Nepinak"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
    "id": "claudine-bouchard",
    "name": "Claudine Bouchard",
    "type": "person",
@@ -2173,6 +2406,22 @@
      "date": "2026-10-21",
      "headline": "Le Commissaire au lobbyisme du Québec met fin au « bar ouvert » postélectoral",
      "url": "https://ici.radio-canada.ca/nouvelle/2291328/commissaire-lobbyisme-quebec-bar-ouvert"
+    }
+   ]
+  },
+  {
+   "id": "commissaire-deontologie-policiere",
+   "name": "Commissaire à la déontologie policière",
+   "type": "organization",
+   "aliases": [
+    "police ethics commissioner"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -2209,6 +2458,38 @@
    ]
   },
   {
+   "id": "ccq",
+   "name": "Commission de la construction du Québec",
+   "type": "organization",
+   "aliases": [
+    "CCQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "id": "cnesst",
+   "name": "Commission des normes, de l’équité, de la santé et de la sécurité du travail",
+   "type": "organization",
+   "aliases": [
+    "CNESST"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
    "id": "conseil-tresor",
    "name": "Conseil du trésor",
    "type": "organization",
@@ -2238,6 +2519,22 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "id": "cpiq",
+   "name": "Corporation des propriétaires immobiliers du Québec",
+   "type": "organization",
+   "aliases": [
+    "CORPIQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     }
    ]
   },
@@ -2340,6 +2637,22 @@
    ]
   },
   {
+   "id": "elvira-carhuallanqui",
+   "name": "Elvira Carhuallanqui",
+   "type": "person",
+   "aliases": [
+    "Carhuallanqui"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
    "id": "epic",
    "name": "Epic",
    "type": "organization",
@@ -2378,22 +2691,6 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
-    }
-   ]
-  },
-  {
-   "id": "francis-verreault-paul",
-   "name": "Francis Verreault-Paul",
-   "type": "person",
-   "aliases": [
-    "Verreault-Paul"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
     }
    ]
   },
@@ -2475,6 +2772,38 @@
    ]
   },
   {
+   "id": "fpss-csq",
+   "name": "Fédération du personnel de soutien scolaire",
+   "type": "organization",
+   "aliases": [
+    "FPSS-CSQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
+    }
+   ]
+  },
+  {
+   "id": "fqde",
+   "name": "Fédération québécoise des directions d’établissement d’enseignement",
+   "type": "organization",
+   "aliases": [
+    "FQDE"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
+    }
+   ]
+  },
+  {
    "id": "genevieve-biron",
    "name": "Geneviève Biron",
    "type": "person",
@@ -2529,6 +2858,23 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "id": "guy-lapointe-fils",
+   "name": "Guy Lapointe fils",
+   "type": "person",
+   "aliases": [
+    "Guy Jr. Lapointe",
+    "Lapointe"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -2699,6 +3045,22 @@
      "date": "2026-10-21",
      "headline": "Le Commissaire au lobbyisme du Québec met fin au « bar ouvert » postélectoral",
      "url": "https://ici.radio-canada.ca/nouvelle/2291328/commissaire-lobbyisme-quebec-bar-ouvert"
+    }
+   ]
+  },
+  {
+   "id": "jean-virgile-tasse-themens",
+   "name": "Jean-Virgile Tassé-Themens",
+   "type": "person",
+   "aliases": [
+    "Tassé-Themens"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
     }
    ]
   },
@@ -2936,6 +3298,22 @@
    ]
   },
   {
+   "id": "mark-carney",
+   "name": "Mark Carney",
+   "type": "person",
+   "aliases": [
+    "Carney"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
    "id": "martin-lachance",
    "name": "Martin Lachance",
    "type": "person",
@@ -3125,6 +3503,20 @@
    ]
   },
   {
+   "id": "projet-montreal",
+   "name": "Projet Montréal",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
    "id": "qs",
    "name": "Québec solidaire",
    "type": "organization",
@@ -3169,6 +3561,22 @@
    ]
   },
   {
+   "id": "rbq",
+   "name": "Régie du bâtiment du Québec",
+   "type": "organization",
+   "aliases": [
+    "RBQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
    "id": "sncf-voyageurs",
    "name": "SNCF Voyageurs",
    "type": "organization",
@@ -3207,22 +3615,6 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
-    }
-   ]
-  },
-  {
-   "id": "spvm",
-   "name": "Service de police de la Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "SPVM"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
     }
    ]
   },
@@ -3283,6 +3675,20 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "swimko",
+   "name": "Swimko",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
     }
    ]
   },
@@ -3359,6 +3765,22 @@
    ]
   },
   {
+   "id": "upac",
+   "name": "Unité permanente anticorruption",
+   "type": "organization",
+   "aliases": [
+    "UPAC"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    }
+   ]
+  },
+  {
    "id": "ville-chandler",
    "name": "Ville de Chandler",
    "type": "organization",
@@ -3373,16 +3795,32 @@
    ]
   },
   {
-   "id": "ville-montreal",
-   "name": "Ville de Montréal",
+   "id": "ville-rigaud",
+   "name": "Ville de Rigaud",
+   "type": "organization",
+   "aliases": [
+    "Rigaud"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    }
+   ]
+  },
+  {
+   "id": "vivre-en-ville",
+   "name": "Vivre en Ville",
    "type": "organization",
    "aliases": [],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     }
    ]
   },
@@ -3439,6 +3877,22 @@
      "date": "2026-10-21",
      "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    }
+   ]
+  },
+  {
+   "id": "eric-pronovost",
+   "name": "Éric Pronovost",
+   "type": "person",
+   "aliases": [
+    "Pronovost"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
     }
    ]
   },
@@ -4079,6 +4533,23 @@
    ]
   },
   {
+   "source": "apnql",
+   "target": "francis-verreault-paul",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
    "source": "bertin-castonguay",
    "target": "claude-roy",
    "weight": 2,
@@ -4636,6 +5107,40 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "spvm",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "ville-montreal",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     }
    ]
   },
@@ -5372,14 +5877,74 @@
    ]
   },
   {
-   "source": "apnql",
+   "source": "apn",
+   "target": "apnql",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "apn",
+   "target": "cindy-woodhouse-nepinak",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "apn",
    "target": "francis-verreault-paul",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-25",
-     "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "apn",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "apnql",
+   "target": "cindy-woodhouse-nepinak",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "apnql",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
     }
    ]
   },
@@ -5452,6 +6017,54 @@
      "date": "2026-10-24",
      "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
      "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
+    }
+   ]
+  },
+  {
+   "source": "at-construction",
+   "target": "ccq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "at-construction",
+   "target": "cnesst",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "at-construction",
+   "target": "rbq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "at-construction",
+   "target": "swimko",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
     }
    ]
   },
@@ -5560,6 +6173,54 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    }
+   ]
+  },
+  {
+   "source": "bei",
+   "target": "commissaire-deontologie-policiere",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "source": "bei",
+   "target": "guy-lapointe-fils",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "source": "bei",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "source": "bei",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -5888,6 +6549,42 @@
    ]
   },
   {
+   "source": "ccq",
+   "target": "cnesst",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "ccq",
+   "target": "rbq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "ccq",
+   "target": "swimko",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
    "source": "charbone",
    "target": "hydrolux",
    "weight": 1,
@@ -6080,6 +6777,30 @@
    ]
   },
   {
+   "source": "cindy-woodhouse-nepinak",
+   "target": "francis-verreault-paul",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "cindy-woodhouse-nepinak",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
    "source": "claude-roy",
    "target": "grc",
    "weight": 1,
@@ -6136,6 +6857,66 @@
      "date": "2026-10-24",
      "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
      "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+    }
+   ]
+  },
+  {
+   "source": "cnesst",
+   "target": "rbq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "cnesst",
+   "target": "swimko",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "commissaire-deontologie-policiere",
+   "target": "guy-lapointe-fils",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "source": "commissaire-deontologie-policiere",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "source": "commissaire-deontologie-policiere",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -6460,6 +7241,66 @@
      "date": "2026-10-21",
      "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "cpiq",
+   "target": "elvira-carhuallanqui",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "cpiq",
+   "target": "projet-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "cpiq",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "cpiq",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "cpiq",
+   "target": "vivre-en-ville",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     }
    ]
   },
@@ -6824,6 +7665,54 @@
    ]
   },
   {
+   "source": "elvira-carhuallanqui",
+   "target": "projet-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "elvira-carhuallanqui",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "elvira-carhuallanqui",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "elvira-carhuallanqui",
+   "target": "vivre-en-ville",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
    "source": "energir",
    "target": "regie-energie",
    "weight": 1,
@@ -7072,6 +7961,30 @@
      "date": "2026-10-21",
      "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    }
+   ]
+  },
+  {
+   "source": "eric-pronovost",
+   "target": "fpss-csq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
+    }
+   ]
+  },
+  {
+   "source": "eric-pronovost",
+   "target": "fqde",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
     }
    ]
   },
@@ -7364,6 +8277,30 @@
    ]
   },
   {
+   "source": "fpss-csq",
+   "target": "fqde",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
+    }
+   ]
+  },
+  {
+   "source": "francis-verreault-paul",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
    "source": "francis-verreault-paul",
    "target": "pspp",
    "weight": 1,
@@ -7636,6 +8573,30 @@
      "date": "2026-10-21",
      "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -8176,6 +9137,30 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "source": "jean-virgile-tasse-themens",
+   "target": "upac",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    }
+   ]
+  },
+  {
+   "source": "jean-virgile-tasse-themens",
+   "target": "ville-rigaud",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
     }
    ]
   },
@@ -9140,6 +10125,42 @@
    ]
   },
   {
+   "source": "projet-montreal",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "projet-montreal",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "projet-montreal",
+   "target": "vivre-en-ville",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
    "source": "pspp",
    "target": "qs",
    "weight": 1,
@@ -9208,6 +10229,18 @@
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    }
+   ]
+  },
+  {
+   "source": "rbq",
+   "target": "swimko",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
     }
    ]
   },
@@ -9357,18 +10390,6 @@
   },
   {
    "source": "soraya-martinez-ferrada",
-   "target": "spvm",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    }
-   ]
-  },
-  {
-   "source": "soraya-martinez-ferrada",
    "target": "stephane-paquet",
    "weight": 1,
    "stories": [
@@ -9381,13 +10402,13 @@
   },
   {
    "source": "soraya-martinez-ferrada",
-   "target": "ville-montreal",
+   "target": "vivre-en-ville",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     }
    ]
   },
@@ -9412,6 +10433,30 @@
      "date": "2026-10-22",
      "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    }
+   ]
+  },
+  {
+   "source": "upac",
+   "target": "ville-rigaud",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    }
+   ]
+  },
+  {
+   "source": "ville-montreal",
+   "target": "vivre-en-ville",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     }
    ]
   }

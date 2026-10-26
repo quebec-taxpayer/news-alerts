@@ -519,7 +519,9 @@
   "ville-montreal": {
    "name": "Ville de Montréal",
    "type": "organization",
-   "aliases": []
+   "aliases": [
+    "City of Montreal"
+   ]
   },
   "tmf": {
    "name": "Tribunal administratif des marchés financiers",
@@ -914,6 +916,147 @@
    "name": "Oliver Wyman",
    "type": "organization",
    "aliases": []
+  },
+  "upac": {
+   "name": "Unité permanente anticorruption",
+   "type": "organization",
+   "aliases": [
+    "UPAC"
+   ]
+  },
+  "ville-rigaud": {
+   "name": "Ville de Rigaud",
+   "type": "organization",
+   "aliases": [
+    "Rigaud"
+   ]
+  },
+  "jean-virgile-tasse-themens": {
+   "name": "Jean-Virgile Tassé-Themens",
+   "type": "person",
+   "aliases": [
+    "Tassé-Themens"
+   ]
+  },
+  "rbq": {
+   "name": "Régie du bâtiment du Québec",
+   "type": "organization",
+   "aliases": [
+    "RBQ"
+   ]
+  },
+  "swimko": {
+   "name": "Swimko",
+   "type": "organization",
+   "aliases": []
+  },
+  "at-construction": {
+   "name": "A.T. Construction",
+   "type": "organization",
+   "aliases": []
+  },
+  "cnesst": {
+   "name": "Commission des normes, de l’équité, de la santé et de la sécurité du travail",
+   "type": "organization",
+   "aliases": [
+    "CNESST"
+   ]
+  },
+  "ccq": {
+   "name": "Commission de la construction du Québec",
+   "type": "organization",
+   "aliases": [
+    "CCQ"
+   ]
+  },
+  "projet-montreal": {
+   "name": "Projet Montréal",
+   "type": "organization",
+   "aliases": []
+  },
+  "elvira-carhuallanqui": {
+   "name": "Elvira Carhuallanqui",
+   "type": "person",
+   "aliases": [
+    "Carhuallanqui"
+   ]
+  },
+  "cpiq": {
+   "name": "Corporation des propriétaires immobiliers du Québec",
+   "type": "organization",
+   "aliases": [
+    "CORPIQ"
+   ]
+  },
+  "vivre-en-ville": {
+   "name": "Vivre en Ville",
+   "type": "organization",
+   "aliases": []
+  },
+  "fpss-csq": {
+   "name": "Fédération du personnel de soutien scolaire",
+   "type": "organization",
+   "aliases": [
+    "FPSS-CSQ"
+   ]
+  },
+  "eric-pronovost": {
+   "name": "Éric Pronovost",
+   "type": "person",
+   "aliases": [
+    "Pronovost"
+   ]
+  },
+  "fqde": {
+   "name": "Fédération québécoise des directions d’établissement d’enseignement",
+   "type": "organization",
+   "aliases": [
+    "FQDE"
+   ]
+  },
+  "guy-lapointe-fils": {
+   "name": "Guy Lapointe fils",
+   "type": "person",
+   "aliases": [
+    "Guy Jr. Lapointe",
+    "Lapointe"
+   ]
+  },
+  "bei": {
+   "name": "Bureau des enquêtes indépendantes",
+   "type": "organization",
+   "aliases": [
+    "BEI"
+   ]
+  },
+  "commissaire-deontologie-policiere": {
+   "name": "Commissaire à la déontologie policière",
+   "type": "organization",
+   "aliases": [
+    "police ethics commissioner"
+   ]
+  },
+  "mark-carney": {
+   "name": "Mark Carney",
+   "type": "person",
+   "aliases": [
+    "Carney"
+   ]
+  },
+  "apn": {
+   "name": "Assemblée des Premières Nations",
+   "type": "organization",
+   "aliases": [
+    "APN",
+    "Assembly of First Nations"
+   ]
+  },
+  "cindy-woodhouse-nepinak": {
+   "name": "Cindy Woodhouse Nepinak",
+   "type": "person",
+   "aliases": [
+    "Woodhouse Nepinak"
+   ]
   }
  },
  "stories": [
@@ -1584,7 +1727,9 @@
     "pspp"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "first-nations-meeting"
+   ]
   },
   {
    "match": "quebecs-new-government-pledges-three-weeks",
@@ -1672,7 +1817,9 @@
     "soraya-martinez-ferrada"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "spvm-pdq21"
+   ]
   },
   {
    "match": "2295592/lascension-gouffre",
@@ -1698,6 +1845,95 @@
    "dossiers": [
     "hydro-quebec"
    ]
+  },
+  {
+   "match": "2026/12/25/congediement-dun-lanceur-dalerte",
+   "entities": [
+    "upac",
+    "ville-rigaud",
+    "jean-virgile-tasse-themens"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "un-entrepreneur-perd-sa-licence-pour-extreme-negligence",
+   "entities": [
+    "rbq",
+    "swimko",
+    "at-construction",
+    "cnesst",
+    "ccq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "montreal-motion-rent-control-mandatory-rent-registry",
+   "entities": [
+    "ville-montreal",
+    "soraya-martinez-ferrada",
+    "projet-montreal",
+    "elvira-carhuallanqui",
+    "cpiq",
+    "vivre-en-ville"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2295365/mammographie-depistage",
+   "entities": [
+    "sante-quebec"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2295431/ecole-violence",
+   "entities": [
+    "fpss-csq",
+    "eric-pronovost",
+    "fqde"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2295729/commissaire-deontologie-bei",
+   "entities": [
+    "spvm",
+    "guy-lapointe-fils",
+    "bei",
+    "commissaire-deontologie-policiere",
+    "soraya-martinez-ferrada"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "spvm-pdq21"
+   ]
+  },
+  {
+   "match": "2295767/reunion-premieres-nations",
+   "entities": [
+    "mark-carney",
+    "apn",
+    "cindy-woodhouse-nepinak",
+    "apnql",
+    "francis-verreault-paul"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "first-nations-meeting"
+   ]
+  },
+  {
+   "match": "750k-appointments-booked-flu-vaccine",
+   "entities": [
+    "sante-quebec"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
   }
  ]
 }

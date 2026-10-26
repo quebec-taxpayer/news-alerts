@@ -196,6 +196,24 @@
    "match_fr": [
     "injonction interlocutoire"
    ]
+  },
+  {
+   "id": "bei",
+   "term_en": "BEI (Bureau des enquêtes indépendantes)",
+   "term_fr": "BEI (Bureau des enquêtes indépendantes)",
+   "def_en": "A specialized Quebec police body that investigates whenever a person other than an on-duty officer dies or is seriously injured during a police intervention or in police custody. At the minister’s request, it can also investigate other allegations of a criminal offence by a police officer.",
+   "def_fr": "Corps de police spécialisé qui enquête dans tous les cas où une personne autre qu’un policier en service meurt ou est gravement blessée lors d’une intervention policière ou durant sa détention. À la demande du ministre, il peut aussi enquêter sur d’autres allégations d’infraction criminelle commise par un policier.",
+   "source_en": "https://www.bei.gouv.qc.ca/organisme/mandat-et-pouvoir",
+   "source_fr": "https://www.bei.gouv.qc.ca/organisme/mandat-et-pouvoir",
+   "source_label": "BEI — Mandats et pouvoirs",
+   "match_en": [
+    "Bureau des enquêtes indépendantes",
+    "BEI"
+   ],
+   "match_fr": [
+    "Bureau des enquêtes indépendantes",
+    "BEI"
+   ]
   }
  ]
 }

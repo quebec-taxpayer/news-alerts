@@ -1772,6 +1772,133 @@
      "fr": "Près de trois mois plus tard, le village attend toujours l’aval du ministère de la Sécurité intérieure du Québec pour commencer les travaux."
     }
    }
+  },
+  {
+   "id": "spvm-pdq21",
+   "name_en": "SPVM: misconduct allegations at Station 21",
+   "name_fr": "SPVM : allégations d’inconduite au poste de quartier 21",
+   "desc_en": "Two Montreal police officers from neighbourhood station 21 were suspended over alleged humiliation of homeless and racialized people; Quebec has ordered outside investigations.",
+   "desc_fr": "Deux policiers du poste de quartier 21 du SPVM ont été suspendus pour des gestes d’humiliation allégués envers des personnes itinérantes et racisées; Québec a ordonné des enquêtes externes.",
+   "entities": [
+    "spvm",
+    "soraya-martinez-ferrada",
+    "guy-lapointe-fils",
+    "bei",
+    "commissaire-deontologie-policiere"
+   ],
+   "tldr": {
+    "what": {
+     "en": "Two Montreal police officers were suspended. One allegedly urinated on homeless people while on duty.",
+     "fr": "Deux policiers de Montréal ont été suspendus. L’un d’eux aurait uriné sur des personnes itinérantes pendant son service."
+    },
+    "why": {
+     "en": "People must be able to trust the police. The minister says an outside investigation helps keep that trust.",
+     "fr": "La population doit pouvoir faire confiance à la police. Le ministre dit qu’une enquête externe aide à préserver cette confiance."
+    },
+    "now": {
+     "en": "The BEI and the police ethics commissioner are each investigating the first officer.",
+     "fr": "Le BEI et le Commissaire à la déontologie policière enquêtent chacun sur le premier policier."
+    }
+   },
+   "events": [
+    {
+     "date": "2026-10-16",
+     "en": "The SPVM confirms it has suspended two officers from neighbourhood station 21, after La Presse reported alleged misconduct the same day.",
+     "fr": "Le SPVM confirme avoir suspendu deux policiers du poste de quartier 21, après que La Presse eut rapporté le jour même des allégations d’inconduite.",
+     "source_title": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm",
+     "source_type": "media",
+     "post": "2026-10-26",
+     "background": true
+    },
+    {
+     "date": "2026-10-24",
+     "en": "Hundreds rally in front of SPVM station 21 against the alleged humiliation of unhoused and racialized people, CBC reports.",
+     "fr": "Des centaines de personnes manifestent devant le poste de quartier 21 du SPVM contre l’humiliation alléguée de personnes itinérantes et racisées, rapporte CBC.",
+     "source_title": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": false
+    },
+    {
+     "date": "2026-10-25",
+     "en": "Domestic Security Minister Guy Lapointe fils asks the BEI and the police ethics commissioner to each investigate the officer who allegedly urinated on homeless people.",
+     "fr": "Le ministre de la Sécurité intérieure, Guy Lapointe fils, demande au BEI et au Commissaire à la déontologie policière d’enquêter chacun sur le policier qui aurait uriné sur des personnes itinérantes.",
+     "source_title": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm",
+     "source_type": "media",
+     "post": "2026-10-26",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "first-nations-meeting",
+   "name_en": "First Nations and First Ministers: the Ottawa meeting",
+   "name_fr": "Premières Nations et premiers ministres : la rencontre d’Ottawa",
+   "desc_en": "The first meeting in about 20 years between First Nations leaders and the first ministers, and Quebec’s absence from it.",
+   "desc_fr": "La première rencontre en une vingtaine d’années entre les dirigeants des Premières Nations et les premiers ministres, et l’absence du Québec.",
+   "entities": [
+    "mark-carney",
+    "apn",
+    "cindy-woodhouse-nepinak",
+    "apnql",
+    "francis-verreault-paul",
+    "pspp"
+   ],
+   "tldr": {
+    "what": {
+     "en": "First Nations leaders met the prime minister and several premiers in Ottawa on Oct. 26. The last such meeting was in 2005.",
+     "fr": "Des dirigeants des Premières Nations ont rencontré le premier ministre du Canada et plusieurs premiers ministres à Ottawa le 26 octobre. La dernière rencontre du genre remontait à 2005."
+    },
+    "why": {
+     "en": "First Nations say they do not want to be set aside, especially when major projects are sped up.",
+     "fr": "Les Premières Nations disent ne pas vouloir être mises de côté, surtout quand on accélère les grands projets."
+    },
+    "now": {
+     "en": "The premiers of Quebec, Alberta and British Columbia did not attend.",
+     "fr": "Les premiers ministres du Québec, de l’Alberta et de la Colombie-Britannique n’y étaient pas."
+    }
+   },
+   "events": [
+    {
+     "date": "2005",
+     "en": "The last meeting between Indigenous representatives and the first ministers is held in Kelowna; its accord, with $5 billion over five years, never materialized after the government fell, La Presse recalls.",
+     "fr": "La dernière rencontre entre des représentants autochtones et les premiers ministres a lieu à Kelowna; son accord, prévoyant 5 milliards sur cinq ans, ne s’est pas concrétisé après la chute du gouvernement, rappelle La Presse.",
+     "source_title": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": true
+    },
+    {
+     "date": "2026-10",
+     "en": "La Presse reports that Premier Paul St-Pierre Plamondon will not attend the Ottawa meeting (“too tight with the transition,” his team says) and plans to meet AFNQL Chief Francis Verreault-Paul in the coming weeks.",
+     "fr": "La Presse rapporte que le premier ministre Paul St-Pierre Plamondon n’assistera pas à la rencontre d’Ottawa (« Trop serré avec la transition », selon son équipe) et compte rencontrer le chef de l’APNQL, Francis Verreault-Paul, au cours des prochaines semaines.",
+     "source_title": "Retour historique des chefs autochtones à la table des premiers ministres",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php",
+     "source_type": "media",
+     "post": "2026-10-25",
+     "background": true
+    },
+    {
+     "date": "2026-10-26",
+     "en": "First Nations leaders meet Prime Minister Mark Carney and several premiers in Ottawa, “a first in two decades,” he says; the premiers of Quebec, Alberta and British Columbia are absent.",
+     "fr": "Des dirigeants des Premières Nations rencontrent le premier ministre Mark Carney et plusieurs premiers ministres à Ottawa, « une première en deux décennies », selon lui; les premiers ministres du Québec, de l’Alberta et de la Colombie-Britannique sont absents.",
+     "source_title": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa",
+     "source_type": "media",
+     "post": "2026-10-26",
+     "background": false
+    }
+   ]
   }
  ]
 }

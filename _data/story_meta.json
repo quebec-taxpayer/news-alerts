@@ -281,6 +281,46 @@
    "category": "crown-it",
    "importance": 3,
    "title_en": "Response to an access-to-information request (DAI-2026-0012)"
+  },
+  "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud": {
+   "category": "justice",
+   "importance": 5,
+   "title_en": "Firing of a whistleblower: UPAC investigates the Town of Rigaud"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "A contractor loses its licence for “extreme negligence”"
+  },
+  "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733": {
+   "category": "government",
+   "importance": 3,
+   "title_fr": "Montréal veut un contrôle des loyers et un registre obligatoire. À quoi cela ressemblerait-il?"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295365/mammographie-depistage-cancer-sein": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Breast cancer screening waits 13 times longer than the targets"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Nearly 30,000 incidents of violence in schools"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "The Police Ethics Commissioner and the BEI investigate an SPVM officer"
+  },
+  "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "The First Nations and First Ministers meeting takes place Monday in Ottawa"
+  },
+  "https://montreal.citynews.ca/2026/10/26/750k-appointments-booked-flu-vaccine/": {
+   "category": "health",
+   "importance": 2,
+   "title_fr": "750 000 rendez-vous : les Québécois se ruent sur le vaccin contre la grippe, sur fond de signalements de pénurie"
   }
  }
 }
