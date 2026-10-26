@@ -7,7 +7,7 @@ section: chronology
 <article class="page dossier printsheet">
   <p class="crumb no-print"><a href="{{ '/chronology/' | append: d.id | append: '/' | relative_url }}">← <span class="l-en" lang="en">Back to the dossier</span><span class="l-fr" lang="fr">Retour au dossier</span></a>
     <button type="button" class="print-btn" onclick="window.print()">Print / Imprimer</button></p>
-  <p class="ps-kicker">Quebec Governance Monitor · <span class="l-en" lang="en">Fact sheet</span><span class="l-fr" lang="fr">Fiche d’information</span> · {{ site.time | date: "%Y-%m-%d" }}</p>
+  <p class="ps-kicker"><span class="l-fr" lang="fr">{{ site.title_fr }}</span><span class="l-en" lang="en">{{ site.title }}</span> · <span class="l-en" lang="en">Fact sheet</span><span class="l-fr" lang="fr">Fiche d’information</span> · {{ site.time | date: "%Y-%m-%d" }}</p>
   <h1><span class="l-en" lang="en">{{ d.name_en }}</span><span class="l-fr" lang="fr">{{ d.name_fr }}</span></h1>
   {%- if d.tldr %}
   <section class="callout tldr"><h2 class="callout-label"><span class="l-en" lang="en">In 30 seconds</span><span class="l-fr" lang="fr">En 30 secondes</span></h2>

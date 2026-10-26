@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>(function(){var l="fr";try{l=localStorage.getItem("qgm-lang")||"fr";}catch(e){}if(l!=="en")l="fr";var h=document.documentElement;h.className=(h.className.replace(/\blang-(en|fr)\b/g,"")+" lang-"+l).replace(/\s+/g," ").trim();h.lang=l;})();</script>
   {%- capture t_en -%}{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
-  {%- capture t_fr -%}{% if page.title %}{{ page.title_fr | default: page.title }} | {% endif %}{{ site.title }}{%- endcapture -%}
+  {%- capture t_fr -%}{% if page.title %}{{ page.title_fr | default: page.title }} | {% endif %}{{ site.title_fr | default: site.title }}{%- endcapture -%}
   <title data-en="{{ t_en | escape }}" data-fr="{{ t_fr | escape }}">{{ t_fr }}</title>
   <meta name="description" content="{{ page.summary | default: site.description | strip_html | escape }}">
   <link rel="icon" href="data:,">

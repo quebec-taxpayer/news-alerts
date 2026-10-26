@@ -5,7 +5,7 @@ title_fr: "À propos"
 permalink: /about/
 ---
 <section class="l-fr" lang="fr">
-<p>Quebec Governance Monitor est une démarche de documentation indépendante et non partisane sur la gouvernance, la transparence et la reddition de comptes au Québec.</p>
+<p>L’Observatoire de la gouvernance du Québec est une démarche de documentation indépendante et non partisane sur la gouvernance, la transparence et la reddition de comptes au Québec.</p>
 <p>Chaque jour, nous recensons des nouvelles publiques sur les institutions, les sociétés d’État, les contrats publics, les projets informatiques, l’éthique et les enquêtes, avec un court résumé en français et en anglais et un lien vers la source.</p>
 <p>Le contenu repose uniquement sur des sources publiques et vérifiables. Voir <a href="#sources">Sources et méthode</a> ci-dessous.</p>
 </section>
@@ -35,4 +35,4 @@ permalink: /about/
 <li>Allegations are presented as such (“according to”, “alleged”, “unproven”) until a court or competent body rules.</li>
 </ul>
 </section>
-<p>— Quebec Governance Monitor</p>
+<p><span class="l-fr" lang="fr">— Observatoire de la gouvernance du Québec</span><span class="l-en" lang="en">— Quebec Governance Monitor</span></p>
