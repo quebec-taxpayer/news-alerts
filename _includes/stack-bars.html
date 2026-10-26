@@ -1,0 +1,30 @@
+{%- comment -%}
+  Stacked horizontal bars (CSS only, no library). Usage: {% include stack-bars.html data=V.stack %}
+  Data: id, cap_en/fr (figure caption), keys {key: {en, fr, style: solid|light|pattern|muted|red, note_en/fr}},
+  rows [{label_en/fr, sub_en/fr, total, segs [{k, v}], brace {v, en, fr} (optional bracket over the first segments), links [{url,en,fr}]}], note_en/fr.
+  The bars are aria-hidden; the list under each bar says the same thing in words (screen readers, no CSS, print).
+{%- endcomment -%}
+{%- assign S = include.data -%}
+<figure class="sb vt" id="sb-{{ S.id }}" data-vt aria-labelledby="sb-{{ S.id }}-cap">
+  <figcaption id="sb-{{ S.id }}-cap" class="sb-cap"><span class="l-en" lang="en">{{ S.cap_en }}</span><span class="l-fr" lang="fr">{{ S.cap_fr }}</span></figcaption>
+  {%- for r in S.rows %}
+  <div class="sb-row vb-anim" style="--i:{{ forloop.index0 }}">
+    <p class="sb-label"><strong><span class="l-en" lang="en">{{ r.label_en }}</span><span class="l-fr" lang="fr">{{ r.label_fr }}</span></strong>{% if r.sub_en %} <span class="sb-sub"><span class="l-en" lang="en">{{ r.sub_en }}</span><span class="l-fr" lang="fr">{{ r.sub_fr }}</span></span>{% endif %}</p>
+    <div class="sb-bar" aria-hidden="true">
+      {%- for s in r.segs %}{%- if s.v > 0 %}{%- assign w = s.v | times: 100.0 | divided_by: r.total %}<span class="sb-seg sb-{{ S.keys[s.k].style }}" style="width:{{ w | round: 3 }}%">{% if w >= 7 %}<span class="sb-n">{{ s.v }}</span>{% endif %}</span>{% endif %}{% endfor -%}
+    </div>
+    {%- if r.brace %}{%- assign bw = r.brace.v | times: 100.0 | divided_by: r.total %}
+    <div class="sb-brace" aria-hidden="true" style="width:{{ bw | round: 3 }}%"><span class="l-en" lang="en">{{ r.brace.en }}</span><span class="l-fr" lang="fr">{{ r.brace.fr }}</span></div>
+    {%- endif %}
+    <ul class="sb-list">
+      {%- for s in r.segs %}{%- assign K = S.keys[s.k] %}
+      <li><span class="sb-sw sb-{{ K.style }}" aria-hidden="true"></span><span class="l-en" lang="en"><b>{{ s.v }}</b> {{ K.en }}{% if K.note_en %} <i>({{ K.note_en }})</i>{% endif %}</span><span class="l-fr" lang="fr"><b>{{ s.v }}</b> {{ K.fr }}{% if K.note_fr %} <i>({{ K.note_fr }})</i>{% endif %}</span></li>
+      {%- endfor %}
+      {%- if r.brace %}<li class="sb-head"><span class="l-en" lang="en">{{ r.brace.text_en }}</span><span class="l-fr" lang="fr">{{ r.brace.text_fr }}</span></li>{% endif %}
+    </ul>
+    {%- if r.links %}<p class="sb-cite"><span class="l-en" lang="en">Source:{% for l in r.links %} <a href="{{ l.url }}">{{ l.en }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span><span class="l-fr" lang="fr">Source :{% for l in r.links %} <a href="{{ l.url }}">{{ l.fr }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span></p>{% endif %}
+  </div>
+  {%- endfor %}
+  {%- if S.note_en %}<p class="sb-note"><span class="l-en" lang="en">{{ S.note_en }}</span><span class="l-fr" lang="fr">{{ S.note_fr }}</span></p>{% endif %}
+</figure>
+<script src="{{ '/assets/js/visual-timeline.js' | relative_url }}" defer></script>

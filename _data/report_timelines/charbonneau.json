@@ -1,0 +1,319 @@
+{
+ "id": "charbonneau",
+ "intro_en": "From the commission to the watchdog it called for. Each dot is a dated step reported in the sources on this page. Colour and shape show who acted; the label shows what kind of step it was. Tap a step for details and its source.",
+ "intro_fr": "De la commission jusqu’au chien de garde qu’elle réclamait. Chaque point est une étape datée rapportée par les sources de cette page. La couleur et la forme indiquent qui a agi; l’étiquette, le type d’étape. Touchez une étape pour les détails et la source.",
+ "start": 2011.3,
+ "end": 2026.6,
+ "ticks": [
+  2012,
+  2015,
+  2018,
+  2021,
+  2024
+ ],
+ "actors": {
+  "external": {
+   "en": "Inquiry or outside committee",
+   "fr": "Commission d’enquête ou comité externe"
+  },
+  "government": {
+   "en": "Government",
+   "fr": "Gouvernement"
+  },
+  "assembly": {
+   "en": "National Assembly",
+   "fr": "Assemblée nationale"
+  },
+  "commissioner": {
+   "en": "Autorité des marchés publics (AMP)",
+   "fr": "Autorité des marchés publics (AMP)"
+  }
+ },
+ "types": {
+  "launch": {
+   "en": "Launch",
+   "fr": "Mise en place"
+  },
+  "report": {
+   "en": "Report",
+   "fr": "Rapport"
+  },
+  "motion": {
+   "en": "Motion",
+   "fr": "Motion"
+  },
+  "bill-adopted": {
+   "en": "Law adopted",
+   "fr": "Loi adoptée"
+  },
+  "scorecard": {
+   "en": "Scorecard",
+   "fr": "Bilan"
+  }
+ },
+ "gap_key_en": "No complete independent count found",
+ "gap_key_fr": "Aucun bilan indépendant complet trouvé",
+ "gaps": [
+  {
+   "id": "gap-count",
+   "from": 2017.95,
+   "to": 2026.6,
+   "after": "2017-bill108",
+   "h_en": "What we could not find",
+   "h_fr": "Ce que nous n’avons pas trouvé",
+   "en": "After the committee’s 2017 count, we found no complete, independent count of the 60 recommendations.",
+   "fr": "Après le bilan du comité en 2017, nous n’avons trouvé aucun bilan complet et indépendant des 60 recommandations.",
+   "short_en": "No full independent count found since 2017",
+   "short_fr": "Aucun bilan indépendant complet trouvé depuis 2017"
+  }
+ ],
+ "src_en": "Sources: the Government of Quebec, Radio‑Canada, the AMP and the lobbying commissioner, as linked in each step.",
+ "src_fr": "Sources : le gouvernement du Québec, Radio‑Canada, l’AMP et le commissaire au lobbyisme, tels que liés à chaque étape.",
+ "events": [
+  {
+   "id": "2011-commission",
+   "pos": 2011.8,
+   "lane": 0,
+   "date_en": "Oct 2011",
+   "date_fr": "oct. 2011",
+   "actor": "government",
+   "type": "launch",
+   "who_en": "Government",
+   "who_fr": "Gouvernement",
+   "en": "The government creates the commission of inquiry on public construction contracts, chaired by Superior Court Justice France Charbonneau.",
+   "fr": "Le gouvernement crée la commission d’enquête sur les contrats publics dans la construction, présidée par la juge France Charbonneau, de la Cour supérieure.",
+   "links": [
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP, history",
+     "fr": "AMP, historique"
+    }
+   ]
+  },
+  {
+   "id": "2015-report",
+   "pos": 2015.9,
+   "lane": 0,
+   "date_en": "24 Nov 2015",
+   "date_fr": "24 nov. 2015",
+   "actor": "external",
+   "type": "report",
+   "who_en": "Charbonneau commission",
+   "who_fr": "Commission Charbonneau",
+   "en": "Final report: 60 recommendations. The first is to create a public contracts authority.",
+   "fr": "Rapport final : 60 recommandations. La première : créer une autorité des marchés publics.",
+   "links": [
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP, history",
+     "fr": "AMP, historique"
+    }
+   ]
+  },
+  {
+   "id": "2015-motion",
+   "pos": 2015.9,
+   "lane": 1,
+   "date_en": "26 Nov 2015",
+   "date_fr": "26 nov. 2015",
+   "actor": "assembly",
+   "type": "motion",
+   "who_en": "National Assembly",
+   "who_fr": "Assemblée nationale",
+   "en": "The National Assembly unanimously adopts a motion asking the government to act on the recommendations.",
+   "fr": "L’Assemblée nationale adopte à l’unanimité une motion demandant au gouvernement de donner suite aux recommandations.",
+   "links": [
+    {
+     "url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+     "en": "Government of Quebec, 24 Nov 2016",
+     "fr": "Gouvernement du Québec, 24 nov. 2016"
+    }
+   ]
+  },
+  {
+   "id": "2016-bills",
+   "pos": 2016.44,
+   "lane": 2,
+   "date_en": "June 2016",
+   "date_fr": "juin 2016",
+   "actor": "assembly",
+   "type": "bill-adopted",
+   "who_en": "Bills 101, 83 and 108",
+   "who_fr": "Projets de loi 101, 83 et 108",
+   "en": "10 June: Bill 101 (six recommendations on political financing) and Bill 83 (municipal contracts) are adopted. Two days earlier, on 8 June, Bill 108 on the AMP was tabled.",
+   "fr": "10 juin : adoption du projet de loi 101 (six recommandations sur le financement politique) et du projet de loi 83 (contrats municipaux). Deux jours plus tôt, le 8 juin, le projet de loi 108 sur l’AMP avait été déposé.",
+   "links": [
+    {
+     "url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+     "en": "Government of Quebec, 24 Nov 2016",
+     "fr": "Gouvernement du Québec, 24 nov. 2016"
+    },
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP, history",
+     "fr": "AMP, historique"
+    }
+   ]
+  },
+  {
+   "id": "2016-govcount",
+   "pos": 2016.9,
+   "lane": 1,
+   "date_en": "24 Nov 2016",
+   "date_fr": "24 nov. 2016",
+   "actor": "government",
+   "type": "scorecard",
+   "who_en": "Government’s count",
+   "who_fr": "Bilan du gouvernement",
+   "en": "The Justice Minister says 34 of the 60 recommendations have been carried out in whole or in part (“nearly 60%”), and 70% counting work under way.",
+   "fr": "La ministre de la Justice affirme que 34 des 60 recommandations sont réalisées en tout ou en partie (« près de 60 % »), et 70 % en comptant les travaux en cours.",
+   "links": [
+    {
+     "url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+     "en": "Government of Quebec, 24 Nov 2016",
+     "fr": "Gouvernement du Québec, 24 nov. 2016"
+    }
+   ]
+  },
+  {
+   "id": "2017-committee",
+   "pos": 2017.9,
+   "lane": 0,
+   "date_en": "24 Nov 2017",
+   "date_fr": "24 nov. 2017",
+   "actor": "external",
+   "type": "scorecard",
+   "who_en": "Citizens’ committee",
+   "who_fr": "Comité citoyen",
+   "en": "The independent follow‑up committee counts 26 recommendations applied satisfactorily, 10 partly applied and 24 a dead letter; only 3 of 9 on organized crime. Its count includes bills tabled but not yet passed.",
+   "fr": "Le comité de suivi indépendant compte 26 recommandations appliquées de façon satisfaisante, 10 appliquées en partie et 24 restées lettre morte; seulement 3 sur 9 sur le crime organisé. Son bilan inclut des projets de loi déposés mais pas encore adoptés.",
+   "links": [
+    {
+     "url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+     "en": "Radio‑Canada, 24 Nov 2017",
+     "fr": "Radio‑Canada, 24 nov. 2017"
+    }
+   ]
+  },
+  {
+   "id": "2017-bill108",
+   "pos": 2017.92,
+   "lane": 1,
+   "date_en": "1 Dec 2017",
+   "date_fr": "1er déc. 2017",
+   "actor": "assembly",
+   "type": "bill-adopted",
+   "who_en": "Bill 108",
+   "who_fr": "Projet de loi 108",
+   "en": "Bill 108, which establishes the Autorité des marchés publics (AMP), is adopted.",
+   "fr": "Adoption du projet de loi 108, qui institue l’Autorité des marchés publics (AMP).",
+   "links": [
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP, history",
+     "fr": "AMP, historique"
+    }
+   ]
+  },
+  {
+   "id": "2018-amp-ceo",
+   "pos": 2018.56,
+   "lane": 2,
+   "date_en": "25 Jul 2018",
+   "date_fr": "25 juill. 2018",
+   "actor": "commissioner",
+   "type": "launch",
+   "who_en": "AMP",
+   "who_fr": "AMP",
+   "en": "The AMP’s first CEO takes office.",
+   "fr": "Le premier président‑directeur général de l’AMP entre en fonction.",
+   "links": [
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP, history",
+     "fr": "AMP, historique"
+    }
+   ]
+  },
+  {
+   "id": "2019-amp-powers",
+   "pos": 2019.1,
+   "lane": 0,
+   "date_en": "2019",
+   "date_fr": "2019",
+   "actor": "commissioner",
+   "type": "launch",
+   "who_en": "AMP powers",
+   "who_fr": "Pouvoirs de l’AMP",
+   "en": "The AMP’s powers come into force in two steps, on 25 January and 25 May 2019.",
+   "fr": "Les pouvoirs de l’AMP entrent en vigueur en deux temps, le 25 janvier et le 25 mai 2019.",
+   "links": [
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP, history",
+     "fr": "AMP, historique"
+    }
+   ]
+  },
+  {
+   "id": "2019-lobbying",
+   "pos": 2019.5,
+   "lane": 1,
+   "date_en": "2019",
+   "date_fr": "2019",
+   "actor": "assembly",
+   "type": "bill-adopted",
+   "who_en": "Lobbying law",
+   "who_fr": "Loi sur le lobbyisme",
+   "en": "A Charbonneau recommendation on the time limit for prosecutions is applied to the lobbying law.",
+   "fr": "Une recommandation de la commission Charbonneau sur le délai de prescription des poursuites est appliquée à la loi sur le lobbyisme.",
+   "links": [
+    {
+     "url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=7",
+     "en": "lobbying commissioner, pp. 7–8",
+     "fr": "commissaire au lobbyisme, p. 7‑8"
+    }
+   ]
+  },
+  {
+   "id": "2022-bill12",
+   "pos": 2022.42,
+   "lane": 0,
+   "date_en": "2 Jun 2022",
+   "date_fr": "2 juin 2022",
+   "actor": "assembly",
+   "type": "bill-adopted",
+   "who_en": "Bill 12",
+   "who_fr": "Projet de loi 12",
+   "en": "Bill 12, assented to on 2 June 2022, expands the AMP’s powers.",
+   "fr": "Le projet de loi 12, sanctionné le 2 juin 2022, élargit les pouvoirs de l’AMP.",
+   "links": [
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP, history",
+     "fr": "AMP, historique"
+    }
+   ]
+  },
+  {
+   "id": "2026-gallant",
+   "pos": 2026.12,
+   "lane": 1,
+   "date_en": "16 Feb 2026",
+   "date_fr": "16 févr. 2026",
+   "actor": "external",
+   "type": "report",
+   "who_en": "Gallant commission",
+   "who_fr": "Commission Gallant",
+   "en": "Ten years on, the Gallant commission on SAAQclic recommends more powers for the AMP. The AMP welcomes it.",
+   "fr": "Dix ans plus tard, la commission Gallant sur SAAQclic recommande d’accroître les pouvoirs de l’AMP. L’AMP s’en réjouit.",
+   "links": [
+    {
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/rapport-de-la-commission-gallant-lamp-en-faveur-de-pouvoirs-accrus-68566",
+     "en": "AMP, 16 Feb 2026",
+     "fr": "AMP, 16 févr. 2026"
+    }
+   ]
+  }
+ ]
+}

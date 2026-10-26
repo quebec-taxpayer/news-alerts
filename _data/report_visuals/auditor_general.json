@@ -1,0 +1,275 @@
+{
+ "cards": [
+  {
+   "n": 32,
+   "of": "/99",
+   "label_en": "fully applied",
+   "label_fr": "entièrement appliquées",
+   "detail_en": "Recommendations the VGQ found fully applied in its 2024‑25 follow‑up.",
+   "detail_fr": "Recommandations jugées entièrement appliquées par le VGQ dans son suivi 2024‑2025.",
+   "links": [
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=27",
+     "en": "2024‑25, p. 27",
+     "fr": "2024‑2025, p. 27"
+    }
+   ]
+  },
+  {
+   "n": 85,
+   "of_en": "%",
+   "of_fr": " %",
+   "label_en": "the headline figure",
+   "label_fr": "le chiffre vedette",
+   "detail_en": "“Applied or satisfactory progress”, 2024‑25.",
+   "detail_fr": "« Appliquées ou progrès satisfaisants », 2024‑2025.",
+   "links": [
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=4",
+     "en": "2024‑25, p. 4",
+     "fr": "2024‑2025, p. 4"
+    }
+   ]
+  },
+  {
+   "n": 52,
+   "label_en": "self‑reported progress",
+   "label_fr": "progrès déclarés",
+   "detail_en": "Of the 85%, 52 recommendations are “satisfactory progress”, based on the ministries’ own reports, not audited.",
+   "detail_fr": "Dans le 85 %, 52 recommandations sont des « progrès satisfaisants », selon les états d’avancement des ministères, non audités.",
+   "links": [
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=27",
+     "en": "2024‑25, p. 27",
+     "fr": "2024‑2025, p. 27"
+    },
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=14",
+     "en": "2024‑25, p. 14",
+     "fr": "2024‑2025, p. 14"
+    }
+   ]
+  },
+  {
+   "n": 79,
+   "of_en": "%",
+   "of_fr": " %",
+   "label_en": "against an 80% target",
+   "label_fr": "pour une cible de 80 %",
+   "detail_en": "Applied or satisfactory after 36 months or more, 2024‑25 (78% the year before).",
+   "detail_fr": "Appliquées ou progrès satisfaisants après 36 mois ou plus, 2024‑2025 (78 % l’année précédente).",
+   "links": [
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=4",
+     "en": "2024‑25, p. 4",
+     "fr": "2024‑2025, p. 4"
+    },
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=8",
+     "en": "2024‑25, p. 8",
+     "fr": "2024‑2025, p. 8"
+    }
+   ]
+  },
+  {
+   "n": 0,
+   "of": "/4",
+   "tone": "zero",
+   "label_en": "cybersecurity",
+   "label_fr": "cybersécurité",
+   "detail_en": "Recommendations fully applied by the Ministry of Cybersecurity and Digital Affairs on the 2021 study.",
+   "detail_fr": "Recommandations entièrement appliquées par le ministère de la Cybersécurité et du Numérique, étude de 2021.",
+   "links": [
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=27",
+     "en": "2024‑25, p. 27",
+     "fr": "2024‑2025, p. 27"
+    }
+   ]
+  }
+ ],
+ "stack": {
+  "id": "ag-85",
+  "cap_en": "What the headline is made of. Each bar is one year’s follow‑up; the bracket shows what the headline figure adds together.",
+  "cap_fr": "De quoi est fait le chiffre vedette. Chaque barre est le suivi d’une année; l’accolade montre ce que le chiffre vedette additionne.",
+  "keys": {
+   "applied": {
+    "en": "fully applied",
+    "fr": "appliquées",
+    "style": "solid"
+   },
+   "satisfactory": {
+    "en": "satisfactory progress",
+    "fr": "progrès satisfaisants",
+    "style": "pattern",
+    "note_en": "reported by the ministries, checked for plausibility, not audited",
+    "note_fr": "déclarés par les ministères, vraisemblance appréciée, non audités"
+   },
+   "unsatisfactory": {
+    "en": "unsatisfactory progress",
+    "fr": "progrès insatisfaisants",
+    "style": "muted"
+   },
+   "notapplied": {
+    "en": "not applied",
+    "fr": "non appliquées",
+    "style": "red"
+   }
+  },
+  "rows": [
+   {
+    "label_en": "2023‑24",
+    "label_fr": "2023‑2024",
+    "sub_en": "130 recommendations",
+    "sub_fr": "130 recommandations",
+    "total": 130,
+    "segs": [
+     {
+      "k": "applied",
+      "v": 46
+     },
+     {
+      "k": "satisfactory",
+      "v": 71
+     },
+     {
+      "k": "unsatisfactory",
+      "v": 11
+     },
+     {
+      "k": "notapplied",
+      "v": 2
+     }
+    ],
+    "brace": {
+     "v": 117,
+     "en": "90% headline",
+     "fr": "90 % vedette",
+     "text_en": "Headline “applied or satisfactory”: 117 of 130 (90%). Fully applied alone: 46 (35%, our arithmetic).",
+     "text_fr": "Chiffre vedette « appliquées ou progrès satisfaisants » : 117 sur 130 (90 %). Appliquées seulement : 46 (35 %, notre calcul)."
+    },
+    "links": [
+     {
+      "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/211/Suivi%20des%20recommandations%202023-2024.pdf#page=22",
+      "en": "2023‑24, p. 22",
+      "fr": "2023‑2024, p. 22"
+     },
+     {
+      "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/211/Suivi%20des%20recommandations%202023-2024.pdf#page=4",
+      "en": "2023‑24, p. 4",
+      "fr": "2023‑2024, p. 4"
+     }
+    ]
+   },
+   {
+    "label_en": "2024‑25",
+    "label_fr": "2024‑2025",
+    "sub_en": "99 recommendations",
+    "sub_fr": "99 recommandations",
+    "total": 99,
+    "segs": [
+     {
+      "k": "applied",
+      "v": 32
+     },
+     {
+      "k": "satisfactory",
+      "v": 52
+     },
+     {
+      "k": "unsatisfactory",
+      "v": 15
+     },
+     {
+      "k": "notapplied",
+      "v": 0
+     }
+    ],
+    "brace": {
+     "v": 84,
+     "en": "85% headline",
+     "fr": "85 % vedette",
+     "text_en": "Headline “applied or satisfactory”: 84 of 99 (85%). Fully applied alone: 32 (32%, our arithmetic).",
+     "text_fr": "Chiffre vedette « appliquées ou progrès satisfaisants » : 84 sur 99 (85 %). Appliquées seulement : 32 (32 %, notre calcul)."
+    },
+    "links": [
+     {
+      "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=27",
+      "en": "2024‑25, p. 27",
+      "fr": "2024‑2025, p. 27"
+     },
+     {
+      "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=4",
+      "en": "2024‑25, p. 4",
+      "fr": "2024‑2025, p. 4"
+     }
+    ]
+   }
+  ],
+  "note_en": "The VGQ’s counts include recommendations judged applied in earlier years and leave out those it judged obsolete (2024‑25, p. 26, footnotes).",
+  "note_fr": "Les décomptes du VGQ incluent les recommandations jugées appliquées les années précédentes et excluent celles jugées caduques (2024‑2025, p. 26, notes)."
+ },
+ "target": {
+  "id": "ag-target",
+  "scale": 100,
+  "cap_en": "Applied or satisfactory progress after 36 months or more, Auditor General and Sustainable Development Commissioner combined, against the VGQ’s own 80% target.",
+  "cap_fr": "Recommandations appliquées ou ayant donné lieu à des progrès satisfaisants après 36 mois ou plus, Vérificateur général et commissaire au développement durable ensemble, par rapport à la cible de 80 % du VGQ.",
+  "target": {
+   "v": 80,
+   "en": "VGQ target: 80% (2024‑25, p. 8)",
+   "fr": "Cible du VGQ : 80 % (2024‑2025, p. 8)"
+  },
+  "rows": [
+   {
+    "label_en": "2023‑24",
+    "label_fr": "2023‑2024",
+    "v": 78,
+    "show_en": "78%",
+    "show_fr": "78 %",
+    "links": [
+     {
+      "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/211/Suivi%20des%20recommandations%202023-2024.pdf#page=4",
+      "en": "2023‑24, p. 4",
+      "fr": "2023‑2024, p. 4"
+     }
+    ]
+   },
+   {
+    "label_en": "2024‑25",
+    "label_fr": "2024‑2025",
+    "v": 79,
+    "show_en": "79%",
+    "show_fr": "79 %",
+    "links": [
+     {
+      "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=4",
+      "en": "2024‑25, p. 4",
+      "fr": "2024‑2025, p. 4"
+     }
+    ]
+   }
+  ]
+ },
+ "old36": {
+  "id": "ag-36",
+  "scale": 55,
+  "cap_en": "After 36 months or more (2024‑25 follow‑up): recommendations fully applied.",
+  "cap_fr": "Après 36 mois ou plus (suivi 2024‑2025) : recommandations entièrement appliquées.",
+  "rows": [
+   {
+    "label_en": "Fully applied",
+    "label_fr": "Entièrement appliquées",
+    "v": 27,
+    "show_en": "27 of 55",
+    "show_fr": "27 sur 55",
+    "links": [
+     {
+      "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=27",
+      "en": "2024‑25, p. 27",
+      "fr": "2024‑2025, p. 27"
+     }
+    ]
+   }
+  ]
+ }
+}

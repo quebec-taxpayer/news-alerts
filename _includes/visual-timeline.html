@@ -22,11 +22,15 @@
     <symbol id="{{ vid }}-i-bill-tabled" viewBox="0 0 16 16"><path d="M3.5 1.5h6l3 3v10h-9z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M8 6.5v6M5 9.5h6" stroke="currentColor" stroke-width="1.8"/></symbol>
     <symbol id="{{ vid }}-i-bill-died" viewBox="0 0 16 16"><path d="M3.5 1.5h6l3 3v10h-9z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7l5 5M10.5 7l-5 5" stroke="currentColor" stroke-width="1.8"/></symbol>
     <symbol id="{{ vid }}-i-motion" viewBox="0 0 16 16"><rect x="1.5" y="1.5" width="13" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M4.5 8.3l2.4 2.4 4.6-5" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="{{ vid }}-i-bill-adopted" viewBox="0 0 16 16"><path d="M3.5 1.5h6l3 3v10h-9z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.2 9.6l2 2 3.8-4.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="{{ vid }}-i-scorecard" viewBox="0 0 16 16"><path d="M2 14.5h12" stroke="currentColor" stroke-width="1.6"/><path d="M4 13V8M8 13V4M12 13V10" stroke="currentColor" stroke-width="2.4"/></symbol>
+    <symbol id="{{ vid }}-i-launch" viewBox="0 0 16 16"><path d="M2 6.5L8 2.5l6 4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M3.5 7.5v5M6.5 7.5v5M9.5 7.5v5M12.5 7.5v5M2 14h12" stroke="currentColor" stroke-width="1.5"/></symbol>
   </svg>
   <figcaption id="{{ vid }}-cap" class="vt-cap"><span class="l-en" lang="en">{{ T.intro_en }}</span><span class="l-fr" lang="fr">{{ T.intro_fr }}</span></figcaption>
 
   {%- comment -%} Number cards: from T.cards. "count": "years" (first to last event year) or "type" (events of that type,
        optionally "sub_actor" = how many of those by one actor, shown as %SUB%); otherwise the literal "value". {%- endcomment %}
+  {%- if T.cards %}
   <ul class="vt-stats">
     {%- for c in T.cards %}
     {%- if c.count == "years" -%}{%- assign num = n_years | append: "" -%}
@@ -42,10 +46,11 @@
     </li>
     {%- endfor %}
   </ul>
+  {%- endif %}
 
   <ul class="vt-legend" aria-label="Legend / Légende">
     {%- for a in T.actors %}<li><span class="vt-dot vt-a-{{ a[0] }}" aria-hidden="true"></span> <span class="l-en" lang="en">{{ a[1].en }}</span><span class="l-fr" lang="fr">{{ a[1].fr }}</span></li>{% endfor %}
-    <li><span class="vt-gapkey" aria-hidden="true"></span> <span class="l-en" lang="en">Years without a reform bill</span><span class="l-fr" lang="fr">Années sans projet de réforme</span></li>
+    {%- if T.gaps.size > 0 %}<li><span class="vt-gapkey" aria-hidden="true"></span> <span class="l-en" lang="en">{{ T.gap_key_en | default: "Years without a reform bill" }}</span><span class="l-fr" lang="fr">{{ T.gap_key_fr | default: "Années sans projet de réforme" }}</span></li>{% endif %}
   </ul>
 
   <div class="vt-axis" aria-hidden="true">
@@ -77,20 +82,28 @@
         </summary>
         <div class="vt-body">
           <p class="l-en" lang="en">{{ e.en }}</p><p class="l-fr" lang="fr">{{ e.fr }}</p>
+          {%- if e.links %}
+          <p class="vt-cite"><span class="l-en" lang="en">Source:{% for l in e.links %} <a href="{{ l.url }}">{{ l.en }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span><span class="l-fr" lang="fr">Source :{% for l in e.links %} <a href="{{ l.url }}">{{ l.fr }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span></p>
+          {%- else %}
           <p class="vt-cite"><span class="l-en" lang="en">Source: special report,</span><span class="l-fr" lang="fr">Source : rapport spécial,</span>
             {% for pg in e.pages %}<a href="{{ pdf }}{{ pg }}">p.&nbsp;{{ pg }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+          {%- endif %}
         </div>
       </details>
     </li>
     {%- for g in T.gaps %}{%- if g.after == e.id %}
     <li class="vt-item vt-gap" style="--i:{{ forloop.index0 }}">
-      <p><strong class="vt-gap-h"><span class="l-en" lang="en">Gap</span><span class="l-fr" lang="fr">Vide législatif</span></strong>
+      <p><strong class="vt-gap-h"><span class="l-en" lang="en">{{ g.h_en | default: "Gap" }}</span><span class="l-fr" lang="fr">{{ g.h_fr | default: "Vide législatif" }}</span></strong>
         <span class="l-en" lang="en">{{ g.en }}</span><span class="l-fr" lang="fr">{{ g.fr }}</span>
-        ({% for pg in g.pages %}<a href="{{ pdf }}{{ pg }}">p.&nbsp;{{ pg }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %})</p>
+        {% if g.pages %}({% for pg in g.pages %}<a href="{{ pdf }}{{ pg }}">p.&nbsp;{{ pg }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}){% endif %}</p>
     </li>
     {%- endif %}{% endfor %}
     {%- endfor %}
   </ol>
+  {%- if T.src_en %}
+  <p class="vt-src"><span class="l-en" lang="en">{{ T.src_en }}</span><span class="l-fr" lang="fr">{{ T.src_fr }}</span></p>
+  {%- else %}
   <p class="vt-src"><span class="l-en" lang="en">Source: <a href="{{ T.source_url }}">{{ T.source_en }}</a>. {{ T.stats.reforms_note_en }}</span><span class="l-fr" lang="fr">Source : <a href="{{ T.source_url }}">{{ T.source_fr }}</a>. {{ T.stats.reforms_note_fr }}</span></p>
+  {%- endif %}
 </figure>
 <script src="{{ '/assets/js/visual-timeline.js' | relative_url }}" defer></script>

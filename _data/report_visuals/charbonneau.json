@@ -1,0 +1,191 @@
+{
+ "cards": [
+  {
+   "n": 60,
+   "label_en": "recommendations",
+   "label_fr": "recommandations",
+   "detail_en": "In the commission’s report of 24 November 2015.",
+   "detail_fr": "Dans le rapport de la commission du 24 novembre 2015.",
+   "links": [
+    {
+     "url": "https://www.amp.quebec/en/mission-en",
+     "en": "AMP",
+     "fr": "AMP"
+    }
+   ]
+  },
+  {
+   "n": 34,
+   "label_en": "done, says the government",
+   "label_fr": "faites, selon le gouvernement",
+   "detail_en": "Carried out “in whole or in part”, November 2016.",
+   "detail_fr": "Réalisées « en tout ou en partie », novembre 2016.",
+   "links": [
+    {
+     "url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+     "en": "Government of Quebec, 24 Nov 2016",
+     "fr": "Gouvernement du Québec, 24 nov. 2016"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "label_en": "applied, says the committee",
+   "label_fr": "appliquées, selon le comité",
+   "detail_en": "Applied satisfactorily, independent committee, November 2017.",
+   "detail_fr": "Appliquées de façon satisfaisante, comité indépendant, novembre 2017.",
+   "links": [
+    {
+     "url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+     "en": "Radio‑Canada, 24 Nov 2017",
+     "fr": "Radio‑Canada, 24 nov. 2017"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "tone": "zero",
+   "label_en": "dead letter",
+   "label_fr": "lettre morte",
+   "detail_en": "Not acted on, same committee count, 2017.",
+   "detail_fr": "Sans suite, même bilan du comité, 2017.",
+   "links": [
+    {
+     "url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+     "en": "Radio‑Canada, 24 Nov 2017",
+     "fr": "Radio‑Canada, 24 nov. 2017"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "of": "/9",
+   "tone": "zero",
+   "label_en": "on organized crime",
+   "label_fr": "sur le crime organisé",
+   "detail_en": "Recommendations applied, per the committee in 2017.",
+   "detail_fr": "Recommandations appliquées, selon le comité en 2017.",
+   "links": [
+    {
+     "url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+     "en": "Radio‑Canada, 24 Nov 2017",
+     "fr": "Radio‑Canada, 24 nov. 2017"
+    }
+   ]
+  }
+ ],
+ "stack": {
+  "id": "ch-score",
+  "cap_en": "Who keeps score: the same 60 recommendations, counted by the government (2016) and by the independent committee a year later (2017). The two use different dates and definitions.",
+  "cap_fr": "Qui tient le compte : les mêmes 60 recommandations, comptées par le gouvernement (2016) puis par le comité indépendant un an plus tard (2017). Les deux bilans n’ont ni la même date ni les mêmes définitions.",
+  "keys": {
+   "wholepart": {
+    "en": "carried out in whole or in part",
+    "fr": "réalisées en tout ou en partie",
+    "style": "light"
+   },
+   "rest": {
+    "en": "not counted as carried out",
+    "fr": "non comptées comme réalisées",
+    "style": "muted",
+    "note_en": "the government said work was under way on some",
+    "note_fr": "le gouvernement disait que des travaux étaient en cours pour certaines"
+   },
+   "applied": {
+    "en": "applied satisfactorily",
+    "fr": "appliquées de façon satisfaisante",
+    "style": "solid"
+   },
+   "partly": {
+    "en": "partly applied",
+    "fr": "appliquées en partie",
+    "style": "pattern"
+   },
+   "dead": {
+    "en": "dead letter",
+    "fr": "lettre morte",
+    "style": "red"
+   }
+  },
+  "rows": [
+   {
+    "label_en": "The government",
+    "label_fr": "Le gouvernement",
+    "sub_en": "24 Nov 2016",
+    "sub_fr": "24 nov. 2016",
+    "total": 60,
+    "segs": [
+     {
+      "k": "wholepart",
+      "v": 34
+     },
+     {
+      "k": "rest",
+      "v": 26
+     }
+    ],
+    "links": [
+     {
+      "url": "https://www.newswire.ca/fr/news-releases/suivi-de-la-commission-denquete-sur-loctroi-et-la-gestion-des-contrats-publics-dans-lindustrie-de-la-construction---70--des-recommandations-de-la-commission-sont-realisees-et-en-voie-detre-mises-en-uvre--une-reponse-602886856.html",
+      "en": "Government of Quebec, 24 Nov 2016",
+      "fr": "Gouvernement du Québec, 24 nov. 2016"
+     }
+    ]
+   },
+   {
+    "label_en": "The independent committee",
+    "label_fr": "Le comité indépendant",
+    "sub_en": "24 Nov 2017",
+    "sub_fr": "24 nov. 2017",
+    "total": 60,
+    "segs": [
+     {
+      "k": "applied",
+      "v": 26
+     },
+     {
+      "k": "partly",
+      "v": 10
+     },
+     {
+      "k": "dead",
+      "v": 24
+     }
+    ],
+    "links": [
+     {
+      "url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+      "en": "Radio‑Canada, 24 Nov 2017",
+      "fr": "Radio‑Canada, 24 nov. 2017"
+     }
+    ]
+   }
+  ],
+  "note_en": "“Not counted as carried out” is 60 minus 34, our arithmetic. The committee’s count includes bills tabled but not yet passed (Radio‑Canada).",
+  "note_fr": "« Non comptées comme réalisées » : 60 moins 34, notre calcul. Le bilan du comité inclut des projets de loi déposés mais pas encore adoptés (Radio‑Canada)."
+ },
+ "crime": {
+  "id": "ch-crime",
+  "scale": 9,
+  "dots": true,
+  "inset": true,
+  "cap_en": "Inset: the 9 recommendations on organized crime (committee, 2017).",
+  "cap_fr": "En encadré : les 9 recommandations sur le crime organisé (comité, 2017).",
+  "rows": [
+   {
+    "label_en": "Applied",
+    "label_fr": "Appliquées",
+    "v": 3,
+    "show_en": "3 of 9",
+    "show_fr": "3 sur 9",
+    "links": [
+     {
+      "url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+      "en": "Radio‑Canada, 24 Nov 2017",
+      "fr": "Radio‑Canada, 24 nov. 2017"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,25 @@
+{%- comment -%}
+  Number-card strip (same look as the visual-timeline cards). Usage: {% include number-cards.html cards=V.cards label_en="..." label_fr="..." %}
+  Each card: n (integer, counted up on scroll) or value_en/value_fr (literal text), optional of ("/99" style suffix, or of_en/of_fr),
+  label_en/fr, detail_en/fr, links [{url,en,fr}] (sources, shown in the card), optional href (card title links to a page), tone ("zero" = red).
+  Every number shown must also be in the page text with its source.
+{%- endcomment -%}
+{%- assign cards = include.cards -%}
+<div class="vt vt-cards" data-vt>
+<ul class="vt-stats vt-stats-n{{ cards.size }}"{% if include.label_en %} aria-label="{{ include.label_en | escape }} / {{ include.label_fr | escape }}"{% endif %}>
+  {%- for c in cards %}
+  <li class="vt-stat{% if c.tone %} vt-stat-{{ c.tone }}{% endif %}" style="--i:{{ forloop.index0 }}">
+    {%- assign vlen = c.value_fr | default: "" | size -%}
+    <strong class="vt-num{% if vlen > 6 %} vt-num-long{% endif %}">
+      {%- if c.n != nil -%}<span{% if c.n >= 2 %} data-n="{{ c.n }}"{% endif %}>{{ c.n }}</span>
+      {%- elsif c.value_en == c.value_fr -%}{{ c.value_en }}
+      {%- else -%}<span class="l-en" lang="en">{{ c.value_en }}</span><span class="l-fr" lang="fr">{{ c.value_fr }}</span>{%- endif -%}
+      {%- if c.of %}<span class="vt-of">{{ c.of }}</span>{% elsif c.of_en %}<span class="vt-of"><span class="l-en" lang="en">{{ c.of_en }}</span><span class="l-fr" lang="fr">{{ c.of_fr }}</span></span>{% endif -%}
+    </strong>
+    <span class="vt-stat-label">{% if c.href %}<a class="vt-stat-go" href="{{ c.href | relative_url }}">{% endif %}<span class="l-en" lang="en">{{ c.label_en | escape }}</span><span class="l-fr" lang="fr">{{ c.label_fr | escape }}</span>{% if c.href %}</a>{% endif %}</span>
+    <span class="vt-stat-detail"><span class="l-en" lang="en">{{ c.detail_en }}{% for l in c.links %} <a href="{{ l.url }}">{{ l.en }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span><span class="l-fr" lang="fr">{{ c.detail_fr }}{% for l in c.links %} <a href="{{ l.url }}">{{ l.fr }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span></span>
+  </li>
+  {%- endfor %}
+</ul>
+</div>
+<script src="{{ '/assets/js/visual-timeline.js' | relative_url }}" defer></script>

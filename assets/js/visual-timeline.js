@@ -2,6 +2,8 @@
    "click a dot on the axis to open that event". Everything is already visible and usable without this file.
    Honors prefers-reduced-motion (no animation, no count-up). */
 (function () {
+  if (window.qgmVtLoaded) return; /* several includes on one page each load this file: run once */
+  window.qgmVtLoaded = true;
   var roots = document.querySelectorAll("[data-vt]");
   if (!roots.length) return;
   var still = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -34,7 +36,7 @@
     });
     if (!io) return;
     root.classList.add("vt-anim");
-    var els = Array.prototype.slice.call(root.querySelectorAll(".vt-stat, .vt-axis, .vt-item"));
+    var els = Array.prototype.slice.call(root.querySelectorAll(".vt-stat, .vt-axis, .vt-item, .vb-anim"));
     function reveal(el) {
       if (el.classList.contains("is-in")) return;
       el.classList.add("is-in"); obs.unobserve(el);
@@ -51,6 +53,6 @@
     els.forEach(function (el) { obs.observe(el); });
   });
   window.addEventListener("beforeprint", function () {
-    Array.prototype.forEach.call(document.querySelectorAll(".vt-item details"), function (d) { d.open = true; });
+    Array.prototype.forEach.call(document.querySelectorAll(".vt-item details, details.vt-table"), function (d) { d.open = true; });
   });
 })();

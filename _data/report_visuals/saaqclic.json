@@ -1,0 +1,154 @@
+{
+ "cards": [
+  {
+   "n": 586,
+   "label_en": "pages",
+   "label_fr": "pages",
+   "detail_en": "The Gallant report, released on 16 February 2026.",
+   "detail_fr": "Le rapport Gallant, rendu public le 16 février 2026.",
+   "links": [
+    {
+     "url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+     "en": "Le Devoir, 16 Feb 2026",
+     "fr": "Le Devoir, 16 févr. 2026"
+    }
+   ]
+  },
+  {
+   "n": 75,
+   "label_en": "days of hearings",
+   "label_fr": "jours d’audience",
+   "detail_en": "Public hearings of the commission.",
+   "detail_fr": "Audiences publiques de la commission.",
+   "links": [
+    {
+     "url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+     "en": "Le Devoir, 16 Feb 2026",
+     "fr": "Le Devoir, 16 févr. 2026"
+    }
+   ]
+  },
+  {
+   "n": 124,
+   "label_en": "witnesses",
+   "label_fr": "témoins",
+   "detail_en": "Heard by the commission.",
+   "detail_fr": "Entendus par la commission.",
+   "links": [
+    {
+     "url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+     "en": "Le Devoir, 16 Feb 2026",
+     "fr": "Le Devoir, 16 févr. 2026"
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "label_en": "findings",
+   "label_fr": "constats",
+   "detail_en": "Including that SAAQ management lied to the government and to parliamentarians.",
+   "detail_fr": "Dont celui‑ci : la direction de la SAAQ a menti au gouvernement et aux parlementaires.",
+   "links": [
+    {
+     "url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+     "en": "Le Devoir, 16 Feb 2026",
+     "fr": "Le Devoir, 16 févr. 2026"
+    }
+   ]
+  },
+  {
+   "n": 26,
+   "label_en": "recommendations",
+   "label_fr": "recommandations",
+   "detail_en": "In five groups, including more powers for the AMP.",
+   "detail_fr": "En cinq volets, dont plus de pouvoirs pour l’AMP.",
+   "links": [
+    {
+     "url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+     "en": "Le Devoir, 16 Feb 2026",
+     "fr": "Le Devoir, 16 févr. 2026"
+    }
+   ]
+  }
+ ],
+ "cost": {
+  "id": "sq-cost",
+  "scale": 1250,
+  "cap_en": "CASA program (includes SAAQclic): ten‑year cost, in millions of dollars.",
+  "cap_fr": "Programme CASA (inclut SAAQclic) : coût sur dix ans, en millions de dollars.",
+  "rows": [
+   {
+    "label_en": "Budget at launch (2017)",
+    "label_fr": "Budget au lancement (2017)",
+    "v": 638,
+    "show_en": "$638M",
+    "show_fr": "638 M$",
+    "links": [
+     {
+      "url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+      "en": "VGQ, C2025‑1",
+      "fr": "VGQ, C2025‑1"
+     }
+    ]
+   },
+   {
+    "label_en": "Forecast by March 2027",
+    "label_fr": "Prévision d’ici mars 2027",
+    "v": 1100,
+    "base": 638,
+    "open": true,
+    "show_en": "at least $1.1B",
+    "show_fr": "au moins 1,1 milliard $",
+    "hl_en": "The increase, nearly $500M, “was not clearly communicated to decision‑makers.”",
+    "hl_fr": "La hausse, près de 500 M$, « n’a pas été clairement communiquée aux décideurs ».",
+    "links": [
+     {
+      "url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+      "en": "VGQ, C2025‑1",
+      "fr": "VGQ, C2025‑1"
+     }
+    ]
+   }
+  ],
+  "note_en": "The open end means “at least”: the forecast is a minimum.",
+  "note_fr": "L’extrémité ouverte signifie « au moins » : la prévision est un minimum."
+ },
+ "contract": {
+  "id": "sq-contract",
+  "scale": 329,
+  "cap_en": "Contract for the second delivery, per the Gallant report, in millions of dollars.",
+  "cap_fr": "Contrat de la deuxième livraison, selon le rapport Gallant, en millions de dollars.",
+  "rows": [
+   {
+    "label_en": "2017",
+    "label_fr": "2017",
+    "v": 81,
+    "show_en": "$81M",
+    "show_fr": "81 M$",
+    "links": [
+     {
+      "url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+      "en": "Le Devoir, 16 Feb 2026",
+      "fr": "Le Devoir, 16 févr. 2026"
+     }
+    ]
+   },
+   {
+    "label_en": "2023",
+    "label_fr": "2023",
+    "v": 329,
+    "show_en": "$329M",
+    "show_fr": "329 M$",
+    "links": [
+     {
+      "url": "https://www.ledevoir.com/politique/quebec/956649/rapport-commission-gallant-5-chiffres",
+      "en": "Le Devoir, 16 Feb 2026",
+      "fr": "Le Devoir, 16 févr. 2026"
+     }
+    ]
+   }
+  ],
+  "note_en": "About four times as much (our arithmetic: 329 ÷ 81 ≈ 4.1).",
+  "note_fr": "Environ quatre fois plus (notre calcul : 329 ÷ 81 ≈ 4,1)."
+ }
+}

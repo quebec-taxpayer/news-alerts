@@ -1,0 +1,69 @@
+{
+ "cards": [
+  {
+   "n": 0,
+   "tone": "zero",
+   "href": "/special‑reports/lobbying/",
+   "label_en": "1. Lobbying: government reform proposals after the unanimous 2026 vote",
+   "label_fr": "1. Lobbyisme : propositions de réforme du gouvernement après le vote unanime de 2026",
+   "detail_en": "Formally tabled, as of May 2026.",
+   "detail_fr": "Formellement déposées, en date de mai 2026.",
+   "links": [
+    {
+     "url": "https://lobbyisme.quebec/wp-content/uploads/2026/05/20260521_Rapport-special-du-commissaire-au-lobbyisme-du-Quebec.pdf#page=10",
+     "en": "lobbying commissioner, p. 10",
+     "fr": "commissaire au lobbyisme, p. 10"
+    }
+   ]
+  },
+  {
+   "n": 32,
+   "of": "/99",
+   "href": "/special‑reports/auditor‑general/",
+   "label_en": "2. Auditor General: recommendations fully applied",
+   "label_fr": "2. Vérificateur général : recommandations entièrement appliquées",
+   "detail_en": "2024‑25 follow‑up. The headline says 85%.",
+   "detail_fr": "Suivi 2024‑2025. Le chiffre vedette dit 85 %.",
+   "links": [
+    {
+     "url": "https://www.vgq.qc.ca/Fichiers/Publications/SR/216/Suivi%20des%20recommandations%202024-2025.pdf#page=27",
+     "en": "2024‑25, p. 27",
+     "fr": "2024‑2025, p. 27"
+    }
+   ]
+  },
+  {
+   "n": 24,
+   "of": "/60",
+   "tone": "zero",
+   "href": "/special‑reports/charbonneau/",
+   "label_en": "3. Charbonneau: recommendations still a dead letter",
+   "label_fr": "3. Charbonneau : recommandations restées lettre morte",
+   "detail_en": "Independent committee, November 2017.",
+   "detail_fr": "Comité indépendant, novembre 2017.",
+   "links": [
+    {
+     "url": "https://ici.radio-canada.ca/nouvelle/1069130/recommandations-commission-charbonneau-quebec-rapport-comite-suivi",
+     "en": "Radio‑Canada, 24 Nov 2017",
+     "fr": "Radio‑Canada, 24 nov. 2017"
+    }
+   ]
+  },
+  {
+   "value_en": "$1.1B",
+   "value_fr": "1,1 milliard $",
+   "href": "/special‑reports/saaqclic/",
+   "label_en": "4. SAAQclic: forecast cost, at least",
+   "label_fr": "4. SAAQclic : coût prévu, au moins",
+   "detail_en": "By March 2027, up from $638M budgeted in 2017.",
+   "detail_fr": "D’ici mars 2027, contre 638 M$ prévus en 2017.",
+   "links": [
+    {
+     "url": "https://www.vgq.qc.ca/fr/communique/C2025-1",
+     "en": "VGQ, C2025‑1",
+     "fr": "VGQ, C2025‑1"
+    }
+   ]
+  }
+ ]
+}
