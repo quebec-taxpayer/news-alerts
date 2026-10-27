@@ -24,6 +24,18 @@
    "source_title": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"},
   {"id": "alto-final-route", "date": "2027", "kind": "year", "pages": ["home"],
    "en": "Alto’s final high-speed rail route to be known.", "fr": "Le tracé final du TGV d’Alto doit être connu.",
-   "source_title": "Alto testerait les premiers TGV du pays à l’est d’Ottawa", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"}
+   "source_title": "Alto testerait les premiers TGV du pays à l’est d’Ottawa", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"},
+  {"id": "apnql-pspp-meeting", "date": "2026-10-28", "kind": "on", "pages": ["home", "first-nations-meeting"],
+   "en": "Premier St-Pierre Plamondon to meet representatives of the Assembly of First Nations Quebec-Labrador (APNQL) (Wednesday).", "fr": "Le premier ministre St-Pierre Plamondon doit rencontrer les représentants de l’Assemblée des Premières Nations du Québec-Labrador (APNQL) (mercredi).",
+   "source_title": "Paul St-Pierre Plamondon rencontrera l’APNQL mercredi", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/espaces-autochtones/2295894/pspp-rencontre-apnql-sommet-ottawa"},
+  {"id": "canada-eu-summit", "story_url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois", "date": "2026-10-29", "kind": "on", "pages": ["home"],
+   "en": "Canada–European Union Summit in Montreal (Oct. 29–30); Ottawa is not letting the Quebec premier speak.", "fr": "Sommet Canada-Union européenne à Montréal (29 et 30 octobre); Ottawa refuse que le premier ministre du Québec y prenne la parole.",
+   "source_title": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE", "source_outlet": "Radio-Canada", "source_url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"},
+  {"id": "coroner-heavy-trucks-recommendations", "story_url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner", "date": "2026-11-02", "kind": "on", "pages": ["home"],
+   "en": "Coroner’s public inquiry into fatal heavy-truck collisions: hearings on recommendations begin (Nov. 2–6, then Nov. 9–13).", "fr": "Enquête publique du coroner sur les collisions mortelles impliquant des camions lourds : début des audiences sur les recommandations (2 au 6 novembre, puis 9 au 13 novembre).",
+   "source_title": "Enquête publique thématique concernant les collisions mortelles impliquant des camions lourds – Reprise des audiences le 26 octobre 2026", "source_outlet": "Bureau du coroner", "source_url": "https://www.coroner.gouv.qc.ca/medias/actualites/detail/actualite/314"},
+  {"id": "regie-data-centre-rates-decision", "story_url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php", "date": "2027", "kind": "year", "pages": ["home", "hydro-quebec"],
+   "en": "Régie de l’énergie decision on Hydro-Québec’s proposed data-centre and crypto-mining rates expected (according to Hydro-Québec).", "fr": "Décision de la Régie de l’énergie attendue sur les tarifs proposés par Hydro-Québec pour les centres de données et le minage de cryptomonnaies (selon Hydro-Québec).",
+   "source_title": "Tarif plus élevé pour l’électricité des centres de données | La stratégie du gouvernement démolie en cour", "source_outlet": "La Presse", "source_url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"}
 ]
 }

@@ -490,7 +490,9 @@
   "keel": {
    "name": "Keel Infrastructure",
    "type": "organization",
-   "aliases": []
+   "aliases": [
+    "Keel"
+   ]
   },
   "tes-canada": {
    "name": "TES Canada",
@@ -1056,6 +1058,133 @@
    "type": "person",
    "aliases": [
     "Woodhouse Nepinak"
+   ]
+  },
+  "elif-oral": {
+   "name": "Élif Oral",
+   "type": "person",
+   "aliases": [
+    "juge Oral"
+   ]
+  },
+  "energie-flumen": {
+   "name": "Énergie Flumen",
+   "type": "organization",
+   "aliases": []
+  },
+  "parc-olympique": {
+   "name": "Parc olympique (Régie des installations olympiques)",
+   "type": "organization",
+   "aliases": [
+    "Parc olympique",
+    "Olympic Park"
+   ]
+  },
+  "aquabloc": {
+   "name": "Aquabloc",
+   "type": "organization",
+   "aliases": []
+  },
+  "bell-canada": {
+   "name": "Bell Canada",
+   "type": "organization",
+   "aliases": [
+    "Bell",
+    "BCE"
+   ]
+  },
+  "emmanuel-jaclot": {
+   "name": "Emmanuel Jaclot",
+   "type": "person",
+   "aliases": [
+    "Jaclot"
+   ]
+  },
+  "union-europeenne": {
+   "name": "Union européenne",
+   "type": "organization",
+   "aliases": [
+    "European Union",
+    "UE",
+    "EU"
+   ]
+  },
+  "edm-bordeaux": {
+   "name": "Établissement de détention de Montréal",
+   "type": "organization",
+   "aliases": [
+    "Bordeaux",
+    "prison de Bordeaux"
+   ]
+  },
+  "sapscq": {
+   "name": "Syndicat des agents de la paix en services correctionnels du Québec",
+   "type": "organization",
+   "aliases": [
+    "SAPSCQ"
+   ]
+  },
+  "mathieu-lavoie": {
+   "name": "Mathieu Lavoie",
+   "type": "person",
+   "aliases": []
+  },
+  "bureau-coroner": {
+   "name": "Bureau du coroner",
+   "type": "organization",
+   "aliases": [
+    "coroner's office"
+   ]
+  },
+  "dave-kimpton": {
+   "name": "Dave Kimpton",
+   "type": "person",
+   "aliases": [
+    "Kimpton"
+   ]
+  },
+  "surete-quebec": {
+   "name": "Sûreté du Québec",
+   "type": "organization",
+   "aliases": [
+    "SQ",
+    "Quebec provincial police"
+   ]
+  },
+  "investissement-quebec": {
+   "name": "Investissement Québec",
+   "type": "organization",
+   "aliases": [
+    "IQ"
+   ]
+  },
+  "fonds-ftq": {
+   "name": "Fonds de solidarité FTQ",
+   "type": "organization",
+   "aliases": [
+    "Fonds FTQ"
+   ]
+  },
+  "marie-pierre-charland": {
+   "name": "Marie-Pierre Charland",
+   "type": "person",
+   "aliases": [
+    "juge Charland"
+   ]
+  },
+  "assemblee-nationale": {
+   "name": "Assemblée nationale du Québec",
+   "type": "organization",
+   "aliases": [
+    "Assemblée nationale",
+    "National Assembly"
+   ]
+  },
+  "sim": {
+   "name": "Service de sécurité incendie de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SIM"
    ]
   }
  },
@@ -1934,6 +2063,126 @@
    ],
    "checked_by_hand": false,
    "dossiers": []
+  },
+  {
+   "match": "2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees",
+   "entities": [
+    "cour-superieure",
+    "elif-oral",
+    "regie-energie",
+    "hydro-quebec",
+    "keel",
+    "energie-flumen"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "2026-10-26/stade-olympique/travaux-d-urgence",
+   "entities": [
+    "parc-olympique",
+    "aquabloc",
+    "conseil-tresor"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2296173/tours-cellulaires-bell-caisse",
+   "entities": [
+    "la-caisse",
+    "bell-canada",
+    "emmanuel-jaclot"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2296129/sommet-canada-ue",
+   "entities": [
+    "pspp",
+    "marie-claude-sarrazin",
+    "mark-carney",
+    "union-europeenne"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2026-10-27/etablissement-de-detention-de-montreal",
+   "entities": [
+    "edm-bordeaux",
+    "sapscq",
+    "mathieu-lavoie",
+    "guy-lapointe-fils"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2295938/camions-lourds-tanya-eliott",
+   "entities": [
+    "bureau-coroner",
+    "dave-kimpton",
+    "surete-quebec",
+    "saaq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "filiere-batterie-la-grc-a-termine-sa-perquisition",
+   "entities": [
+    "lion",
+    "grc",
+    "investissement-quebec",
+    "fonds-ftq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "lion"
+   ]
+  },
+  {
+   "match": "2295941/avocat-radie-barreau-pq",
+   "entities": [
+    "pq",
+    "plq",
+    "affine-lwalalika",
+    "stephan-fogaing",
+    "marie-pierre-charland",
+    "cour-du-quebec"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "recounts-2026"
+   ]
+  },
+  {
+   "match": "2296016/discours-ouverture-pspp",
+   "entities": [
+    "pspp",
+    "manon-jeannotte",
+    "assemblee-nationale",
+    "plq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "oath-king"
+   ]
+  },
+  {
+   "match": "2026-10-27/crise-de-l-itinerance-a-montreal",
+   "entities": [
+    "ville-montreal",
+    "sim"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "homelessness"
+   ]
   }
  ]
 }

@@ -221,6 +221,17 @@
      "source_type": "media",
      "post": "2026-10-24",
      "background": false
+    },
+    {
+     "date": "2026-10-26",
+     "en": "La Presse reports that Superior Court Justice Élif Oral struck down two government “orders of concern” asking the Régie de l’énergie to accept higher data-centre and crypto-mining rates; Hydro-Québec is keeping its rate application.",
+     "fr": "La Presse rapporte que la juge Élif Oral, de la Cour supérieure, a annulé deux « décrets de préoccupation » du gouvernement demandant à la Régie de l’énergie d’accepter des tarifs plus élevés pour les centres de données et le minage de cryptomonnaies; Hydro-Québec maintient sa demande tarifaire.",
+     "source_title": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php",
+     "source_type": "media",
+     "post": "2026-10-27",
+     "background": false
     }
    ],
    "tldr": {
@@ -233,8 +244,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "The Customer Space is expected back on Monday, Oct. 26. The overtime strike is set to end on Nov. 2.",
-     "fr": "L’Espace client devrait revenir le lundi 26 octobre. La grève des heures supplémentaires doit prendre fin le 2 novembre."
+     "en": "A Superior Court judge struck down the government’s orders on data-centre rates. Hydro-Québec keeps its rate request; a decision is expected in 2027. The overtime strike is set to end on Nov. 2.",
+     "fr": "Une juge de la Cour supérieure a annulé les décrets du gouvernement sur les tarifs des centres de données. Hydro-Québec maintient sa demande; une décision est attendue en 2027. La grève des heures supplémentaires doit prendre fin le 2 novembre."
     }
    }
   },
@@ -515,6 +526,17 @@
      "source_type": "media",
      "post": "2026-10-24",
      "background": false
+    },
+    {
+     "date": "2026-10-26",
+     "en": "Radio-Canada analysis: section 45 of the National Assembly’s rules provides for the Lieutenant Governor’s address before the premier’s opening speech; the Assembly leaves it to MNAs to find a way by Nov. 24.",
+     "fr": "Analyse de Radio-Canada : l’article 45 du règlement de l’Assemblée nationale prévoit l’allocution de la lieutenante-gouverneure avant le discours d’ouverture du premier ministre; l’Assemblée renvoie la question aux parlementaires d’ici le 24 novembre.",
+     "source_title": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec",
+     "source_type": "media",
+     "post": "2026-10-27",
+     "background": false
     }
    ],
    "tldr": {
@@ -527,8 +549,8 @@
      "fr": "La cause pourrait influer sur le moment où l’Assemblée nationale commence ses travaux après l’élection."
     },
     "now": {
-     "en": "The Superior Court heard the case. A ruling is expected by Nov. 24.",
-     "fr": "La Cour supérieure a entendu la cause. Une décision est attendue d’ici le 24 novembre."
+     "en": "The Superior Court heard the case. A ruling is expected by Nov. 24. MNAs must also find a way to open the session without the Lieutenant Governor.",
+     "fr": "La Cour supérieure a entendu la cause. Une décision est attendue d’ici le 24 novembre. Les députés doivent aussi trouver comment ouvrir la session sans la lieutenante-gouverneure."
     }
    }
   },
@@ -623,6 +645,17 @@
      "source_type": "media",
      "post": "2026-10-23",
      "background": false
+    },
+    {
+     "date": "2026-10-25",
+     "en": "The RCMP finishes its four-day search of Lion’s headquarters; it does not disclose what was seized. Lion’s current management says the probe concerns only the company before its May 2025 takeover.",
+     "fr": "La GRC termine sa perquisition de quatre jours au siège de Lion; elle ne dévoile pas les articles saisis. La direction actuelle de Lion affirme que l’enquête vise seulement l’entreprise d’avant son rachat en mai 2025.",
+     "source_title": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique",
+     "source_type": "media",
+     "post": "2026-10-27",
+     "background": false
     }
    ],
    "tldr": {
@@ -635,8 +668,8 @@
      "fr": "Selon La Presse, Québec a perdu plus de 140 M$ dans Lion. Plus de 100 investisseurs se sont plaints à la police, selon les enquêteurs."
     },
     "now": {
-     "en": "The RCMP searched Lion’s headquarters. No one has been charged, and the allegations are unproven.",
-     "fr": "La GRC a perquisitionné le siège de Lion. Personne n’a été accusé, et les allégations ne sont pas prouvées."
+     "en": "The RCMP finished its search of Lion’s headquarters on Oct. 25. No one has been charged, and the allegations are unproven.",
+     "fr": "La GRC a terminé sa perquisition au siège de Lion le 25 octobre. Personne n’a été accusé, et les allégations ne sont pas prouvées."
     }
    }
   },
@@ -906,6 +939,17 @@
      "source_type": "media",
      "post": "2026-10-24",
      "background": false
+    },
+    {
+     "date": "2026-10-26",
+     "en": "Radio-Canada reports that the Vachon recount judge barred PQ adviser Pierre-Hugues Miller, who was struck off the bar, from addressing her; the Liberals, who have decided to contest the result, are reportedly considering using this.",
+     "fr": "Radio-Canada rapporte que la juge du recomptage dans Vachon a interdit au conseiller du PQ Pierre-Hugues Miller, radié du Barreau, de s’adresser à elle; les libéraux, qui ont décidé de contester le résultat, envisageraient d’utiliser cet élément.",
+     "source_title": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election",
+     "source_type": "media",
+     "post": "2026-10-27",
+     "background": false
     }
    ],
    "tldr": {
@@ -918,8 +962,8 @@
      "fr": "Les recomptages vérifient que chaque vote a été bien compté. Ils décident qui représente la circonscription."
     },
     "now": {
-     "en": "The PQ won Vachon by three votes, and the Liberals have 30 days to contest. The PQ conceded Champlain.",
-     "fr": "Le PQ a remporté Vachon par trois voix, et les libéraux ont 30 jours pour contester. Le PQ a concédé Champlain."
+     "en": "The PQ won Vachon by three votes, and the Liberals have decided to contest the result. The PQ conceded Champlain.",
+     "fr": "Le PQ a remporté Vachon par trois voix, et les libéraux ont décidé de contester le résultat. Le PQ a concédé Champlain."
     }
    }
   },
@@ -1104,6 +1148,17 @@
      "source_type": "media",
      "post": "2026-10-24",
      "background": false
+    },
+    {
+     "date": "2026-10-27",
+     "en": "La Presse reports that the City of Montreal is launching a census of wooden “structures” occupied by homeless people, citing fire and other risks as winter arrives.",
+     "fr": "La Presse rapporte que la Ville de Montréal lance une recension des « structures » en bois occupées par des personnes en situation d’itinérance, invoquant des risques, notamment d’incendie, à l’arrivée de l’hiver.",
+     "source_title": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php",
+     "source_type": "media",
+     "post": "2026-10-27",
+     "background": false
     }
    ],
    "tldr": {
@@ -1116,8 +1171,8 @@
      "fr": "L’argent paie de l’hébergement et de l’aide aux personnes sans logis pendant les mois froids."
     },
     "now": {
-     "en": "Quebec added a one-time $28M on top of $18M already planned, for about 200 projects and over 1,000 emergency places.",
-     "fr": "Québec a ajouté 28 M$ ponctuels aux 18 M$ déjà prévus, pour environ 200 projets et plus de 1 000 places d’urgence."
+     "en": "Quebec added a one-time $28M on top of $18M already planned. Montreal is now counting the wooden shelters that homeless people have built.",
+     "fr": "Québec a ajouté 28 M$ ponctuels aux 18 M$ déjà prévus. Montréal recense maintenant les abris en bois construits par des personnes en situation d’itinérance."
     }
    }
   },

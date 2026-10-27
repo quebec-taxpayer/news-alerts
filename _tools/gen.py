@@ -41,7 +41,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-10-23": ["it-digital", "crown-corporations", "procurement"],
         "2026-10-24": ["it-digital", "crown-corporations"],
         "2026-10-25": ["crown-corporations", "procurement"],
-        "2026-10-26": []}
+        "2026-10-26": [],
+        "2026-10-27": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -56,6 +57,8 @@ SUMMARY = {
                 "SAAQ road controllers back on patrol; SAQ sale of American wines; Alto’s high-speed rail test track; surgeries postponed for lack of sterile instruments; PSPP absent from the meeting with Indigenous leaders; L’Ascension still waiting for Quebec; Hydro-Québec’s payments to McKinsey and other consulting firms."),
  "2026-10-26": ("L’UPAC enquête sur Rigaud (lanceur d’alerte); la RBQ retire la licence de Swimko; violence envers le personnel scolaire; attente pour les mammographies en Abitibi-Témiscamingue; BEI et déontologie pour un policier du SPVM; Montréal demande un contrôle des loyers; rencontre Premières Nations–premiers ministres; vaccination contre la grippe.",
                 "UPAC investigates Rigaud (whistleblower); RBQ revokes Swimko’s licence; violence against school support staff; mammogram waits in Abitibi-Témiscamingue; BEI and ethics probes of an SPVM officer; Montreal asks for rent control; First Nations–First Ministers meeting; flu vaccination."),
+ "2026-10-27": ("Tarifs des centres de données : la Cour supérieure annule les décrets de Québec; contrat d’urgence de gré à gré au Stade olympique; La Caisse achète une part des tours de Bell; PSPP privé de parole au sommet Canada-UE; soulèvement à Bordeaux; enquête du coroner sur les poids lourds; suivis : Lion Électrique, Vachon, discours d’ouverture et itinérance.",
+                "Data-centre rates: Superior Court strikes down Quebec’s orders; emergency untendered contract at the Olympic Stadium; La Caisse buys into Bell’s towers; PSPP denied a speech at the Canada–EU summit; uprising at Bordeaux jail; coroner’s heavy-truck inquiry; follow-ups: Lion Électrique, Vachon, opening speech and homelessness."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

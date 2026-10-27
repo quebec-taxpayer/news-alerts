@@ -321,6 +321,56 @@
    "category": "health",
    "importance": 2,
    "title_fr": "750 000 rendez-vous : les Québécois se ruent sur le vaccin contre la grippe, sur fond de signalements de pénurie"
+  },
+  "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "Higher electricity rate for data centres – The government’s strategy demolished in court"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Olympic Stadium – Emergency work because of water infiltration"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Cell towers: Bell Canada sells a $2.45B stake to La Caisse"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Paul St-Pierre Plamondon will not be able to speak at the Canada-EU summit"
+  },
+  "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "Montreal detention facility – A drone delivery leads to an uprising"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "Heavy vehicles and safety: Tanya and Eliott’s loved ones want to “do their part”"
+  },
+  "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "After four days, the RCMP has finally finished its search at Lion Électrique"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Vachon recount: a lawyer struck off the bar acted as a PQ adviser"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Analysis: PSPP’s first speech in the Salon bleu is causing headaches"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Homelessness crisis in Montreal – “It looks like shantytowns”"
   }
  }
 }

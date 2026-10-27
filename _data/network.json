@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-26T14:41:17Z",
+ "generated": "2026-10-27T14:37:24Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 70,
+ "story_count": 80,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -735,6 +735,111 @@
      ]
     }
    ]
+  },
+  "2026-10-27": {
+   "post": "/2026/10/27/digest/",
+   "stories": [
+    {
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php",
+     "entities": [
+      "cour-superieure",
+      "elif-oral",
+      "energie-flumen",
+      "hydro-quebec",
+      "keel",
+      "regie-energie"
+     ]
+    },
+    {
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php",
+     "entities": [
+      "aquabloc",
+      "conseil-tresor",
+      "parc-olympique"
+     ]
+    },
+    {
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec",
+     "entities": [
+      "bell-canada",
+      "emmanuel-jaclot",
+      "la-caisse"
+     ]
+    },
+    {
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois",
+     "entities": [
+      "marie-claude-sarrazin",
+      "mark-carney",
+      "pspp",
+      "union-europeenne"
+     ]
+    },
+    {
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php",
+     "entities": [
+      "edm-bordeaux",
+      "guy-lapointe-fils",
+      "mathieu-lavoie",
+      "sapscq"
+     ]
+    },
+    {
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner",
+     "entities": [
+      "bureau-coroner",
+      "dave-kimpton",
+      "saaq",
+      "surete-quebec"
+     ]
+    },
+    {
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique",
+     "entities": [
+      "fonds-ftq",
+      "grc",
+      "investissement-quebec",
+      "lion"
+     ]
+    },
+    {
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election",
+     "entities": [
+      "affine-lwalalika",
+      "cour-du-quebec",
+      "marie-pierre-charland",
+      "plq",
+      "pq",
+      "stephan-fogaing"
+     ]
+    },
+    {
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec",
+     "entities": [
+      "assemblee-nationale",
+      "manon-jeannotte",
+      "plq",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php",
+     "entities": [
+      "sim",
+      "ville-montreal"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -746,7 +851,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 18,
+   "mentions": 20,
    "stories": [
     {
      "date": "2026-10-21",
@@ -837,6 +942,84 @@
      "date": "2026-10-25",
      "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
      "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    }
+   ]
+  },
+  {
+   "id": "pq",
+   "name": "Parti Québécois",
+   "type": "organization",
+   "aliases": [
+    "PQ",
+    "Parti québécois",
+    "péquiste"
+   ],
+   "mentions": 11,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     }
    ]
   },
@@ -905,76 +1088,13 @@
    ]
   },
   {
-   "id": "pq",
-   "name": "Parti Québécois",
-   "type": "organization",
-   "aliases": [
-    "PQ",
-    "Parti québécois",
-    "péquiste"
-   ],
-   "mentions": 10,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    }
-   ]
-  },
-  {
    "id": "hydro-quebec",
    "name": "Hydro-Québec",
    "type": "organization",
    "aliases": [
     "HQ"
    ],
-   "mentions": 8,
+   "mentions": 9,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1015,6 +1135,53 @@
      "date": "2026-10-25",
      "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
      "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "id": "lion",
+   "name": "Lion Électrique",
+   "type": "organization",
+   "aliases": [
+    "Lion Electric",
+    "Lion"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
+     "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
+     "url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Perquisition de la GRC – Lion Électrique toujours au neutre",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
     }
    ]
   },
@@ -1060,39 +1227,45 @@
    ]
   },
   {
-   "id": "lion",
-   "name": "Lion Électrique",
+   "id": "plq",
+   "name": "Parti libéral du Québec",
    "type": "organization",
    "aliases": [
-    "Lion Electric",
-    "Lion"
+    "PLQ",
+    "Quebec Liberal Party",
+    "libéraux"
    ],
-   "mentions": 5,
+   "mentions": 6,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
-     "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
-    },
-    {
      "date": "2026-10-22",
-     "headline": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
-     "url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125"
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
     },
     {
      "date": "2026-10-23",
-     "headline": "Perquisition de la GRC – Lion Électrique toujours au neutre",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php"
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
     }
    ]
   },
@@ -1159,35 +1332,36 @@
    ]
   },
   {
-   "id": "plq",
-   "name": "Parti libéral du Québec",
+   "id": "grc",
+   "name": "Gendarmerie royale du Canada",
    "type": "organization",
    "aliases": [
-    "PLQ",
-    "Quebec Liberal Party",
-    "libéraux"
+    "GRC",
+    "RCMP",
+    "Royal Canadian Mounted Police",
+    "Integrated Market Enforcement Team"
    ],
    "mentions": 4,
    "stories": [
     {
+     "date": "2026-10-21",
+     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    },
+    {
      "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+     "headline": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
+     "url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125"
     },
     {
      "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "headline": "Perquisition de la GRC – Lion Électrique toujours au neutre",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
     }
    ]
   },
@@ -1281,6 +1455,30 @@
    ]
   },
   {
+   "id": "affine-lwalalika",
+   "name": "Affine Lwalalika",
+   "type": "person",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
    "id": "charles-iii",
    "name": "Charles III",
    "type": "person",
@@ -1332,31 +1530,79 @@
    ]
   },
   {
-   "id": "grc",
-   "name": "Gendarmerie royale du Canada",
+   "id": "cour-du-quebec",
+   "name": "Cour du Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "id": "cour-superieure",
+   "name": "Cour supérieure du Québec",
    "type": "organization",
    "aliases": [
-    "GRC",
-    "RCMP",
-    "Royal Canadian Mounted Police",
-    "Integrated Market Enforcement Team"
+    "Cour supérieure",
+    "Superior Court"
    ],
    "mentions": 3,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "id": "manon-jeannotte",
+   "name": "Manon Jeannotte",
+   "type": "person",
+   "aliases": [
+    "Manon Jeanotte"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
     },
     {
      "date": "2026-10-22",
-     "headline": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
-     "url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125"
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
     },
     {
-     "date": "2026-10-23",
-     "headline": "Perquisition de la GRC – Lion Électrique toujours au neutre",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php"
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
     }
    ]
   },
@@ -1415,6 +1661,109 @@
    ]
   },
   {
+   "id": "regie-energie",
+   "name": "Régie de l’énergie",
+   "type": "organization",
+   "aliases": [
+    "Régie de l'énergie",
+    "Régie"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Fini le gaz américain chez Énergir",
+     "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "id": "saaq",
+   "name": "Société de l’assurance automobile du Québec",
+   "type": "organization",
+   "aliases": [
+    "SAAQ"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    }
+   ]
+  },
+  {
+   "id": "stephan-fogaing",
+   "name": "Stephan Fogaing",
+   "type": "person",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "id": "ville-montreal",
+   "name": "Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "City of Montreal"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+    }
+   ]
+  },
+  {
    "id": "elections-quebec",
    "name": "Élections Québec",
    "type": "organization",
@@ -1456,25 +1805,6 @@
      "date": "2026-10-23",
      "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
      "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    }
-   ]
-  },
-  {
-   "id": "affine-lwalalika",
-   "name": "Affine Lwalalika",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
     }
    ]
   },
@@ -1543,43 +1873,23 @@
    ]
   },
   {
-   "id": "cour-du-quebec",
-   "name": "Cour du Québec",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    }
-   ]
-  },
-  {
-   "id": "cour-superieure",
-   "name": "Cour supérieure du Québec",
+   "id": "conseil-tresor",
+   "name": "Conseil du trésor",
    "type": "organization",
    "aliases": [
-    "Cour supérieure",
-    "Superior Court"
+    "Treasury Board"
    ],
    "mentions": 2,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
     }
    ]
   },
@@ -1601,6 +1911,28 @@
      "date": "2026-10-26",
      "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
      "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "id": "guy-lapointe-fils",
+   "name": "Guy Lapointe fils",
+   "type": "person",
+   "aliases": [
+    "Guy Jr. Lapointe",
+    "Lapointe"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
     }
    ]
   },
@@ -1645,6 +1977,49 @@
    ]
   },
   {
+   "id": "keel",
+   "name": "Keel Infrastructure",
+   "type": "organization",
+   "aliases": [
+    "Keel"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "id": "la-caisse",
+   "name": "La Caisse (Caisse de dépôt et placement du Québec)",
+   "type": "organization",
+   "aliases": [
+    "La Caisse",
+    "CDPQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
+     "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
+    }
+   ]
+  },
+  {
    "id": "lawrence-david",
    "name": "Lawrence David",
    "type": "person",
@@ -1666,27 +2041,6 @@
    ]
   },
   {
-   "id": "manon-jeannotte",
-   "name": "Manon Jeannotte",
-   "type": "person",
-   "aliases": [
-    "Manon Jeanotte"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    }
-   ]
-  },
-  {
    "id": "marc-bedard",
    "name": "Marc Bédard",
    "type": "person",
@@ -1702,6 +2056,48 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
+    }
+   ]
+  },
+  {
+   "id": "marie-claude-sarrazin",
+   "name": "Marie-Claude Sarrazin",
+   "type": "person",
+   "aliases": [
+    "Sarrazin"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Elle obtient 7 rôles au sein du Conseil des ministres : «J’aime les défis», dit Marie-Claude Sarrazin",
+     "url": "https://www.tvanouvelles.ca/2026/10/22/elle-obtient-7-roles-au-sein-du-conseil-des-ministres--jaime-les-defis-dit-marie-claude-sarrazin"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "id": "mark-carney",
+   "name": "Mark Carney",
+   "type": "person",
+   "aliases": [
+    "Carney"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
     }
    ]
   },
@@ -1813,28 +2209,6 @@
    ]
   },
   {
-   "id": "regie-energie",
-   "name": "Régie de l’énergie",
-   "type": "organization",
-   "aliases": [
-    "Régie de l'énergie",
-    "Régie"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Fini le gaz américain chez Énergir",
-     "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
-    }
-   ]
-  },
-  {
    "id": "spvm",
    "name": "Service de police de la Ville de Montréal",
    "type": "organization",
@@ -1852,46 +2226,6 @@
      "date": "2026-10-26",
      "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
      "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    }
-   ]
-  },
-  {
-   "id": "saaq",
-   "name": "Société de l’assurance automobile du Québec",
-   "type": "organization",
-   "aliases": [
-    "SAAQ"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
-    }
-   ]
-  },
-  {
-   "id": "stephan-fogaing",
-   "name": "Stephan Fogaing",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
     }
    ]
   },
@@ -1953,27 +2287,6 @@
      "date": "2026-10-25",
      "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
      "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
-    }
-   ]
-  },
-  {
-   "id": "ville-montreal",
-   "name": "Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "City of Montreal"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     }
    ]
   },
@@ -2109,6 +2422,20 @@
    ]
   },
   {
+   "id": "aquabloc",
+   "name": "Aquabloc",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
    "id": "apn",
    "name": "Assemblée des Premières Nations",
    "type": "organization",
@@ -2122,6 +2449,23 @@
      "date": "2026-10-26",
      "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
      "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "id": "assemblee-nationale",
+   "name": "Assemblée nationale du Québec",
+   "type": "organization",
+   "aliases": [
+    "Assemblée nationale",
+    "National Assembly"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
     }
    ]
   },
@@ -2202,6 +2546,23 @@
    ]
   },
   {
+   "id": "bell-canada",
+   "name": "Bell Canada",
+   "type": "organization",
+   "aliases": [
+    "Bell",
+    "BCE"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
+    }
+   ]
+  },
+  {
    "id": "benoit-raillard",
    "name": "Benoit Raillard",
    "type": "person",
@@ -2242,6 +2603,22 @@
      "date": "2026-10-26",
      "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
      "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "id": "bureau-coroner",
+   "name": "Bureau du coroner",
+   "type": "organization",
+   "aliases": [
+    "coroner's office"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
     }
    ]
   },
@@ -2490,22 +2867,6 @@
    ]
   },
   {
-   "id": "conseil-tresor",
-   "name": "Conseil du trésor",
-   "type": "organization",
-   "aliases": [
-    "Treasury Board"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
-    }
-   ]
-  },
-  {
    "id": "consignaction",
    "name": "Consignaction",
    "type": "organization",
@@ -2549,6 +2910,22 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "dave-kimpton",
+   "name": "Dave Kimpton",
+   "type": "person",
+   "aliases": [
+    "Kimpton"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
     }
    ]
   },
@@ -2653,6 +3030,22 @@
    ]
   },
   {
+   "id": "emmanuel-jaclot",
+   "name": "Emmanuel Jaclot",
+   "type": "person",
+   "aliases": [
+    "Jaclot"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
+    }
+   ]
+  },
+  {
    "id": "epic",
    "name": "Epic",
    "type": "organization",
@@ -2691,6 +3084,22 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "fonds-ftq",
+   "name": "Fonds de solidarité FTQ",
+   "type": "organization",
+   "aliases": [
+    "Fonds FTQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
     }
    ]
   },
@@ -2862,23 +3271,6 @@
    ]
   },
   {
-   "id": "guy-lapointe-fils",
-   "name": "Guy Lapointe fils",
-   "type": "person",
-   "aliases": [
-    "Guy Jr. Lapointe",
-    "Lapointe"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    }
-   ]
-  },
-  {
    "id": "hugues-mousseau",
    "name": "Hugues Mousseau",
    "type": "person",
@@ -2975,6 +3367,22 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    }
+   ]
+  },
+  {
+   "id": "investissement-quebec",
+   "name": "Investissement Québec",
+   "type": "organization",
+   "aliases": [
+    "IQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
     }
    ]
   },
@@ -3121,20 +3529,6 @@
    ]
   },
   {
-   "id": "keel",
-   "name": "Keel Infrastructure",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    }
-   ]
-  },
-  {
    "id": "keolis-canada",
    "name": "Keolis Canada",
    "type": "organization",
@@ -3175,23 +3569,6 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
-    }
-   ]
-  },
-  {
-   "id": "la-caisse",
-   "name": "La Caisse (Caisse de dépôt et placement du Québec)",
-   "type": "organization",
-   "aliases": [
-    "La Caisse",
-    "CDPQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
-     "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
     }
    ]
   },
@@ -3268,22 +3645,6 @@
    ]
   },
   {
-   "id": "marie-claude-sarrazin",
-   "name": "Marie-Claude Sarrazin",
-   "type": "person",
-   "aliases": [
-    "Sarrazin"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Elle obtient 7 rôles au sein du Conseil des ministres : «J’aime les défis», dit Marie-Claude Sarrazin",
-     "url": "https://www.tvanouvelles.ca/2026/10/22/elle-obtient-7-roles-au-sein-du-conseil-des-ministres--jaime-les-defis-dit-marie-claude-sarrazin"
-    }
-   ]
-  },
-  {
    "id": "marie-josee-tremblay",
    "name": "Marie-Josée Tremblay",
    "type": "person",
@@ -3298,18 +3659,18 @@
    ]
   },
   {
-   "id": "mark-carney",
-   "name": "Mark Carney",
+   "id": "marie-pierre-charland",
+   "name": "Marie-Pierre Charland",
    "type": "person",
    "aliases": [
-    "Carney"
+    "juge Charland"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
-     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     }
    ]
   },
@@ -3324,6 +3685,20 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "id": "mathieu-lavoie",
+   "name": "Mathieu Lavoie",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
     }
    ]
   },
@@ -3503,6 +3878,23 @@
    ]
   },
   {
+   "id": "parc-olympique",
+   "name": "Parc olympique (Régie des installations olympiques)",
+   "type": "organization",
+   "aliases": [
+    "Parc olympique",
+    "Olympic Park"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
    "id": "projet-montreal",
    "name": "Projet Montréal",
    "type": "organization",
@@ -3619,6 +4011,22 @@
    ]
   },
   {
+   "id": "sim",
+   "name": "Service de sécurité incendie de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SIM"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+    }
+   ]
+  },
+  {
    "id": "simon-mathieu-malenfant",
    "name": "Simon-Mathieu Malenfant",
    "type": "person",
@@ -3707,6 +4115,22 @@
    ]
   },
   {
+   "id": "sapscq",
+   "name": "Syndicat des agents de la paix en services correctionnels du Québec",
+   "type": "organization",
+   "aliases": [
+    "SAPSCQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    }
+   ]
+  },
+  {
    "id": "semb-saq",
    "name": "Syndicat des employé(e)s de magasins et de bureaux de la SAQ",
    "type": "organization",
@@ -3737,6 +4161,23 @@
    ]
   },
   {
+   "id": "surete-quebec",
+   "name": "Sûreté du Québec",
+   "type": "organization",
+   "aliases": [
+    "SQ",
+    "Quebec provincial police"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    }
+   ]
+  },
+  {
    "id": "tes-canada",
    "name": "TES Canada",
    "type": "organization",
@@ -3761,6 +4202,24 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "id": "union-europeenne",
+   "name": "Union européenne",
+   "type": "organization",
+   "aliases": [
+    "European Union",
+    "UE",
+    "EU"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
     }
    ]
   },
@@ -3839,6 +4298,36 @@
    ]
   },
   {
+   "id": "elif-oral",
+   "name": "Élif Oral",
+   "type": "person",
+   "aliases": [
+    "juge Oral"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "id": "energie-flumen",
+   "name": "Énergie Flumen",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
    "id": "energir",
    "name": "Énergir",
    "type": "organization",
@@ -3893,6 +4382,23 @@
      "date": "2026-10-26",
      "headline": "Près de 30 000 incidents de violence dans les écoles",
      "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
+    }
+   ]
+  },
+  {
+   "id": "edm-bordeaux",
+   "name": "Établissement de détention de Montréal",
+   "type": "organization",
+   "aliases": [
+    "Bordeaux",
+    "prison de Bordeaux"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
     }
    ]
   },
@@ -4009,6 +4515,60 @@
    ]
   },
   {
+   "source": "grc",
+   "target": "lion",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
+     "url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Perquisition de la GRC – Lion Électrique toujours au neutre",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
+   "source": "plq",
+   "target": "pq",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
    "source": "pspp",
    "target": "stephane-paquet",
    "weight": 4,
@@ -4032,6 +4592,72 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
+   "target": "plq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
+   "target": "stephan-fogaing",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     }
    ]
   },
@@ -4124,6 +4750,28 @@
    ]
   },
   {
+   "source": "cour-du-quebec",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
    "source": "elections-quebec",
    "target": "pq",
    "weight": 3,
@@ -4146,24 +4794,24 @@
    ]
   },
   {
-   "source": "grc",
-   "target": "lion",
+   "source": "manon-jeannotte",
+   "target": "pspp",
    "weight": 3,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
     },
     {
      "date": "2026-10-22",
-     "headline": "Police raid Saint-Jérôme, Que., headquarters of EV manufacturer Lion Electric",
-     "url": "https://www.cbc.ca/news/canada/montreal/police-search-saint-jerome-que-company-lion-electric-9.7390125"
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
     },
     {
-     "date": "2026-10-23",
-     "headline": "Perquisition de la GRC – Lion Électrique toujours au neutre",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-22/perquisition-de-la-grc/lion-electrique-toujours-au-neutre.php"
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
     }
    ]
   },
@@ -4213,7 +4861,7 @@
   },
   {
    "source": "plq",
-   "target": "pq",
+   "target": "stephan-fogaing",
    "weight": 3,
    "stories": [
     {
@@ -4222,14 +4870,14 @@
      "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
     },
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     }
    ]
   },
@@ -4252,6 +4900,28 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "stephan-fogaing",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     }
    ]
   },
@@ -4330,58 +5000,24 @@
   },
   {
    "source": "affine-lwalalika",
+   "target": "cour-du-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
    "target": "elections-quebec",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    }
-   ]
-  },
-  {
-   "source": "affine-lwalalika",
-   "target": "plq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    }
-   ]
-  },
-  {
-   "source": "affine-lwalalika",
-   "target": "pq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    }
-   ]
-  },
-  {
-   "source": "affine-lwalalika",
-   "target": "stephan-fogaing",
    "weight": 2,
    "stories": [
     {
@@ -4687,18 +5323,35 @@
   },
   {
    "source": "cour-du-quebec",
-   "target": "pq",
+   "target": "plq",
    "weight": 2,
    "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
     {
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "cour-du-quebec",
+   "target": "stephan-fogaing",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     }
    ]
   },
@@ -4771,6 +5424,40 @@
    ]
   },
   {
+   "source": "hydro-quebec",
+   "target": "keel",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "regie-energie",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
    "source": "jacques-allard",
    "target": "mpo",
    "weight": 2,
@@ -4805,6 +5492,23 @@
    ]
   },
   {
+   "source": "keel",
+   "target": "regie-energie",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
    "source": "lawrence-david",
    "target": "pspp",
    "weight": 2,
@@ -4835,23 +5539,6 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
-    }
-   ]
-  },
-  {
-   "source": "manon-jeannotte",
-   "target": "pspp",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
     }
    ]
   },
@@ -5044,18 +5731,18 @@
   },
   {
    "source": "plq",
-   "target": "stephan-fogaing",
+   "target": "pspp",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
     }
    ]
   },
@@ -5073,23 +5760,6 @@
      "date": "2026-10-23",
      "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
      "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    }
-   ]
-  },
-  {
-   "source": "pq",
-   "target": "stephan-fogaing",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
     }
    ]
   },
@@ -5326,13 +5996,13 @@
   },
   {
    "source": "affine-lwalalika",
-   "target": "cour-du-quebec",
+   "target": "marie-pierre-charland",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     }
    ]
   },
@@ -6021,6 +6691,66 @@
    ]
   },
   {
+   "source": "aquabloc",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
+   "source": "aquabloc",
+   "target": "parc-olympique",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "manon-jeannotte",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    }
+   ]
+  },
+  {
    "source": "at-construction",
    "target": "ccq",
    "weight": 1,
@@ -6225,6 +6955,30 @@
    ]
   },
   {
+   "source": "bell-canada",
+   "target": "emmanuel-jaclot",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bell-canada",
+   "target": "la-caisse",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
+    }
+   ]
+  },
+  {
    "source": "benoit-raillard",
    "target": "fnz",
    "weight": 1,
@@ -6305,6 +7059,42 @@
      "date": "2026-10-24",
      "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
      "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+    }
+   ]
+  },
+  {
+   "source": "bureau-coroner",
+   "target": "dave-kimpton",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    }
+   ]
+  },
+  {
+   "source": "bureau-coroner",
+   "target": "saaq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    }
+   ]
+  },
+  {
+   "source": "bureau-coroner",
+   "target": "surete-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
     }
    ]
   },
@@ -6969,6 +7759,18 @@
    ]
   },
   {
+   "source": "conseil-tresor",
+   "target": "parc-olympique",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
    "source": "consignaction",
    "target": "david-rousseau",
    "weight": 1,
@@ -7162,6 +7964,18 @@
   },
   {
    "source": "cour-du-quebec",
+   "target": "marie-pierre-charland",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "cour-du-quebec",
    "target": "pcq",
    "weight": 1,
    "stories": [
@@ -7169,18 +7983,6 @@
      "date": "2026-10-23",
      "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
      "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    }
-   ]
-  },
-  {
-   "source": "cour-du-quebec",
-   "target": "plq",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
     }
    ]
   },
@@ -7209,14 +8011,38 @@
    ]
   },
   {
-   "source": "cour-du-quebec",
-   "target": "stephan-fogaing",
+   "source": "cour-superieure",
+   "target": "elif-oral",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
+   "target": "energie-flumen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
     }
    ]
   },
@@ -7234,6 +8060,18 @@
   },
   {
    "source": "cour-superieure",
+   "target": "keel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
    "target": "manon-jeannotte",
    "weight": 1,
    "stories": [
@@ -7241,6 +8079,18 @@
      "date": "2026-10-21",
      "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
     }
    ]
   },
@@ -7337,6 +8187,30 @@
      "date": "2026-10-25",
      "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
      "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "dave-kimpton",
+   "target": "saaq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    }
+   ]
+  },
+  {
+   "source": "dave-kimpton",
+   "target": "surete-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
     }
    ]
   },
@@ -7533,6 +8407,42 @@
    ]
   },
   {
+   "source": "edm-bordeaux",
+   "target": "guy-lapointe-fils",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    }
+   ]
+  },
+  {
+   "source": "edm-bordeaux",
+   "target": "mathieu-lavoie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    }
+   ]
+  },
+  {
+   "source": "edm-bordeaux",
+   "target": "sapscq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    }
+   ]
+  },
+  {
    "source": "elections-quebec",
    "target": "eric-martel",
    "weight": 1,
@@ -7577,6 +8487,54 @@
      "date": "2026-10-21",
      "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    }
+   ]
+  },
+  {
+   "source": "elif-oral",
+   "target": "energie-flumen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "elif-oral",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "elif-oral",
+   "target": "keel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "elif-oral",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
     }
    ]
   },
@@ -7709,6 +8667,54 @@
      "date": "2026-10-26",
      "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
      "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "emmanuel-jaclot",
+   "target": "la-caisse",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
+    }
+   ]
+  },
+  {
+   "source": "energie-flumen",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "energie-flumen",
+   "target": "keel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "energie-flumen",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
     }
    ]
   },
@@ -8277,6 +9283,42 @@
    ]
   },
   {
+   "source": "fonds-ftq",
+   "target": "grc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
+   "source": "fonds-ftq",
+   "target": "investissement-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
+   "source": "fonds-ftq",
+   "target": "lion",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
    "source": "fpss-csq",
    "target": "fqde",
    "weight": 1,
@@ -8566,6 +9608,18 @@
   },
   {
    "source": "grc",
+   "target": "investissement-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
+   "source": "grc",
    "target": "marc-bedard",
    "weight": 1,
    "stories": [
@@ -8573,6 +9627,30 @@
      "date": "2026-10-21",
      "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "mathieu-lavoie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "sapscq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
     }
    ]
   },
@@ -8662,18 +9740,6 @@
   },
   {
    "source": "hydro-quebec",
-   "target": "keel",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
    "target": "mckinsey",
    "weight": 1,
    "stories": [
@@ -8741,18 +9807,6 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
-   "target": "regie-energie",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
     }
    ]
   },
@@ -9017,6 +10071,18 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "lion",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
     }
    ]
   },
@@ -9345,18 +10411,6 @@
    ]
   },
   {
-   "source": "keel",
-   "target": "regie-energie",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    }
-   ]
-  },
-  {
    "source": "keolis-canada",
    "target": "sncf-voyageurs",
    "weight": 1,
@@ -9598,6 +10652,18 @@
   },
   {
    "source": "manon-jeannotte",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    }
+   ]
+  },
+  {
+   "source": "manon-jeannotte",
    "target": "pq",
    "weight": 1,
    "stories": [
@@ -9605,6 +10671,42 @@
      "date": "2026-10-22",
      "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
      "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-sarrazin",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-sarrazin",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-sarrazin",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
     }
    ]
   },
@@ -9705,6 +10807,66 @@
    ]
   },
   {
+   "source": "marie-pierre-charland",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "marie-pierre-charland",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "marie-pierre-charland",
+   "target": "stephan-fogaing",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
    "source": "martin-lachance",
    "target": "saq",
    "weight": 1,
@@ -9737,6 +10899,18 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "source": "mathieu-lavoie",
+   "target": "sapscq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
     }
    ]
   },
@@ -10030,18 +11204,6 @@
   },
   {
    "source": "plq",
-   "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    }
-   ]
-  },
-  {
-   "source": "plq",
    "target": "qs",
    "weight": 1,
    "stories": [
@@ -10210,6 +11372,18 @@
   },
   {
    "source": "pspp",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "ville-montreal",
    "weight": 1,
    "stories": [
@@ -10277,6 +11451,18 @@
      "date": "2026-10-22",
      "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
      "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    }
+   ]
+  },
+  {
+   "source": "saaq",
+   "target": "surete-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
     }
    ]
   },
@@ -10373,6 +11559,18 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "source": "sim",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
     }
    ]
   },
