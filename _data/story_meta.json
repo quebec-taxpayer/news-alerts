@@ -371,6 +371,56 @@
    "category": "health",
    "importance": 3,
    "title_en": "Homelessness crisis in Montreal – “It looks like shantytowns”"
+  },
+  "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "Shrinking the state: early retirement and severance pay for civil servants"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Canada–European Union summit – Carney hits back at St-Pierre Plamondon: “It is his decision to leave an empty chair again”"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296415/changement-heure-projet-loi-quebec": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "The Quebec government will table a bill on the clock change"
+  },
+  "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Public money should not fund political activism"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295358/aide-sociale-francais-lettre-avis-decision": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Many French errors in letters from a government department"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Seniors facing uncertainty: their run-down residence will close in one year"
+  },
+  "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703": {
+   "category": "health",
+   "importance": 3,
+   "title_fr": "Le Bureau du coroner du Québec expose les changements apportés après la mort de Chloé Bélanger"
+  },
+  "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "A couple waiting on Hydro could spend the winter without electricity in their new house"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Delays, cancellations and bugs: complaints to the RTC soar at the start of the 2026 school year"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Homelessness crisis – A roadmap for Paul St-Pierre Plamondon"
   }
  }
 }

@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-27T14:37:24Z",
+ "generated": "2026-10-28T14:38:56Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 80,
+ "story_count": 90,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -840,6 +840,110 @@
      ]
     }
    ]
+  },
+  "2026-10-28": {
+   "post": "/2026/10/28/digest/",
+   "stories": [
+    {
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires",
+     "entities": [
+      "alain-therrien",
+      "caq",
+      "christine-frechette",
+      "conseil-tresor",
+      "france-elaine-duranceau",
+      "pq",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php",
+     "entities": [
+      "assemblee-nationale",
+      "charles-milliard",
+      "eric-duhaime",
+      "mark-carney",
+      "pspp",
+      "union-europeenne"
+     ]
+    },
+    {
+     "headline": "Le gouvernement du Québec déposera un projet de loi sur le changement d’heure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296415/changement-heure-projet-loi-quebec",
+     "entities": [
+      "pq",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "L'argent public ne devrait pas financer le militantisme politique",
+     "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/",
+     "entities": [
+      "cardus",
+      "commissaire-lobbyisme",
+      "etienne-alexandre-beauregard"
+     ]
+    },
+    {
+     "headline": "De nombreuses fautes de français dans des lettres d’un ministère",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295358/aide-sociale-francais-lettre-avis-decision",
+     "entities": [
+      "action-plus-estrie",
+      "mess"
+     ]
+    },
+    {
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement",
+     "entities": [
+      "rbq",
+      "residence-pionniers",
+      "rqoh",
+      "shq"
+     ]
+    },
+    {
+     "headline": "Quebec coroner's office lays out changes following death of Chloé Bélanger",
+     "url": "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703",
+     "entities": [
+      "bureau-coroner",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve",
+     "entities": [
+      "frederic-savard",
+      "hydro-quebec",
+      "scfp-1500",
+      "tat"
+     ]
+    },
+    {
+     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport",
+     "entities": [
+      "rtc",
+      "stm"
+     ]
+    },
+    {
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php",
+     "entities": [
+      "assemblee-nationale",
+      "mark-carney",
+      "michele-chappaz",
+      "mmfim",
+      "pauline-marois",
+      "pq",
+      "pspp"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -851,7 +955,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 20,
+   "mentions": 24,
    "stories": [
     {
      "date": "2026-10-21",
@@ -952,6 +1056,26 @@
      "date": "2026-10-27",
      "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
      "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Le gouvernement du Québec déposera un projet de loi sur le changement d’heure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296415/changement-heure-projet-loi-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -964,7 +1088,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 11,
+   "mentions": 14,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1020,6 +1144,21 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Le gouvernement du Québec déposera un projet de loi sur le changement d’heure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296415/changement-heure-projet-loi-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -1028,7 +1167,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 11,
+   "mentions": 12,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1084,6 +1223,11 @@
      "date": "2026-10-26",
      "headline": "750K appointments booked: Quebecers rush to get flu shots, amid reports of shortage",
      "url": "https://montreal.citynews.ca/2026/10/26/750k-appointments-booked-flu-vaccine/"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Quebec coroner's office lays out changes following death of Chloé Bélanger",
+     "url": "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703"
     }
    ]
   },
@@ -1094,7 +1238,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 9,
+   "mentions": 10,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1140,6 +1284,11 @@
      "date": "2026-10-27",
      "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
      "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
     }
    ]
   },
@@ -1276,7 +1425,7 @@
    "aliases": [
     "Therrien"
    ],
-   "mentions": 4,
+   "mentions": 5,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1297,6 +1446,11 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -1362,6 +1516,37 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
+   "id": "mark-carney",
+   "name": "Mark Carney",
+   "type": "person",
+   "aliases": [
+    "Carney"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -1479,6 +1664,33 @@
    ]
   },
   {
+   "id": "assemblee-nationale",
+   "name": "Assemblée nationale du Québec",
+   "type": "organization",
+   "aliases": [
+    "Assemblée nationale",
+    "National Assembly"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "id": "charles-iii",
    "name": "Charles III",
    "type": "person",
@@ -1526,6 +1738,59 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
+    }
+   ]
+  },
+  {
+   "id": "caq",
+   "name": "Coalition Avenir Québec",
+   "type": "organization",
+   "aliases": [
+    "CAQ",
+    "caquiste"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "id": "conseil-tresor",
+   "name": "Conseil du trésor",
+   "type": "organization",
+   "aliases": [
+    "Treasury Board"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -1738,6 +2003,30 @@
    ]
   },
   {
+   "id": "tat",
+   "name": "Tribunal administratif du travail",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    }
+   ]
+  },
+  {
    "id": "ville-montreal",
    "name": "Ville de Montréal",
    "type": "organization",
@@ -1851,45 +2140,65 @@
    ]
   },
   {
-   "id": "caq",
-   "name": "Coalition Avenir Québec",
+   "id": "bureau-coroner",
+   "name": "Bureau du coroner",
    "type": "organization",
    "aliases": [
-    "CAQ",
-    "caquiste"
+    "coroner's office"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Quebec coroner's office lays out changes following death of Chloé Bélanger",
+     "url": "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703"
+    }
+   ]
+  },
+  {
+   "id": "charles-milliard",
+   "name": "Charles Milliard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "id": "commissaire-lobbyisme",
+   "name": "Commissaire au lobbyisme du Québec",
+   "type": "organization",
+   "aliases": [
+    "Commissaire au lobbyisme",
+    "Lobbyisme Québec",
+    "Lobbying Commissioner"
    ],
    "mentions": 2,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+     "headline": "Le Commissaire au lobbyisme du Québec met fin au « bar ouvert » postélectoral",
+     "url": "https://ici.radio-canada.ca/nouvelle/2291328/commissaire-lobbyisme-quebec-bar-ouvert"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    }
-   ]
-  },
-  {
-   "id": "conseil-tresor",
-   "name": "Conseil du trésor",
-   "type": "organization",
-   "aliases": [
-    "Treasury Board"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+     "date": "2026-10-28",
+     "headline": "L'argent public ne devrait pas financer le militantisme politique",
+     "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
     }
    ]
   },
@@ -2081,27 +2390,6 @@
    ]
   },
   {
-   "id": "mark-carney",
-   "name": "Mark Carney",
-   "type": "person",
-   "aliases": [
-    "Carney"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
-     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    }
-   ]
-  },
-  {
    "id": "msss",
    "name": "Ministère de la Santé et des Services sociaux",
    "type": "organization",
@@ -2209,6 +2497,27 @@
    ]
   },
   {
+   "id": "rbq",
+   "name": "Régie du bâtiment du Québec",
+   "type": "organization",
+   "aliases": [
+    "RBQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
    "id": "spvm",
    "name": "Service de police de la Ville de Montréal",
    "type": "organization",
@@ -2226,6 +2535,27 @@
      "date": "2026-10-26",
      "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
      "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "id": "stm",
+   "name": "Société de transport de Montréal",
+   "type": "organization",
+   "aliases": [
+    "STM"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
     }
    ]
   },
@@ -2272,21 +2602,44 @@
    ]
   },
   {
-   "id": "tat",
-   "name": "Tribunal administratif du travail",
+   "id": "union-europeenne",
+   "name": "Union européenne",
    "type": "organization",
+   "aliases": [
+    "European Union",
+    "UE",
+    "EU"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "id": "eric-duhaime",
+   "name": "Éric Duhaime",
+   "type": "person",
    "aliases": [],
    "mentions": 2,
    "stories": [
     {
      "date": "2026-10-23",
-     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
-     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
     },
     {
-     "date": "2026-10-25",
-     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -2453,23 +2806,6 @@
    ]
   },
   {
-   "id": "assemblee-nationale",
-   "name": "Assemblée nationale du Québec",
-   "type": "organization",
-   "aliases": [
-    "Assemblée nationale",
-    "National Assembly"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    }
-   ]
-  },
-  {
    "id": "aac",
    "name": "Association de l’aluminium du Canada",
    "type": "organization",
@@ -2607,22 +2943,6 @@
    ]
   },
   {
-   "id": "bureau-coroner",
-   "name": "Bureau du coroner",
-   "type": "organization",
-   "aliases": [
-    "coroner's office"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
-    }
-   ]
-  },
-  {
    "id": "bape",
    "name": "Bureau d’audiences publiques sur l’environnement",
    "type": "organization",
@@ -2711,20 +3031,6 @@
    ]
   },
   {
-   "id": "charles-milliard",
-   "name": "Charles Milliard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    }
-   ]
-  },
-  {
    "id": "christian-dube",
    "name": "Christian Dubé",
    "type": "person",
@@ -2735,6 +3041,22 @@
      "date": "2026-10-21",
      "headline": "Québec prépare l’abolition de Santé Québec",
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    }
+   ]
+  },
+  {
+   "id": "christine-frechette",
+   "name": "Christine Fréchette",
+   "type": "person",
+   "aliases": [
+    "Fréchette"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -2765,24 +3087,6 @@
      "date": "2026-10-21",
      "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
      "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    }
-   ]
-  },
-  {
-   "id": "commissaire-lobbyisme",
-   "name": "Commissaire au lobbyisme du Québec",
-   "type": "organization",
-   "aliases": [
-    "Commissaire au lobbyisme",
-    "Lobbyisme Québec",
-    "Lobbying Commissioner"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Le Commissaire au lobbyisme du Québec met fin au « bar ouvert » postélectoral",
-     "url": "https://ici.radio-canada.ca/nouvelle/2291328/commissaire-lobbyisme-quebec-bar-ouvert"
     }
    ]
   },
@@ -3104,6 +3408,22 @@
    ]
   },
   {
+   "id": "france-elaine-duranceau",
+   "name": "France-Élaine Duranceau",
+   "type": "person",
+   "aliases": [
+    "Duranceau"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
    "id": "francois-chapdelaine",
    "name": "François Chapdelaine",
    "type": "person",
@@ -3144,6 +3464,22 @@
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    }
+   ]
+  },
+  {
+   "id": "frederic-savard",
+   "name": "Frédéric Savard",
+   "type": "person",
+   "aliases": [
+    "Savard"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
     }
    ]
   },
@@ -3367,6 +3703,23 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    }
+   ]
+  },
+  {
+   "id": "cardus",
+   "name": "Institut Cardus",
+   "type": "organization",
+   "aliases": [
+    "Cardus",
+    "L’Institut Cardus"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "L'argent public ne devrait pas financer le militantisme politique",
+     "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
     }
    ]
   },
@@ -3615,6 +3968,23 @@
    ]
   },
   {
+   "id": "action-plus-estrie",
+   "name": "L’Action plus de l’Estrie",
+   "type": "organization",
+   "aliases": [
+    "l'Action plus de l'Estrie",
+    "l’Action plus"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "De nombreuses fautes de français dans des lettres d’un ministère",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295358/aide-sociale-francais-lettre-avis-decision"
+    }
+   ]
+  },
+  {
    "id": "mrc-coaticook",
    "name": "MRC de Coaticook",
    "type": "organization",
@@ -3733,6 +4103,22 @@
    ]
   },
   {
+   "id": "michele-chappaz",
+   "name": "Michèle Chappaz",
+   "type": "person",
+   "aliases": [
+    "Chappaz"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "id": "microsoft",
    "name": "Microsoft",
    "type": "organization",
@@ -3761,6 +4147,23 @@
    ]
   },
   {
+   "id": "mess",
+   "name": "Ministère de l’Emploi et de la Solidarité sociale",
+   "type": "organization",
+   "aliases": [
+    "ministère de l'Emploi et de la Solidarité sociale",
+    "ministère de l’Emploi"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "De nombreuses fautes de français dans des lettres d’un ministère",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295358/aide-sociale-francais-lettre-avis-decision"
+    }
+   ]
+  },
+  {
    "id": "monsef-derraji",
    "name": "Monsef Derraji",
    "type": "person",
@@ -3771,6 +4174,22 @@
      "date": "2026-10-24",
      "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    }
+   ]
+  },
+  {
+   "id": "mmfim",
+   "name": "Mouvement pour mettre fin à l’itinérance à Montréal",
+   "type": "organization",
+   "aliases": [
+    "MMFIM"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -3895,6 +4314,20 @@
    ]
   },
   {
+   "id": "pauline-marois",
+   "name": "Pauline Marois",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "id": "projet-montreal",
    "name": "Projet Montréal",
    "type": "organization",
@@ -3953,18 +4386,69 @@
    ]
   },
   {
-   "id": "rbq",
-   "name": "Régie du bâtiment du Québec",
+   "id": "rtc",
+   "name": "Réseau de transport de la Capitale",
    "type": "organization",
    "aliases": [
-    "RBQ"
+    "RTC"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+     "date": "2026-10-28",
+     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
+    }
+   ]
+  },
+  {
+   "id": "rqoh",
+   "name": "Réseau québécois des OSBL d’habitation",
+   "type": "organization",
+   "aliases": [
+    "RQOH"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "id": "residence-pionniers",
+   "name": "Résidence des Pionniers (Val-d’Or)",
+   "type": "organization",
+   "aliases": [
+    "résidence des Pionniers",
+    "Domaine des Pionniers"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "id": "scfp-1500",
+   "name": "SCFP 1500 (Syndicat des employés de métiers d’Hydro-Québec)",
+   "type": "organization",
+   "aliases": [
+    "SCFP 1500",
+    "SCFP-1500",
+    "Syndicat des employés de métiers d'Hydro-Québec"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
     }
    ]
   },
@@ -4041,22 +4525,6 @@
    ]
   },
   {
-   "id": "stm",
-   "name": "Société de transport de Montréal",
-   "type": "organization",
-   "aliases": [
-    "STM"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
-    }
-   ]
-  },
-  {
    "id": "stq",
    "name": "Société des traversiers du Québec",
    "type": "organization",
@@ -4069,6 +4537,23 @@
      "date": "2026-10-24",
      "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
      "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
+    }
+   ]
+  },
+  {
+   "id": "shq",
+   "name": "Société d’habitation du Québec",
+   "type": "organization",
+   "aliases": [
+    "Société d’habitation du Québec",
+    "SHQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
     }
    ]
   },
@@ -4206,24 +4691,6 @@
    ]
   },
   {
-   "id": "union-europeenne",
-   "name": "Union européenne",
-   "type": "organization",
-   "aliases": [
-    "European Union",
-    "UE",
-    "EU"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    }
-   ]
-  },
-  {
    "id": "upac",
    "name": "Unité permanente anticorruption",
    "type": "organization",
@@ -4342,20 +4809,6 @@
    ]
   },
   {
-   "id": "eric-duhaime",
-   "name": "Éric Duhaime",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    }
-   ]
-  },
-  {
    "id": "eric-martel",
    "name": "Éric Martel",
    "type": "person",
@@ -4415,13 +4868,29 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
     }
    ]
+  },
+  {
+   "id": "etienne-alexandre-beauregard",
+   "name": "Étienne-Alexandre Beauregard",
+   "type": "person",
+   "aliases": [
+    "Beauregard"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "L'argent public ne devrait pas financer le militantisme politique",
+     "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
+    }
+   ]
   }
  ],
  "edges": [
   {
    "source": "pq",
    "target": "pspp",
-   "weight": 6,
+   "weight": 9,
    "stories": [
     {
      "date": "2026-10-21",
@@ -4452,6 +4921,53 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Le gouvernement du Québec déposera un projet de loi sur le changement d’heure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296415/changement-heure-projet-loi-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "pspp",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -4484,33 +5000,6 @@
      "date": "2026-10-24",
      "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
      "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
-   "target": "pspp",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     }
    ]
   },
@@ -4706,6 +5195,94 @@
    ]
   },
   {
+   "source": "alain-therrien",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "pspp",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "pspp",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
    "source": "charles-iii",
    "target": "pspp",
    "weight": 3,
@@ -4834,6 +5411,28 @@
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "pspp",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -5034,23 +5633,6 @@
   },
   {
    "source": "alain-therrien",
-   "target": "pq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
    "target": "sante-quebec",
    "weight": 2,
    "stories": [
@@ -5186,6 +5768,23 @@
    ]
   },
   {
+   "source": "assemblee-nationale",
+   "target": "mark-carney",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "source": "bertin-castonguay",
    "target": "claude-roy",
    "weight": 2,
@@ -5216,40 +5815,6 @@
      "date": "2026-10-21",
      "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
      "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
-    }
-   ]
-  },
-  {
-   "source": "caq",
-   "target": "pq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    }
-   ]
-  },
-  {
-   "source": "caq",
-   "target": "pspp",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
     }
    ]
   },
@@ -5458,6 +6023,23 @@
    ]
   },
   {
+   "source": "hydro-quebec",
+   "target": "tat",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    }
+   ]
+  },
+  {
    "source": "jacques-allard",
    "target": "mpo",
    "weight": 2,
@@ -5573,6 +6155,23 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "union-europeenne",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -5781,6 +6380,23 @@
    ]
   },
   {
+   "source": "pspp",
+   "target": "union-europeenne",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
    "source": "soraya-martinez-ferrada",
    "target": "spvm",
    "weight": 2,
@@ -5943,6 +6559,18 @@
      "date": "2026-10-24",
      "headline": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires",
      "url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel"
+    }
+   ]
+  },
+  {
+   "source": "action-plus-estrie",
+   "target": "mess",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "De nombreuses fautes de français dans des lettres d’un ministère",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295358/aide-sociale-francais-lettre-avis-decision"
     }
    ]
   },
@@ -6212,6 +6840,18 @@
   },
   {
    "source": "alain-therrien",
+   "target": "caq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "catherine-gentilcore",
    "weight": 1,
    "stories": [
@@ -6224,6 +6864,30 @@
   },
   {
    "source": "alain-therrien",
+   "target": "christine-frechette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "elsie-lefebvre",
    "weight": 1,
    "stories": [
@@ -6231,6 +6895,18 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "france-elaine-duranceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -6716,6 +7392,30 @@
   },
   {
    "source": "assemblee-nationale",
+   "target": "charles-milliard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "eric-duhaime",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
    "target": "manon-jeannotte",
    "weight": 1,
    "stories": [
@@ -6723,6 +7423,42 @@
      "date": "2026-10-27",
      "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
      "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "michele-chappaz",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "mmfim",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "pauline-marois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -6740,13 +7476,25 @@
   },
   {
    "source": "assemblee-nationale",
-   "target": "pspp",
+   "target": "pq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -7088,6 +7836,18 @@
   },
   {
    "source": "bureau-coroner",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Quebec coroner's office lays out changes following death of Chloé Bélanger",
+     "url": "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703"
+    }
+   ]
+  },
+  {
+   "source": "bureau-coroner",
    "target": "surete-quebec",
    "weight": 1,
    "stories": [
@@ -7155,6 +7915,42 @@
      "date": "2026-10-21",
      "headline": "Québec prépare l’abolition de Santé Québec",
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "christine-frechette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "france-elaine-duranceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -7239,6 +8035,30 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    }
+   ]
+  },
+  {
+   "source": "cardus",
+   "target": "commissaire-lobbyisme",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "L'argent public ne devrait pas financer le militantisme politique",
+     "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
+    }
+   ]
+  },
+  {
+   "source": "cardus",
+   "target": "etienne-alexandre-beauregard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "L'argent public ne devrait pas financer le militantisme politique",
+     "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
     }
    ]
   },
@@ -7424,6 +8244,18 @@
   },
   {
    "source": "charles-milliard",
+   "target": "eric-duhaime",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "source": "charles-milliard",
    "target": "marie-karlynn-laflamme",
    "weight": 1,
    "stories": [
@@ -7431,6 +8263,18 @@
      "date": "2026-10-24",
      "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    }
+   ]
+  },
+  {
+   "source": "charles-milliard",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -7460,6 +8304,18 @@
   },
   {
    "source": "charles-milliard",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "source": "charles-milliard",
    "target": "sante-quebec",
    "weight": 1,
    "stories": [
@@ -7467,6 +8323,18 @@
      "date": "2026-10-24",
      "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    }
+   ]
+  },
+  {
+   "source": "charles-milliard",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -7527,6 +8395,54 @@
      "date": "2026-10-21",
      "headline": "Québec prépare l’abolition de Santé Québec",
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    }
+   ]
+  },
+  {
+   "source": "christine-frechette",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "christine-frechette",
+   "target": "france-elaine-duranceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "christine-frechette",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "christine-frechette",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -7712,6 +8628,18 @@
   },
   {
    "source": "commissaire-lobbyisme",
+   "target": "etienne-alexandre-beauregard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "L'argent public ne devrait pas financer le militantisme politique",
+     "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
+    }
+   ]
+  },
+  {
+   "source": "commissaire-lobbyisme",
    "target": "jean-francois-routhier",
    "weight": 1,
    "stories": [
@@ -7731,6 +8659,18 @@
      "date": "2026-10-23",
      "headline": "Elle obtient 7 rôles au sein du Conseil des ministres : «J’aime les défis», dit Marie-Claude Sarrazin",
      "url": "https://www.tvanouvelles.ca/2026/10/22/elle-obtient-7-roles-au-sein-du-conseil-des-ministres--jaime-les-defis-dit-marie-claude-sarrazin"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "france-elaine-duranceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -7767,6 +8707,30 @@
      "date": "2026-10-27",
      "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -8900,6 +9864,18 @@
   },
   {
    "source": "eric-duhaime",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
    "target": "pcq",
    "weight": 1,
    "stories": [
@@ -8924,6 +9900,18 @@
   },
   {
    "source": "eric-duhaime",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
    "target": "rene-branchaud",
    "weight": 1,
    "stories": [
@@ -8931,6 +9919,18 @@
      "date": "2026-10-23",
      "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
      "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -9331,6 +10331,30 @@
    ]
   },
   {
+   "source": "france-elaine-duranceau",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "france-elaine-duranceau",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
    "source": "francis-verreault-paul",
    "target": "mark-carney",
    "weight": 1,
@@ -9471,6 +10495,42 @@
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    }
+   ]
+  },
+  {
+   "source": "frederic-savard",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    }
+   ]
+  },
+  {
+   "source": "frederic-savard",
+   "target": "scfp-1500",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    }
+   ]
+  },
+  {
+   "source": "frederic-savard",
+   "target": "tat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
     }
    ]
   },
@@ -9836,6 +10896,18 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "scfp-1500",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "sebastien-dastous",
    "weight": 1,
    "stories": [
@@ -9867,18 +10939,6 @@
      "date": "2026-10-22",
      "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
      "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
-   "target": "tat",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
-     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
     }
    ]
   },
@@ -10844,25 +11904,49 @@
   },
   {
    "source": "mark-carney",
-   "target": "pspp",
+   "target": "michele-chappaz",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
   {
    "source": "mark-carney",
-   "target": "union-europeenne",
+   "target": "mmfim",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "pauline-marois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -10963,6 +12047,54 @@
    ]
   },
   {
+   "source": "michele-chappaz",
+   "target": "mmfim",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "michele-chappaz",
+   "target": "pauline-marois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "michele-chappaz",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "michele-chappaz",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "source": "microsoft",
    "target": "oracle",
    "weight": 1,
@@ -10971,6 +12103,42 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "source": "mmfim",
+   "target": "pauline-marois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "mmfim",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "mmfim",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -11203,6 +12371,30 @@
    ]
   },
   {
+   "source": "pauline-marois",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "pauline-marois",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "source": "plq",
    "target": "qs",
    "weight": 1,
@@ -11372,18 +12564,6 @@
   },
   {
    "source": "pspp",
-   "target": "union-europeenne",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
    "target": "ville-montreal",
    "weight": 1,
    "stories": [
@@ -11408,6 +12588,42 @@
   },
   {
    "source": "rbq",
+   "target": "residence-pionniers",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "source": "rbq",
+   "target": "rqoh",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "source": "rbq",
+   "target": "shq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "source": "rbq",
    "target": "swimko",
    "weight": 1,
    "stories": [
@@ -11415,6 +12631,30 @@
      "date": "2026-10-26",
      "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "residence-pionniers",
+   "target": "rqoh",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "source": "residence-pionniers",
+   "target": "shq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
     }
    ]
   },
@@ -11427,6 +12667,30 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "source": "rqoh",
+   "target": "shq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "source": "rtc",
+   "target": "stm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
     }
    ]
   },
@@ -11535,6 +12799,18 @@
      "date": "2026-10-22",
      "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
      "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    }
+   ]
+  },
+  {
+   "source": "scfp-1500",
+   "target": "tat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
     }
    ]
   },

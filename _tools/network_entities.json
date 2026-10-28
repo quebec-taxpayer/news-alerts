@@ -1186,6 +1186,116 @@
    "aliases": [
     "SIM"
    ]
+  },
+  "christine-frechette": {
+   "name": "Christine Fréchette",
+   "type": "person",
+   "aliases": [
+    "Fréchette"
+   ]
+  },
+  "france-elaine-duranceau": {
+   "name": "France-Élaine Duranceau",
+   "type": "person",
+   "aliases": [
+    "Duranceau"
+   ]
+  },
+  "cardus": {
+   "name": "Institut Cardus",
+   "type": "organization",
+   "aliases": [
+    "Cardus",
+    "L’Institut Cardus"
+   ]
+  },
+  "etienne-alexandre-beauregard": {
+   "name": "Étienne-Alexandre Beauregard",
+   "type": "person",
+   "aliases": [
+    "Beauregard"
+   ]
+  },
+  "mess": {
+   "name": "Ministère de l’Emploi et de la Solidarité sociale",
+   "type": "organization",
+   "aliases": [
+    "ministère de l'Emploi et de la Solidarité sociale",
+    "ministère de l’Emploi"
+   ]
+  },
+  "action-plus-estrie": {
+   "name": "L’Action plus de l’Estrie",
+   "type": "organization",
+   "aliases": [
+    "l'Action plus de l'Estrie",
+    "l’Action plus"
+   ]
+  },
+  "residence-pionniers": {
+   "name": "Résidence des Pionniers (Val-d’Or)",
+   "type": "organization",
+   "aliases": [
+    "résidence des Pionniers",
+    "Domaine des Pionniers"
+   ]
+  },
+  "shq": {
+   "name": "Société d’habitation du Québec",
+   "type": "organization",
+   "aliases": [
+    "Société d’habitation du Québec",
+    "SHQ"
+   ]
+  },
+  "rqoh": {
+   "name": "Réseau québécois des OSBL d’habitation",
+   "type": "organization",
+   "aliases": [
+    "RQOH"
+   ]
+  },
+  "scfp-1500": {
+   "name": "SCFP 1500 (Syndicat des employés de métiers d’Hydro-Québec)",
+   "type": "organization",
+   "aliases": [
+    "SCFP 1500",
+    "SCFP-1500",
+    "Syndicat des employés de métiers d'Hydro-Québec"
+   ]
+  },
+  "frederic-savard": {
+   "name": "Frédéric Savard",
+   "type": "person",
+   "aliases": [
+    "Savard"
+   ]
+  },
+  "rtc": {
+   "name": "Réseau de transport de la Capitale",
+   "type": "organization",
+   "aliases": [
+    "RTC"
+   ]
+  },
+  "mmfim": {
+   "name": "Mouvement pour mettre fin à l’itinérance à Montréal",
+   "type": "organization",
+   "aliases": [
+    "MMFIM"
+   ]
+  },
+  "michele-chappaz": {
+   "name": "Michèle Chappaz",
+   "type": "person",
+   "aliases": [
+    "Chappaz"
+   ]
+  },
+  "pauline-marois": {
+   "name": "Pauline Marois",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -2108,7 +2218,9 @@
     "union-europeenne"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "canada-eu-summit"
+   ]
   },
   {
    "match": "2026-10-27/etablissement-de-detention-de-montreal",
@@ -2178,6 +2290,125 @@
    "entities": [
     "ville-montreal",
     "sim"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "homelessness"
+   ]
+  },
+  {
+   "match": "2026/10/28/reduction-de-la-taille-de-letat",
+   "entities": [
+    "pspp",
+    "alain-therrien",
+    "conseil-tresor",
+    "christine-frechette",
+    "france-elaine-duranceau",
+    "pq",
+    "caq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "2026-10-27/sommet-canada-union-europeenne/carney-replique",
+   "entities": [
+    "mark-carney",
+    "pspp",
+    "union-europeenne",
+    "charles-milliard",
+    "eric-duhaime",
+    "assemblee-nationale"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "canada-eu-summit"
+   ]
+  },
+  {
+   "match": "2296415/changement-heure-projet-loi",
+   "entities": [
+    "pspp",
+    "pq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "argent-public-ne-devrait-pas-financer-le-militantisme",
+   "entities": [
+    "cardus",
+    "etienne-alexandre-beauregard",
+    "commissaire-lobbyisme"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2295358/aide-sociale-francais-lettre",
+   "entities": [
+    "mess",
+    "action-plus-estrie"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2296248/residence-aines-val-dor",
+   "entities": [
+    "residence-pionniers",
+    "rbq",
+    "shq",
+    "rqoh"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "chloe-belanger-quebec-coroners-report",
+   "entities": [
+    "bureau-coroner",
+    "sante-quebec"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2026/10/28/un-couple-qui-attend-apres-hydro",
+   "entities": [
+    "hydro-quebec",
+    "scfp-1500",
+    "tat",
+    "frederic-savard"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "2296254/nomade-retard-annulation",
+   "entities": [
+    "rtc",
+    "stm"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2026-10-28/crise-de-l-itinerance/une-feuille-de-route",
+   "entities": [
+    "mmfim",
+    "michele-chappaz",
+    "pspp",
+    "pq",
+    "pauline-marois",
+    "assemblee-nationale",
+    "mark-carney"
    ],
    "checked_by_hand": false,
    "dossiers": [

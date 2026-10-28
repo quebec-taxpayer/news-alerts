@@ -42,7 +42,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-10-24": ["it-digital", "crown-corporations"],
         "2026-10-25": ["crown-corporations", "procurement"],
         "2026-10-26": [],
-        "2026-10-27": ["crown-corporations", "procurement"]}
+        "2026-10-27": ["crown-corporations", "procurement"],
+        "2026-10-28": ["crown-corporations"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -59,6 +60,8 @@ SUMMARY = {
                 "UPAC investigates Rigaud (whistleblower); RBQ revokes Swimko’s licence; violence against school support staff; mammogram waits in Abitibi-Témiscamingue; BEI and ethics probes of an SPVM officer; Montreal asks for rent control; First Nations–First Ministers meeting; flu vaccination."),
  "2026-10-27": ("Tarifs des centres de données : la Cour supérieure annule les décrets de Québec; contrat d’urgence de gré à gré au Stade olympique; La Caisse achète une part des tours de Bell; PSPP privé de parole au sommet Canada-UE; soulèvement à Bordeaux; enquête du coroner sur les poids lourds; suivis : Lion Électrique, Vachon, discours d’ouverture et itinérance.",
                 "Data-centre rates: Superior Court strikes down Quebec’s orders; emergency untendered contract at the Olympic Stadium; La Caisse buys into Bell’s towers; PSPP denied a speech at the Canada–EU summit; uprising at Bordeaux jail; coroner’s heavy-truck inquiry; follow-ups: Lion Électrique, Vachon, opening speech and homelessness."),
+ "2026-10-28": ("Retraites anticipées et indemnités de départ pour réduire la fonction publique (selon des sources); Carney réplique à PSPP sur le sommet Canada-UE; projet de loi sur le changement d’heure; étude Cardus sur les fonds publics aux groupes militants; fautes dans des lettres de l’aide sociale; une résidence pour aînés fermera à Val-d’Or; rapport du coroner après la mort d’une fillette; branchements d’Hydro-Québec et grève; plaintes au RTC; suivi : livre blanc sur l’itinérance.",
+                "Early retirement and severance to shrink the public service (according to sources); Carney hits back at PSPP over the Canada–EU summit; clock-change bill; Cardus study on public money for advocacy groups; errors in welfare letters; a Val-d’Or seniors’ residence to close; coroner’s report after a girl’s death; Hydro-Québec connections and the strike; RTC complaints; follow-up: homelessness white paper."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {
@@ -85,7 +88,7 @@ OUTLETS = {
  "www.ledevoir.com": "Le Devoir", "www.vgq.qc.ca": "Vérificateur général du Québec", "www.quebec.ca": "Gouvernement du Québec",
  "www.assnat.qc.ca": "Assemblée nationale", "lobbyisme.quebec": "Commissaire au lobbyisme",
  "www.hydroquebec.com": "Hydro-Québec (document)",
- "montreal.citynews.ca": "CityNews Montréal",
+ "montreal.citynews.ca": "CityNews Montréal", "www.cardus.ca": "Institut Cardus (communiqué)",
 }
 def outlet(url):
     from urllib.parse import urlparse
