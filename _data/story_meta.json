@@ -421,6 +421,56 @@
    "category": "health",
    "importance": 3,
    "title_en": "Homelessness crisis – A roadmap for Paul St-Pierre Plamondon"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Senior public service – St-Pierre Plamondon appoints two Fréchette aides and sweeps out deputy ministers"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "Economic update – A federal mega-deduction gives the PQ “headaches”"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "A big property-tax increase in Montreal next year?"
+  },
+  "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive": {
+   "category": "health",
+   "importance": 5,
+   "title_en": "Unused operating rooms: 20% of surgeries now done in private clinics"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes": {
+   "category": "health",
+   "importance": 4,
+   "title_en": "Children dead under the protection of the English-language DPJ: two investigations launched"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "Quebec asks the court to cancel the private sale of 94 social housing units"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "SPVM explains why it took a day to dismantle a station 39 unit"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Container terminal: the PQ urged to order a BAPE review “as soon as possible”"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Canada–European Union summit – St-Pierre Plamondon threatens to ignore a Canada–EU agreement"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement": {
+   "category": "finances",
+   "importance": 2,
+   "title_en": "L’Ascension can finally start work to fill the hole"
   }
  }
 }

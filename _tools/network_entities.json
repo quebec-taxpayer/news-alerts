@@ -207,7 +207,9 @@
   "etienne-grandmont": {
    "name": "Étienne Grandmont",
    "type": "person",
-   "aliases": []
+   "aliases": [
+    "Etienne Grandmont"
+   ]
   },
   "jeremy-easterbrook": {
    "name": "Jeremy Easterbrook",
@@ -1294,6 +1296,115 @@
   },
   "pauline-marois": {
    "name": "Pauline Marois",
+   "type": "person",
+   "aliases": []
+  },
+  "genevieve-belisle": {
+   "name": "Geneviève Bélisle",
+   "type": "person",
+   "aliases": [
+    "Bélisle"
+   ]
+  },
+  "alex-perreault": {
+   "name": "Alex Perreault",
+   "type": "person",
+   "aliases": []
+  },
+  "martin-beaumont": {
+   "name": "Martin Beaumont",
+   "type": "person",
+   "aliases": []
+  },
+  "pierre-luc-desgagne": {
+   "name": "Pierre-Luc Desgagné",
+   "type": "person",
+   "aliases": [
+    "Desgagné"
+   ]
+  },
+  "ensemble-montreal": {
+   "name": "Ensemble Montréal",
+   "type": "organization",
+   "aliases": []
+  },
+  "acq": {
+   "name": "Association de chirurgie du Québec",
+   "type": "organization",
+   "aliases": [
+    "ACQ"
+   ]
+  },
+  "iedm": {
+   "name": "Institut économique de Montréal",
+   "type": "organization",
+   "aliases": [
+    "IEDM",
+    "Montreal Economic Institute"
+   ]
+  },
+  "batshaw": {
+   "name": "Centres de la jeunesse et de la famille Batshaw",
+   "type": "organization",
+   "aliases": [
+    "Batshaw"
+   ]
+  },
+  "cdpdj": {
+   "name": "Commission des droits de la personne et des droits de la jeunesse",
+   "type": "organization",
+   "aliases": [
+    "Commission des droits de la personne",
+    "CDPDJ",
+    "CDPDJQ"
+   ]
+  },
+  "genevieve-frenette": {
+   "name": "Geneviève Frenette",
+   "type": "person",
+   "aliases": []
+  },
+  "frapru": {
+   "name": "Front d’action populaire en réaménagement urbain",
+   "type": "organization",
+   "aliases": [
+    "FRAPRU"
+   ]
+  },
+  "schl": {
+   "name": "Société canadienne d’hypothèques et de logement",
+   "type": "organization",
+   "aliases": [
+    "SCHL",
+    "CMHC"
+   ]
+  },
+  "fady-dagher": {
+   "name": "Fady Dagher",
+   "type": "person",
+   "aliases": [
+    "Dagher"
+   ]
+  },
+  "ericka-alneus": {
+   "name": "Ericka Alneus",
+   "type": "person",
+   "aliases": []
+  },
+  "dpcp": {
+   "name": "Directeur des poursuites criminelles et pénales",
+   "type": "organization",
+   "aliases": [
+    "DPCP"
+   ]
+  },
+  "qsl": {
+   "name": "QSL",
+   "type": "organization",
+   "aliases": []
+  },
+  "pascal-paradis": {
+   "name": "Pascal Paradis",
    "type": "person",
    "aliases": []
   }
@@ -2413,6 +2524,131 @@
    "checked_by_hand": false,
    "dossiers": [
     "homelessness"
+   ]
+  },
+  {
+   "match": "haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches",
+   "entities": [
+    "pspp",
+    "christine-frechette",
+    "genevieve-belisle",
+    "alex-perreault",
+    "martin-beaumont",
+    "pierre-luc-desgagne",
+    "pq",
+    "caq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "une-megadeduction-federale-donne-des-maux-de-tete",
+   "entities": [
+    "nicolas-marceau",
+    "mark-carney",
+    "pq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2296625/montreal-hausse-taxes-foncieres",
+   "entities": [
+    "soraya-martinez-ferrada",
+    "ensemble-montreal"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2026/10/29/salles-doperation-inoccupees",
+   "entities": [
+    "sante-quebec",
+    "acq",
+    "iedm",
+    "pq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "2296527/enfants-morts-fillette-autochtone",
+   "entities": [
+    "sante-quebec",
+    "batshaw",
+    "cdpdj",
+    "genevieve-frenette"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "2295280/vente-repentigny-logements-osbl",
+   "entities": [
+    "marie-claude-sarrazin",
+    "cour-superieure",
+    "frapru",
+    "schl",
+    "caq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2296791/svpm-demantelement-racisme-poste-39",
+   "entities": [
+    "spvm",
+    "fady-dagher",
+    "projet-montreal",
+    "ericka-alneus",
+    "dpcp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2296467/bape-qsl-terminal-conteneurs",
+   "entities": [
+    "qs",
+    "pq",
+    "bape",
+    "qsl",
+    "etienne-grandmont",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue",
+   "entities": [
+    "pspp",
+    "pascal-paradis",
+    "mark-carney",
+    "union-europeenne"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "canada-eu-summit"
+   ]
+  },
+  {
+   "match": "2296505/lascension-autorisation-gouffre",
+   "entities": [
+    "jacques-allard",
+    "msi",
+    "mtmd",
+    "mpo"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "lascension"
    ]
   }
  ]

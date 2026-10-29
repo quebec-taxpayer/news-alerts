@@ -188,6 +188,27 @@
    "per_fr": "Environ 55,14 $ par personne au Québec",
    "calc_en": "$500 million ÷ 9,067,114 people = $55.14 each",
    "calc_fr": "500 millions $ ÷ 9 067 114 personnes = 55,14 $ chacun"
+  },
+  {
+   "id": "federal-megadeduction",
+   "dossier": "pq-transition",
+   "story_url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php",
+   "amount": 1000000000,
+   "qualifier": "about",
+   "per_year": true,
+   "label_en": "Yearly cost to the Quebec government of following the federal productivity “mega-deduction”, according to Finance Minister Nicolas Marceau",
+   "label_fr": "Coût annuel pour le gouvernement du Québec de l’arrimage à la « mégadéduction » fédérale à la productivité, selon le ministre des Finances Nicolas Marceau",
+   "source_title": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+   "source_outlet": "La Presse",
+   "source_date": "2026-10-28",
+   "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php",
+   "per_person_value": 110.2887,
+   "amount_en": "$1 billion",
+   "amount_fr": "1 milliard $",
+   "per_en": "About $110 per person in Quebec per year",
+   "per_fr": "Environ 110 $ par personne au Québec par année",
+   "calc_en": "$1 billion ÷ 9,067,114 people = $110.29 each per year",
+   "calc_fr": "1 milliard $ ÷ 9 067 114 personnes = 110,29 $ chacun par année"
   }
  ]
 }

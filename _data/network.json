@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-28T14:38:56Z",
+ "generated": "2026-10-29T14:41:35Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 90,
+ "story_count": 100,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -944,6 +944,116 @@
      ]
     }
    ]
+  },
+  "2026-10-29": {
+   "post": "/2026/10/29/digest/",
+   "stories": [
+    {
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php",
+     "entities": [
+      "alex-perreault",
+      "caq",
+      "christine-frechette",
+      "genevieve-belisle",
+      "martin-beaumont",
+      "pierre-luc-desgagne",
+      "pq",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php",
+     "entities": [
+      "mark-carney",
+      "nicolas-marceau",
+      "pq"
+     ]
+    },
+    {
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres",
+     "entities": [
+      "ensemble-montreal",
+      "soraya-martinez-ferrada"
+     ]
+    },
+    {
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive",
+     "entities": [
+      "acq",
+      "iedm",
+      "pq",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes",
+     "entities": [
+      "batshaw",
+      "cdpdj",
+      "genevieve-frenette",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice",
+     "entities": [
+      "caq",
+      "cour-superieure",
+      "frapru",
+      "marie-claude-sarrazin",
+      "schl"
+     ]
+    },
+    {
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39",
+     "entities": [
+      "dpcp",
+      "ericka-alneus",
+      "fady-dagher",
+      "projet-montreal",
+      "spvm"
+     ]
+    },
+    {
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire",
+     "entities": [
+      "bape",
+      "etienne-grandmont",
+      "pq",
+      "pspp",
+      "qs",
+      "qsl"
+     ]
+    },
+    {
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php",
+     "entities": [
+      "mark-carney",
+      "pascal-paradis",
+      "pspp",
+      "union-europeenne"
+     ]
+    },
+    {
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement",
+     "entities": [
+      "jacques-allard",
+      "mpo",
+      "msi",
+      "mtmd"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -955,7 +1065,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 24,
+   "mentions": 27,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1076,6 +1186,21 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
     }
    ]
   },
@@ -1088,7 +1213,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 14,
+   "mentions": 18,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1159,6 +1284,26 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -1167,7 +1312,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 12,
+   "mentions": 14,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1228,6 +1373,16 @@
      "date": "2026-10-28",
      "headline": "Quebec coroner's office lays out changes following death of Chloé Bélanger",
      "url": "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
     }
    ]
   },
@@ -1376,6 +1531,47 @@
    ]
   },
   {
+   "id": "mark-carney",
+   "name": "Mark Carney",
+   "type": "person",
+   "aliases": [
+    "Carney"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
    "id": "plq",
    "name": "Parti libéral du Québec",
    "type": "organization",
@@ -1455,6 +1651,77 @@
    ]
   },
   {
+   "id": "caq",
+   "name": "Coalition Avenir Québec",
+   "type": "organization",
+   "aliases": [
+    "CAQ",
+    "caquiste"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    }
+   ]
+  },
+  {
    "id": "amf",
    "name": "Autorité des marchés financiers",
    "type": "organization",
@@ -1482,6 +1749,38 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "cour-superieure",
+   "name": "Cour supérieure du Québec",
+   "type": "organization",
+   "aliases": [
+    "Cour supérieure",
+    "Superior Court"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
     }
    ]
   },
@@ -1520,33 +1819,66 @@
    ]
   },
   {
-   "id": "mark-carney",
-   "name": "Mark Carney",
-   "type": "person",
+   "id": "mtmd",
+   "name": "Ministère des Transports et de la Mobilité durable",
+   "type": "organization",
    "aliases": [
-    "Carney"
+    "MTMD",
+    "MTQ",
+    "ministère des Transports"
    ],
    "mentions": 4,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
-     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+     "date": "2026-10-24",
+     "headline": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+     "date": "2026-10-24",
+     "headline": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
+     "url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "id": "nicolas-marceau",
+   "name": "Nicolas Marceau",
+   "type": "person",
+   "aliases": [
+    "Marceau"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
     }
    ]
   },
@@ -1578,35 +1910,6 @@
      "date": "2026-10-25",
      "headline": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire"
-    }
-   ]
-  },
-  {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
-   "type": "person",
-   "aliases": [],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -1742,33 +2045,6 @@
    ]
   },
   {
-   "id": "caq",
-   "name": "Coalition Avenir Québec",
-   "type": "organization",
-   "aliases": [
-    "CAQ",
-    "caquiste"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
    "id": "conseil-tresor",
    "name": "Conseil du trésor",
    "type": "organization",
@@ -1819,29 +2095,26 @@
    ]
   },
   {
-   "id": "cour-superieure",
-   "name": "Cour supérieure du Québec",
-   "type": "organization",
-   "aliases": [
-    "Cour supérieure",
-    "Superior Court"
-   ],
+   "id": "jacques-allard",
+   "name": "Jacques Allard",
+   "type": "person",
+   "aliases": [],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
      "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     }
    ]
   },
@@ -1872,56 +2145,54 @@
    ]
   },
   {
-   "id": "mtmd",
-   "name": "Ministère des Transports et de la Mobilité durable",
-   "type": "organization",
+   "id": "marie-claude-sarrazin",
+   "name": "Marie-Claude Sarrazin",
+   "type": "person",
    "aliases": [
-    "MTMD",
-    "MTQ",
-    "ministère des Transports"
+    "Sarrazin"
    ],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+     "date": "2026-10-23",
+     "headline": "Elle obtient 7 rôles au sein du Conseil des ministres : «J’aime les défis», dit Marie-Claude Sarrazin",
+     "url": "https://www.tvanouvelles.ca/2026/10/22/elle-obtient-7-roles-au-sein-du-conseil-des-ministres--jaime-les-defis-dit-marie-claude-sarrazin"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie"
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
-     "url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon"
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
     }
    ]
   },
   {
-   "id": "nicolas-marceau",
-   "name": "Nicolas Marceau",
-   "type": "person",
+   "id": "mpo",
+   "name": "Pêches et Océans Canada",
+   "type": "organization",
    "aliases": [
-    "Marceau"
+    "Fisheries and Oceans Canada"
    ],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
      "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     }
    ]
   },
@@ -1949,6 +2220,32 @@
      "date": "2026-10-27",
      "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
      "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
@@ -2023,6 +2320,34 @@
      "date": "2026-10-28",
      "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
      "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    }
+   ]
+  },
+  {
+   "id": "union-europeenne",
+   "name": "Union européenne",
+   "type": "organization",
+   "aliases": [
+    "European Union",
+    "UE",
+    "EU"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
     }
    ]
   },
@@ -2161,6 +2486,27 @@
    ]
   },
   {
+   "id": "bape",
+   "name": "Bureau d’audiences publiques sur l’environnement",
+   "type": "organization",
+   "aliases": [
+    "BAPE"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
    "id": "charles-milliard",
    "name": "Charles Milliard",
    "type": "person",
@@ -2176,6 +2522,27 @@
      "date": "2026-10-28",
      "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "id": "christine-frechette",
+   "name": "Christine Fréchette",
+   "type": "person",
+   "aliases": [
+    "Fréchette"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -2242,25 +2609,6 @@
      "date": "2026-10-27",
      "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
-    }
-   ]
-  },
-  {
-   "id": "jacques-allard",
-   "name": "Jacques Allard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
     }
    ]
   },
@@ -2369,27 +2717,6 @@
    ]
   },
   {
-   "id": "marie-claude-sarrazin",
-   "name": "Marie-Claude Sarrazin",
-   "type": "person",
-   "aliases": [
-    "Sarrazin"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Elle obtient 7 rôles au sein du Conseil des ministres : «J’aime les défis», dit Marie-Claude Sarrazin",
-     "url": "https://www.tvanouvelles.ca/2026/10/22/elle-obtient-7-roles-au-sein-du-conseil-des-ministres--jaime-les-defis-dit-marie-claude-sarrazin"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    }
-   ]
-  },
-  {
    "id": "msss",
    "name": "Ministère de la Santé et des Services sociaux",
    "type": "organization",
@@ -2408,6 +2735,25 @@
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    }
+   ]
+  },
+  {
+   "id": "msi",
+   "name": "Ministère de la Sécurité intérieure",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     }
    ]
   },
@@ -2455,23 +2801,42 @@
    ]
   },
   {
-   "id": "mpo",
-   "name": "Pêches et Océans Canada",
+   "id": "projet-montreal",
+   "name": "Projet Montréal",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "id": "qs",
+   "name": "Québec solidaire",
    "type": "organization",
    "aliases": [
-    "Fisheries and Oceans Canada"
+    "solidaires"
    ],
    "mentions": 2,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
     },
     {
-     "date": "2026-10-25",
-     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -2514,27 +2879,6 @@
      "date": "2026-10-28",
      "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
      "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
-    }
-   ]
-  },
-  {
-   "id": "spvm",
-   "name": "Service de police de la Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "SPVM"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -2602,29 +2946,6 @@
    ]
   },
   {
-   "id": "union-europeenne",
-   "name": "Union européenne",
-   "type": "organization",
-   "aliases": [
-    "European Union",
-    "UE",
-    "EU"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    }
-   ]
-  },
-  {
    "id": "eric-duhaime",
    "name": "Éric Duhaime",
    "type": "person",
@@ -2640,6 +2961,27 @@
      "date": "2026-10-28",
      "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "id": "etienne-grandmont",
+   "name": "Étienne Grandmont",
+   "type": "person",
+   "aliases": [
+    "Etienne Grandmont"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -2710,6 +3052,20 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "id": "alex-perreault",
+   "name": "Alex Perreault",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -2802,6 +3158,22 @@
      "date": "2026-10-26",
      "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
      "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "id": "acq",
+   "name": "Association de chirurgie du Québec",
+   "type": "organization",
+   "aliases": [
+    "ACQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
     }
    ]
   },
@@ -2943,22 +3315,6 @@
    ]
   },
   {
-   "id": "bape",
-   "name": "Bureau d’audiences publiques sur l’environnement",
-   "type": "organization",
-   "aliases": [
-    "BAPE"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
-    }
-   ]
-  },
-  {
    "id": "chsld-wendake",
    "name": "CHSLD de Wendake",
    "type": "organization",
@@ -3017,6 +3373,22 @@
    ]
   },
   {
+   "id": "batshaw",
+   "name": "Centres de la jeunesse et de la famille Batshaw",
+   "type": "organization",
+   "aliases": [
+    "Batshaw"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
+    }
+   ]
+  },
+  {
    "id": "charbone",
    "name": "Charbone",
    "type": "organization",
@@ -3041,22 +3413,6 @@
      "date": "2026-10-21",
      "headline": "Québec prépare l’abolition de Santé Québec",
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    }
-   ]
-  },
-  {
-   "id": "christine-frechette",
-   "name": "Christine Fréchette",
-   "type": "person",
-   "aliases": [
-    "Fréchette"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -3151,6 +3507,24 @@
      "date": "2026-10-26",
      "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "id": "cdpdj",
+   "name": "Commission des droits de la personne et des droits de la jeunesse",
+   "type": "organization",
+   "aliases": [
+    "Commission des droits de la personne",
+    "CDPDJ",
+    "CDPDJQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
     }
    ]
   },
@@ -3276,6 +3650,22 @@
    ]
   },
   {
+   "id": "dpcp",
+   "name": "Directeur des poursuites criminelles et pénales",
+   "type": "organization",
+   "aliases": [
+    "DPCP"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
    "id": "donald-nicole",
    "name": "Donald Nicole",
    "type": "person",
@@ -3350,6 +3740,20 @@
    ]
   },
   {
+   "id": "ensemble-montreal",
+   "name": "Ensemble Montréal",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    }
+   ]
+  },
+  {
    "id": "epic",
    "name": "Epic",
    "type": "organization",
@@ -3364,6 +3768,20 @@
    ]
   },
   {
+   "id": "ericka-alneus",
+   "name": "Ericka Alneus",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
    "id": "fnz",
    "name": "FNZ",
    "type": "organization",
@@ -3374,6 +3792,22 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "id": "fady-dagher",
+   "name": "Fady Dagher",
+   "type": "person",
+   "aliases": [
+    "Dagher"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
@@ -3450,6 +3884,22 @@
      "date": "2026-10-25",
      "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
      "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
+   "id": "frapru",
+   "name": "Front d’action populaire en réaménagement urbain",
+   "type": "organization",
+   "aliases": [
+    "FRAPRU"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
     }
    ]
   },
@@ -3563,6 +4013,22 @@
    ]
   },
   {
+   "id": "genevieve-belisle",
+   "name": "Geneviève Bélisle",
+   "type": "person",
+   "aliases": [
+    "Bélisle"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
    "id": "genevieve-cantin",
    "name": "Geneviève Cantin",
    "type": "person",
@@ -3573,6 +4039,20 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    }
+   ]
+  },
+  {
+   "id": "genevieve-frenette",
+   "name": "Geneviève Frenette",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
     }
    ]
   },
@@ -3720,6 +4200,23 @@
      "date": "2026-10-28",
      "headline": "L'argent public ne devrait pas financer le militantisme politique",
      "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
+    }
+   ]
+  },
+  {
+   "id": "iedm",
+   "name": "Institut économique de Montréal",
+   "type": "organization",
+   "aliases": [
+    "IEDM",
+    "Montreal Economic Institute"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
     }
    ]
   },
@@ -4045,6 +4542,20 @@
    ]
   },
   {
+   "id": "martin-beaumont",
+   "name": "Martin Beaumont",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
    "id": "martin-lachance",
    "name": "Martin Lachance",
    "type": "person",
@@ -4129,20 +4640,6 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
-    }
-   ]
-  },
-  {
-   "id": "msi",
-   "name": "Ministère de la Sécurité intérieure",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
     }
    ]
   },
@@ -4314,6 +4811,20 @@
    ]
   },
   {
+   "id": "pascal-paradis",
+   "name": "Pascal Paradis",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
    "id": "pauline-marois",
    "name": "Pauline Marois",
    "type": "person",
@@ -4328,32 +4839,32 @@
    ]
   },
   {
-   "id": "projet-montreal",
-   "name": "Projet Montréal",
+   "id": "pierre-luc-desgagne",
+   "name": "Pierre-Luc Desgagné",
+   "type": "person",
+   "aliases": [
+    "Desgagné"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "id": "qsl",
+   "name": "QSL",
    "type": "organization",
    "aliases": [],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    }
-   ]
-  },
-  {
-   "id": "qs",
-   "name": "Québec solidaire",
-   "type": "organization",
-   "aliases": [
-    "solidaires"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -4521,6 +5032,23 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "id": "schl",
+   "name": "Société canadienne d’hypothèques et de logement",
+   "type": "organization",
+   "aliases": [
+    "SCHL",
+    "CMHC"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
     }
    ]
   },
@@ -4856,20 +5384,6 @@
    ]
   },
   {
-   "id": "etienne-grandmont",
-   "name": "Étienne Grandmont",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    }
-   ]
-  },
-  {
    "id": "etienne-alexandre-beauregard",
    "name": "Étienne-Alexandre Beauregard",
    "type": "person",
@@ -4890,7 +5404,7 @@
   {
    "source": "pq",
    "target": "pspp",
-   "weight": 9,
+   "weight": 11,
    "stories": [
     {
      "date": "2026-10-21",
@@ -4936,6 +5450,16 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -5004,6 +5528,60 @@
    ]
   },
   {
+   "source": "caq",
+   "target": "pq",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "pspp",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
    "source": "grc",
    "target": "lion",
    "weight": 4,
@@ -5031,6 +5609,33 @@
    ]
   },
   {
+   "source": "mark-carney",
+   "target": "pspp",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
    "source": "plq",
    "target": "pq",
    "weight": 4,
@@ -5054,6 +5659,33 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "sante-quebec",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
     }
    ]
   },
@@ -5239,50 +5871,6 @@
    ]
   },
   {
-   "source": "caq",
-   "target": "pq",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
-   "source": "caq",
-   "target": "pspp",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
    "source": "charles-iii",
    "target": "pspp",
    "weight": 3,
@@ -5371,6 +5959,28 @@
    ]
   },
   {
+   "source": "jacques-allard",
+   "target": "mpo",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
+     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
    "source": "manon-jeannotte",
    "target": "pspp",
    "weight": 3,
@@ -5416,7 +6026,7 @@
   },
   {
    "source": "mark-carney",
-   "target": "pspp",
+   "target": "union-europeenne",
    "weight": 3,
    "stories": [
     {
@@ -5430,9 +6040,31 @@
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
     }
    ]
   },
@@ -5482,28 +6114,6 @@
   },
   {
    "source": "pq",
-   "target": "sante-quebec",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "pq",
    "target": "stephan-fogaing",
    "weight": 3,
    "stories": [
@@ -5543,6 +6153,28 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "union-europeenne",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
     }
    ]
   },
@@ -5819,6 +6451,23 @@
    ]
   },
   {
+   "source": "caq",
+   "target": "christine-frechette",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
    "source": "charles-iii",
    "target": "cour-superieure",
    "weight": 2,
@@ -5866,6 +6515,40 @@
      "date": "2026-10-22",
      "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
      "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    }
+   ]
+  },
+  {
+   "source": "christine-frechette",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "christine-frechette",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -5989,6 +6672,57 @@
    ]
   },
   {
+   "source": "etienne-grandmont",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "etienne-grandmont",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "etienne-grandmont",
+   "target": "qs",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
    "source": "hydro-quebec",
    "target": "keel",
    "weight": 2,
@@ -6041,18 +6775,18 @@
   },
   {
    "source": "jacques-allard",
-   "target": "mpo",
+   "target": "msi",
    "weight": 2,
    "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "82 days later, no repairs started on washed-out road dividing small Quebec town",
-     "url": "https://www.cbc.ca/news/canada/montreal/flooding-damages-major-road-in-lascension-and-bureaucracy-slows-repairs-9.7392956"
-    },
     {
      "date": "2026-10-25",
      "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
      "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     }
    ]
   },
@@ -6160,18 +6894,35 @@
   },
   {
    "source": "mark-carney",
-   "target": "union-europeenne",
+   "target": "pq",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    }
+   ]
+  },
+  {
+   "source": "mpo",
+   "target": "msi",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     }
    ]
   },
@@ -6240,23 +6991,6 @@
      "date": "2026-10-23",
      "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    }
-   ]
-  },
-  {
-   "source": "nicolas-marceau",
-   "target": "pq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     }
    ]
   },
@@ -6347,6 +7081,23 @@
   },
   {
    "source": "pq",
+   "target": "qs",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "pq",
    "target": "rene-branchaud",
    "weight": 2,
    "stories": [
@@ -6364,6 +7115,23 @@
   },
   {
    "source": "pspp",
+   "target": "qs",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "sebastien-dastous",
    "weight": 2,
    "stories": [
@@ -6376,23 +7144,6 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
-   "target": "union-europeenne",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -6559,6 +7310,42 @@
      "date": "2026-10-24",
      "headline": "Aide d’urgence en itinérance: Québec débloque 28 millions $ supplémentaires",
      "url": "https://ici.radio-canada.ca/nouvelle/2295257/itinerance-pspp-budget-urgence-deces-sorel"
+    }
+   ]
+  },
+  {
+   "source": "acq",
+   "target": "iedm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
+    }
+   ]
+  },
+  {
+   "source": "acq",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
+    }
+   ]
+  },
+  {
+   "source": "acq",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
     }
    ]
   },
@@ -6991,6 +7778,90 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "alex-perreault",
+   "target": "caq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "alex-perreault",
+   "target": "christine-frechette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "alex-perreault",
+   "target": "genevieve-belisle",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "alex-perreault",
+   "target": "martin-beaumont",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "alex-perreault",
+   "target": "pierre-luc-desgagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "alex-perreault",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "alex-perreault",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -7620,6 +8491,18 @@
   },
   {
    "source": "bape",
+   "target": "etienne-grandmont",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "bape",
    "target": "hydro-quebec",
    "weight": 1,
    "stories": [
@@ -7651,6 +8534,90 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "qsl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "batshaw",
+   "target": "cdpdj",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
+    }
+   ]
+  },
+  {
+   "source": "batshaw",
+   "target": "genevieve-frenette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
+    }
+   ]
+  },
+  {
+   "source": "batshaw",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
     }
    ]
   },
@@ -7920,7 +8887,7 @@
   },
   {
    "source": "caq",
-   "target": "christine-frechette",
+   "target": "conseil-tresor",
    "weight": 1,
    "stories": [
     {
@@ -7932,13 +8899,13 @@
   },
   {
    "source": "caq",
-   "target": "conseil-tresor",
+   "target": "cour-superieure",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
     }
    ]
   },
@@ -7968,6 +8935,30 @@
   },
   {
    "source": "caq",
+   "target": "frapru",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "genevieve-belisle",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "genevieve-biron",
    "weight": 1,
    "stories": [
@@ -7987,6 +8978,30 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "marie-claude-sarrazin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "martin-beaumont",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -8016,6 +9031,18 @@
   },
   {
    "source": "caq",
+   "target": "pierre-luc-desgagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "sante-quebec",
    "weight": 1,
    "stories": [
@@ -8023,6 +9050,18 @@
      "date": "2026-10-21",
      "headline": "Québec prépare l’abolition de Santé Québec",
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "schl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
     }
    ]
   },
@@ -8191,6 +9230,30 @@
      "date": "2026-10-26",
      "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "cdpdj",
+   "target": "genevieve-frenette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
+    }
+   ]
+  },
+  {
+   "source": "cdpdj",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
     }
    ]
   },
@@ -8424,25 +9487,37 @@
   },
   {
    "source": "christine-frechette",
-   "target": "pq",
+   "target": "genevieve-belisle",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
   {
    "source": "christine-frechette",
-   "target": "pspp",
+   "target": "martin-beaumont",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "christine-frechette",
+   "target": "pierre-luc-desgagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -9000,6 +10075,18 @@
   },
   {
    "source": "cour-superieure",
+   "target": "frapru",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
    "target": "hydro-quebec",
    "weight": 1,
    "stories": [
@@ -9048,6 +10135,18 @@
   },
   {
    "source": "cour-superieure",
+   "target": "marie-claude-sarrazin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
    "target": "regie-energie",
    "weight": 1,
    "stories": [
@@ -9055,6 +10154,18 @@
      "date": "2026-10-27",
      "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
      "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
+   "target": "schl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
     }
    ]
   },
@@ -9331,6 +10442,54 @@
      "date": "2026-10-25",
      "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
      "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "ericka-alneus",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "fady-dagher",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "projet-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
@@ -9767,6 +10926,18 @@
    ]
   },
   {
+   "source": "ensemble-montreal",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    }
+   ]
+  },
+  {
    "source": "epic",
    "target": "fiberstore",
    "weight": 1,
@@ -9995,6 +11166,42 @@
    ]
   },
   {
+   "source": "ericka-alneus",
+   "target": "fady-dagher",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "projet-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
    "source": "etienne-grandmont",
    "target": "julie-white",
    "weight": 1,
@@ -10032,37 +11239,37 @@
   },
   {
    "source": "etienne-grandmont",
-   "target": "pq",
+   "target": "qsl",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
   {
-   "source": "etienne-grandmont",
-   "target": "pspp",
+   "source": "fady-dagher",
+   "target": "projet-montreal",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
   {
-   "source": "etienne-grandmont",
-   "target": "qs",
+   "source": "fady-dagher",
+   "target": "spvm",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
@@ -10439,6 +11646,30 @@
    ]
   },
   {
+   "source": "frapru",
+   "target": "marie-claude-sarrazin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "source": "frapru",
+   "target": "schl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
    "source": "frederic-alberro",
    "target": "louis-bourcier",
    "weight": 1,
@@ -10535,6 +11766,54 @@
    ]
   },
   {
+   "source": "genevieve-belisle",
+   "target": "martin-beaumont",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-belisle",
+   "target": "pierre-luc-desgagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-belisle",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-belisle",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
    "source": "genevieve-biron",
    "target": "msss",
    "weight": 1,
@@ -10615,6 +11894,18 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-frenette",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
     }
    ]
   },
@@ -11063,6 +12354,30 @@
    ]
   },
   {
+   "source": "iedm",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
+    }
+   ]
+  },
+  {
+   "source": "iedm",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
+    }
+   ]
+  },
+  {
    "source": "index",
    "target": "jeremy-easterbrook",
    "weight": 1,
@@ -11196,13 +12511,13 @@
   },
   {
    "source": "jacques-allard",
-   "target": "msi",
+   "target": "mtmd",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-25",
-     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     }
    ]
   },
@@ -11760,6 +13075,18 @@
   },
   {
    "source": "marie-claude-sarrazin",
+   "target": "schl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-sarrazin",
    "target": "union-europeenne",
    "weight": 1,
    "stories": [
@@ -11928,6 +13255,30 @@
   },
   {
    "source": "mark-carney",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "pascal-paradis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
    "target": "pauline-marois",
    "weight": 1,
    "stories": [
@@ -11939,14 +13290,38 @@
    ]
   },
   {
-   "source": "mark-carney",
+   "source": "martin-beaumont",
+   "target": "pierre-luc-desgagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "martin-beaumont",
    "target": "pq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "martin-beaumont",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -12168,13 +13543,25 @@
   },
   {
    "source": "mpo",
-   "target": "msi",
+   "target": "mtmd",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-25",
-     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "source": "msi",
+   "target": "mtmd",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     }
    ]
   },
@@ -12371,6 +13758,30 @@
    ]
   },
   {
+   "source": "pascal-paradis",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
+   "source": "pascal-paradis",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
    "source": "pauline-marois",
    "target": "pq",
    "weight": 1,
@@ -12391,6 +13802,30 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "pierre-luc-desgagne",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "pierre-luc-desgagne",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
     }
    ]
   },
@@ -12432,13 +13867,13 @@
   },
   {
    "source": "pq",
-   "target": "qs",
+   "target": "qsl",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -12492,6 +13927,18 @@
   },
   {
    "source": "projet-montreal",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "source": "projet-montreal",
    "target": "ville-montreal",
    "weight": 1,
    "stories": [
@@ -12516,13 +13963,13 @@
   },
   {
    "source": "pspp",
-   "target": "qs",
+   "target": "qsl",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -12571,6 +14018,18 @@
      "date": "2026-10-22",
      "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    }
+   ]
+  },
+  {
+   "source": "qs",
+   "target": "qsl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
