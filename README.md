@@ -1,7 +1,8 @@
 # Quebec Governance Monitor – news-alerts
 
 Daily digest on Quebec governance, published with Jekyll on GitHub Pages:
-https://quebec-taxpayer.github.io/news-alerts/
+https://altviews.org/ (custom domain; repo quebec-taxpayer/news-alerts, `CNAME` file at the repo root — do not delete it.
+The old https://quebec-taxpayer.github.io/news-alerts/ address redirects here. EU mirror: https://quebec-taxpayer.codeberg.page/)
 
 The site has a **FR | EN** toggle at the top right. **French is the default** for first-time visitors (also when
 JavaScript is off); there is no automatic switch based on the browser's language. The choice is remembered in the
@@ -290,4 +291,4 @@ Inline SVG and CSS only, with no libraries. The only script is `assets/js/svg-ti
 - Each chart includes `<title>`/`<desc>`, a visually hidden data table for screen readers, and a numbered source list. It prints in black and white without animation.
 
 ## Local preview
-`bundle install && bundle exec jekyll serve` then open http://127.0.0.1:4000/news-alerts/
+`bundle install && bundle exec jekyll serve` then open http://127.0.0.1:4000/

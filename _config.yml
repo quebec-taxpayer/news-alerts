@@ -5,8 +5,8 @@ tagline_en: "Independent, non-partisan. One page a day. Every story linked to it
 # description = the <meta name="description"> (French only); description_en = og:description (English).
 description: "Veille quotidienne indépendante et non partisane sur la gouvernance, la transparence et la reddition de comptes au Québec."
 description_en: "Independent, non-partisan daily digest on governance, transparency and accountability in Quebec."
-url: "https://quebec-taxpayer.github.io"
-baseurl: "/news-alerts"
+url: "https://altviews.org"
+baseurl: ""
 lang: fr
 timezone: America/Toronto
 markdown: kramdown
