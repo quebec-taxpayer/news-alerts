@@ -471,6 +471,51 @@
    "category": "finances",
    "importance": 2,
    "title_en": "L’Ascension can finally start work to fill the hole"
+  },
+  "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "Quebec’s ferry corporation bypassed its own rules, the AMP finds after an investigation"
+  },
+  "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Essential services: Hydro-Québec must release workers designated by the union"
+  },
+  "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Tramway preparatory work “on time and on budget,” Quebec City says"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Jacinthe-Eve Arel named chief of staff to the Government Efficiency minister"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "“Much more than rubber stamping,” the lieutenant governor says in her defence"
+  },
+  "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831": {
+   "category": "finances",
+   "importance": 3,
+   "title_fr": "Des infrastructures d’eau vieillissantes freinent la construction de logements partout au Québec"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "An SPVM officer allegedly erased evidence provided by a domestic-violence victim"
+  },
+  "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499": {
+   "category": "energy",
+   "importance": 3,
+   "title_fr": "Projet de centre de données au Québec : les critiques reviennent à la charge après l’annulation d’une séance portes ouvertes par le promoteur américain"
+  },
+  "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Future of Santé Québec – Former minister Dubé wants a group of independent experts"
   }
  }
 }

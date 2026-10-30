@@ -1407,6 +1407,131 @@
    "name": "Pascal Paradis",
    "type": "person",
    "aliases": []
+  },
+  "amp": {
+   "name": "Autorité des marchés publics",
+   "type": "organization",
+   "aliases": [
+    "AMP"
+   ]
+  },
+  "techsol-marine": {
+   "name": "Techsol Marine",
+   "type": "organization",
+   "aliases": []
+  },
+  "bruno-verreault": {
+   "name": "Bruno Verreault",
+   "type": "person",
+   "aliases": []
+  },
+  "genevieve-drapeau": {
+   "name": "Geneviève Drapeau",
+   "type": "person",
+   "aliases": []
+  },
+  "daniel-genest": {
+   "name": "Daniel Genest",
+   "type": "person",
+   "aliases": []
+  },
+  "ville-quebec": {
+   "name": "Ville de Québec",
+   "type": "organization",
+   "aliases": [
+    "Quebec City"
+   ]
+  },
+  "cdpq-infra": {
+   "name": "CDPQ Infra",
+   "type": "organization",
+   "aliases": []
+  },
+  "jacinthe-eve-arel": {
+   "name": "Jacinthe-Eve Arel",
+   "type": "person",
+   "aliases": [
+    "Arel"
+   ]
+  },
+  "simon-jolin-barrette": {
+   "name": "Simon Jolin-Barrette",
+   "type": "person",
+   "aliases": [
+    "Jolin-Barrette"
+   ]
+  },
+  "karine-millaire": {
+   "name": "Karine Millaire",
+   "type": "person",
+   "aliases": []
+  },
+  "patrick-taillon": {
+   "name": "Patrick Taillon",
+   "type": "person",
+   "aliases": []
+  },
+  "apchq": {
+   "name": "Association des professionnels de la construction et de l’habitation du Québec",
+   "type": "organization",
+   "aliases": [
+    "APCHQ"
+   ]
+  },
+  "aviseo-conseil": {
+   "name": "AVISEO Conseil",
+   "type": "organization",
+   "aliases": [
+    "AVISEO"
+   ]
+  },
+  "isabelle-demers": {
+   "name": "Isabelle Demers",
+   "type": "person",
+   "aliases": []
+  },
+  "michael-pilote": {
+   "name": "Michaël Pilote",
+   "type": "person",
+   "aliases": []
+  },
+  "ville-baie-saint-paul": {
+   "name": "Ville de Baie-Saint-Paul",
+   "type": "organization",
+   "aliases": [
+    "Baie-Saint-Paul"
+   ]
+  },
+  "yves-francoeur": {
+   "name": "Yves Francœur",
+   "type": "person",
+   "aliases": [
+    "Francœur"
+   ]
+  },
+  "marie-claude-bibeau": {
+   "name": "Marie-Claude Bibeau",
+   "type": "person",
+   "aliases": [
+    "Bibeau"
+   ]
+  },
+  "ville-sherbrooke": {
+   "name": "Ville de Sherbrooke",
+   "type": "organization",
+   "aliases": [
+    "Sherbrooke"
+   ]
+  },
+  "hydro-sherbrooke": {
+   "name": "Hydro-Sherbrooke",
+   "type": "organization",
+   "aliases": []
+  },
+  "sherbrooke-refuse": {
+   "name": "Sherbrooke Refuse",
+   "type": "organization",
+   "aliases": []
   }
  },
  "stories": [
@@ -2610,7 +2735,9 @@
     "dpcp"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "spvm-pdq39"
+   ]
   },
   {
    "match": "2296467/bape-qsl-terminal-conteneurs",
@@ -2649,6 +2776,120 @@
    "checked_by_hand": false,
    "dossiers": [
     "lascension"
+   ]
+  },
+  {
+   "match": "la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles",
+   "entities": [
+    "stq",
+    "amp",
+    "techsol-marine",
+    "bruno-verreault"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "it-procurement"
+   ]
+  },
+  {
+   "match": "services-essentiels-hydro-quebec-devra-liberer-des-salaries",
+   "entities": [
+    "hydro-quebec",
+    "tat",
+    "genevieve-drapeau"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "travaux-preparatoires-du-tramway-dans-les-temps",
+   "entities": [
+    "daniel-genest",
+    "ville-quebec",
+    "cdpq-infra"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "2296992/jacinthe-eve-arel",
+   "entities": [
+    "jacinthe-eve-arel",
+    "sebastien-dastous",
+    "caq",
+    "pcq",
+    "simon-jolin-barrette"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "2296958/lieutenante-gouverneure-manon-jeannotte",
+   "entities": [
+    "manon-jeannotte",
+    "pspp",
+    "karine-millaire",
+    "patrick-taillon"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "oath-king"
+   ]
+  },
+  {
+   "match": "aging-water-infrastructure-quebec-9.7401831",
+   "entities": [
+    "apchq",
+    "aviseo-conseil",
+    "isabelle-demers",
+    "michael-pilote",
+    "ville-baie-saint-paul",
+    "caq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2296894/policier-spvm-destruction-preuve",
+   "entities": [
+    "spvm",
+    "soraya-martinez-ferrada",
+    "fady-dagher",
+    "yves-francoeur",
+    "guy-lapointe-fils",
+    "dpcp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "spvm-pdq39"
+   ]
+  },
+  {
+   "match": "data-centre-sherbrooke-u-s-developer-keel-infrastructure",
+   "entities": [
+    "keel",
+    "marie-claude-bibeau",
+    "ville-sherbrooke",
+    "hydro-sherbrooke",
+    "sherbrooke-refuse"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube",
+   "entities": [
+    "christian-dube",
+    "sante-quebec",
+    "marie-karlynn-laflamme"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "sante-quebec"
    ]
   }
  ]

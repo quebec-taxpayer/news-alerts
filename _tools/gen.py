@@ -44,7 +44,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-10-26": [],
         "2026-10-27": ["crown-corporations", "procurement"],
         "2026-10-28": ["crown-corporations"],
-        "2026-10-29": ["crown-corporations"]}
+        "2026-10-29": ["crown-corporations"],
+        "2026-10-30": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -64,7 +65,9 @@ SUMMARY = {
  "2026-10-28": ("Retraites anticipées et indemnités de départ pour réduire la fonction publique (selon des sources); Carney réplique à PSPP sur le sommet Canada-UE; projet de loi sur le changement d’heure; étude Cardus sur les fonds publics aux groupes militants; fautes dans des lettres de l’aide sociale; une résidence pour aînés fermera à Val-d’Or; rapport du coroner après la mort d’une fillette; branchements d’Hydro-Québec et grève; plaintes au RTC; suivi : livre blanc sur l’itinérance.",
                 "Early retirement and severance to shrink the public service (according to sources); Carney hits back at PSPP over the Canada–EU summit; clock-change bill; Cardus study on public money for advocacy groups; errors in welfare letters; a Val-d’Or seniors’ residence to close; coroner’s report after a girl’s death; Hydro-Québec connections and the strike; RTC complaints; follow-up: homelessness white paper."),
  "2026-10-29": ("Deux proches de Fréchette nommés dans la haute fonction publique; la mégadéduction fédérale coûtera environ 1 milliard par année à Québec; 20 % des chirurgies au privé; deux enquêtes sur des décès d’enfants à la DPJ anglophone; Québec veut faire annuler la vente de 94 logements sociaux à Repentigny; démantèlement du poste 39 du SPVM; BAPE réclamé pour le terminal de QSL; Montréal en « mode rattrapage »; suivis : sommet Canada-UE, L’Ascension.",
-                "Two Fréchette aides named to senior public-service posts; the federal mega-deduction will cost Quebec about $1 billion a year; 20% of surgeries in private clinics; two probes into child deaths at the English-language DPJ; Quebec seeks to cancel the sale of 94 social housing units in Repentigny; dismantling of SPVM station 39; BAPE sought for the QSL terminal; Montreal in “catch-up mode”; follow-ups: Canada–EU summit, L’Ascension.")
+                "Two Fréchette aides named to senior public-service posts; the federal mega-deduction will cost Quebec about $1 billion a year; 20% of surgeries in private clinics; two probes into child deaths at the English-language DPJ; Quebec seeks to cancel the sale of 94 social housing units in Repentigny; dismantling of SPVM station 39; BAPE sought for the QSL terminal; Montreal in “catch-up mode”; follow-ups: Canada–EU summit, L’Ascension."),
+ "2026-10-30": ("L’AMP blâme la Société des traversiers pour quatre contrats de gré à gré; le TAT donne raison au syndicat en grève d’Hydro-Québec; tramway de Québec : travaux préparatoires dans les budgets, selon la Ville; Jacinthe-Eve Arel à l’Efficacité gouvernementale; la lieutenante-gouverneure défend son rôle; infrastructures d’eau et logement; un policier du poste 39 aurait effacé une preuve; Keel annule sa séance portes ouvertes à Sherbrooke; suivi : Dubé et Santé Québec.",
+                "The AMP faults the ferry corporation (STQ) over four untendered contracts; the TAT sides with Hydro-Québec’s striking trades union; Quebec City tramway prep work on budget, the City says; Jacinthe-Eve Arel joins Government Efficiency; the lieutenant governor defends her role; water infrastructure and housing; a Station 39 officer allegedly erased evidence; Keel cancels its Sherbrooke open house; follow-up: Dubé and Santé Québec.")
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

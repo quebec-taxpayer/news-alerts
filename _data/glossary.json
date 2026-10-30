@@ -269,6 +269,22 @@
    "match_fr": [
     "représailles"
    ]
+  },
+  {
+   "id": "amp",
+   "term_en": "Autorité des marchés publics (AMP)",
+   "term_fr": "Autorité des marchés publics (AMP)",
+   "def_en": "A neutral and independent body whose mission is to oversee public procurement. It makes sure public and municipal bodies follow the rules for awarding and carrying out public contracts, and that companies that get those contracts meet high integrity requirements.",
+   "def_fr": "Instance neutre et indépendante qui a pour mission de surveiller les marchés publics. Elle veille à ce que les organismes publics et municipaux respectent les règles encadrant l’octroi et l’exécution des contrats publics, et s’assure que les entreprises qui obtiennent ces contrats satisfont aux exigences élevées d’intégrité.",
+   "source_en": "https://www.amp.quebec/communique/ordonnance-2026-06",
+   "source_fr": "https://www.amp.quebec/communique/ordonnance-2026-06",
+   "source_label": "Autorité des marchés publics, « À propos » (communiqué, 29 oct. 2026)",
+   "match_en": [
+    "Autorité des marchés publics"
+   ],
+   "match_fr": [
+    "Autorité des marchés publics"
+   ]
   }
  ]
 }

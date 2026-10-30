@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-29T14:41:35Z",
+ "generated": "2026-10-30T14:33:26Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 100,
+ "story_count": 109,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1054,6 +1054,104 @@
      ]
     }
    ]
+  },
+  "2026-10-30": {
+   "post": "/2026/10/30/digest/",
+   "stories": [
+    {
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete",
+     "entities": [
+      "amp",
+      "bruno-verreault",
+      "stq",
+      "techsol-marine"
+     ]
+    },
+    {
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/",
+     "entities": [
+      "genevieve-drapeau",
+      "hydro-quebec",
+      "tat"
+     ]
+    },
+    {
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec",
+     "entities": [
+      "cdpq-infra",
+      "daniel-genest",
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale",
+     "entities": [
+      "caq",
+      "jacinthe-eve-arel",
+      "pcq",
+      "sebastien-dastous",
+      "simon-jolin-barrette"
+     ]
+    },
+    {
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation",
+     "entities": [
+      "karine-millaire",
+      "manon-jeannotte",
+      "patrick-taillon",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831",
+     "entities": [
+      "apchq",
+      "aviseo-conseil",
+      "caq",
+      "isabelle-demers",
+      "michael-pilote",
+      "ville-baie-saint-paul"
+     ]
+    },
+    {
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale",
+     "entities": [
+      "dpcp",
+      "fady-dagher",
+      "guy-lapointe-fils",
+      "soraya-martinez-ferrada",
+      "spvm",
+      "yves-francoeur"
+     ]
+    },
+    {
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499",
+     "entities": [
+      "hydro-sherbrooke",
+      "keel",
+      "marie-claude-bibeau",
+      "sherbrooke-refuse",
+      "ville-sherbrooke"
+     ]
+    },
+    {
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php",
+     "entities": [
+      "christian-dube",
+      "marie-karlynn-laflamme",
+      "sante-quebec"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1065,7 +1163,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 27,
+   "mentions": 28,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1201,6 +1299,11 @@
      "date": "2026-10-29",
      "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
     }
    ]
   },
@@ -1312,7 +1415,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 14,
+   "mentions": 15,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1383,6 +1486,11 @@
      "date": "2026-10-29",
      "headline": "Enfants morts sous la protection de la DPJ anglophone : deux enquêtes sont lancées",
      "url": "https://ici.radio-canada.ca/nouvelle/2296527/enfants-morts-fillette-autochtone-dpj-anglophone-batshaw--enquetes"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
     }
    ]
   },
@@ -1393,7 +1501,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 10,
+   "mentions": 11,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1444,6 +1552,104 @@
      "date": "2026-10-28",
      "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
      "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    }
+   ]
+  },
+  {
+   "id": "caq",
+   "name": "Coalition Avenir Québec",
+   "type": "organization",
+   "aliases": [
+    "CAQ",
+    "caquiste"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "id": "marie-karlynn-laflamme",
+   "name": "Marie-Karlynn Laflamme",
+   "type": "person",
+   "aliases": [
+    "Laflamme"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
     }
    ]
   },
@@ -1486,47 +1692,6 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
-   "id": "marie-karlynn-laflamme",
-   "name": "Marie-Karlynn Laflamme",
-   "type": "person",
-   "aliases": [
-    "Laflamme"
-   ],
-   "mentions": 6,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
-     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
     }
    ]
   },
@@ -1615,6 +1780,45 @@
    ]
   },
   {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
    "id": "alain-therrien",
    "name": "Alain Therrien",
    "type": "person",
@@ -1647,77 +1851,6 @@
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
-   "id": "caq",
-   "name": "Coalition Avenir Québec",
-   "type": "organization",
-   "aliases": [
-    "CAQ",
-    "caquiste"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    }
-   ]
-  },
-  {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
-   "type": "person",
-   "aliases": [],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
     }
    ]
   },
@@ -1819,6 +1952,37 @@
    ]
   },
   {
+   "id": "manon-jeannotte",
+   "name": "Manon Jeannotte",
+   "type": "person",
+   "aliases": [
+    "Manon Jeanotte"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    }
+   ]
+  },
+  {
    "id": "mtmd",
    "name": "Ministère des Transports et de la Mobilité durable",
    "type": "organization",
@@ -1883,6 +2047,37 @@
    ]
   },
   {
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
    "id": "saq",
    "name": "Société des alcools du Québec",
    "type": "organization",
@@ -1939,6 +2134,35 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "id": "tat",
+   "name": "Tribunal administratif du travail",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
     }
    ]
   },
@@ -2095,6 +2319,33 @@
    ]
   },
   {
+   "id": "guy-lapointe-fils",
+   "name": "Guy Lapointe fils",
+   "type": "person",
+   "aliases": [
+    "Guy Jr. Lapointe",
+    "Lapointe"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
    "id": "jacques-allard",
    "name": "Jacques Allard",
    "type": "person",
@@ -2119,28 +2370,28 @@
    ]
   },
   {
-   "id": "manon-jeannotte",
-   "name": "Manon Jeannotte",
-   "type": "person",
+   "id": "keel",
+   "name": "Keel Infrastructure",
+   "type": "organization",
    "aliases": [
-    "Manon Jeanotte"
+    "Keel"
    ],
    "mentions": 3,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
     },
     {
      "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
     }
    ]
   },
@@ -2167,6 +2418,35 @@
      "date": "2026-10-29",
      "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "id": "pcq",
+   "name": "Parti conservateur du Québec",
+   "type": "organization",
+   "aliases": [
+    "PCQ",
+    "Conservative Party",
+    "conservateurs",
+    "conservatrice"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     }
    ]
   },
@@ -2224,32 +2504,6 @@
    ]
   },
   {
-   "id": "spvm",
-   "name": "Service de police de la Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "SPVM"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    }
-   ]
-  },
-  {
    "id": "saaq",
    "name": "Société de l’assurance automobile du Québec",
    "type": "organization",
@@ -2300,26 +2554,28 @@
    ]
   },
   {
-   "id": "tat",
-   "name": "Tribunal administratif du travail",
-   "type": "organization",
-   "aliases": [],
+   "id": "sebastien-dastous",
+   "name": "Sébastien D’Astous",
+   "type": "person",
+   "aliases": [
+    "Sébastien D'Astous"
+   ],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
-     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-25",
-     "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
-     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     }
    ]
   },
@@ -2526,6 +2782,25 @@
    ]
   },
   {
+   "id": "christian-dube",
+   "name": "Christian Dubé",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    }
+   ]
+  },
+  {
    "id": "christine-frechette",
    "name": "Christine Fréchette",
    "type": "person",
@@ -2570,6 +2845,48 @@
    ]
   },
   {
+   "id": "dpcp",
+   "name": "Directeur des poursuites criminelles et pénales",
+   "type": "organization",
+   "aliases": [
+    "DPCP"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "id": "fady-dagher",
+   "name": "Fady Dagher",
+   "type": "person",
+   "aliases": [
+    "Dagher"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
    "id": "francis-verreault-paul",
    "name": "Francis Verreault-Paul",
    "type": "person",
@@ -2591,28 +2908,6 @@
    ]
   },
   {
-   "id": "guy-lapointe-fils",
-   "name": "Guy Lapointe fils",
-   "type": "person",
-   "aliases": [
-    "Guy Jr. Lapointe",
-    "Lapointe"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
-    }
-   ]
-  },
-  {
    "id": "joel-arseneau",
    "name": "Joël Arseneau",
    "type": "person",
@@ -2630,27 +2925,6 @@
      "date": "2026-10-25",
      "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
      "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
-    }
-   ]
-  },
-  {
-   "id": "keel",
-   "name": "Keel Infrastructure",
-   "type": "organization",
-   "aliases": [
-    "Keel"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
     }
    ]
   },
@@ -2777,30 +3051,6 @@
    ]
   },
   {
-   "id": "pcq",
-   "name": "Parti conservateur du Québec",
-   "type": "organization",
-   "aliases": [
-    "PCQ",
-    "Conservative Party",
-    "conservateurs",
-    "conservatrice"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    }
-   ]
-  },
-  {
    "id": "projet-montreal",
    "name": "Projet Montréal",
    "type": "organization",
@@ -2904,23 +3154,23 @@
    ]
   },
   {
-   "id": "sebastien-dastous",
-   "name": "Sébastien D’Astous",
-   "type": "person",
+   "id": "stq",
+   "name": "Société des traversiers du Québec",
+   "type": "organization",
    "aliases": [
-    "Sébastien D'Astous"
+    "STQ"
    ],
    "mentions": 2,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "date": "2026-10-24",
+     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
+     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
     }
    ]
   },
@@ -2996,6 +3246,22 @@
      "date": "2026-10-26",
      "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "id": "aviseo-conseil",
+   "name": "AVISEO Conseil",
+   "type": "organization",
+   "aliases": [
+    "AVISEO"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
     }
    ]
   },
@@ -3194,6 +3460,22 @@
    ]
   },
   {
+   "id": "apchq",
+   "name": "Association des professionnels de la construction et de l’habitation du Québec",
+   "type": "organization",
+   "aliases": [
+    "APCHQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
    "id": "aqdp",
    "name": "Association québécoise des distributeurs en pharmacie",
    "type": "organization",
@@ -3236,6 +3518,22 @@
      "date": "2026-10-25",
      "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
      "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "id": "amp",
+   "name": "Autorité des marchés publics",
+   "type": "organization",
+   "aliases": [
+    "AMP"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
     }
    ]
   },
@@ -3285,6 +3583,20 @@
    ]
   },
   {
+   "id": "bruno-verreault",
+   "name": "Bruno Verreault",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
    "id": "bruno-pierre-godbout",
    "name": "Bruno-Pierre Godbout",
    "type": "person",
@@ -3311,6 +3623,20 @@
      "date": "2026-10-26",
      "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
      "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "id": "cdpq-infra",
+   "name": "CDPQ Infra",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
     }
    ]
   },
@@ -3399,20 +3725,6 @@
      "date": "2026-10-21",
      "headline": "Où en est la filière hydrogène ?",
      "url": "https://www.lapresse.ca/affaires/economie/2026-10-17/ou-en-est-la-filiere-hydrogene.php"
-    }
-   ]
-  },
-  {
-   "id": "christian-dube",
-   "name": "Christian Dubé",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
     }
    ]
   },
@@ -3592,6 +3904,20 @@
    ]
   },
   {
+   "id": "daniel-genest",
+   "name": "Daniel Genest",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    }
+   ]
+  },
+  {
    "id": "dave-kimpton",
    "name": "Dave Kimpton",
    "type": "person",
@@ -3646,22 +3972,6 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
-    }
-   ]
-  },
-  {
-   "id": "dpcp",
-   "name": "Directeur des poursuites criminelles et pénales",
-   "type": "organization",
-   "aliases": [
-    "DPCP"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
@@ -3792,22 +4102,6 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
-    }
-   ]
-  },
-  {
-   "id": "fady-dagher",
-   "name": "Fady Dagher",
-   "type": "person",
-   "aliases": [
-    "Dagher"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
@@ -4043,6 +4337,20 @@
    ]
   },
   {
+   "id": "genevieve-drapeau",
+   "name": "Geneviève Drapeau",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    }
+   ]
+  },
+  {
    "id": "genevieve-frenette",
    "name": "Geneviève Frenette",
    "type": "person",
@@ -4097,6 +4405,20 @@
      "date": "2026-10-24",
      "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
      "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
+    }
+   ]
+  },
+  {
+   "id": "hydro-sherbrooke",
+   "name": "Hydro-Sherbrooke",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
     }
    ]
   },
@@ -4237,6 +4559,20 @@
    ]
   },
   {
+   "id": "isabelle-demers",
+   "name": "Isabelle Demers",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
    "id": "isabelle-dufour",
    "name": "Isabelle Dufour",
    "type": "person",
@@ -4247,6 +4583,22 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "id": "jacinthe-eve-arel",
+   "name": "Jacinthe-Eve Arel",
+   "type": "person",
+   "aliases": [
+    "Arel"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     }
    ]
   },
@@ -4375,6 +4727,20 @@
      "date": "2026-10-23",
      "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    }
+   ]
+  },
+  {
+   "id": "karine-millaire",
+   "name": "Karine Millaire",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
     }
    ]
   },
@@ -4512,6 +4878,22 @@
    ]
   },
   {
+   "id": "marie-claude-bibeau",
+   "name": "Marie-Claude Bibeau",
+   "type": "person",
+   "aliases": [
+    "Bibeau"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
    "id": "marie-josee-tremblay",
    "name": "Marie-Josée Tremblay",
    "type": "person",
@@ -4610,6 +4992,20 @@
      "date": "2026-10-25",
      "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
      "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "id": "michael-pilote",
+   "name": "Michaël Pilote",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
     }
    ]
   },
@@ -4825,6 +5221,20 @@
    ]
   },
   {
+   "id": "patrick-taillon",
+   "name": "Patrick Taillon",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    }
+   ]
+  },
+  {
    "id": "pauline-marois",
    "name": "Pauline Marois",
    "type": "person",
@@ -5022,6 +5432,36 @@
    ]
   },
   {
+   "id": "sherbrooke-refuse",
+   "name": "Sherbrooke Refuse",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "id": "simon-jolin-barrette",
+   "name": "Simon Jolin-Barrette",
+   "type": "person",
+   "aliases": [
+    "Jolin-Barrette"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
    "id": "simon-mathieu-malenfant",
    "name": "Simon-Mathieu Malenfant",
    "type": "person",
@@ -5049,22 +5489,6 @@
      "date": "2026-10-29",
      "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    }
-   ]
-  },
-  {
-   "id": "stq",
-   "name": "Société des traversiers du Québec",
-   "type": "organization",
-   "aliases": [
-    "STQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
-     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
     }
    ]
   },
@@ -5205,6 +5629,20 @@
    ]
   },
   {
+   "id": "techsol-marine",
+   "name": "Techsol Marine",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
    "id": "thomas-birch",
    "name": "Thomas Birch",
    "type": "person",
@@ -5235,6 +5673,22 @@
    ]
   },
   {
+   "id": "ville-baie-saint-paul",
+   "name": "Ville de Baie-Saint-Paul",
+   "type": "organization",
+   "aliases": [
+    "Baie-Saint-Paul"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
    "id": "ville-chandler",
    "name": "Ville de Chandler",
    "type": "organization",
@@ -5245,6 +5699,22 @@
      "date": "2026-10-24",
      "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
      "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+    }
+   ]
+  },
+  {
+   "id": "ville-quebec",
+   "name": "Ville de Québec",
+   "type": "organization",
+   "aliases": [
+    "Quebec City"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
     }
    ]
   },
@@ -5265,6 +5735,22 @@
    ]
   },
   {
+   "id": "ville-sherbrooke",
+   "name": "Ville de Sherbrooke",
+   "type": "organization",
+   "aliases": [
+    "Sherbrooke"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
    "id": "vivre-en-ville",
    "name": "Vivre en Ville",
    "type": "organization",
@@ -5275,6 +5761,22 @@
      "date": "2026-10-26",
      "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
      "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "id": "yves-francoeur",
+   "name": "Yves Francœur",
+   "type": "person",
+   "aliases": [
+    "Francœur"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -5464,6 +5966,43 @@
    ]
   },
   {
+   "source": "marie-karlynn-laflamme",
+   "target": "sante-quebec",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    }
+   ]
+  },
+  {
    "source": "alain-therrien",
    "target": "pspp",
    "weight": 5,
@@ -5492,38 +6031,6 @@
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
-   "source": "marie-karlynn-laflamme",
-   "target": "sante-quebec",
-   "weight": 5,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
-     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
     }
    ]
   },
@@ -5605,6 +6112,33 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
+   "source": "manon-jeannotte",
+   "target": "pspp",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
     }
    ]
   },
@@ -5959,6 +6493,28 @@
    ]
   },
   {
+   "source": "hydro-quebec",
+   "target": "tat",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    }
+   ]
+  },
+  {
    "source": "jacques-allard",
    "target": "mpo",
    "weight": 3,
@@ -5977,28 +6533,6 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
-    }
-   ]
-  },
-  {
-   "source": "manon-jeannotte",
-   "target": "pspp",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
     }
    ]
   },
@@ -6175,6 +6709,28 @@
      "date": "2026-10-29",
      "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "spvm",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -6519,6 +7075,23 @@
    ]
   },
   {
+   "source": "christian-dube",
+   "target": "sante-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    }
+   ]
+  },
+  {
    "source": "christine-frechette",
    "target": "pq",
    "weight": 2,
@@ -6638,6 +7211,40 @@
    ]
   },
   {
+   "source": "dpcp",
+   "target": "fady-dagher",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "spvm",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
    "source": "elections-quebec",
    "target": "plq",
    "weight": 2,
@@ -6723,6 +7330,57 @@
    ]
   },
   {
+   "source": "fady-dagher",
+   "target": "spvm",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "soraya-martinez-ferrada",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "spvm",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
    "source": "hydro-quebec",
    "target": "keel",
    "weight": 2,
@@ -6753,23 +7411,6 @@
      "date": "2026-10-27",
      "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
      "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
-   "target": "tat",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
-     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
-     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
     }
    ]
   },
@@ -7144,23 +7785,6 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    }
-   ]
-  },
-  {
-   "source": "soraya-martinez-ferrada",
-   "target": "spvm",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -8082,6 +8706,42 @@
    ]
   },
   {
+   "source": "amp",
+   "target": "bruno-verreault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
+   "source": "amp",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
+   "source": "amp",
+   "target": "techsol-marine",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
    "source": "anne-nguyen",
    "target": "pspp",
    "weight": 1,
@@ -8090,6 +8750,66 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: dossiers chauds, gros mandats et diverses missions de l'État",
      "url": "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec"
+    }
+   ]
+  },
+  {
+   "source": "apchq",
+   "target": "aviseo-conseil",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "apchq",
+   "target": "caq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "apchq",
+   "target": "isabelle-demers",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "apchq",
+   "target": "michael-pilote",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "apchq",
+   "target": "ville-baie-saint-paul",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
     }
    ]
   },
@@ -8478,6 +9198,54 @@
    ]
   },
   {
+   "source": "aviseo-conseil",
+   "target": "caq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "aviseo-conseil",
+   "target": "isabelle-demers",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "aviseo-conseil",
+   "target": "michael-pilote",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "aviseo-conseil",
+   "target": "ville-baie-saint-paul",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
    "source": "banques-alimentaires-quebec",
    "target": "saq",
    "weight": 1,
@@ -8778,6 +9546,30 @@
    ]
   },
   {
+   "source": "bruno-verreault",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
+   "source": "bruno-verreault",
+   "target": "techsol-marine",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
    "source": "bureau-coroner",
    "target": "dave-kimpton",
    "weight": 1,
@@ -8971,6 +9763,30 @@
   },
   {
    "source": "caq",
+   "target": "isabelle-demers",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "jacinthe-eve-arel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "louis-levesque",
    "weight": 1,
    "stories": [
@@ -9007,6 +9823,18 @@
   },
   {
    "source": "caq",
+   "target": "michael-pilote",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "msss",
    "weight": 1,
    "stories": [
@@ -9026,6 +9854,18 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "pcq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     }
    ]
   },
@@ -9067,6 +9907,30 @@
   },
   {
    "source": "caq",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "simon-jolin-barrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "sylvain-beaudry",
    "weight": 1,
    "stories": [
@@ -9074,6 +9938,18 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "ville-baie-saint-paul",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
     }
    ]
   },
@@ -9258,6 +10134,30 @@
    ]
   },
   {
+   "source": "cdpq-infra",
+   "target": "daniel-genest",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cdpq-infra",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    }
+   ]
+  },
+  {
    "source": "charbone",
    "target": "hydrolux",
    "weight": 1,
@@ -9415,6 +10315,18 @@
   },
   {
    "source": "christian-dube",
+   "target": "marie-karlynn-laflamme",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    }
+   ]
+  },
+  {
+   "source": "christian-dube",
    "target": "msss",
    "weight": 1,
    "stories": [
@@ -9440,18 +10352,6 @@
   {
    "source": "christian-dube",
    "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    }
-   ]
-  },
-  {
-   "source": "christian-dube",
-   "target": "sante-quebec",
    "weight": 1,
    "stories": [
     {
@@ -10266,6 +11166,18 @@
    ]
   },
   {
+   "source": "daniel-genest",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    }
+   ]
+  },
+  {
    "source": "dave-kimpton",
    "target": "saaq",
    "weight": 1,
@@ -10459,13 +11371,13 @@
   },
   {
    "source": "dpcp",
-   "target": "fady-dagher",
+   "target": "guy-lapointe-fils",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -10483,13 +11395,25 @@
   },
   {
    "source": "dpcp",
-   "target": "spvm",
+   "target": "soraya-martinez-ferrada",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "yves-francoeur",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -11251,6 +12175,18 @@
   },
   {
    "source": "fady-dagher",
+   "target": "guy-lapointe-fils",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
    "target": "projet-montreal",
    "weight": 1,
    "stories": [
@@ -11263,13 +12199,25 @@
   },
   {
    "source": "fady-dagher",
-   "target": "spvm",
+   "target": "soraya-martinez-ferrada",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
+   "target": "yves-francoeur",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -11898,6 +12846,30 @@
    ]
   },
   {
+   "source": "genevieve-drapeau",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-drapeau",
+   "target": "tat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    }
+   ]
+  },
+  {
    "source": "genevieve-frenette",
    "target": "sante-quebec",
    "weight": 1,
@@ -12007,25 +12979,13 @@
   },
   {
    "source": "guy-lapointe-fils",
-   "target": "soraya-martinez-ferrada",
+   "target": "yves-francoeur",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    }
-   ]
-  },
-  {
-   "source": "guy-lapointe-fils",
-   "target": "spvm",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -12230,6 +13190,54 @@
      "date": "2026-10-22",
      "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
      "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    }
+   ]
+  },
+  {
+   "source": "hydro-sherbrooke",
+   "target": "keel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "source": "hydro-sherbrooke",
+   "target": "marie-claude-bibeau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "source": "hydro-sherbrooke",
+   "target": "sherbrooke-refuse",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "source": "hydro-sherbrooke",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
     }
    ]
   },
@@ -12462,6 +13470,30 @@
    ]
   },
   {
+   "source": "isabelle-demers",
+   "target": "michael-pilote",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "source": "isabelle-demers",
+   "target": "ville-baie-saint-paul",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
    "source": "isabelle-dufour",
    "target": "martin-lachance",
    "weight": 1,
@@ -12506,6 +13538,42 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "pcq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "simon-jolin-barrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     }
    ]
   },
@@ -12786,6 +13854,78 @@
    ]
   },
   {
+   "source": "karine-millaire",
+   "target": "manon-jeannotte",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    }
+   ]
+  },
+  {
+   "source": "karine-millaire",
+   "target": "patrick-taillon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    }
+   ]
+  },
+  {
+   "source": "karine-millaire",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    }
+   ]
+  },
+  {
+   "source": "keel",
+   "target": "marie-claude-bibeau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "source": "keel",
+   "target": "sherbrooke-refuse",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "source": "keel",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
    "source": "keolis-canada",
    "target": "sncf-voyageurs",
    "weight": 1,
@@ -13027,6 +14167,18 @@
   },
   {
    "source": "manon-jeannotte",
+   "target": "patrick-taillon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    }
+   ]
+  },
+  {
+   "source": "manon-jeannotte",
    "target": "plq",
    "weight": 1,
    "stories": [
@@ -13046,6 +14198,30 @@
      "date": "2026-10-22",
      "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
      "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-bibeau",
+   "target": "sherbrooke-refuse",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-bibeau",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
     }
    ]
   },
@@ -13422,6 +14598,18 @@
    ]
   },
   {
+   "source": "michael-pilote",
+   "target": "ville-baie-saint-paul",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
    "source": "michele-chappaz",
    "target": "mmfim",
    "weight": 1,
@@ -13782,6 +14970,18 @@
    ]
   },
   {
+   "source": "patrick-taillon",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    }
+   ]
+  },
+  {
    "source": "pauline-marois",
    "target": "pq",
    "weight": 1,
@@ -13802,6 +15002,30 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "pcq",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "pcq",
+   "target": "simon-jolin-barrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     }
    ]
   },
@@ -14275,6 +15499,18 @@
   },
   {
    "source": "sebastien-dastous",
+   "target": "simon-jolin-barrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "sebastien-dastous",
    "target": "stephane-paquet",
    "weight": 1,
    "stories": [
@@ -14294,6 +15530,18 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "source": "sherbrooke-refuse",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
     }
    ]
   },
@@ -14346,6 +15594,30 @@
    ]
   },
   {
+   "source": "soraya-martinez-ferrada",
+   "target": "yves-francoeur",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "spvm",
+   "target": "yves-francoeur",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
    "source": "steeve-poulin",
    "target": "tmf",
    "weight": 1,
@@ -14366,6 +15638,18 @@
      "date": "2026-10-22",
      "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    }
+   ]
+  },
+  {
+   "source": "stq",
+   "target": "techsol-marine",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
     }
    ]
   },
