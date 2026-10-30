@@ -10,7 +10,7 @@
 <nav class="site-nav" aria-label="Navigation">
   <div class="wrap">
 {%- for it in items -%}{%- assign f = it | split: "|" %}
-    <a href="{{ f[1] | relative_url }}"{% if sec == f[0] %} class="active" aria-current="page"{% endif %}><span class="l-en" lang="en">{{ f[2] }}</span><span class="l-fr" lang="fr">{{ f[3] }}</span></a>
+    <a href="{{ f[1] | relative_url }}"{% if sec == f[0] %} class="active" aria-current="page"{% endif %}><span class="l-fr" lang="fr">{{ f[3] }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ f[2] }}</span></a>
 {%- endfor %}
   </div>
 </nav>

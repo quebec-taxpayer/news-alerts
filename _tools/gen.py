@@ -119,7 +119,9 @@ def strip_star(s): return s.strip()[1:-1].strip()
 def is_star(s): s = s.strip(); return len(s) > 2 and s.startswith("*") and s.endswith("*")
 def bi(tag, fr, en, cls=""):
     c = f" {cls}" if cls else ""
-    return (f'<{tag} class="l-fr{c}" lang="fr">{e(fr)}</{tag}>'
+    # Inline pairs get a hidden " / " separator so text-only readers (no CSS, reader views, crawlers) never see "FRen" run together.
+    sep = '<span class="l-sep" aria-hidden="true"> / </span>' if tag == "span" else ""
+    return (f'<{tag} class="l-fr{c}" lang="fr">{e(fr)}</{tag}>' + sep +
             f'<{tag} class="l-en{c}" lang="en">{e(en)}</{tag}>')
 
 def story_id(url):

@@ -5,16 +5,16 @@ section: chronology
 {%- capture rel_href -%}href="{{ '/' | relative_url }}{%- endcapture -%}
 {%- assign d = site.data.dossiers.dossiers | where: "id", page.dossier | first -%}
 <article class="page dossier">
-  <p class="crumb"><a href="{{ '/chronology/' | relative_url }}">← <span class="l-en" lang="en">Dossiers</span><span class="l-fr" lang="fr">Dossiers</span></a></p>
-  <h1><span class="l-en" lang="en">{{ d.name_en }}</span><span class="l-fr" lang="fr">{{ d.name_fr }}</span></h1>
+  <p class="crumb"><a href="{{ '/chronology/' | relative_url }}">← <span class="l-en" lang="en">Dossiers</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Dossiers</span></a></p>
+  <h1><span class="l-en" lang="en">{{ d.name_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ d.name_fr }}</span></h1>
   <p class="l-en" lang="en">{{ d.desc_en | replace: 'href="/', rel_href }}</p><p class="l-fr" lang="fr">{{ d.desc_fr | replace: 'href="/', rel_href }}</p>
   {%- if d.tldr %}
   <section class="callout tldr" aria-labelledby="tldr-h">
-    <h2 id="tldr-h" class="callout-label"><span class="l-en" lang="en">In 30 seconds</span><span class="l-fr" lang="fr">En 30 secondes</span></h2>
+    <h2 id="tldr-h" class="callout-label"><span class="l-en" lang="en">In 30 seconds</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">En 30 secondes</span></h2>
     <dl>
-      <dt><span class="l-en" lang="en">What happened</span><span class="l-fr" lang="fr">Ce qui s’est passé</span></dt><dd><span class="l-en" lang="en">{{ d.tldr.what.en }}</span><span class="l-fr" lang="fr">{{ d.tldr.what.fr }}</span></dd>
-      <dt><span class="l-en" lang="en">Why it matters to taxpayers</span><span class="l-fr" lang="fr">Pourquoi c’est important pour les contribuables</span></dt><dd><span class="l-en" lang="en">{{ d.tldr.why.en }}</span><span class="l-fr" lang="fr">{{ d.tldr.why.fr }}</span></dd>
-      <dt><span class="l-en" lang="en">Where things stand</span><span class="l-fr" lang="fr">Où en sont les choses</span></dt><dd><span class="l-en" lang="en">{{ d.tldr.now.en }}</span><span class="l-fr" lang="fr">{{ d.tldr.now.fr }}</span></dd>
+      <dt><span class="l-en" lang="en">What happened</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Ce qui s’est passé</span></dt><dd><span class="l-en" lang="en">{{ d.tldr.what.en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ d.tldr.what.fr }}</span></dd>
+      <dt><span class="l-en" lang="en">Why it matters to taxpayers</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Pourquoi c’est important pour les contribuables</span></dt><dd><span class="l-en" lang="en">{{ d.tldr.why.en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ d.tldr.why.fr }}</span></dd>
+      <dt><span class="l-en" lang="en">Where things stand</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Où en sont les choses</span></dt><dd><span class="l-en" lang="en">{{ d.tldr.now.en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ d.tldr.now.fr }}</span></dd>
     </dl>
   </section>
   {%- endif %}
@@ -22,7 +22,7 @@ section: chronology
   {% include svg-timeline.html data=tld %}
   {%- endif %}{%- endif %}
   {%- for ch in site.data.charts %}{%- assign chd = ch[1] %}{%- if chd.dossier == d.id %}{% include svg-chart.html data=chd %}{% endif %}{%- endfor %}
-  <p class="dossier-print"><a href="{{ '/chronology/' | append: d.id | append: '/print/' | relative_url }}"><span class="l-en" lang="en">Printable fact sheet</span><span class="l-fr" lang="fr">Fiche imprimable</span></a></p>
+  <p class="dossier-print"><a href="{{ '/chronology/' | append: d.id | append: '/print/' | relative_url }}"><span class="l-en" lang="en">Printable fact sheet</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Fiche imprimable</span></a></p>
   {% include upcoming.html key=d.id %}
   {%- assign mitems = site.data.money.items | where: "dossier", d.id %}
   {%- if mitems.size > 0 %}
@@ -30,27 +30,27 @@ section: chronology
   {%- for it in mitems %}{% include money.html item=it %}{% endfor %}
   </section>
   {%- endif %}
-  <p class="dossier-meta">{{ d.events.size }} <span class="l-en" lang="en">events, in the order they happened. Allegations are reported as such and are unproven unless stated.</span><span class="l-fr" lang="fr">événements, dans l’ordre où ils se sont produits. Les allégations sont présentées comme telles et ne sont pas prouvées, sauf mention contraire.</span></p>
+  <p class="dossier-meta">{{ d.events.size }} <span class="l-en" lang="en">events, in the order they happened. Allegations are reported as such and are unproven unless stated.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">événements, dans l’ordre où ils se sont produits. Les allégations sont présentées comme telles et ne sont pas prouvées, sauf mention contraire.</span></p>
   {%- if page.decade_strip %}{% include decade-strip.html dossier=d %}{% endif %}
   {%- if d.entities.size > 0 %}
-  <p class="dossier-ents"><span class="l-en" lang="en">Names in this dossier (see the network map):</span><span class="l-fr" lang="fr">Noms dans ce dossier (voir la carte du réseau) :</span>
+  <p class="dossier-ents"><span class="l-en" lang="en">Names in this dossier (see the network map):</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Noms dans ce dossier (voir la carte du réseau) :</span>
     {% for eid in d.entities %}{% assign n = site.data.network.nodes | where: "id", eid | first %}{% if n %}<a href="{{ '/network/' | relative_url }}#{{ n.id }}">{{ n.name }}</a>{% unless forloop.last %}, {% endunless %}{% endif %}{% endfor %}</p>
   {%- endif %}
   {% include promises.html dossier=d.id %}
   {%- if d.svg_timeline %}
   <details class="dossier-detail" open data-dossier-detail>
-    <summary><span class="l-en" lang="en">Detailed timeline with all sources</span><span class="l-fr" lang="fr">Chronologie détaillée et sources</span></summary>
+    <summary><span class="l-en" lang="en">Detailed timeline with all sources</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Chronologie détaillée et sources</span></summary>
   {%- endif %}
   <ol class="timeline">
   {%- for e in d.events %}
     {%- assign yr = e.date | slice: 0, 4 -%}
     {%- if yr != prev_yr %}<li class="tl-year" aria-hidden="true">{{ yr }}</li>{% assign prev_yr = yr %}{% endif %}
     <li class="tl-event{% if e.background %} tl-bg{% endif %}">
-      <p class="tl-date"><time datetime="{{ e.date }}">{% include edate.html date=e.date %}</time>{% if e.background %} <span class="tl-tag"><span class="l-en" lang="en">Background</span><span class="l-fr" lang="fr">Contexte</span></span>{% endif %}</p>
+      <p class="tl-date"><time datetime="{{ e.date }}">{% include edate.html date=e.date %}</time>{% if e.background %} <span class="tl-tag"><span class="l-en" lang="en">Background</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Contexte</span></span>{% endif %}</p>
       <p class="tl-text l-en" lang="en">{{ e.en }}</p><p class="tl-text l-fr" lang="fr">{{ e.fr }}</p>
-      <p class="tl-src"><span class="tl-type tl-{{ e.source_type }}">{% if e.source_type == "primary" %}<span class="l-en" lang="en">Primary source</span><span class="l-fr" lang="fr">Source primaire</span>{% else %}<span class="l-en" lang="en">Media</span><span class="l-fr" lang="fr">Média</span>{% endif %}</span>
+      <p class="tl-src"><span class="tl-type tl-{{ e.source_type }}">{% if e.source_type == "primary" %}<span class="l-en" lang="en">Primary source</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Source primaire</span>{% else %}<span class="l-en" lang="en">Media</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Média</span>{% endif %}</span>
         {% if e.source_outlet != "" and e.source_outlet %}{{ e.source_outlet }}: {% endif %}<a href="{{ e.source_url }}" rel="noopener" target="_blank">{{ e.source_title }}</a>
-        {%- if e.post %}{% assign pp = e.post | split: "-" %} · <a href="{{ '/' | append: pp[0] | append: '/' | append: pp[1] | append: '/' | append: pp[2] | append: '/digest/' | relative_url }}"><span class="l-en" lang="en">Digest of</span><span class="l-fr" lang="fr">Bulletin du</span> {% include edate.html date=e.post %}</a>{% endif %}</p>
+        {%- if e.post %}{% assign pp = e.post | split: "-" %} · <a href="{{ '/' | append: pp[0] | append: '/' | append: pp[1] | append: '/' | append: pp[2] | append: '/digest/' | relative_url }}"><span class="l-en" lang="en">Digest of</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Bulletin du</span> {% include edate.html date=e.post %}</a>{% endif %}</p>
     </li>
   {%- endfor %}
   </ol>

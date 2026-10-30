@@ -2,12 +2,12 @@
   <div class="wrap header-row">
     <div class="brand">
       <p class="site-title"><a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ '/assets/img/altviews-logo.svg' | relative_url }}" alt="AltViews" width="2095" height="385"></a></p>
-      <p class="site-tagline"><span class="l-en" lang="en">{{ site.tagline_en }}</span><span class="l-fr" lang="fr">{{ site.tagline_fr }}</span></p>
+      <p class="site-tagline"><span class="l-fr" lang="fr">{{ site.tagline_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ site.tagline_en }}</span></p>
     </div>
     <div class="header-tools">
       <a class="rss-link" href="{{ '/feed.xml' | relative_url }}" type="application/rss+xml"><span class="l-fr" lang="fr" title="Fil RSS">RSS</span><span class="l-en" lang="en" title="RSS feed">RSS</span></a>
       <div class="lang-toggle" role="group" aria-label="Language / Langue">
-        <button type="button" data-set-lang="fr" aria-pressed="true" lang="fr" title="Français">FR</button><button type="button" data-set-lang="en" aria-pressed="false" lang="en" title="English">EN</button>
+        <button type="button" data-set-lang="fr" aria-pressed="true" lang="fr" title="Français">FR</button><span class="sep" aria-hidden="true"> | </span><button type="button" data-set-lang="en" aria-pressed="false" lang="en" title="English">EN</button>
       </div>
     </div>
   </div>

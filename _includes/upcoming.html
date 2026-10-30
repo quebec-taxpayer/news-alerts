@@ -14,19 +14,19 @@ On the homepage, an item whose story_url (or source_url) is one of today's stori
 {%- assign today_stories = site.posts.first.stories -%}
 {%- if up.size > 0 %}
 <section class="callout upcoming{% if include.compact %} upcoming-compact{% endif %}" aria-labelledby="up-h-{{ include.key }}" data-upcoming{% if include.key == "home" %} data-hide-past{% endif %}>
-  <h2 id="up-h-{{ include.key }}" class="callout-label"><span class="l-en" lang="en">What’s next</span><span class="l-fr" lang="fr">À surveiller</span></h2>
-  <p class="up-note"><span class="l-en" lang="en">Only dates stated in a cited source. Dates can change.</span><span class="l-fr" lang="fr">Seulement des dates indiquées par une source citée. Les dates peuvent changer.</span></p>
+  <h2 id="up-h-{{ include.key }}" class="callout-label"><span class="l-en" lang="en">What’s next</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">À surveiller</span></h2>
+  <p class="up-note"><span class="l-en" lang="en">Only dates stated in a cited source. Dates can change.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Seulement des dates indiquées par une source citée. Les dates peuvent changer.</span></p>
   <ul class="up-list up-future">
   {%- for it in up %}
     {%- assign card = nil -%}{%- if include.key == "home" and today_stories -%}{%- assign su = it.story_url | default: it.source_url -%}{%- assign card = today_stories | where: "url", su | first -%}{%- unless card -%}{%- assign card = today_stories | where: "url", it.source_url | first -%}{%- endunless -%}{%- endif %}
-    <li data-date="{{ it.date }}" data-kind="{{ it.kind }}"><span class="up-date"><span class="up-when">{% if it.kind == "by" %}<span class="l-en" lang="en">By </span><span class="l-fr" lang="fr">D’ici le </span>{% elsif it.kind == "year" %}<span class="l-en" lang="en">In </span><span class="l-fr" lang="fr">En </span>{% endif %}<time datetime="{{ it.date }}">{% include edate.html date=it.date %}</time></span><span class="up-today" hidden>{% if it.kind == "by" %}<span class="l-en" lang="en">By today</span><span class="l-fr" lang="fr">D’ici aujourd’hui</span>{% else %}<span class="l-en" lang="en">Today</span><span class="l-fr" lang="fr">Aujourd’hui</span>{% endif %}</span></span>
-      <span class="l-en" lang="en">{{ it.en }}</span><span class="l-fr" lang="fr">{{ it.fr }}</span>
-      <span class="up-src">(<a href="{{ it.source_url }}" rel="noopener" target="_blank">{{ it.source_outlet }}</a>)</span>{% if card %} <a class="up-story" href="#{% if card.featured > 0 %}top-{% else %}n-{% endif %}{{ card.id }}"><span class="l-en" lang="en">In today’s stories</span><span class="l-fr" lang="fr">Dans les nouvelles du jour</span> ↓</a>{% endif %}</li>
+    <li data-date="{{ it.date }}" data-kind="{{ it.kind }}"><span class="up-date"><span class="up-when">{% if it.kind == "by" %}<span class="l-en" lang="en">By </span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">D’ici le </span>{% elsif it.kind == "year" %}<span class="l-en" lang="en">In </span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">En </span>{% endif %}<time datetime="{{ it.date }}">{% include edate.html date=it.date %}</time></span><span class="up-today" hidden>{% if it.kind == "by" %}<span class="l-en" lang="en">By today</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">D’ici aujourd’hui</span>{% else %}<span class="l-en" lang="en">Today</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Aujourd’hui</span>{% endif %}</span></span>
+      <span class="l-en" lang="en">{{ it.en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ it.fr }}</span>
+      <span class="up-src">(<a href="{{ it.source_url }}" rel="noopener" target="_blank">{{ it.source_outlet }}</a>)</span>{% if card %} <a class="up-story" href="#{% if card.featured > 0 %}top-{% else %}n-{% endif %}{{ card.id }}"><span class="l-en" lang="en">In today’s stories</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Dans les nouvelles du jour</span> ↓</a>{% endif %}</li>
   {%- endfor %}
   </ul>
-  <p class="up-none" hidden><span class="l-en" lang="en">No upcoming dates right now.</span><span class="l-fr" lang="fr">Aucune date à venir pour l’instant.</span></p>
+  <p class="up-none" hidden><span class="l-en" lang="en">No upcoming dates right now.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Aucune date à venir pour l’instant.</span></p>
   {%- unless include.key == "home" %}
-  <details class="up-past" hidden><summary><span class="l-en" lang="en">Past</span><span class="l-fr" lang="fr">Passé</span></summary><ul class="up-list"></ul></details>
+  <details class="up-past" hidden><summary><span class="l-en" lang="en">Past</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Passé</span></summary><ul class="up-list"></ul></details>
   {%- endunless %}
 </section>
 {%- endif -%}

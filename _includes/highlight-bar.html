@@ -1,0 +1,20 @@
+{%- comment -%} "En bref / At a glance": compact, static (no animation, no auto-scroll) row of 4 headline chips (hb_max; 3–5 works) from the latest
+digest's front-matter `stories` (written by _tools/gen.py): the featured stories in rank order, then the highest-importance others.
+Each chip links to the story on this page (#top-… card or #n-… item, which plain.js opens). Phones: one swipeable row. {%- endcomment -%}
+{%- assign hb_latest = site.posts.first -%}
+{%- if hb_latest.stories and hb_latest.stories.size > 0 -%}
+{%- assign hb_feat = hb_latest.stories | where_exp: "s", "s.featured > 0" | sort: "featured" -%}
+{%- assign hb_rest = hb_latest.stories | where_exp: "s", "s.featured == 0" | sort: "importance" | reverse -%}
+{%- assign hb_max = 4 -%}{%- assign hb_n = hb_max | minus: hb_feat.size -%}{%- if hb_n < 0 -%}{%- assign hb_n = 0 -%}{%- endif -%}
+<nav class="hl-bar" aria-labelledby="hl-bar-h">
+  <p id="hl-bar-h" class="hl-bar-h"><span class="l-fr" lang="fr">En bref</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">At a glance</span></p>
+  <ul class="hl-chips">
+  {%- for s in hb_feat limit: hb_max %}
+    <li><a class="hl-chip hl-chip-top" href="#top-{{ s.id }}"><span class="hl-rank">{{ s.featured }}</span> <span class="hl-t"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ s.title_en }}</span></span></a></li>
+  {%- endfor %}
+  {%- for s in hb_rest limit: hb_n %}
+    <li><a class="hl-chip" href="#n-{{ s.id }}"><span class="hl-t"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ s.title_en }}</span></span></a></li>
+  {%- endfor %}
+  </ul>
+</nav>
+{%- endif -%}

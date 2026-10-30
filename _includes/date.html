@@ -1,2 +1,2 @@
 {%- assign d = include.date -%}{%- assign m = d | date: "%-m" | minus: 1 -%}
-<span class="l-en" lang="en">{{ d | date: "%B %-d, %Y" }}</span><span class="l-fr" lang="fr">{{ d | date: "%-d" }} {{ site.fr_months[m] }} {{ d | date: "%Y" }}</span>
+<span class="l-fr" lang="fr">{{ d | date: "%-d" }} {{ site.fr_months[m] }} {{ d | date: "%Y" }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ d | date: "%B %-d, %Y" }}</span>

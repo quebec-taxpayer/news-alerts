@@ -10,7 +10,7 @@
   var FR_M = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."];
   var EN_M = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return {"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]; }); }
-  function bi(en, fr) { return '<span class="l-en" lang="en">' + en + '</span><span class="l-fr" lang="fr">' + fr + "</span>"; }
+  function bi(en, fr) { return '<span class="l-en" lang="en">' + en + '</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">' + fr + "</span>"; }
   function lang() { return document.documentElement.classList.contains("lang-fr") ? "fr" : "en"; }
   function dates(d) { var p = d.split("-"), m = +p[1] - 1, day = +p[2]; return bi(EN_M[m] + " " + day + ", " + p[0], day + " " + FR_M[m] + " " + p[0]); }
   function nStories(n) { return bi(n + (n === 1 ? " story" : " stories"), n + (n === 1 ? " article" : " articles")); }

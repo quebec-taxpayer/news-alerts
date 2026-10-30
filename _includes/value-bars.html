@@ -7,10 +7,10 @@
 {%- endcomment -%}
 {%- assign B = include.data -%}
 <figure class="vb vt{% if B.dots %} vb-dots{% endif %}{% if B.inset %} vb-inset{% endif %}" id="vb-{{ B.id }}" data-vt aria-labelledby="vb-{{ B.id }}-cap">
-  <figcaption id="vb-{{ B.id }}-cap" class="sb-cap"><span class="l-en" lang="en">{{ B.cap_en }}</span><span class="l-fr" lang="fr">{{ B.cap_fr }}</span></figcaption>
+  <figcaption id="vb-{{ B.id }}-cap" class="sb-cap"><span class="l-en" lang="en">{{ B.cap_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ B.cap_fr }}</span></figcaption>
   {%- for r in B.rows %}
   <div class="vb-row vb-anim" style="--i:{{ forloop.index0 }}">
-    <p class="vb-label"><span class="vb-name"><span class="l-en" lang="en">{{ r.label_en }}</span><span class="l-fr" lang="fr">{{ r.label_fr }}</span></span> <strong class="vb-val"><span class="l-en" lang="en">{{ r.show_en }}</span><span class="l-fr" lang="fr">{{ r.show_fr }}</span></strong></p>
+    <p class="vb-label"><span class="vb-name"><span class="l-en" lang="en">{{ r.label_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ r.label_fr }}</span></span> <strong class="vb-val"><span class="l-en" lang="en">{{ r.show_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ r.show_fr }}</span></strong></p>
     {%- if B.dots %}
     <div class="vb-dotrow" aria-hidden="true">{% for i in (1..B.scale) %}<span class="vb-dot{% if i <= r.v %} is-on{% endif %}"></span>{% endfor %}</div>
     {%- else %}
@@ -24,11 +24,11 @@
       {%- if B.target %}{%- assign tw = B.target.v | times: 100.0 | divided_by: B.scale %}<span class="vb-target" style="left:{{ tw | round: 3 }}%"></span>{% endif %}
     </div>
     {%- endif %}
-    {%- if r.hl_en %}<p class="vb-hltext"><span class="vb-sw" aria-hidden="true"></span><span class="l-en" lang="en">{{ r.hl_en }}</span><span class="l-fr" lang="fr">{{ r.hl_fr }}</span></p>{% endif %}
-    {%- if r.links %}<p class="sb-cite"><span class="l-en" lang="en">Source:{% for l in r.links %} <a href="{{ l.url }}">{{ l.en }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span><span class="l-fr" lang="fr">Source :{% for l in r.links %} <a href="{{ l.url }}">{{ l.fr }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span></p>{% endif %}
+    {%- if r.hl_en %}<p class="vb-hltext"><span class="vb-sw" aria-hidden="true"></span><span class="l-en" lang="en">{{ r.hl_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ r.hl_fr }}</span></p>{% endif %}
+    {%- if r.links %}<p class="sb-cite"><span class="l-en" lang="en">Source:{% for l in r.links %} <a href="{{ l.url }}">{{ l.en }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Source :{% for l in r.links %} <a href="{{ l.url }}">{{ l.fr }}</a>{% unless forloop.last %};{% endunless %}{% endfor %}</span></p>{% endif %}
   </div>
   {%- endfor %}
-  {%- if B.target %}<p class="vb-key"><span class="vb-tkey" aria-hidden="true"></span><span class="l-en" lang="en">{{ B.target.en }}</span><span class="l-fr" lang="fr">{{ B.target.fr }}</span></p>{% endif %}
-  {%- if B.note_en %}<p class="sb-note"><span class="l-en" lang="en">{{ B.note_en }}</span><span class="l-fr" lang="fr">{{ B.note_fr }}</span></p>{% endif %}
+  {%- if B.target %}<p class="vb-key"><span class="vb-tkey" aria-hidden="true"></span><span class="l-en" lang="en">{{ B.target.en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ B.target.fr }}</span></p>{% endif %}
+  {%- if B.note_en %}<p class="sb-note"><span class="l-en" lang="en">{{ B.note_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ B.note_fr }}</span></p>{% endif %}
 </figure>
 <script src="{{ '/assets/js/visual-timeline.js' | relative_url }}" defer></script>

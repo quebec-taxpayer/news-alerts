@@ -11,12 +11,12 @@
 {%- endfor -%}
 {%- assign carr = counts | split: "," -%}
 <figure class="ds vt" data-vt aria-labelledby="ds-cap">
-  <figcaption id="ds-cap" class="sb-cap"><span class="l-en" lang="en">Events in this chronology, by decade</span><span class="l-fr" lang="fr">Événements de cette chronologie, par décennie (1950 = années 1950)</span></figcaption>
+  <figcaption id="ds-cap" class="sb-cap"><span class="l-en" lang="en">Events in this chronology, by decade</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Événements de cette chronologie, par décennie (1950 = années 1950)</span></figcaption>
   <ol class="ds-list">
     {%- for dk in (d0..d1) %}{%- assign c = carr[forloop.index0] | plus: 0 %}{%- assign h = c | times: 100.0 | divided_by: maxc %}
-    <li class="ds-col vb-anim" style="--i:{{ forloop.index0 }};--h:{{ h | round: 2 }}%"><span class="ds-n">{{ c }}</span><span class="ds-bar" aria-hidden="true"></span><span class="ds-lab"><span class="l-en" lang="en">{{ dk }}0s</span><span class="l-fr" lang="fr">{{ dk }}0</span></span><span class="sr-only"><span class="l-en" lang="en">{% if c == 1 %}event{% else %}events{% endif %}</span><span class="l-fr" lang="fr">{% if c == 1 %}événement{% else %}événements{% endif %}</span></span></li>
+    <li class="ds-col vb-anim" style="--i:{{ forloop.index0 }};--h:{{ h | round: 2 }}%"><span class="ds-n">{{ c }}</span><span class="ds-bar" aria-hidden="true"></span><span class="ds-lab"><span class="l-en" lang="en">{{ dk }}0s</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ dk }}0</span></span><span class="sr-only"><span class="l-en" lang="en">{% if c == 1 %}event{% else %}events{% endif %}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{% if c == 1 %}événement{% else %}événements{% endif %}</span></span></li>
     {%- endfor %}
   </ol>
-  <p class="sb-note"><span class="l-en" lang="en">Counted automatically from the {{ evs.size }} dated events below. This shows what this chronology documents, not how many problems occurred in each decade.</span><span class="l-fr" lang="fr">Compté automatiquement à partir des {{ evs.size }} événements datés ci‑dessous. Cela montre ce que documente cette chronologie, et non le nombre de problèmes survenus pendant chaque décennie.</span></p>
+  <p class="sb-note"><span class="l-en" lang="en">Counted automatically from the {{ evs.size }} dated events below. This shows what this chronology documents, not how many problems occurred in each decade.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Compté automatiquement à partir des {{ evs.size }} événements datés ci‑dessous. Cela montre ce que documente cette chronologie, et non le nombre de problèmes survenus pendant chaque décennie.</span></p>
 </figure>
 <script src="{{ '/assets/js/visual-timeline.js' | relative_url }}" defer></script>

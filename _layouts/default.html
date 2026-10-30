@@ -25,9 +25,10 @@ if(l!=="en")l="fr";var h=document.documentElement;h.className=(h.className.repla
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
 <body{% if page.layout == "dossier-print" %} class="print-page"{% endif %}>
+<a class="skip-link" href="#main"><span class="l-fr" lang="fr">Aller au contenu</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Skip to content</span></a>
 {% include header.html %}
 {% include nav.html %}
-<main class="wrap"{% if page.no_popups %} data-no-gl{% endif %}>
+<main id="main" tabindex="-1" class="wrap"{% if page.no_popups %} data-no-gl{% endif %}>
 {{ content }}
 </main>
 {% include footer.html %}

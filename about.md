@@ -14,7 +14,7 @@ permalink: /about/
 <p>Each day, we collect public news about institutions, Crown corporations, public contracts, IT projects, ethics and investigations, with a short summary in French and English and a link to the source.</p>
 <p>The content relies only on public, verifiable sources. See <a href="#sources">Sources and method</a> below.</p>
 </section>
-<h2 id="sources"><span class="l-en" lang="en">Sources and method</span><span class="l-fr" lang="fr">Sources et méthode</span></h2>
+<h2 id="sources"><span class="l-en" lang="en">Sources and method</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Sources et méthode</span></h2>
 <section class="l-fr" lang="fr">
 <ul>
 <li>Uniquement des sources publiques et vérifiables.</li>
@@ -35,4 +35,4 @@ permalink: /about/
 <li>Allegations are presented as such (“according to”, “alleged”, “unproven”) until a court or competent body rules.</li>
 </ul>
 </section>
-<p><span class="l-fr" lang="fr">— Observatoire de la gouvernance du Québec</span><span class="l-en" lang="en">— Quebec Governance Monitor</span></p>
+<p><span class="l-fr" lang="fr">— Observatoire de la gouvernance du Québec</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">— Quebec Governance Monitor</span></p>

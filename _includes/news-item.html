@@ -1,29 +1,28 @@
 {%- comment -%} One homepage news item. Params: s (story from a post's front-matter `stories`), post, cat (category object), featured (true for a top story). {%- endcomment -%}
 {%- assign s = include.s -%}
-{%- capture src_link -%}<a class="ni-src" href="{{ s.url }}" rel="noopener"><span class="l-fr" lang="fr">Lire la source</span><span class="l-en" lang="en">Read the source</span> : {{ s.outlet }} <span aria-hidden="true">↗</span></a>{%- endcapture -%}
+{%- comment -%} Quiet meta line under the story: "Source : outlet →" (the original article) and the permanent link in today's digest. {%- endcomment -%}
+{%- capture src_link -%}<p class="ni-links"><span class="ni-src-lab"><span class="l-fr" lang="fr">Source&nbsp;:</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Source:</span></span> <a class="ni-src" href="{{ s.url }}" rel="noopener">{{ s.outlet }}&nbsp;<span aria-hidden="true">→</span></a> <span class="ni-dot" aria-hidden="true">·</span> <a class="ni-perma" href="{{ include.post.url | relative_url }}#{{ s.id }}"><span class="l-fr" lang="fr">Lien permanent</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Permalink</span></a></p>{%- endcapture -%}
 {%- comment -%} "Headline as published": only in the language whose displayed title differs from the original, with the original's language code. {%- endcomment -%}
 {%- assign hl = "" -%}{%- if s.headline == s.title_fr -%}{%- assign hl = "FR" -%}{%- elsif s.headline == s.title_en -%}{%- assign hl = "EN" -%}{%- endif -%}
 {%- capture orig -%}{% if s.title_fr != s.headline %}<p class="ni-orig l-fr" lang="fr">Titre tel que publié{% if hl != "" %} ({{ hl }}){% endif %} : <cite{% if hl != "" %} lang="{{ hl | downcase }}"{% endif %}>{{ s.headline }}</cite></p>{% endif %}{% if s.title_en != s.headline %}<p class="ni-orig l-en" lang="en">Headline as published{% if hl != "" %} ({{ hl }}){% endif %}: <cite{% if hl != "" %} lang="{{ hl | downcase }}"{% endif %}>{{ s.headline }}</cite></p>{% endif %}{%- endcapture -%}
-{%- capture meta -%}<p class="ni-meta">{{ s.outlet }}</p>{%- endcapture -%}
-{%- capture why -%}{% if s.why_fr %}<p class="ni-why"><strong><span class="l-fr" lang="fr">Pourquoi c’est important :</span><span class="l-en" lang="en">Why it matters:</span></strong> <span class="l-fr" lang="fr">{{ s.why_fr }}</span><span class="l-en" lang="en">{{ s.why_en }}</span></p>{% endif %}{%- endcapture -%}
+{%- capture why -%}{% if s.why_fr %}<p class="ni-why"><strong class="ni-why-lab"><span class="l-fr" lang="fr">Pourquoi c’est important :</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Why it matters:</span></strong> <span class="l-fr" lang="fr">{{ s.why_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ s.why_en }}</span></p>{% endif %}{%- endcapture -%}
 {%- if include.featured %}
 <article class="feat" id="top-{{ s.id }}">
-  <p class="feat-kicker"><span class="feat-rank">{{ s.featured }}</span><span class="l-fr" lang="fr">{{ include.cat.fr }}</span><span class="l-en" lang="en">{{ include.cat.en }}</span></p>
-  <h3 class="feat-h"><a href="{{ s.url }}" rel="noopener"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-en" lang="en">{{ s.title_en }}</span></a></h3>
-  {{ meta }}
-  <p class="ni-sum"><span class="l-fr" lang="fr">{{ s.summary_fr }}</span><span class="l-en" lang="en">{{ s.summary_en }}</span></p>
+  <p class="feat-kicker"><span class="feat-rank">{{ s.featured }}</span> <span class="feat-cat"><span class="l-fr" lang="fr">{{ include.cat.fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ include.cat.en }}</span></span></p>
+  <h3 class="feat-h"><a href="{{ s.url }}" rel="noopener"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ s.title_en }}</span></a></h3>
+  <p class="ni-sum"><span class="l-fr" lang="fr">{{ s.summary_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ s.summary_en }}</span></p>
   {{ why }}
-  <p class="ni-links">{{ src_link }} · <a href="{{ include.post.url | relative_url }}#{{ s.id }}"><span class="l-fr" lang="fr">Lien permanent</span><span class="l-en" lang="en">Permalink</span></a></p>
+  {{ src_link }}
   {{ orig }}
 </article>
 {%- else %}
 <li class="ni" id="n-{{ s.id }}">
   <details>
-    <summary><span class="ni-h"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-en" lang="en">{{ s.title_en }}</span></span><span class="ni-out">{{ s.outlet }}</span></summary>
+    <summary><span class="ni-h"><span class="l-fr" lang="fr">{{ s.title_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ s.title_en }}</span></span> <span class="ni-out">{{ s.outlet }}</span></summary>
     <div class="ni-body">
-      <p class="ni-sum"><span class="l-fr" lang="fr">{{ s.summary_fr }}</span><span class="l-en" lang="en">{{ s.summary_en }}</span></p>
+      <p class="ni-sum"><span class="l-fr" lang="fr">{{ s.summary_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ s.summary_en }}</span></p>
       {{ why }}
-      <p class="ni-links">{{ src_link }} · <a href="{{ include.post.url | relative_url }}#{{ s.id }}"><span class="l-fr" lang="fr">Lien permanent</span><span class="l-en" lang="en">Permalink</span></a></p>
+      {{ src_link }}
       {{ orig }}
     </div>
   </details>

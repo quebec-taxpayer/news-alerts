@@ -5,11 +5,12 @@
 :root {
   --blue: #0b3d91; --blue-dark: #082c6c; --red: #c8102e; --black: #111; --white: #fff; --rule: #d6dbe4; --tint: #f4f6fa;
   --yellow: #ffd400; --plain: #fff8d6;
+  --muted: #596273; --shadow: 0 1px 2px rgba(16,24,40,.05), 0 2px 8px rgba(16,24,40,.06);
   --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif;
 }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
-body { margin: 0; background: var(--white); color: var(--black); font-family: var(--font); font-size: 16px; line-height: 1.5; }
+body { margin: 0; background: var(--white); color: var(--black); font-family: var(--font); font-size: 16px; line-height: 1.62; }
 button, input, select, textarea { font-family: var(--font); }
 .wrap { width: 100%; max-width: 780px; margin: 0 auto; padding: 0 16px; }
 /* Mobile safety: long headlines and URLs wrap instead of causing horizontal scroll */
@@ -28,6 +29,9 @@ h1 a:hover, h2 a:hover, h3 a:hover, h1 a:focus, h2 a:focus, h3 a:focus { text-de
 
 /* Language toggle (French default; without JS the html element keeps class lang-fr) */
 html.lang-en .l-fr, html.lang-fr .l-en { display: none !important; }
+/* Hidden " / " between the two languages of a pair: only text-only readers (no CSS, reader views, crawlers, LLM fetchers) see it,
+   so "L’essentiel du jour" and "Today’s Essentials" never run together as one word. */
+.l-sep { display: none !important; }
 
 /* Header: one compact row (title + FR/EN toggle) */
 .site-header { border-top: 4px solid var(--blue); border-bottom: 1px solid var(--rule); padding: 8px 0; }
@@ -45,9 +49,9 @@ html.lang-en .l-fr, html.lang-fr .l-en { display: none !important; }
 .lang-toggle .sep { display: none; }
 .lang-toggle button {
   font-size: 15px; font-weight: 700; line-height: 1; color: var(--blue); background: var(--white); border: 0;
-  min-width: 44px; min-height: 40px; padding: 0 10px; cursor: pointer; touch-action: manipulation;
+  min-width: 44px; min-height: 44px; padding: 0 10px; cursor: pointer; touch-action: manipulation;
 }
-.lang-toggle button + button { border-left: 2px solid var(--blue); }
+.lang-toggle button + button, .lang-toggle .sep + button { border-left: 2px solid var(--blue); }
 .lang-toggle button:hover { background: var(--tint); }
 .lang-toggle button:focus-visible { outline: 3px solid var(--red); outline-offset: -3px; }
 .lang-toggle button[aria-pressed="true"] { color: var(--white); background: var(--blue); }
@@ -697,7 +701,7 @@ details[open] > summary .vt-who::after { content: " −"; }
 
 /* ---------- Homepage clarity: header RSS link, tracker details, What's next links ---------- */
 .header-tools { display: inline-flex; flex-shrink: 0; align-items: center; gap: 8px; }
-.rss-link { display: inline-flex; align-items: center; min-height: 40px; min-width: 44px; justify-content: center; font-size: 13px; font-weight: 700; color: var(--blue); text-decoration: underline; }
+.rss-link { display: inline-flex; align-items: center; min-height: 44px; min-width: 44px; justify-content: center; font-size: 13px; font-weight: 700; color: var(--blue); text-decoration: underline; }
 .rss-link:hover, .rss-link:focus { color: var(--black); }
 @media (max-width: 360px) { .header-tools { gap: 4px; } .rss-link { min-width: 36px; font-size: 12px; } }
 .pst-defs { font-size: 14px; margin: 4px 0 8px; }
@@ -745,3 +749,87 @@ details[open] > summary .vt-who::after { content: " −"; }
 /* extra actor for the whistleblower timeline: the person who reported (white circle, black ring) */
 .vt-a-person { background: #fff; color: var(--black); border-color: var(--black); border-width: 3px; }
 .draft-tag{display:inline-block;font-size:.7em;font-weight:700;text-transform:uppercase;letter-spacing:.04em;background:var(--yellow);color:#000;border:2px solid #000;padding:.05em .4em;vertical-align:middle;margin-left:.3em}
+
+/* ===== Readability pass (homepage first; shared rules kept gentle for other pages) =====
+   More breathing room, quieter metadata, clearer section labels and rank badges, a static "En bref / At a glance" bar. */
+.skip-link { position: absolute; left: 8px; top: -60px; z-index: 100; background: var(--yellow); color: #000; font-weight: 700; padding: 10px 14px; border: 2px solid #000; border-radius: 4px; text-decoration: none; }
+.skip-link:focus { top: 8px; color: #000; }
+main:focus { outline: none; }
+p { margin: 0 0 14px; }
+h2 { margin: 36px 0 14px; }
+h3 { margin: 22px 0 8px; }
+
+/* Homepage rhythm */
+.home-h1 { margin-top: 20px; margin-bottom: 10px; }
+.home-intro { margin: 0 0 8px; }
+.home-meta { color: var(--muted); font-weight: 600; margin: 0 0 8px; }
+.home-sec { margin: 44px 0 0; }
+.sec-h { margin: 0 0 18px; }
+.sec-note { margin: -6px 0 14px; color: var(--muted); }
+
+/* At a glance bar: static chips, no animation. Desktop: 2 x 2 grid of equal chips (2-line clamp); phones: one swipeable row. */
+.hl-bar { margin: 14px 0 0; padding: 8px 10px 10px; background: var(--tint); border: 1px solid var(--rule); border-radius: 6px; }
+.hl-bar-h { margin: 0 0 6px 2px; font-size: 12px; line-height: 1.2; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; color: var(--blue); }
+.hl-chips { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
+.hl-chips li { margin: 0; min-width: 0; display: flex; }
+.hl-chip { flex: 1 1 auto; display: flex; align-items: flex-start; gap: 6px; min-height: 44px; padding: 6px 9px; background: var(--white); color: var(--black); border: 1px solid var(--rule); border-radius: 6px; font-size: 13px; font-weight: 600; line-height: 1.3; text-decoration: none; }
+.hl-chip:hover, .hl-chip:focus { color: var(--blue); border-color: var(--blue); text-decoration: none; }
+.hl-t { min-width: 0; overflow: hidden; display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow-wrap: normal; }
+.hl-rank { flex: 0 0 auto; display: inline-flex; align-items: center; justify-content: center; width: 18px; height: 18px; margin-top: 0; border-radius: 50%; background: var(--blue); color: var(--white); font-size: 11px; font-weight: 800; line-height: 1; }
+.hl-chips li:first-child .hl-rank { background: var(--red); }
+@media (max-width: 767px) {
+  .hl-bar { padding: 8px 0 10px 10px; }
+  .hl-chips { grid-template-columns: none; grid-auto-flow: column; grid-auto-columns: min(70vw, 260px); overflow-x: auto; scrollbar-width: none; -webkit-overflow-scrolling: touch; scroll-snap-type: x proximity; padding: 0 10px 0 0; }
+  .hl-chips::-webkit-scrollbar { display: none; }
+  .hl-chips li { scroll-snap-align: start; }
+}
+
+/* Top stories: roomier cards with a soft shadow; prominent rank badge; tinted category label */
+.feat-grid { gap: 18px; }
+.feat { padding: 16px 18px 6px; box-shadow: var(--shadow); border-radius: 6px; }
+.feat-kicker { gap: 10px; margin: 0 0 10px; }
+.feat-rank { width: 30px; height: 30px; flex: 0 0 30px; font-size: 15px; font-weight: 800; box-shadow: 0 0 0 3px #e3e9f5; }
+.feat:first-child .feat-rank { box-shadow: 0 0 0 3px #f6d6dc; }
+.feat-cat { display: inline-block; background: var(--tint); color: var(--blue); padding: 3px 8px; border-radius: 3px; line-height: 1.35; }
+.feat-h { margin: 0 0 10px; line-height: 1.28; }
+.ni-sum { margin: 0 0 12px; }
+
+/* Why it matters: icon, more padding, still the yellow callout */
+.ni-why { position: relative; background: var(--plain); border: 1px solid #ecdc96; border-left: 4px solid #c9a227; border-radius: 4px; padding: 10px 14px 10px 42px; margin: 0 0 12px; line-height: 1.55; }
+.ni-why::before { content: "i"; position: absolute; left: 12px; top: 11px; width: 20px; height: 20px; border-radius: 50%; background: #7a5d00; color: #fff; font: italic 700 13px/20px Georgia, "Times New Roman", serif; text-align: center; }
+.ni-why-lab { display: block; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; margin: 0 0 2px; }
+
+/* Quiet meta line: Source : outlet → · Permalink */
+.ni-links { font-size: 14px; color: var(--muted); margin: 0 0 8px; display: flex; flex-wrap: wrap; align-items: center; gap: 0 8px; }
+.ni-links a { display: inline-flex; align-items: center; min-height: 44px; padding: 0; font-weight: 600; color: var(--muted); text-decoration-color: #b8bfcc; }
+.ni-links a:hover, .ni-links a:focus { color: var(--blue); text-decoration-color: var(--blue); }
+.ni-orig { color: var(--muted); font-size: 13px; }
+.ni-out, .day-n, .tk-src, .tk-upd, .post-meta, .up-src, .up-note { color: var(--muted); }
+.tk-src a, .up-src a { color: var(--muted); }
+
+/* Other stories: category labels as tinted bars with a left rule */
+.cat { margin: 0 0 10px; }
+.cat-h { margin: 26px 0 4px; padding: 8px 12px; background: var(--tint); border-bottom: 0; border-left: 4px solid var(--blue); border-radius: 0 4px 4px 0; font-size: 14px; }
+.ni details > summary { padding-top: 12px; padding-bottom: 12px; }
+.ni details > summary::before { top: 13px; }
+.ni-body { padding: 0 0 10px 24px; }
+
+/* Promised vs delivered cards */
+.tk-list { gap: 16px; }
+.tk { padding: 14px 16px 6px; border-radius: 6px; box-shadow: var(--shadow); }
+.tk-top { margin: 0 0 10px; }
+.pst { min-height: 26px; }
+
+/* Earlier days, What's next */
+.day-list li { margin: 0 0 14px; }
+.upcoming-compact { margin: 44px 0 0; padding: 14px 18px; }
+.up-list li { margin: 10px 0; }
+
+@media (min-width: 1024px) {
+  body { font-size: 18px; }
+  .ni-sum { font-size: 17px; }
+  .feat-h { font-size: 19px; }
+}
+@media print { .hl-bar, .skip-link { display: none !important; } .feat, .tk { box-shadow: none; } }
+.day-list li > a { display: inline-flex; align-items: center; min-height: 44px; }
+.day-list li > .day-n { margin-left: 2px; }

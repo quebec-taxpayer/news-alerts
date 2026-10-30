@@ -1,7 +1,7 @@
 {%- comment -%} Event date with precision: YYYY, YYYY-MM or YYYY-MM-DD. {%- endcomment -%}
 {%- assign p = include.date | split: "-" -%}{%- assign en_m = "January,February,March,April,May,June,July,August,September,October,November,December" | split: "," -%}
 {%- if p.size == 3 -%}{%- assign mi = p[1] | plus: 0 | minus: 1 -%}{%- assign dd = p[2] | plus: 0 -%}{%- assign fd = dd -%}{%- if dd == 1 -%}{%- assign fd = "1er" -%}{%- endif -%}
-<span class="l-en" lang="en">{{ en_m[mi] }} {{ dd }}, {{ p[0] }}</span><span class="l-fr" lang="fr">{{ fd }} {{ site.fr_months[mi] }} {{ p[0] }}</span>
+<span class="l-en" lang="en">{{ en_m[mi] }} {{ dd }}, {{ p[0] }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ fd }} {{ site.fr_months[mi] }} {{ p[0] }}</span>
 {%- elsif p.size == 2 -%}{%- assign mi = p[1] | plus: 0 | minus: 1 -%}
-<span class="l-en" lang="en">{{ en_m[mi] }} {{ p[0] }}</span><span class="l-fr" lang="fr">{{ site.fr_months[mi] | capitalize }} {{ p[0] }}</span>
+<span class="l-en" lang="en">{{ en_m[mi] }} {{ p[0] }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ site.fr_months[mi] | capitalize }} {{ p[0] }}</span>
 {%- else -%}{{ p[0] }}{%- endif -%}

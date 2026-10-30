@@ -9,8 +9,8 @@
 {%- assign maxv = 0 -%}{%- for it in C.items -%}{%- if it.value > maxv -%}{%- assign maxv = it.value -%}{%- endif -%}{%- endfor -%}
 {%- assign LH = 18 -%}{%- assign BH = 24 -%}{%- assign GAP = 18 -%}
 <figure class="svg-chart" id="{{ cid }}" aria-labelledby="{{ cid }}-cap">
-  <figcaption id="{{ cid }}-cap" class="svg-chart-title"><span class="l-en" lang="en">{{ C.title_en }}</span><span class="l-fr" lang="fr">{{ C.title_fr }}</span></figcaption>
-  <p class="svg-chart-units"><span class="l-en" lang="en">In {{ C.units_en }}</span><span class="l-fr" lang="fr">En {{ C.units_fr }}</span></p>
+  <figcaption id="{{ cid }}-cap" class="svg-chart-title"><span class="l-en" lang="en">{{ C.title_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ C.title_fr }}</span></figcaption>
+  <p class="svg-chart-units"><span class="l-en" lang="en">In {{ C.units_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">En {{ C.units_fr }}</span></p>
   <svg class="svg-defs" width="0" height="0" aria-hidden="true" focusable="false"><defs><pattern id="{{ cid }}-hatch" patternUnits="userSpaceOnUse" width="8" height="8" patternTransform="rotate(45)"><rect width="8" height="8" fill="#fff"/><line x1="0" y1="0" x2="0" y2="8" stroke="#c8102e" stroke-width="3"/></pattern></defs></svg>
   {%- assign langs2 = "en,fr" | split: "," -%}{%- for lg in langs2 %}
   {%- comment -%} Pre-compute wrapped label lines (max ~34 characters) and total height. {%- endcomment -%}
@@ -49,14 +49,14 @@
   </svg>
   {%- endfor %}
   <div class="sr-only"><table>
-    <caption><span class="l-en" lang="en">{{ C.title_en }} (in {{ C.units_en }})</span><span class="l-fr" lang="fr">{{ C.title_fr }} (en {{ C.units_fr }})</span></caption>
-    <thead><tr><th scope="col"><span class="l-en" lang="en">Item</span><span class="l-fr" lang="fr">Élément</span></th><th scope="col"><span class="l-en" lang="en">Value</span><span class="l-fr" lang="fr">Valeur</span></th><th scope="col"><span class="l-en" lang="en">Verified</span><span class="l-fr" lang="fr">Vérifié</span></th><th scope="col">Source</th></tr></thead>
-    <tbody>{% for it in C.items %}<tr><th scope="row"><span class="l-en" lang="en">{{ it.label_en }}</span><span class="l-fr" lang="fr">{{ it.label_fr }}</span></th><td><span class="l-en" lang="en">{{ it.display_en | default: it.value }}</span><span class="l-fr" lang="fr">{{ it.display_fr | default: it.value }}</span></td><td>{% if it.verified %}<span class="l-en" lang="en">Yes</span><span class="l-fr" lang="fr">Oui</span>{% else %}Unverified / Non vérifié{% endif %}</td><td>{{ it.source_outlet }}</td></tr>{% endfor %}</tbody>
+    <caption><span class="l-en" lang="en">{{ C.title_en }} (in {{ C.units_en }})</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ C.title_fr }} (en {{ C.units_fr }})</span></caption>
+    <thead><tr><th scope="col"><span class="l-en" lang="en">Item</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Élément</span></th><th scope="col"><span class="l-en" lang="en">Value</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Valeur</span></th><th scope="col"><span class="l-en" lang="en">Verified</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Vérifié</span></th><th scope="col">Source</th></tr></thead>
+    <tbody>{% for it in C.items %}<tr><th scope="row"><span class="l-en" lang="en">{{ it.label_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ it.label_fr }}</span></th><td><span class="l-en" lang="en">{{ it.display_en | default: it.value }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ it.display_fr | default: it.value }}</span></td><td>{% if it.verified %}<span class="l-en" lang="en">Yes</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Oui</span>{% else %}Unverified / Non vérifié{% endif %}</td><td>{{ it.source_outlet }}</td></tr>{% endfor %}</tbody>
   </table></div>
-  {%- if C.note_en %}<p class="svg-chart-note"><span class="l-en" lang="en">{{ C.note_en }}</span><span class="l-fr" lang="fr">{{ C.note_fr }}</span></p>{% endif %}
+  {%- if C.note_en %}<p class="svg-chart-note"><span class="l-en" lang="en">{{ C.note_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ C.note_fr }}</span></p>{% endif %}
   <ol class="svg-chart-sources">
     {%- for it in C.items %}
-    <li><strong><span class="l-en" lang="en">{{ it.label_en }}</span><span class="l-fr" lang="fr">{{ it.label_fr }}</span>:</strong>{% unless it.verified %} <span class="unv-badge">Unverified / Non vérifié</span>{% endunless %} <a href="{{ it.source_url }}" target="_blank" rel="noopener">{{ it.source_outlet }}</a> — <cite>{{ it.source_title }}</cite>.{% if it.note_en %} <span class="l-en" lang="en">{{ it.note_en }}</span><span class="l-fr" lang="fr">{{ it.note_fr }}</span>{% endif %}</li>
+    <li><strong><span class="l-en" lang="en">{{ it.label_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ it.label_fr }}</span>:</strong>{% unless it.verified %} <span class="unv-badge">Unverified / Non vérifié</span>{% endunless %} <a href="{{ it.source_url }}" target="_blank" rel="noopener">{{ it.source_outlet }}</a> — <cite>{{ it.source_title }}</cite>.{% if it.note_en %} <span class="l-en" lang="en">{{ it.note_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ it.note_fr }}</span>{% endif %}</li>
     {%- endfor %}
   </ol>
 </figure>

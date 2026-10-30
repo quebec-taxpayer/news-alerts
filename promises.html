@@ -8,7 +8,7 @@ section: chronology
 <p class="l-en" lang="en">What was announced, next to what actually happened (or the latest official figure). An item appears only when both values are stated in a cited source; nothing here is estimated.</p>
 <p class="l-fr" lang="fr">Ce qui a été annoncé, à côté de ce qui s’est réellement passé (ou du dernier chiffre officiel). Un élément n’apparaît que si les deux valeurs proviennent d’une source citée; rien n’est estimé ici.</p>
 {%- for d in site.data.dossiers.dossiers %}{% assign pr = site.data.promises.items | where: "dossier", d.id %}{% if pr.size > 0 %}
-<h2><a href="{{ '/chronology/' | append: d.id | append: '/' | relative_url }}"><span class="l-en" lang="en">{{ d.name_en }}</span><span class="l-fr" lang="fr">{{ d.name_fr }}</span></a></h2>
+<h2><a href="{{ '/chronology/' | append: d.id | append: '/' | relative_url }}"><span class="l-en" lang="en">{{ d.name_en }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">{{ d.name_fr }}</span></a></h2>
 {% include promises.html dossier=d.id nohead=true %}
 {%- endif %}{% endfor %}
 <p class="l-en" lang="en">{{ site.data.promises.items.size }} items. Other dossiers have no pair that meets this rule yet.</p>

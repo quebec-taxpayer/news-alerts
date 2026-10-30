@@ -7,17 +7,18 @@ Top 3 by importance (field `featured`), then the rest grouped by category (_data
 the Promised vs delivered tracker, What's next and earlier days. Nothing here is hardcoded news.
 {%- endcomment -%}
 {%- assign latest = site.posts.first -%}
-<h1 class="home-h1"><span class="l-fr" lang="fr">L’essentiel du jour</span><span class="l-en" lang="en">Today’s Essentials</span></h1>
-<p class="home-intro"><span class="l-fr" lang="fr">Contrats publics, sociétés d’État, projets informatiques, éthique et enquêtes. Courts résumés en français et en anglais, chacun lié à sa source.</span><span class="l-en" lang="en">Public contracts, Crown corporations, IT projects, ethics and investigations. Short summaries in French and English, each linked to where it came from.</span></p>
+{% include highlight-bar.html %}
+<h1 class="home-h1"><span class="l-fr" lang="fr">L’essentiel du jour</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Today’s Essentials</span></h1>
+<p class="home-intro"><span class="l-fr" lang="fr">Contrats publics, sociétés d’État, projets informatiques, éthique et enquêtes. Courts résumés en français et en anglais, chacun lié à sa source.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Public contracts, Crown corporations, IT projects, ethics and investigations. Short summaries in French and English, each linked to where it came from.</span></p>
 {%- if latest %}
 {%- comment -%} The daily routine runs around 10:00 Toronto time (America/Toronto, ET). {%- endcomment -%}
 {%- assign n_promises = site.data.promises.items | size %}
-<p class="home-meta"><time datetime="{{ latest.date | date: '%Y-%m-%d' }}">{% include date.html date=latest.date %}</time> · <span class="l-fr" lang="fr">Mis à jour chaque jour vers 10 h (HE)</span><span class="l-en" lang="en">Updated daily around 10:00 ET</span> · {% include count.html n=latest.story_count %} · <span class="l-fr" lang="fr">{{ n_promises }} promesses suivies</span><span class="l-en" lang="en">{{ n_promises }} promises tracked</span></p>
+<p class="home-meta"><time datetime="{{ latest.date | date: '%Y-%m-%d' }}">{% include date.html date=latest.date %}</time> · <span class="l-fr" lang="fr">Mis à jour chaque jour vers 10 h (HE)</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Updated daily around 10:00 ET</span> · {% include count.html n=latest.story_count %} · <span class="l-fr" lang="fr">{{ n_promises }} promesses suivies</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ n_promises }} promises tracked</span></p>
 
 {%- if latest.stories and latest.stories.size > 0 %}
 {%- assign feats = latest.stories | where_exp: "s", "s.featured > 0" | sort: "featured" %}
 <section class="home-sec top" aria-labelledby="h-top">
-  <h2 id="h-top" class="sec-h"><span class="l-fr" lang="fr">À la une</span><span class="l-en" lang="en">Top stories</span></h2>
+  <h2 id="h-top" class="sec-h"><span class="l-fr" lang="fr">À la une</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Top stories</span></h2>
   <div class="feat-grid">
   {%- for s in feats %}{% assign cat = site.data.categories.items | where: "id", s.category | first %}
   {% include news-item.html s=s post=latest cat=cat featured=true %}
@@ -29,12 +30,12 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
 
 <section class="home-sec all" aria-labelledby="h-all">
   {%- assign others = latest.stories | where_exp: "s", "s.featured == 0" %}
-  <h2 id="h-all" class="sec-h"><span class="l-fr" lang="fr">Les {{ others.size }} autres nouvelles</span><span class="l-en" lang="en">The other {{ others.size }} stories</span> <span class="sec-count">{{ others.size }}</span></h2>
+  <h2 id="h-all" class="sec-h"><span class="l-fr" lang="fr">Les {{ others.size }} autres nouvelles</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">The other {{ others.size }} stories</span> <span class="sec-count">{{ others.size }}</span></h2>
   {%- for cat in site.data.categories.items %}
   {%- assign items = latest.stories | where: "category", cat.id | where_exp: "s", "s.featured == 0" %}
   {%- if items.size > 0 %}
   <section class="cat" aria-labelledby="cat-{{ cat.id }}">
-    <h3 id="cat-{{ cat.id }}" class="cat-h"><span class="l-fr" lang="fr">{{ cat.fr }}</span><span class="l-en" lang="en">{{ cat.en }}</span> <span class="cat-n">{{ items.size }}</span></h3>
+    <h3 id="cat-{{ cat.id }}" class="cat-h"><span class="l-fr" lang="fr">{{ cat.fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ cat.en }}</span> <span class="cat-n">{{ items.size }}</span></h3>
     <ul class="ni-list">
     {%- for s in items %}{% include news-item.html s=s post=latest cat=cat %}{% endfor %}
     </ul>
@@ -42,7 +43,7 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
   {%- endif %}
   {%- endfor %}
   {%- comment -%} The digest post holds exactly the stories of latest.stories (both written by gen.py); if a hand-made post ever differs, its own count is shown. {%- endcomment -%}
-  <p class="sec-more"><a href="{{ latest.url | relative_url }}">{% if latest.story_count == latest.stories.size %}<span class="l-fr" lang="fr">La veille du jour sur une seule page (lien permanent)</span><span class="l-en" lang="en">Today’s digest on one page (permanent link)</span>{% else %}<span class="l-fr" lang="fr">La veille du jour sur une seule page ({{ latest.story_count }} nouvelles, lien permanent)</span><span class="l-en" lang="en">Today’s digest on one page ({{ latest.story_count }} stories, permanent link)</span>{% endif %} →</a></p>
+  <p class="sec-more"><a href="{{ latest.url | relative_url }}">{% if latest.story_count == latest.stories.size %}<span class="l-fr" lang="fr">La veille du jour sur une seule page (lien permanent)</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Today’s digest on one page (permanent link)</span>{% else %}<span class="l-fr" lang="fr">La veille du jour sur une seule page ({{ latest.story_count }} nouvelles, lien permanent)</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Today’s digest on one page ({{ latest.story_count }} stories, permanent link)</span>{% endif %} →</a></p>
 </section>
 {%- else %}
 {%- comment -%} Fallback for a hand-made post without `stories`: show it as before. {%- endcomment -%}
@@ -57,14 +58,14 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
 
 {%- if site.posts.size > 1 %}
 <section class="home-sec earlier" aria-labelledby="h-earlier">
-  <h2 id="h-earlier" class="sec-h"><span class="l-fr" lang="fr">Jours précédents</span><span class="l-en" lang="en">Earlier days</span></h2>
+  <h2 id="h-earlier" class="sec-h"><span class="l-fr" lang="fr">Jours précédents</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Earlier days</span></h2>
   <ul class="day-list">
   {%- for post in site.posts offset: 1 limit: 6 %}
     <li><a href="{{ post.url | relative_url }}"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{% include date.html date=post.date %}</time></a> <span class="day-n">· {% include count.html n=post.story_count %}</span>
-      <span class="day-sum"><span class="l-fr" lang="fr">{{ post.summary_fr | default: post.summary }}</span><span class="l-en" lang="en">{{ post.summary }}</span></span></li>
+      <span class="day-sum"><span class="l-fr" lang="fr">{{ post.summary_fr | default: post.summary }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ post.summary }}</span></span></li>
   {%- endfor %}
   </ul>
-  <p class="sec-more"><a href="{{ '/past-news/' | relative_url }}"><span class="l-fr" lang="fr">Toutes les archives</span><span class="l-en" lang="en">Full archive</span> →</a></p>
+  <p class="sec-more"><a href="{{ '/past-news/' | relative_url }}"><span class="l-fr" lang="fr">Toutes les archives</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Full archive</span> →</a></p>
 </section>
 {%- endif %}
 {%- endif %}
