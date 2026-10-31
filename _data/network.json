@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-30T14:33:26Z",
+ "generated": "2026-10-31T14:30:39Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 109,
+ "story_count": 118,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1152,6 +1152,111 @@
      ]
     }
    ]
+  },
+  "2026-10-31": {
+   "post": "/2026/10/31/digest/",
+   "stories": [
+    {
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/",
+     "entities": [
+      "hydro-quebec",
+      "innu-nation",
+      "jodie-ashini",
+      "mark-carney",
+      "nl-hydro",
+      "pq",
+      "pspp",
+      "tony-wakeham"
+     ]
+    },
+    {
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches",
+     "entities": [
+      "apts",
+      "fiq-spsca",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation",
+     "entities": [
+      "fondation-a-notre-sante",
+      "marie-karlynn-laflamme",
+      "vincent-bourassa"
+     ]
+    },
+    {
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416",
+     "entities": [
+      "ericka-alneus",
+      "fady-dagher",
+      "soraya-martinez-ferrada",
+      "spvm"
+     ]
+    },
+    {
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700",
+     "entities": [
+      "guy-caron",
+      "loto-quebec",
+      "sylvain-leduc",
+      "ville-rimouski"
+     ]
+    },
+    {
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php",
+     "entities": [
+      "antonio-costa",
+      "bloc-quebecois",
+      "mark-carney",
+      "pspp",
+      "union-europeenne",
+      "ursula-von-der-leyen"
+     ]
+    },
+    {
+     "headline": "Rencontre Carney-St-Pierre-Plamondon – « C’est dans l’intérêt des Québécois »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php",
+     "entities": [
+      "mark-carney",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/",
+     "entities": [
+      "alain-therrien",
+      "catherine-gentilcore",
+      "conseil-tresor",
+      "eric-duhaime",
+      "jacinthe-eve-arel",
+      "pcq",
+      "plq",
+      "pq",
+      "qs",
+      "ruba-ghazal",
+      "sebastien-dastous",
+      "sol-zanetti"
+     ]
+    },
+    {
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee",
+     "entities": [
+      "mac-montreal",
+      "ministere-culture",
+      "musee-civilisation",
+      "stephan-la-roche"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1163,7 +1268,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 28,
+   "mentions": 31,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1304,6 +1409,21 @@
      "date": "2026-10-30",
      "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
      "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Rencontre Carney-St-Pierre-Plamondon – « C’est dans l’intérêt des Québécois »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php"
     }
    ]
   },
@@ -1316,7 +1436,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 18,
+   "mentions": 20,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1407,6 +1527,16 @@
      "date": "2026-10-29",
      "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
      "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -1415,7 +1545,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 15,
+   "mentions": 16,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1491,6 +1621,11 @@
      "date": "2026-10-30",
      "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
      "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
     }
    ]
   },
@@ -1501,7 +1636,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 11,
+   "mentions": 12,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1557,6 +1692,118 @@
      "date": "2026-10-30",
      "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
      "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "id": "mark-carney",
+   "name": "Mark Carney",
+   "type": "person",
+   "aliases": [
+    "Carney"
+   ],
+   "mentions": 9,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
+     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Rencontre Carney-St-Pierre-Plamondon – « C’est dans l’intérêt des Québécois »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php"
+    }
+   ]
+  },
+  {
+   "id": "marie-karlynn-laflamme",
+   "name": "Marie-Karlynn Laflamme",
+   "type": "person",
+   "aliases": [
+    "Laflamme"
+   ],
+   "mentions": 8,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
     }
    ]
   },
@@ -1608,13 +1855,105 @@
    ]
   },
   {
-   "id": "marie-karlynn-laflamme",
-   "name": "Marie-Karlynn Laflamme",
-   "type": "person",
+   "id": "plq",
+   "name": "Parti libéral du Québec",
+   "type": "organization",
    "aliases": [
-    "Laflamme"
+    "PLQ",
+    "Quebec Liberal Party",
+    "libéraux"
    ],
    "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    }
+   ]
+  },
+  {
+   "id": "alain-therrien",
+   "name": "Alain Therrien",
+   "type": "person",
+   "aliases": [
+    "Therrien"
+   ],
+   "mentions": 6,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1627,29 +1966,24 @@
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-22",
-     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
-     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
-    },
-    {
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
     },
     {
-     "date": "2026-10-30",
-     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
-     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -1696,110 +2030,18 @@
    ]
   },
   {
-   "id": "mark-carney",
-   "name": "Mark Carney",
-   "type": "person",
-   "aliases": [
-    "Carney"
-   ],
-   "mentions": 6,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
-     "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
-    }
-   ]
-  },
-  {
-   "id": "plq",
-   "name": "Parti libéral du Québec",
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
    "type": "organization",
    "aliases": [
-    "PLQ",
-    "Quebec Liberal Party",
-    "libéraux"
+    "SPVM"
    ],
-   "mentions": 6,
+   "mentions": 5,
    "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    }
-   ]
-  },
-  {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
-   "type": "person",
-   "aliases": [],
-   "mentions": 6,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
     {
      "date": "2026-10-25",
      "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
      "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     },
     {
      "date": "2026-10-26",
@@ -1808,49 +2050,18 @@
     },
     {
      "date": "2026-10-29",
-     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     },
     {
      "date": "2026-10-30",
      "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    }
-   ]
-  },
-  {
-   "id": "alain-therrien",
-   "name": "Alain Therrien",
-   "type": "person",
-   "aliases": [
-    "Therrien"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
     },
     {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     }
    ]
   },
@@ -1882,6 +2093,37 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "conseil-tresor",
+   "name": "Conseil du trésor",
+   "type": "organization",
+   "aliases": [
+    "Treasury Board"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -2047,33 +2289,36 @@
    ]
   },
   {
-   "id": "spvm",
-   "name": "Service de police de la Ville de Montréal",
+   "id": "pcq",
+   "name": "Parti conservateur du Québec",
    "type": "organization",
    "aliases": [
-    "SPVM"
+    "PCQ",
+    "Conservative Party",
+    "conservateurs",
+    "conservatrice"
    ],
    "mentions": 4,
    "stories": [
     {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+     "date": "2026-10-21",
+     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
     },
     {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
     },
     {
      "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -2138,6 +2383,37 @@
    ]
   },
   {
+   "id": "sebastien-dastous",
+   "name": "Sébastien D’Astous",
+   "type": "person",
+   "aliases": [
+    "Sébastien D'Astous"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
    "id": "tat",
    "name": "Tribunal administratif du travail",
    "type": "organization",
@@ -2163,6 +2439,39 @@
      "date": "2026-10-30",
      "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
      "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    }
+   ]
+  },
+  {
+   "id": "union-europeenne",
+   "name": "Union européenne",
+   "type": "organization",
+   "aliases": [
+    "European Union",
+    "UE",
+    "EU"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
     }
    ]
   },
@@ -2269,32 +2578,6 @@
    ]
   },
   {
-   "id": "conseil-tresor",
-   "name": "Conseil du trésor",
-   "type": "organization",
-   "aliases": [
-    "Treasury Board"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
    "id": "cour-du-quebec",
    "name": "Cour du Québec",
    "type": "organization",
@@ -2315,6 +2598,32 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "id": "fady-dagher",
+   "name": "Fady Dagher",
+   "type": "person",
+   "aliases": [
+    "Dagher"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     }
    ]
   },
@@ -2422,35 +2731,6 @@
    ]
   },
   {
-   "id": "pcq",
-   "name": "Parti conservateur du Québec",
-   "type": "organization",
-   "aliases": [
-    "PCQ",
-    "Conservative Party",
-    "conservateurs",
-    "conservatrice"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    }
-   ]
-  },
-  {
    "id": "mpo",
    "name": "Pêches et Océans Canada",
    "type": "organization",
@@ -2473,6 +2753,32 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "id": "qs",
+   "name": "Québec solidaire",
+   "type": "organization",
+   "aliases": [
+    "solidaires"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -2554,60 +2860,6 @@
    ]
   },
   {
-   "id": "sebastien-dastous",
-   "name": "Sébastien D’Astous",
-   "type": "person",
-   "aliases": [
-    "Sébastien D'Astous"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    }
-   ]
-  },
-  {
-   "id": "union-europeenne",
-   "name": "Union européenne",
-   "type": "organization",
-   "aliases": [
-    "European Union",
-    "UE",
-    "EU"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
-    }
-   ]
-  },
-  {
    "id": "ville-montreal",
    "name": "Ville de Montréal",
    "type": "organization",
@@ -2654,6 +2906,30 @@
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    }
+   ]
+  },
+  {
+   "id": "eric-duhaime",
+   "name": "Éric Duhaime",
+   "type": "person",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -2763,6 +3039,27 @@
    ]
   },
   {
+   "id": "catherine-gentilcore",
+   "name": "Catherine Gentilcore",
+   "type": "person",
+   "aliases": [
+    "Gentilcore"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
    "id": "charles-milliard",
    "name": "Charles Milliard",
    "type": "person",
@@ -2866,12 +3163,10 @@
    ]
   },
   {
-   "id": "fady-dagher",
-   "name": "Fady Dagher",
+   "id": "ericka-alneus",
+   "name": "Ericka Alneus",
    "type": "person",
-   "aliases": [
-    "Dagher"
-   ],
+   "aliases": [],
    "mentions": 2,
    "stories": [
     {
@@ -2880,9 +3175,9 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     },
     {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     }
    ]
   },
@@ -2904,6 +3199,27 @@
      "date": "2026-10-26",
      "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
      "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "id": "jacinthe-eve-arel",
+   "name": "Jacinthe-Eve Arel",
+   "type": "person",
+   "aliases": [
+    "Arel"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -3070,27 +3386,6 @@
    ]
   },
   {
-   "id": "qs",
-   "name": "Québec solidaire",
-   "type": "organization",
-   "aliases": [
-    "solidaires"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
-    }
-   ]
-  },
-  {
    "id": "rene-branchaud",
    "name": "René Branchaud",
    "type": "person",
@@ -3192,25 +3487,6 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
-    }
-   ]
-  },
-  {
-   "id": "eric-duhaime",
-   "name": "Éric Duhaime",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -3353,6 +3629,22 @@
    ]
   },
   {
+   "id": "apts",
+   "name": "Alliance du personnel professionnel et technique de la santé et des services sociaux",
+   "type": "organization",
+   "aliases": [
+    "APTS"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    }
+   ]
+  },
+  {
    "id": "alto",
    "name": "Alto",
    "type": "organization",
@@ -3393,6 +3685,22 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: dossiers chauds, gros mandats et diverses missions de l'État",
      "url": "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec"
+    }
+   ]
+  },
+  {
+   "id": "antonio-costa",
+   "name": "António Costa",
+   "type": "person",
+   "aliases": [
+    "Costa"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
     }
    ]
   },
@@ -3583,6 +3891,23 @@
    ]
   },
   {
+   "id": "bloc-quebecois",
+   "name": "Bloc Québécois",
+   "type": "organization",
+   "aliases": [
+    "Bloc québécois",
+    "Bloc"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
    "id": "bruno-verreault",
    "name": "Bruno Verreault",
    "type": "person",
@@ -3679,22 +4004,6 @@
      "date": "2026-10-25",
      "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
      "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
-    }
-   ]
-  },
-  {
-   "id": "catherine-gentilcore",
-   "name": "Catherine Gentilcore",
-   "type": "person",
-   "aliases": [
-    "Gentilcore"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     }
    ]
   },
@@ -4078,20 +4387,6 @@
    ]
   },
   {
-   "id": "ericka-alneus",
-   "name": "Ericka Alneus",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    }
-   ]
-  },
-  {
    "id": "fnz",
    "name": "FNZ",
    "type": "organization",
@@ -4116,6 +4411,20 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "fondation-a-notre-sante",
+   "name": "Fondation À Notre Santé",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
     }
    ]
   },
@@ -4395,6 +4704,22 @@
    ]
   },
   {
+   "id": "guy-caron",
+   "name": "Guy Caron",
+   "type": "person",
+   "aliases": [
+    "Caron"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
    "id": "hugues-mousseau",
    "name": "Hugues Mousseau",
    "type": "person",
@@ -4509,6 +4834,22 @@
    ]
   },
   {
+   "id": "innu-nation",
+   "name": "Innu Nation",
+   "type": "organization",
+   "aliases": [
+    "Nation innue"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
    "id": "cardus",
    "name": "Institut Cardus",
    "type": "organization",
@@ -4583,22 +4924,6 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
-    }
-   ]
-  },
-  {
-   "id": "jacinthe-eve-arel",
-   "name": "Jacinthe-Eve Arel",
-   "type": "person",
-   "aliases": [
-    "Arel"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     }
    ]
   },
@@ -4703,6 +5028,22 @@
    ]
   },
   {
+   "id": "jodie-ashini",
+   "name": "Jodie Ashini",
+   "type": "person",
+   "aliases": [
+    "Ashini"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
    "id": "julie-blackburn",
    "name": "Julie Blackburn",
    "type": "person",
@@ -4799,6 +5140,22 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "loto-quebec",
+   "name": "Loto-Québec",
+   "type": "organization",
+   "aliases": [
+    "Société des loteries du Québec"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
     }
    ]
   },
@@ -5040,6 +5397,22 @@
    ]
   },
   {
+   "id": "ministere-culture",
+   "name": "Ministère de la Culture, du Patrimoine, des Communications et de la Langue française",
+   "type": "organization",
+   "aliases": [
+    "ministère de la Culture, du Patrimoine, des Communications et de la Langue française"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
    "id": "mess",
    "name": "Ministère de l’Emploi et de la Solidarité sociale",
    "type": "organization",
@@ -5087,6 +5460,40 @@
    ]
   },
   {
+   "id": "musee-civilisation",
+   "name": "Musée de la civilisation",
+   "type": "organization",
+   "aliases": [
+    "Musée de la civilisation de Québec",
+    "MCQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
+   "id": "mac-montreal",
+   "name": "Musée d’art contemporain de Montréal",
+   "type": "organization",
+   "aliases": [
+    "MAC",
+    "Musée d'art contemporain de Montréal"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
    "id": "melanie-joly",
    "name": "Mélanie Joly",
    "type": "person",
@@ -5125,6 +5532,22 @@
      "date": "2026-10-25",
      "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
      "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "id": "nl-hydro",
+   "name": "Newfoundland and Labrador Hydro",
+   "type": "organization",
+   "aliases": [
+    "NL Hydro"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
     }
    ]
   },
@@ -5303,6 +5726,22 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "id": "ruba-ghazal",
+   "name": "Ruba Ghazal",
+   "type": "person",
+   "aliases": [
+    "Ghazal"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -5510,6 +5949,22 @@
    ]
   },
   {
+   "id": "sol-zanetti",
+   "name": "Sol Zanetti",
+   "type": "person",
+   "aliases": [
+    "Zanetti"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
    "id": "steeve-poulin",
    "name": "Steeve Poulin",
    "type": "person",
@@ -5520,6 +5975,22 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "stephan-la-roche",
+   "name": "Stéphan La Roche",
+   "type": "person",
+   "aliases": [
+    "La Roche"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
     }
    ]
   },
@@ -5552,6 +6023,22 @@
    ]
   },
   {
+   "id": "sylvain-leduc",
+   "name": "Sylvain Leduc",
+   "type": "person",
+   "aliases": [
+    "Leduc"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
    "id": "sapscq",
    "name": "Syndicat des agents de la paix en services correctionnels du Québec",
    "type": "organization",
@@ -5580,6 +6067,22 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "id": "fiq-spsca",
+   "name": "Syndicat des professionnelles en soins de Chaudière-Appalaches",
+   "type": "organization",
+   "aliases": [
+    "FIQ-SPSCA"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
     }
    ]
   },
@@ -5657,6 +6160,22 @@
    ]
   },
   {
+   "id": "tony-wakeham",
+   "name": "Tony Wakeham",
+   "type": "person",
+   "aliases": [
+    "Wakeham"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
    "id": "upac",
    "name": "Unité permanente anticorruption",
    "type": "organization",
@@ -5669,6 +6188,22 @@
      "date": "2026-10-26",
      "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
      "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    }
+   ]
+  },
+  {
+   "id": "ursula-von-der-leyen",
+   "name": "Ursula von der Leyen",
+   "type": "person",
+   "aliases": [
+    "von der Leyen"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
     }
    ]
   },
@@ -5735,6 +6270,22 @@
    ]
   },
   {
+   "id": "ville-rimouski",
+   "name": "Ville de Rimouski",
+   "type": "organization",
+   "aliases": [
+    "Rimouski"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
    "id": "ville-sherbrooke",
    "name": "Ville de Sherbrooke",
    "type": "organization",
@@ -5747,6 +6298,20 @@
      "date": "2026-10-30",
      "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "id": "vincent-bourassa",
+   "name": "Vincent Bourassa",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
     }
    ]
   },
@@ -5906,7 +6471,7 @@
   {
    "source": "pq",
    "target": "pspp",
-   "weight": 11,
+   "weight": 12,
    "stories": [
     {
      "date": "2026-10-21",
@@ -5962,6 +6527,53 @@
      "date": "2026-10-29",
      "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
      "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "pspp",
+   "weight": 7,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Rencontre Carney-St-Pierre-Plamondon – « C’est dans l’intérêt des Québécois »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php"
     }
    ]
   },
@@ -6031,6 +6643,65 @@
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "plq",
+   "target": "pq",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "pq",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -6144,7 +6815,7 @@
   },
   {
    "source": "mark-carney",
-   "target": "pspp",
+   "target": "union-europeenne",
    "weight": 4,
    "stories": [
     {
@@ -6158,41 +6829,14 @@
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
-    },
-    {
      "date": "2026-10-29",
      "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
-    }
-   ]
-  },
-  {
-   "source": "plq",
-   "target": "pq",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
     },
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
     }
    ]
   },
@@ -6247,6 +6891,60 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "union-europeenne",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "spvm",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     }
    ]
   },
@@ -6362,23 +7060,23 @@
   },
   {
    "source": "alain-therrien",
-   "target": "pq",
+   "target": "sebastien-dastous",
    "weight": 3,
    "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
     {
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -6493,6 +7191,28 @@
    ]
   },
   {
+   "source": "fady-dagher",
+   "target": "spvm",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    }
+   ]
+  },
+  {
    "source": "hydro-quebec",
    "target": "tat",
    "weight": 3,
@@ -6560,23 +7280,23 @@
   },
   {
    "source": "mark-carney",
-   "target": "union-europeenne",
+   "target": "pq",
    "weight": 3,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    },
-    {
      "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
     },
     {
      "date": "2026-10-29",
-     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
     }
    ]
   },
@@ -6625,6 +7345,28 @@
    ]
   },
   {
+   "source": "pcq",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
    "source": "plq",
    "target": "stephan-fogaing",
    "weight": 3,
@@ -6643,6 +7385,28 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "qs",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -6687,50 +7451,6 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
-   "target": "union-europeenne",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
-    }
-   ]
-  },
-  {
-   "source": "soraya-martinez-ferrada",
-   "target": "spvm",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -6821,6 +7541,40 @@
   },
   {
    "source": "alain-therrien",
+   "target": "catherine-gentilcore",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "conseil-tresor",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "sante-quebec",
    "weight": 2,
    "stories": [
@@ -6833,23 +7587,6 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
-   "target": "sebastien-dastous",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     }
    ]
   },
@@ -7024,6 +7761,40 @@
    ]
   },
   {
+   "source": "catherine-gentilcore",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
+   "target": "sebastien-dastous",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
    "source": "charles-iii",
    "target": "cour-superieure",
    "weight": 2,
@@ -7139,6 +7910,23 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -7279,6 +8067,74 @@
    ]
   },
   {
+   "source": "eric-duhaime",
+   "target": "pcq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "fady-dagher",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "spvm",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    }
+   ]
+  },
+  {
    "source": "etienne-grandmont",
    "target": "pq",
    "weight": 2,
@@ -7331,18 +8187,18 @@
   },
   {
    "source": "fady-dagher",
-   "target": "spvm",
+   "target": "soraya-martinez-ferrada",
    "weight": 2,
    "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
     {
      "date": "2026-10-30",
      "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     }
    ]
   },
@@ -7399,6 +8255,23 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "regie-energie",
    "weight": 2,
    "stories": [
@@ -7411,6 +8284,40 @@
      "date": "2026-10-27",
      "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
      "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "pcq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "sebastien-dastous",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -7530,23 +8437,6 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "mark-carney",
-   "target": "pq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
     }
    ]
   },
@@ -7671,7 +8561,7 @@
   },
   {
    "source": "pcq",
-   "target": "pq",
+   "target": "rene-branchaud",
    "weight": 2,
    "stories": [
     {
@@ -7688,18 +8578,18 @@
   },
   {
    "source": "pcq",
-   "target": "rene-branchaud",
+   "target": "sebastien-dastous",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
     },
     {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -7721,7 +8611,7 @@
    ]
   },
   {
-   "source": "pq",
+   "source": "plq",
    "target": "qs",
    "weight": 2,
    "stories": [
@@ -7731,9 +8621,9 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
     },
     {
-     "date": "2026-10-29",
-     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -7751,6 +8641,23 @@
      "date": "2026-10-23",
      "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
      "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "sebastien-dastous",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -8263,31 +9170,7 @@
   },
   {
    "source": "alain-therrien",
-   "target": "catherine-gentilcore",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
    "target": "christine-frechette",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
-   "target": "conseil-tresor",
    "weight": 1,
    "stories": [
     {
@@ -8306,6 +9189,18 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "eric-duhaime",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -8342,6 +9237,18 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "jacinthe-eve-arel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -8402,6 +9309,66 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "pcq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -8754,6 +9721,66 @@
    ]
   },
   {
+   "source": "antonio-costa",
+   "target": "bloc-quebecois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "antonio-costa",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "antonio-costa",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "antonio-costa",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "antonio-costa",
+   "target": "ursula-von-der-leyen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
    "source": "apchq",
    "target": "aviseo-conseil",
    "weight": 1,
@@ -8894,6 +9921,30 @@
      "date": "2026-10-25",
      "headline": "Retour historique des chefs autochtones à la table des premiers ministres",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-25/retour-historique-des-chefs-autochtones-a-la-table-des-premiers-ministres.php"
+    }
+   ]
+  },
+  {
+   "source": "apts",
+   "target": "fiq-spsca",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    }
+   ]
+  },
+  {
+   "source": "apts",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
     }
    ]
   },
@@ -9522,6 +10573,54 @@
    ]
   },
   {
+   "source": "bloc-quebecois",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "union-europeenne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "ursula-von-der-leyen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
    "source": "bruno-pierre-godbout",
    "target": "clcc",
    "weight": 1,
@@ -9979,6 +11078,18 @@
   },
   {
    "source": "catherine-gentilcore",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
    "target": "elsie-lefebvre",
    "weight": 1,
    "stories": [
@@ -9986,6 +11097,30 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
+   "target": "eric-duhaime",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
+   "target": "jacinthe-eve-arel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -10027,13 +11162,25 @@
   },
   {
    "source": "catherine-gentilcore",
-   "target": "pq",
+   "target": "pcq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -10051,6 +11198,30 @@
   },
   {
    "source": "catherine-gentilcore",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
    "target": "sante-quebec",
    "weight": 1,
    "stories": [
@@ -10063,13 +11234,13 @@
   },
   {
    "source": "catherine-gentilcore",
-   "target": "sebastien-dastous",
+   "target": "sol-zanetti",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -10639,6 +11810,18 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "eric-duhaime",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "france-elaine-duranceau",
    "weight": 1,
    "stories": [
@@ -10646,6 +11829,18 @@
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "jacinthe-eve-arel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -10687,13 +11882,25 @@
   },
   {
    "source": "conseil-tresor",
-   "target": "pq",
+   "target": "pcq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -10706,6 +11913,54 @@
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -11959,6 +13214,18 @@
   },
   {
    "source": "eric-duhaime",
+   "target": "jacinthe-eve-arel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
    "target": "mark-carney",
    "weight": 1,
    "stories": [
@@ -11971,25 +13238,13 @@
   },
   {
    "source": "eric-duhaime",
-   "target": "pcq",
+   "target": "plq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    }
-   ]
-  },
-  {
-   "source": "eric-duhaime",
-   "target": "pq",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -12007,6 +13262,18 @@
   },
   {
    "source": "eric-duhaime",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
    "target": "rene-branchaud",
    "weight": 1,
    "stories": [
@@ -12014,6 +13281,42 @@
      "date": "2026-10-23",
      "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
      "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -12091,18 +13394,6 @@
   },
   {
    "source": "ericka-alneus",
-   "target": "fady-dagher",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    }
-   ]
-  },
-  {
-   "source": "ericka-alneus",
    "target": "projet-montreal",
    "weight": 1,
    "stories": [
@@ -12115,13 +13406,13 @@
   },
   {
    "source": "ericka-alneus",
-   "target": "spvm",
+   "target": "soraya-martinez-ferrada",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     }
    ]
   },
@@ -12194,18 +13485,6 @@
      "date": "2026-10-29",
      "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
      "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    }
-   ]
-  },
-  {
-   "source": "fady-dagher",
-   "target": "soraya-martinez-ferrada",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -12414,6 +13693,18 @@
    ]
   },
   {
+   "source": "fiq-spsca",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    }
+   ]
+  },
+  {
    "source": "fnz",
    "target": "la-caisse",
    "weight": 1,
@@ -12434,6 +13725,30 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "source": "fondation-a-notre-sante",
+   "target": "marie-karlynn-laflamme",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
+    }
+   ]
+  },
+  {
+   "source": "fondation-a-notre-sante",
+   "target": "vincent-bourassa",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
     }
    ]
   },
@@ -12954,6 +14269,42 @@
    ]
   },
   {
+   "source": "guy-caron",
+   "target": "loto-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
+   "source": "guy-caron",
+   "target": "sylvain-leduc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
+   "source": "guy-caron",
+   "target": "ville-rimouski",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
    "source": "guy-lapointe-fils",
    "target": "mathieu-lavoie",
    "weight": 1,
@@ -13051,6 +14402,42 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "innu-nation",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "jodie-ashini",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "mckinsey",
    "weight": 1,
    "stories": [
@@ -13099,6 +14486,18 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "nl-hydro",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "oliver-wyman",
    "weight": 1,
    "stories": [
@@ -13111,13 +14510,13 @@
   },
   {
    "source": "hydro-quebec",
-   "target": "pspp",
+   "target": "pq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
     }
    ]
   },
@@ -13190,6 +14589,18 @@
      "date": "2026-10-22",
      "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
      "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "tony-wakeham",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
     }
    ]
   },
@@ -13458,6 +14869,78 @@
    ]
   },
   {
+   "source": "innu-nation",
+   "target": "jodie-ashini",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "innu-nation",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "innu-nation",
+   "target": "nl-hydro",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "innu-nation",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "innu-nation",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "innu-nation",
+   "target": "tony-wakeham",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
    "source": "investissement-quebec",
    "target": "lion",
    "weight": 1,
@@ -13543,25 +15026,49 @@
   },
   {
    "source": "jacinthe-eve-arel",
-   "target": "pcq",
+   "target": "plq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
   {
    "source": "jacinthe-eve-arel",
-   "target": "sebastien-dastous",
+   "target": "pq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -13574,6 +15081,18 @@
      "date": "2026-10-30",
      "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "jacinthe-eve-arel",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -13730,6 +15249,66 @@
      "date": "2026-10-24",
      "headline": "Hampstead, Que., mayor pleads guilty, faces $30K fine after anti-Palestine posts",
      "url": "https://www.cbc.ca/news/canada/montreal/hampstead-mayor-jeremy-levi-fined-anti-palestine-posts-9.7394105"
+    }
+   ]
+  },
+  {
+   "source": "jodie-ashini",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "jodie-ashini",
+   "target": "nl-hydro",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "jodie-ashini",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "jodie-ashini",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "jodie-ashini",
+   "target": "tony-wakeham",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
     }
    ]
   },
@@ -14058,6 +15637,30 @@
    ]
   },
   {
+   "source": "loto-quebec",
+   "target": "sylvain-leduc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
+   "source": "loto-quebec",
+   "target": "ville-rimouski",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
    "source": "louis-bourcier",
    "target": "marie-karlynn-laflamme",
    "weight": 1,
@@ -14150,6 +15753,42 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    }
+   ]
+  },
+  {
+   "source": "mac-montreal",
+   "target": "ministere-culture",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
+   "source": "mac-montreal",
+   "target": "musee-civilisation",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
+   "source": "mac-montreal",
+   "target": "stephan-la-roche",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
     }
    ]
   },
@@ -14370,6 +16009,18 @@
    ]
   },
   {
+   "source": "marie-karlynn-laflamme",
+   "target": "vincent-bourassa",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
+    }
+   ]
+  },
+  {
    "source": "marie-pierre-charland",
    "target": "plq",
    "weight": 1,
@@ -14443,6 +16094,18 @@
   },
   {
    "source": "mark-carney",
+   "target": "nl-hydro",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
    "target": "pascal-paradis",
    "weight": 1,
    "stories": [
@@ -14462,6 +16125,30 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "tony-wakeham",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "ursula-von-der-leyen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
     }
    ]
   },
@@ -14670,6 +16357,30 @@
    ]
   },
   {
+   "source": "ministere-culture",
+   "target": "musee-civilisation",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
+   "source": "ministere-culture",
+   "target": "stephan-la-roche",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
    "source": "mmfim",
    "target": "pauline-marois",
    "weight": 1,
@@ -14814,6 +16525,18 @@
    ]
   },
   {
+   "source": "musee-civilisation",
+   "target": "stephan-la-roche",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
    "source": "natalie-bisaillon",
    "target": "nicolas-marceau",
    "weight": 1,
@@ -14946,6 +16669,42 @@
    ]
   },
   {
+   "source": "nl-hydro",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "nl-hydro",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "nl-hydro",
+   "target": "tony-wakeham",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
    "source": "pascal-paradis",
    "target": "pspp",
    "weight": 1,
@@ -15007,13 +16766,37 @@
   },
   {
    "source": "pcq",
-   "target": "sebastien-dastous",
+   "target": "plq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "pcq",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "pcq",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -15026,6 +16809,18 @@
      "date": "2026-10-30",
      "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "pcq",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -15055,18 +16850,6 @@
   },
   {
    "source": "plq",
-   "target": "qs",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    }
-   ]
-  },
-  {
-   "source": "plq",
    "target": "rafael-primeau-ferraro",
    "weight": 1,
    "stories": [
@@ -15079,6 +16862,18 @@
   },
   {
    "source": "plq",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "plq",
    "target": "sante-quebec",
    "weight": 1,
    "stories": [
@@ -15086,6 +16881,30 @@
      "date": "2026-10-24",
      "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    }
+   ]
+  },
+  {
+   "source": "plq",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "plq",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -15115,13 +16934,25 @@
   },
   {
    "source": "pq",
-   "target": "sebastien-dastous",
+   "target": "ruba-ghazal",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -15134,6 +16965,18 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "tony-wakeham",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
     }
    ]
   },
@@ -15235,6 +17078,30 @@
   },
   {
    "source": "pspp",
+   "target": "tony-wakeham",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "ursula-von-der-leyen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "ville-montreal",
    "weight": 1,
    "stories": [
@@ -15254,6 +17121,42 @@
      "date": "2026-10-29",
      "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
      "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "qs",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "qs",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "qs",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -15374,6 +17277,30 @@
      "date": "2026-10-28",
      "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
      "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
+    }
+   ]
+  },
+  {
+   "source": "ruba-ghazal",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "ruba-ghazal",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -15506,6 +17433,18 @@
      "date": "2026-10-30",
      "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "sebastien-dastous",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -15650,6 +17589,30 @@
      "date": "2026-10-30",
      "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
      "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
+   "source": "sylvain-leduc",
+   "target": "ville-rimouski",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
+   "source": "union-europeenne",
+   "target": "ursula-von-der-leyen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
     }
    ]
   },

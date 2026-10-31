@@ -285,6 +285,40 @@
    "match_fr": [
     "Autorité des marchés publics"
    ]
+  },
+  {
+   "id": "dsn",
+   "term_en": "DSN (Digital Health Record)",
+   "term_fr": "DSN (Dossier santé numérique)",
+   "def_en": "Santé Québec’s single computer system for patient records, replacing several older systems. Health staff use it to share a patient’s information in real time; it is being rolled out gradually.",
+   "def_fr": "Système informatique unique de Santé Québec pour les dossiers des patients, qui remplace plusieurs systèmes plus anciens. Le personnel s’en sert pour partager en temps réel l’information d’un patient; il est déployé progressivement.",
+   "source_en": "https://sante.quebec/actualites/nouvelles/dossier-sante-numerique-passer-du-papier-au-numerique-pour-mieux-vous/",
+   "source_fr": "https://sante.quebec/actualites/nouvelles/dossier-sante-numerique-passer-du-papier-au-numerique-pour-mieux-vous/",
+   "source_label": "Santé Québec",
+   "match_en": [
+    "Digital Health Record"
+   ],
+   "match_fr": [
+    "Dossier santé numérique"
+   ]
+  },
+  {
+   "id": "vlt",
+   "term_en": "Video lottery terminal (VLT)",
+   "term_fr": "Appareil de loterie vidéo (ALV)",
+   "def_en": "A slot-machine-like gambling terminal with a video or touch screen, allowed in state casinos and in licensed bars. Every machine belongs to Loto-Québec and is linked to its central computer; bars need a licence from the Régie des alcools, des courses et des jeux.",
+   "def_fr": "Terminal de jeu semblable à une machine à sous, avec écran vidéo ou tactile, permis dans les casinos d’État et dans les bars titulaires d’une licence. Chaque appareil appartient à Loto-Québec et est relié à son ordinateur central; les bars ont besoin d’une licence de la Régie des alcools, des courses et des jeux.",
+   "source_en": "https://www.racj.gouv.qc.ca/jeux/exploiter-des-appareils-damusement-ou-de-loterie-video/licence-dexploitant-de-site-dappareils-de-loterie-video",
+   "source_fr": "https://www.racj.gouv.qc.ca/jeux/exploiter-des-appareils-damusement-ou-de-loterie-video/licence-dexploitant-de-site-dappareils-de-loterie-video",
+   "source_label": "Régie des alcools, des courses et des jeux (RACJ)",
+   "match_en": [
+    "video lottery terminals",
+    "video lottery terminal"
+   ],
+   "match_fr": [
+    "appareils de loterie vidéo",
+    "appareil de loterie vidéo"
+   ]
   }
  ]
 }

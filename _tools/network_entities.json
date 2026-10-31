@@ -1532,6 +1532,152 @@
    "name": "Sherbrooke Refuse",
    "type": "organization",
    "aliases": []
+  },
+  "tony-wakeham": {
+   "name": "Tony Wakeham",
+   "type": "person",
+   "aliases": [
+    "Wakeham"
+   ]
+  },
+  "nl-hydro": {
+   "name": "Newfoundland and Labrador Hydro",
+   "type": "organization",
+   "aliases": [
+    "NL Hydro"
+   ]
+  },
+  "innu-nation": {
+   "name": "Innu Nation",
+   "type": "organization",
+   "aliases": [
+    "Nation innue"
+   ]
+  },
+  "jodie-ashini": {
+   "name": "Jodie Ashini",
+   "type": "person",
+   "aliases": [
+    "Ashini"
+   ]
+  },
+  "apts": {
+   "name": "Alliance du personnel professionnel et technique de la santé et des services sociaux",
+   "type": "organization",
+   "aliases": [
+    "APTS"
+   ]
+  },
+  "fondation-a-notre-sante": {
+   "name": "Fondation À Notre Santé",
+   "type": "organization",
+   "aliases": []
+  },
+  "vincent-bourassa": {
+   "name": "Vincent Bourassa",
+   "type": "person",
+   "aliases": []
+  },
+  "loto-quebec": {
+   "name": "Loto-Québec",
+   "type": "organization",
+   "aliases": [
+    "Société des loteries du Québec"
+   ]
+  },
+  "ville-rimouski": {
+   "name": "Ville de Rimouski",
+   "type": "organization",
+   "aliases": [
+    "Rimouski"
+   ]
+  },
+  "guy-caron": {
+   "name": "Guy Caron",
+   "type": "person",
+   "aliases": [
+    "Caron"
+   ]
+  },
+  "sylvain-leduc": {
+   "name": "Sylvain Leduc",
+   "type": "person",
+   "aliases": [
+    "Leduc"
+   ]
+  },
+  "antonio-costa": {
+   "name": "António Costa",
+   "type": "person",
+   "aliases": [
+    "Costa"
+   ]
+  },
+  "ursula-von-der-leyen": {
+   "name": "Ursula von der Leyen",
+   "type": "person",
+   "aliases": [
+    "von der Leyen"
+   ]
+  },
+  "bloc-quebecois": {
+   "name": "Bloc Québécois",
+   "type": "organization",
+   "aliases": [
+    "Bloc québécois",
+    "Bloc"
+   ]
+  },
+  "sol-zanetti": {
+   "name": "Sol Zanetti",
+   "type": "person",
+   "aliases": [
+    "Zanetti"
+   ]
+  },
+  "ruba-ghazal": {
+   "name": "Ruba Ghazal",
+   "type": "person",
+   "aliases": [
+    "Ghazal"
+   ]
+  },
+  "stephan-la-roche": {
+   "name": "Stéphan La Roche",
+   "type": "person",
+   "aliases": [
+    "La Roche"
+   ]
+  },
+  "mac-montreal": {
+   "name": "Musée d’art contemporain de Montréal",
+   "type": "organization",
+   "aliases": [
+    "MAC",
+    "Musée d'art contemporain de Montréal"
+   ]
+  },
+  "musee-civilisation": {
+   "name": "Musée de la civilisation",
+   "type": "organization",
+   "aliases": [
+    "Musée de la civilisation de Québec",
+    "MCQ"
+   ]
+  },
+  "ministere-culture": {
+   "name": "Ministère de la Culture, du Patrimoine, des Communications et de la Langue française",
+   "type": "organization",
+   "aliases": [
+    "ministère de la Culture, du Patrimoine, des Communications et de la Langue française"
+   ]
+  },
+  "fiq-spsca": {
+   "name": "Syndicat des professionnelles en soins de Chaudière-Appalaches",
+   "type": "organization",
+   "aliases": [
+    "FIQ-SPSCA"
+   ]
   }
  },
  "stories": [
@@ -2890,6 +3036,131 @@
    "checked_by_hand": false,
    "dossiers": [
     "sante-quebec"
+   ]
+  },
+  {
+   "match": "t-n-l-laccord-de-churchill-falls",
+   "entities": [
+    "tony-wakeham",
+    "hydro-quebec",
+    "nl-hydro",
+    "mark-carney",
+    "innu-nation",
+    "jodie-ashini",
+    "pq",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "2297201/abolition-postes-sante-quebec-chaudiere-appalaches",
+   "entities": [
+    "sante-quebec",
+    "fiq-spsca",
+    "apts"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "2296929/victoriaville-medecin-hotel-dieu-mobilisation",
+   "entities": [
+    "marie-karlynn-laflamme",
+    "fondation-a-notre-sante",
+    "vincent-bourassa"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "montreal-police-chief-spvm-9.7403416",
+   "entities": [
+    "fady-dagher",
+    "spvm",
+    "soraya-martinez-ferrada",
+    "ericka-alneus"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "spvm-pdq39"
+   ]
+  },
+  {
+   "match": "rimouski-video-slot-machine-loto-quebec-9.7399700",
+   "entities": [
+    "loto-quebec",
+    "ville-rimouski",
+    "guy-caron",
+    "sylvain-leduc"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance",
+   "entities": [
+    "mark-carney",
+    "union-europeenne",
+    "antonio-costa",
+    "ursula-von-der-leyen",
+    "bloc-quebecois",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "canada-eu-summit"
+   ]
+  },
+  {
+   "match": "2026-10-31/entrevue-exclusive-avec-mark-carney",
+   "entities": [
+    "mark-carney",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "canada-eu-summit"
+   ]
+  },
+  {
+   "match": "qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel",
+   "entities": [
+    "jacinthe-eve-arel",
+    "qs",
+    "sol-zanetti",
+    "ruba-ghazal",
+    "catherine-gentilcore",
+    "plq",
+    "eric-duhaime",
+    "pcq",
+    "sebastien-dastous",
+    "alain-therrien",
+    "conseil-tresor",
+    "pq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "2296845/stephan-laroche-sous-minitre-culture",
+   "entities": [
+    "stephan-la-roche",
+    "mac-montreal",
+    "musee-civilisation",
+    "ministere-culture"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
    ]
   }
  ]

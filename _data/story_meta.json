@@ -516,6 +516,51 @@
    "category": "health",
    "importance": 3,
    "title_en": "Future of Santé Québec – Former minister Dubé wants a group of independent experts"
+  },
+  "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "N.L.: the Churchill Falls agreement cannot be renegotiated, says Wakeham"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches": {
+   "category": "health",
+   "importance": 4,
+   "title_en": "44 positions abolished at Santé Québec Chaudière-Appalaches"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation": {
+   "category": "health",
+   "importance": 4,
+   "title_en": "Mobilization in Victoriaville to keep health services"
+  },
+  "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416": {
+   "category": "justice",
+   "importance": 4,
+   "title_fr": "Le chef de la police de Montréal défend ses efforts pour changer la culture du SPVM et écarter les pommes pourries"
+  },
+  "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_fr": "Des élus affirment que Loto-Québec renie les conditions d’un salon de jeux à Rimouski"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Canada–European Union summit – Canada and the European Union form a new alliance"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Carney–St-Pierre Plamondon meeting – “It is in Quebecers’ interest”"
+  },
+  "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "QS demands the cancellation of Jacinthe-Eve Arel’s appointment"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Stéphan La Roche leaves the MAC to become deputy minister of Culture in Quebec City"
   }
  }
 }
