@@ -1,0 +1,32 @@
+{%- comment -%}
+  Special-reports ticker: black bar at the very top of every page, scrolling right to left.
+  Built automatically from every page with `section: special-reports` (the /special-reports/ index itself,
+  pages with `noindex: true` and pages with `ticker: false` are left out). Titles come from each report's
+  own title_fr / title front matter. Order: `ticker_order` ascending; a report without one goes first,
+  so a new report leads the bar with no edits here. The track is printed twice for a seamless loop;
+  the copy is aria-hidden and its links are out of the tab order.
+  Speed is fixed at about 70 px/second: duration = characters x 0.13 s per language (Liquid, no JS).
+{%- endcomment -%}
+{%- assign tk_all = site.pages | where: "section", "special-reports" | sort: "ticker_order" -%}
+{%- assign tk_n = 0 -%}{%- assign tk_fr = 0 -%}{%- assign tk_en = 0 -%}
+{%- capture tk_items -%}
+{%- for p in tk_all -%}
+{%- if p.url == "/special-reports/" or p.noindex or p.ticker == false -%}{%- continue -%}{%- endif -%}
+{%- assign tk_n = tk_n | plus: 1 -%}
+{%- assign f = p.title_fr | default: p.title -%}
+{%- assign tk_fr = tk_fr | plus: f.size | plus: 4 -%}{%- assign tk_en = tk_en | plus: p.title.size | plus: 4 -%}
+<li><a href="{{ p.url | relative_url }}"><span class="l-fr" lang="fr">{{ f | escape }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ p.title | escape }}</span></a></li>
+{%- endfor -%}
+{%- endcapture -%}
+{%- if tk_n > 0 -%}
+{%- assign d_fr = tk_fr | times: 13 | divided_by: 100 | at_least: 20 -%}{%- assign d_en = tk_en | times: 13 | divided_by: 100 | at_least: 20 -%}
+<section class="report-ticker" aria-label="Rapports spéciaux / Special reports" style="--srt-fr: {{ d_fr }}s; --srt-en: {{ d_en }}s">
+  <a class="srt-label" href="{{ '/special-reports/' | relative_url }}"><span class="l-fr" lang="fr">Rapports spéciaux</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Special reports</span></a>
+  <div class="srt-viewport">
+    <div class="srt-track">
+      <ul class="srt-list">{{ tk_items }}</ul>
+      <ul class="srt-list srt-copy" aria-hidden="true">{{ tk_items | replace: '<a href=', '<a tabindex="-1" href=' }}</ul>
+    </div>
+  </div>
+</section>
+{%- endif -%}
