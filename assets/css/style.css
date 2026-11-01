@@ -849,7 +849,7 @@ h3 { margin: 22px 0 8px; }
   .report p, .report li, .report dd { font-size: 17px; }
   .report .tldr dt, .report .callout-label, .report h2.callout-label { font-size: 15px; }
   .report .tldr dd { font-size: 17px; line-height: 1.55; }
-  .report .callout.why .callout-label { font-size: 14px; }
+  .report .callout.why .callout-label { font-size: 15px; }
   .report .callout.why p { font-size: 16px; }
   /* Number cards */
   .report .vt-stat-label { font-size: 16px; }
@@ -859,15 +859,15 @@ h3 { margin: 22px 0 8px; }
   .report .sb-cap, .report .vt-cap { font-size: 16px; line-height: 1.45; font-weight: 600; }
   .report .sb-label, .report .vb-label { font-size: 16px; line-height: 1.35; }
   .report .vb-val { font-size: 18px; font-weight: 700; }
-  .report .sb-cite, .report .sb-note, .report .vb-key, .report .vt-src, .report .vt-cite, .report .vt-legend { font-size: 14px; line-height: 1.5; color: #222; }
+  .report .sb-cite, .report .sb-note, .report .vb-key, .report .vt-src, .report .vt-cite, .report .vt-legend { font-size: 15px; line-height: 1.5; color: #222; }
   .report .sb-cite a, .report .sb-note a, .report .vt-src a { padding: 14px 0; }
   .report .vb-hltext, .report .sb-list, .report .sb-sub { font-size: 15px; }
   /* Comparison grids (rows already stack into blocks at <=720px) */
-  .report .cg-key { font-size: 14px; }
+  .report .cg-key { font-size: 15px; }
   .report .cg-t { font-size: 16px; line-height: 1.5; }
   .report .cg-t tbody th { font-size: 17px; }
-  .report .cg-col { font-size: 14px; letter-spacing: .02em; color: var(--blue-dark); margin-bottom: 0; }
-  .report .cg-src { font-size: 14px; color: #222; margin-top: 2px; }
+  .report .cg-col { font-size: 15px; letter-spacing: .02em; color: var(--blue-dark); margin-bottom: 0; }
+  .report .cg-src { font-size: 15px; color: #222; margin-top: 2px; }
   .report .cg-src a { padding: 14px 0; }
   .report .cg-t th, .report .cg-t td { padding: 10px 12px; }
   .report .gl-term { padding: 14px 0; margin: -14px 0; }
@@ -899,4 +899,97 @@ h3 { margin: 22px 0 8px; }
   .report .cg-t tbody th, .report .cg-t td, .report .cg-is-na { color: #000; }
   .report .cg-col { font-size: 15px; color: #000; }
   .report .cg-src { font-size: 15px; color: #000; }
+}
+
+/* ===== Sitewide, phones (<=640px): the approved special-report treatment on every page =====
+   Pure black text (meta/muted included), 18px body, line-height 1.6, weight 480, darker underlined links,
+   nothing under 15px, 44px tap areas, yellow boxes at 18px. White text on blue/red/green badges and bars and the
+   colour-coded status pills are left as they are. Desktop is untouched. */
+@media (max-width: 640px) {
+  :root { --black: #000; --muted: #000; }
+  body { font-size: 18px; line-height: 1.6; font-weight: 480; color: #000; letter-spacing: .005em; }
+  a { color: #06245a; text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+  p, li, dd { font-size: inherit; }
+
+  /* Header, footer, meta lines */
+  .site-logo { display: inline-flex; align-items: center; min-height: 44px; }
+  .site-tagline { font-size: 15px; color: #000; }
+  .rss-link { font-size: 15px; color: #06245a; }
+  .site-footer, .post-meta, .day-meta, .tags, .tag, .home-meta, .ni-meta, .sec-note, .day-n, .tk-src, .ni-orig, .ni-out,
+  .tk-upd, .up-src, .up-note, .sec-count, .cat-n { font-size: 15px; color: #000; }
+  .tk-src a, .up-src a, .ni-links a { color: #06245a; }
+  .dossier-meta .count, .up-is-today .up-date, .net-amp { color: #000; font-weight: 800; }
+
+  /* Homepage: highlight bar, rank badges, cards, source lines, "Why it matters" */
+  .hl-bar-h { font-size: 15px; color: #000; }
+  .hl-chip { font-size: 15px; font-weight: 600; color: #000; }
+  .hl-rank { width: 26px; height: 26px; font-size: 15px; }
+  .feat-kicker, .feat-cat, .ni-cat { font-size: 15px; color: #000; }
+  .feat-rank { width: 32px; height: 32px; flex: 0 0 32px; font-size: 16px; }
+  .cat-h { font-size: 16px; color: #000; }
+  .ni-sum { font-size: 18px; }
+  .ni-links { font-size: 15px; color: #000; }
+  .ni-why { font-size: 18px; line-height: 1.6; color: #000; padding: 12px 14px 12px 42px; }
+  .ni-why::before { font-size: 15px; width: 22px; height: 22px; line-height: 22px; }
+  .ni-why-lab { font-size: 15px; font-weight: 800; color: #000; }
+  .ni-why a { color: #000; text-decoration: underline; }
+
+  /* Yellow callouts everywhere: In 30 seconds, money, Why it matters, What's next, Promised vs delivered, gaps */
+  .callout { color: #000; padding: 14px 16px; }
+  .callout p, .callout li, .callout dd, .tldr dd { font-size: 18px; line-height: 1.6; color: #000; }
+  .callout a { color: #000; text-decoration: underline; text-decoration-thickness: 1.5px; }
+  .callout-label, h2.callout-label, .callout.why .callout-label, .tldr dt { font-size: 15px; font-weight: 800; color: #000; }
+  .callout.why { padding: 12px 14px; }
+  .callout.why p { font-size: 18px; }
+  .money-label, .money-calc, .money-note { font-size: 18px; }
+  .money-src { font-size: 16px; }
+  .vt-gap p { font-size: 18px; color: #000; }
+  .vt-gap-h { font-size: 15px; color: #000; }
+  .vt-gap p a { color: #000; }
+
+  /* Promises / tracker */
+  .tk-party, .tk-dl dt { font-size: 15px; color: #000; }
+  .tk-ev, .tk-rel, .pr-ev, .pr-type, .pst-defs { font-size: 15px; font-weight: 480; }
+  .pst, .pst-mark { font-size: 15px; }
+  .pr-table td::before { font-size: 15px; }
+  .ps-sources li, .ps-src, .ps-small { font-size: 15px; }
+  .up-past summary { min-height: 44px; line-height: 44px; }
+
+  /* Dossier timelines (vertical list on phones) */
+  .tl-year { color: #000; }
+  .tl-tag { font-size: 15px; font-weight: 480; }
+  .tl-type { font-size: 15px; }
+  .tl-src, .tl-li-src { font-size: 15px; }
+  .tl-li-text { font-size: 18px; }
+  .unv-badge, .vis-badge { font-size: 15px; }
+  .dossier-detail > summary, .vt-table > summary, .net-all summary { color: #06245a; }
+  .svg-chart-units { font-size: 15px; }
+  .svg-chart-unv { font-size: 15px; }
+
+  /* Number cards, value/stack bars, day strips, comparison grids, vertical timelines */
+  .vt-stat, .vt-stat-label, .vt-stat-detail { color: #000; }
+  .vt-stat-detail { font-size: 17px; line-height: 1.45; }
+  .vt-cap, .sb-cap { font-size: 17px; color: #000; }
+  .sb-label, .vb-label { font-size: 17px; color: #000; }
+  .sb-label strong { color: #000; }
+  .vb-val, .ds-n { color: #000; font-weight: 700; }
+  .vt-legend, .vt-meta, .vt-kind, .vt-cite, .vt-src, .sb-sub, .sb-list, .sb-cite, .sb-note, .vb-hltext, .vb-key,
+  .cg-key, .cg-src, .cg-col, .sb-brace > span, .sb-seg { font-size: 15px; }
+  .vt-kind, .vt-cite, .vt-src, .sb-sub, .sb-list i, .sb-cite, .sb-note, .cg-src, .cg-col, .cg-is-na, .ds-lab, .vt-meta time { color: #000; }
+  .vt-k-bill-died { color: var(--red); }
+  .vt-body { font-size: 17px; }
+  .ds-lab { font-size: 15px; }
+  .cg-t { font-size: 17px; }
+  .cg-t tbody th { font-size: 17px; }
+  .sb-cite a, .sb-note a, .vt-src a, .vt-cite a, .cg-src a, .vt-stat a, .tl-src a, .tl-li-src a { padding: 14px 0; }
+  .gl-term { padding: 14px 0; margin: -14px 0; }
+  .lang-toggle button { font-size: 15px; }
+  .cg-t thead th { font-size: 15px; }
+  button { font-weight: 480; }
+  h2 a, h3 a { padding: 10px 0; }
+  .upcoming-compact .up-note { font-size: 15px; }
+  /* Glossary pop-ups (the glossary page now lives in the text) */
+  .gl-tip { font-size: 17px; line-height: 1.5; padding: 14px 48px 14px 16px; }
+  .gl-tip a { min-height: 44px; line-height: 44px; }
+  .gl-close { width: 44px; height: 44px; top: 2px; right: 2px; }
 }
