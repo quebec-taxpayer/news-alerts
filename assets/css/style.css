@@ -872,3 +872,31 @@ h3 { margin: 22px 0 8px; }
   .report .cg-t th, .report .cg-t td { padding: 10px 12px; }
   .report .gl-term { padding: 14px 0; margin: -14px 0; }
 }
+
+/* ===== Special reports, phones (<=640px): stronger text =====
+   Pure black text, a touch heavier (480: true 480 on variable fonts such as Android 12+ Roboto and Apple's SF,
+   Medium 500 on static fonts), 18px body, darker underlined links. Same family (system sans) so the tone is unchanged. */
+@media (max-width: 640px) {
+  .report { font-size: 18px; line-height: 1.6; font-weight: 480; color: #000; letter-spacing: .005em; }
+  .report p, .report li, .report dd { font-size: 18px; color: #000; }
+  .report dt, .report figcaption, .report .dek, .report .callout, .report .callout p, .report .callout-label { color: #000; }
+  .report .tldr dd { font-size: 18px; }
+  .report .callout.why p { font-size: 17px; }
+  .report a { color: #06245a; text-decoration: underline; text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+  .report .callout a, .report .vt-stat a { color: #000; }
+  .report .lbl { font-size: 15px; font-weight: 700; color: #000; background: #eef1f6; border-color: #7d8798; }
+  .report .callout .lbl { background: #fff; border-color: #a08a2a; }
+  /* Charts, cards, grids: black text, 15px minimum, values 700 */
+  .report .vt-stat, .report .vt-stat-label, .report .vt-stat-detail { color: #000; }
+  .report .vt-stat-detail { font-size: 16px; }
+  .report .sb-cap, .report .vt-cap { font-size: 17px; color: #000; }
+  .report .sb-label, .report .vb-label { font-size: 17px; color: #000; }
+  .report .vb-val { font-size: 18px; font-weight: 700; color: #000; }
+  .report .sb-cite, .report .sb-note, .report .vb-key, .report .vt-src, .report .vt-cite, .report .vt-legend,
+  .report .vb-hltext, .report .sb-list, .report .sb-sub, .report .sb-list i { font-size: 15px; color: #000; }
+  .report .cg-key { font-size: 15px; color: #000; }
+  .report .cg-t { font-size: 17px; }
+  .report .cg-t tbody th, .report .cg-t td, .report .cg-is-na { color: #000; }
+  .report .cg-col { font-size: 15px; color: #000; }
+  .report .cg-src { font-size: 15px; color: #000; }
+}
