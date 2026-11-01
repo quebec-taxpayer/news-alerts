@@ -833,3 +833,42 @@ h3 { margin: 22px 0 8px; }
 @media print { .hl-bar, .skip-link { display: none !important; } .feat, .tk { box-shadow: none; } }
 .day-list li > a { display: inline-flex; align-items: center; min-height: 44px; }
 .day-list li > .day-n { margin-left: 2px; }
+
+/* ===== Special reports: mobile readability (scoped to <article class="page report">) =====
+   Phones: 17px body text, nothing under 14px, darker small print, roomier charts/grids, 44px tap areas on source links.
+   Label pills (Fait / Promesse / Avis / Notre analyse) and the sources list apply at every width. */
+.report .dek { font-size: 1.1em; line-height: 1.5; color: var(--black); }
+.report .lbl { display: inline-block; font-size: .88em; font-weight: 700; line-height: 1.35; letter-spacing: .01em; color: var(--blue-dark); background: var(--tint); border: 1px solid var(--rule); border-radius: 3px; padding: 0 6px; margin-right: 2px; }
+.report .callout .lbl { background: #fff; color: #000; border-color: #d9c46a; }
+.report .src-list { padding-left: 20px; }
+.report .src-list li { margin: 0 0 4px; line-height: 1.4; }
+.report .src-list a { display: inline-flex; align-items: center; min-height: 44px; }
+@media print { .report .lbl { background: none; border-color: #000; } .report .src-list a { display: inline; min-height: 0; } }
+@media (max-width: 600px) {
+  .report { font-size: 17px; line-height: 1.6; }
+  .report p, .report li, .report dd { font-size: 17px; }
+  .report .tldr dt, .report .callout-label, .report h2.callout-label { font-size: 15px; }
+  .report .tldr dd { font-size: 17px; line-height: 1.55; }
+  .report .callout.why .callout-label { font-size: 14px; }
+  .report .callout.why p { font-size: 16px; }
+  /* Number cards */
+  .report .vt-stat-label { font-size: 16px; }
+  .report .vt-stat-detail { font-size: 15px; line-height: 1.45; color: #111; }
+  .report .vt-stat a { padding: 14px 0; white-space: normal; }
+  /* Bar charts */
+  .report .sb-cap, .report .vt-cap { font-size: 16px; line-height: 1.45; font-weight: 600; }
+  .report .sb-label, .report .vb-label { font-size: 16px; line-height: 1.35; }
+  .report .vb-val { font-size: 18px; font-weight: 700; }
+  .report .sb-cite, .report .sb-note, .report .vb-key, .report .vt-src, .report .vt-cite, .report .vt-legend { font-size: 14px; line-height: 1.5; color: #222; }
+  .report .sb-cite a, .report .sb-note a, .report .vt-src a { padding: 14px 0; }
+  .report .vb-hltext, .report .sb-list, .report .sb-sub { font-size: 15px; }
+  /* Comparison grids (rows already stack into blocks at <=720px) */
+  .report .cg-key { font-size: 14px; }
+  .report .cg-t { font-size: 16px; line-height: 1.5; }
+  .report .cg-t tbody th { font-size: 17px; }
+  .report .cg-col { font-size: 14px; letter-spacing: .02em; color: var(--blue-dark); margin-bottom: 0; }
+  .report .cg-src { font-size: 14px; color: #222; margin-top: 2px; }
+  .report .cg-src a { padding: 14px 0; }
+  .report .cg-t th, .report .cg-t td { padding: 10px 12px; }
+  .report .gl-term { padding: 14px 0; margin: -14px 0; }
+}

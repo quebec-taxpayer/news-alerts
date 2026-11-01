@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<article class="page">
+<article class="page{% if page.section == 'special-reports' %} report{% endif %}">
   <h1>{% include ptitle.html p=page %}</h1>
   {{ content }}
 </article>
