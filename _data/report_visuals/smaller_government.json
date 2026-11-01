@@ -1,0 +1,934 @@
+{
+ "cards": [
+  {
+   "value_en": "77,305",
+   "value_fr": "77 305",
+   "label_en": "FTEs in the public service, 2025-26",
+   "label_fr": "ETC dans la fonction publique, 2025-2026",
+   "detail_en": "Down 3,106 (−3.9%) in a year.",
+   "detail_fr": "En baisse de 3 106 (−3,9 %) en un an.",
+   "links": [
+    {
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/pour-un-etat-plus-efficace-bilan-2025-2026-la-reduction-des-effectifs-donne-des-resultats-69069",
+     "en": "Treasury Board",
+     "fr": "Conseil du trésor"
+    }
+   ]
+  },
+  {
+   "value_en": "530,708",
+   "value_fr": "530 708",
+   "label_en": "FTEs outside the public service",
+   "label_fr": "ETC hors de la fonction publique",
+   "detail_en": "Health and education networks, Crown corporations and other bodies; up 1.1%.",
+   "detail_fr": "Réseaux de la santé et de l’éducation, sociétés d’État et autres organismes; en hausse de 1,1 %.",
+   "links": [
+    {
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/pour-un-etat-plus-efficace-bilan-2025-2026-la-reduction-des-effectifs-donne-des-resultats-69069",
+     "en": "Treasury Board",
+     "fr": "Conseil du trésor"
+    }
+   ]
+  },
+  {
+   "value_en": "$7.7B",
+   "value_fr": "7,7 G$",
+   "label_en": "projected deficit, 2026-27",
+   "label_fr": "déficit prévu, 2026-2027",
+   "detail_en": "Under the Balanced Budget Act; balance required in 2029-30.",
+   "detail_fr": "Au sens de la Loi sur l’équilibre budgétaire; équilibre exigé en 2029-2030.",
+   "links": [
+    {
+     "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=20",
+     "en": "Pre-election report, p. 20",
+     "fr": "Rapport préélectoral, p. 20"
+    }
+   ]
+  },
+  {
+   "value_en": "55%",
+   "value_fr": "55 %",
+   "label_en": "of employee job growth was public-sector",
+   "label_fr": "de la hausse des emplois salariés venait du secteur public",
+   "detail_en": "Quebec, January 2019 to January 2026, all levels of government (Ontario: 31%). Our calculation.",
+   "detail_fr": "Québec, janvier 2019 à janvier 2026, tous paliers de gouvernement (Ontario : 31 %). Nos calculs.",
+   "links": [
+    {
+     "url": "https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028802",
+     "en": "Statistics Canada 14-10-0288-02",
+     "fr": "Statistique Canada 14-10-0288-02"
+    }
+   ]
+  }
+ ],
+ "deficit": {
+  "id": "sg-deficit",
+  "scale": 14,
+  "cap_en": "Quebec’s deficit under the Balanced Budget Act, in billions of dollars. 2025-26 is the actual result; later years are Finance ministry projections. Balance is required in 2029-30.",
+  "cap_fr": "Déficit du Québec au sens de la Loi sur l’équilibre budgétaire, en milliards de dollars. 2025-2026 est le résultat réel; les années suivantes sont des prévisions du ministère des Finances. L’équilibre est exigé en 2029-2030.",
+  "rows": [
+   {
+    "label_en": "2025-26, forecast in the March 2025 budget",
+    "label_fr": "2025-2026, prévision du budget de mars 2025",
+    "v": 13.6,
+    "show_en": "$13.6B",
+    "show_fr": "13,6 G$",
+    "links": [
+     {
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=5",
+      "en": "Pre-election report, p. 5",
+      "fr": "Rapport préélectoral, p. 5"
+     }
+    ]
+   },
+   {
+    "label_en": "2025-26, actual (public accounts)",
+    "label_fr": "2025-2026, réel (Comptes publics)",
+    "v": 7.8,
+    "show_en": "$7.8B",
+    "show_fr": "7,8 G$",
+    "links": [
+     {
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=5",
+      "en": "Pre-election report, p. 5",
+      "fr": "Rapport préélectoral, p. 5"
+     }
+    ]
+   },
+   {
+    "label_en": "2026-27, projected",
+    "label_fr": "2026-2027, prévu",
+    "v": 7.7,
+    "show_en": "$7.7B",
+    "show_fr": "7,7 G$",
+    "links": [
+     {
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=20",
+      "en": "Pre-election report, p. 20",
+      "fr": "Rapport préélectoral, p. 20"
+     }
+    ]
+   },
+   {
+    "label_en": "2027-28, projected",
+    "label_fr": "2027-2028, prévu",
+    "v": 5.7,
+    "show_en": "$5.7B",
+    "show_fr": "5,7 G$",
+    "links": [
+     {
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=20",
+      "en": "Pre-election report, p. 20",
+      "fr": "Rapport préélectoral, p. 20"
+     }
+    ]
+   },
+   {
+    "label_en": "2028-29, projected",
+    "label_fr": "2028-2029, prévu",
+    "v": 1.5,
+    "show_en": "$1.5B",
+    "show_fr": "1,5 G$",
+    "links": [
+     {
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=20",
+      "en": "Pre-election report, p. 20",
+      "fr": "Rapport préélectoral, p. 20"
+     }
+    ]
+   },
+   {
+    "label_en": "2029-30, projected",
+    "label_fr": "2029-2030, prévu",
+    "v": 0,
+    "show_en": "Balanced ($0)",
+    "show_fr": "Équilibre (0 $)",
+    "links": [
+     {
+      "url": "https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=20",
+      "en": "Pre-election report, p. 20",
+      "fr": "Rapport préélectoral, p. 20"
+     }
+    ]
+   }
+  ],
+  "note_en": "Gross debt: $265.5 billion (41.1% of GDP) on March 31, 2026 (<a href=\"https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=100\">pre-election report, p. 100</a>).",
+  "note_fr": "Dette brute : 265,5 G$ (41,1 % du PIB) au 31 mars 2026 (<a href=\"https://cdn-contenu.quebec.ca/cdn-contenu/adm/min/finances/publications-adm/Rapport_preelectoral/FR/MINFR_RP_2026.pdf#page=100\">rapport préélectoral, p. 100</a>)."
+ },
+ "fte": {
+  "id": "sg-fte",
+  "scale": 535000,
+  "cap_en": "State staffing in full-time equivalents (FTEs), 2024-25 and 2025-26. The bars share one scale: the public service is a small part of the state.",
+  "cap_fr": "Effectifs de l’État en équivalents temps complet (ETC), 2024-2025 et 2025-2026. Les barres partagent la même échelle : la fonction publique n’est qu’une petite partie de l’État.",
+  "rows": [
+   {
+    "label_en": "Public service (ministries and agencies), 2024-25",
+    "label_fr": "Fonction publique (ministères et organismes), 2024-2025",
+    "v": 80411,
+    "show_en": "80,411",
+    "show_fr": "80 411",
+    "links": [
+     {
+      "url": "https://www.ledevoir.com/economie/1011092/cadres-financiers-disciplines",
+      "en": "Le Devoir, Sept. 23, 2026",
+      "fr": "Le Devoir, 23 sept. 2026"
+     }
+    ]
+   },
+   {
+    "label_en": "Public service, 2025-26",
+    "label_fr": "Fonction publique, 2025-2026",
+    "v": 77305,
+    "show_en": "77,305 (−3,106)",
+    "show_fr": "77 305 (−3 106)",
+    "links": [
+     {
+      "url": "https://www.quebec.ca/nouvelles/actualites/details/pour-un-etat-plus-efficace-bilan-2025-2026-la-reduction-des-effectifs-donne-des-resultats-69069",
+      "en": "Treasury Board",
+      "fr": "Conseil du trésor"
+     }
+    ]
+   },
+   {
+    "label_en": "Outside the public service, 2024-25",
+    "label_fr": "Hors fonction publique, 2024-2025",
+    "v": 524866,
+    "show_en": "524,866",
+    "show_fr": "524 866",
+    "links": [
+     {
+      "url": "https://www.ledevoir.com/economie/1011092/cadres-financiers-disciplines",
+      "en": "Le Devoir, Sept. 23, 2026",
+      "fr": "Le Devoir, 23 sept. 2026"
+     }
+    ]
+   },
+   {
+    "label_en": "Outside the public service, 2025-26",
+    "label_fr": "Hors fonction publique, 2025-2026",
+    "v": 530708,
+    "show_en": "530,708 (+5,842)",
+    "show_fr": "530 708 (+5 842)",
+    "links": [
+     {
+      "url": "https://www.quebec.ca/nouvelles/actualites/details/pour-un-etat-plus-efficace-bilan-2025-2026-la-reduction-des-effectifs-donne-des-resultats-69069",
+      "en": "Treasury Board",
+      "fr": "Conseil du trésor"
+     }
+    ]
+   }
+  ],
+  "note_en": "“Outside the public service” includes Santé Québec, the school and higher-education networks, Crown corporations and other bodies.",
+  "note_fr": "« Hors fonction publique » comprend Santé Québec, les réseaux de l’éducation et de l’enseignement supérieur, les sociétés d’État et d’autres organismes."
+ },
+ "lfs": {
+  "id": "sg-lfs",
+  "scale": 1200,
+  "cap_en": "Public-sector employees in Quebec, all levels of government, in thousands (January of each year, seasonally adjusted).",
+  "cap_fr": "Employés du secteur public au Québec, tous paliers de gouvernement, en milliers (janvier de chaque année, données désaisonnalisées).",
+  "rows": [
+   {
+    "label_en": "2019",
+    "label_fr": "2019",
+    "v": 901.1,
+    "show_en": "901.1k",
+    "show_fr": "901,1 k"
+   },
+   {
+    "label_en": "2020",
+    "label_fr": "2020",
+    "v": 938.3,
+    "show_en": "938.3k",
+    "show_fr": "938,3 k"
+   },
+   {
+    "label_en": "2021",
+    "label_fr": "2021",
+    "v": 970.1,
+    "show_en": "970.1k",
+    "show_fr": "970,1 k"
+   },
+   {
+    "label_en": "2022",
+    "label_fr": "2022",
+    "v": 1012.7,
+    "show_en": "1,012.7k",
+    "show_fr": "1 012,7 k"
+   },
+   {
+    "label_en": "2023",
+    "label_fr": "2023",
+    "v": 1047.9,
+    "show_en": "1,047.9k",
+    "show_fr": "1 047,9 k"
+   },
+   {
+    "label_en": "2024",
+    "label_fr": "2024",
+    "v": 1068.3,
+    "show_en": "1,068.3k",
+    "show_fr": "1 068,3 k"
+   },
+   {
+    "label_en": "2025",
+    "label_fr": "2025",
+    "v": 1101.7,
+    "show_en": "1,101.7k",
+    "show_fr": "1 101,7 k"
+   },
+   {
+    "label_en": "2026",
+    "label_fr": "2026",
+    "v": 1138.4,
+    "show_en": "1,138.4k",
+    "show_fr": "1 138,4 k"
+   }
+  ],
+  "note_en": "Source: Statistics Canada, Labour Force Survey, <a href=\"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1410028802\">table 14-10-0288-02</a> (seasonally adjusted). Survey estimates; includes federal, provincial and municipal employees, schools and hospitals. September 2026 estimate: 1,068.5k.",
+  "note_fr": "Source : Statistique Canada, Enquête sur la population active, <a href=\"https://www150.statcan.gc.ca/t1/tbl1/fr/tv.action?pid=1410028802\">tableau 14-10-0288-02</a> (données désaisonnalisées). Estimations d’enquête; comprend les employés fédéraux, provinciaux et municipaux, les écoles et les hôpitaux. Estimation de septembre 2026 : 1 068,5 k."
+ },
+ "growth": {
+  "id": "sg-growth",
+  "scale": 4,
+  "target": {
+   "v": 2.3,
+   "en": "Projected inflation: 2.3% (Finance ministry, cited by Le Devoir)",
+   "fr": "Inflation prévue : 2,3 % (ministère des Finances, cité par Le Devoir)"
+  },
+  "cap_en": "Average annual growth in portfolio spending, 2025-26 to 2030-31, in each party’s financial framework (CFFP synthesis). These are plans, not results.",
+  "cap_fr": "Croissance annuelle moyenne des dépenses de portefeuilles, 2025-2026 à 2030-2031, selon le cadre financier de chaque parti (synthèse de la CFFP). Ce sont des plans, pas des résultats.",
+  "rows": [
+   {
+    "label_en": "PCQ",
+    "label_fr": "PCQ",
+    "v": 0.7,
+    "show_en": "0.7%",
+    "show_fr": "0,7 %",
+    "links": [
+     {
+      "url": "https://cffp.recherche.usherbrooke.ca/wp-content/uploads/2026/09/r2026-19_cadres_financiers_Qc_vf.pdf#page=38",
+      "en": "CFFP, p. 38",
+      "fr": "CFFP, p. 38"
+     }
+    ]
+   },
+   {
+    "label_en": "PQ",
+    "label_fr": "PQ",
+    "v": 1.9,
+    "show_en": "1.9%",
+    "show_fr": "1,9 %",
+    "links": [
+     {
+      "url": "https://cffp.recherche.usherbrooke.ca/wp-content/uploads/2026/09/r2026-19_cadres_financiers_Qc_vf.pdf#page=38",
+      "en": "CFFP, p. 38",
+      "fr": "CFFP, p. 38"
+     }
+    ]
+   },
+   {
+    "label_en": "Pre-election report (baseline)",
+    "label_fr": "Rapport préélectoral (référence)",
+    "v": 2.2,
+    "show_en": "2.2%",
+    "show_fr": "2,2 %",
+    "links": [
+     {
+      "url": "https://cffp.recherche.usherbrooke.ca/wp-content/uploads/2026/09/r2026-19_cadres_financiers_Qc_vf.pdf#page=38",
+      "en": "CFFP, p. 38",
+      "fr": "CFFP, p. 38"
+     }
+    ]
+   },
+   {
+    "label_en": "PLQ",
+    "label_fr": "PLQ",
+    "v": 2.2,
+    "show_en": "2.2%",
+    "show_fr": "2,2 %",
+    "links": [
+     {
+      "url": "https://cffp.recherche.usherbrooke.ca/wp-content/uploads/2026/09/r2026-19_cadres_financiers_Qc_vf.pdf#page=38",
+      "en": "CFFP, p. 38",
+      "fr": "CFFP, p. 38"
+     }
+    ]
+   },
+   {
+    "label_en": "CAQ",
+    "label_fr": "CAQ",
+    "v": 2.4,
+    "show_en": "2.4%",
+    "show_fr": "2,4 %",
+    "links": [
+     {
+      "url": "https://cffp.recherche.usherbrooke.ca/wp-content/uploads/2026/09/r2026-19_cadres_financiers_Qc_vf.pdf#page=38",
+      "en": "CFFP, p. 38",
+      "fr": "CFFP, p. 38"
+     }
+    ]
+   },
+   {
+    "label_en": "QS",
+    "label_fr": "QS",
+    "v": 3.6,
+    "show_en": "3.6%",
+    "show_fr": "3,6 %",
+    "links": [
+     {
+      "url": "https://cffp.recherche.usherbrooke.ca/wp-content/uploads/2026/09/r2026-19_cadres_financiers_Qc_vf.pdf#page=38",
+      "en": "CFFP, p. 38",
+      "fr": "CFFP, p. 38"
+     }
+    ]
+   }
+  ],
+  "note_en": "For comparison: about 6% a year on average over the last ten years (<a href=\"https://www.ledevoir.com/economie/1011092/cadres-financiers-disciplines\">Le Devoir, Sept. 23, 2026</a>).",
+  "note_fr": "À titre de comparaison : environ 6 % par année en moyenne au cours des dix dernières années (<a href=\"https://www.ledevoir.com/economie/1011092/cadres-financiers-disciplines\">Le Devoir, 23 sept. 2026</a>)."
+ },
+ "parties": {
+  "id": "sg-parties",
+  "cap_en": "What each party promised on the size of the state (2026 campaign). Every cell is a promise, not a result, and links to its source.",
+  "cap_fr": "Ce que chaque parti a promis sur la taille de l’État (campagne de 2026). Chaque case est une promesse, pas un résultat, et renvoie à sa source.",
+  "cols": [
+   {
+    "k": "pq",
+    "en": "PQ (governing)",
+    "fr": "PQ (au pouvoir)"
+   },
+   {
+    "k": "plq",
+    "en": "PLQ",
+    "fr": "PLQ"
+   },
+   {
+    "k": "pcq",
+    "en": "PCQ",
+    "fr": "PCQ"
+   },
+   {
+    "k": "caq",
+    "en": "CAQ",
+    "fr": "CAQ"
+   },
+   {
+    "k": "qs",
+    "en": "QS",
+    "fr": "QS"
+   }
+  ],
+  "marks": {
+   "no": {
+    "en": "No cuts",
+    "fr": "Aucune coupe"
+   }
+  },
+  "rows": [
+   {
+    "q_en": "Target",
+    "q_fr": "Cible",
+    "cells": {
+     "pq": {
+      "m": null,
+      "en": "−2.5% of public-sector compensation costs over 3 years; no job number",
+      "fr": "−2,5 % des coûts de rémunération du secteur public sur 3 ans; aucun nombre de postes",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/un-gouvernement-du-parti-quebecois-lancera-un-grand-menage-dans-la-bureaucratie-afin-de-recentrer-letat-sur-ses-missions-fondamentales/",
+        "en": "PQ, Aug. 31",
+        "fr": "PQ, 31 août"
+       }
+      ]
+     },
+     "plq": {
+      "m": null,
+      "en": "About −12,000 FTEs over 5 years",
+      "fr": "Environ −12 000 ETC sur 5 ans",
+      "links": [
+       {
+        "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
+        "en": "PLQ, Sept. 9",
+        "fr": "PLQ, 9 sept."
+       }
+      ]
+     },
+     "pcq": {
+      "m": null,
+      "en": "−20,000 civil-service FTEs within 5 years",
+      "fr": "−20 000 ETC de fonctionnaires d’ici 5 ans",
+      "links": [
+       {
+        "url": "https://conservateur.quebec/wp-content/uploads/2026/09/Cadre-Financier_VF.pdf#page=49",
+        "en": "PCQ framework, p. 49",
+        "fr": "Cadre PCQ, p. 49"
+       }
+      ]
+     },
+     "caq": {
+      "m": null,
+      "en": "More than −2,900 additional positions by March 31, 2029",
+      "fr": "Plus de −2 900 postes additionnels d’ici le 31 mars 2029",
+      "links": [
+       {
+        "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-poursuivra-la-modernisation-de-letat/",
+        "en": "CAQ, Sept. 2",
+        "fr": "CAQ, 2 sept."
+       }
+      ]
+     },
+     "qs": {
+      "m": "no",
+      "en": "Restore expertise; improve public-sector pay",
+      "fr": "Rétablir l’expertise; améliorer les salaires du secteur public",
+      "links": [
+       {
+        "url": "https://www.noovo.info/nouvelles/politique/elections-quebec/article/qs-se-porte-a-la-defense-de-la-fonction-publique/",
+        "en": "Noovo, Sept. 23",
+        "fr": "Noovo, 23 sept."
+       },
+       {
+        "url": "https://www.ledevoir.com/economie/1013291/quel-parti-veut-supprimer-plus-postes-fonction-publique",
+        "en": "Le Devoir, Sept. 30",
+        "fr": "Le Devoir, 30 sept."
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Savings claimed",
+    "q_fr": "Économies annoncées",
+    "cells": {
+     "pq": {
+      "m": null,
+      "en": "$1.6B a year at term; $4.7B over the mandate",
+      "fr": "1,6 G$ par an à terme; 4,7 G$ dans le mandat",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/un-gouvernement-du-parti-quebecois-lancera-un-grand-menage-dans-la-bureaucratie-afin-de-recentrer-letat-sur-ses-missions-fondamentales/",
+        "en": "PQ, Aug. 31",
+        "fr": "PQ, 31 août"
+       }
+      ]
+     },
+     "plq": {
+      "m": null,
+      "en": "About $1.7B a year at term; $300M in 2027-28",
+      "fr": "Environ 1,7 G$ par an à terme; 300 M$ en 2027-2028",
+      "links": [
+       {
+        "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
+        "en": "PLQ, Sept. 9",
+        "fr": "PLQ, 9 sept."
+       }
+      ]
+     },
+     "pcq": {
+      "m": null,
+      "en": "$3.75B over 5 years (staff); $47B total savings over the mandate",
+      "fr": "3,75 G$ sur 5 ans (effectifs); 47 G$ d’économies au total dans le mandat",
+      "links": [
+       {
+        "url": "https://conservateur.quebec/wp-content/uploads/2026/09/Cadre-Financier_VF.pdf#page=49",
+        "en": "PCQ framework, p. 49",
+        "fr": "Cadre PCQ, p. 49"
+       },
+       {
+        "url": "https://www.ledevoir.com/politique/quebec/1001684/duhaime-promet-degraisser-finances-publiques-47-milliards-quatre-ans",
+        "en": "Le Devoir, Aug. 13",
+        "fr": "Le Devoir, 13 août"
+       }
+      ]
+     },
+     "caq": {
+      "m": null,
+      "en": "$507M net, cumulative over 5 years",
+      "fr": "507 M$ nets, cumulatifs sur 5 ans",
+      "links": [
+       {
+        "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-poursuivra-la-modernisation-de-letat/",
+        "en": "CAQ, Sept. 2",
+        "fr": "CAQ, 2 sept."
+       }
+      ]
+     },
+     "qs": {
+      "m": null,
+      "en": "Savings from Pharma-Québec and a single tax return",
+      "fr": "Économies par Pharma-Québec et une déclaration de revenus unique",
+      "links": [
+       {
+        "url": "https://www.ledevoir.com/economie/1013291/quel-parti-veut-supprimer-plus-postes-fonction-publique",
+        "en": "Le Devoir, Sept. 30",
+        "fr": "Le Devoir, 30 sept."
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Method",
+    "q_fr": "Méthode",
+    "cells": {
+     "pq": {
+      "m": null,
+      "en": "Leave some vacancies unfilled, voluntary shorter hours, exit incentives, fewer managers per employee",
+      "fr": "Postes vacants non remplacés, réduction volontaire des heures, incitatifs au départ, ratio de cadres revu",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/un-gouvernement-du-parti-quebecois-lancera-un-grand-menage-dans-la-bureaucratie-afin-de-recentrer-letat-sur-ses-missions-fondamentales/",
+        "en": "PQ, Aug. 31",
+        "fr": "PQ, 31 août"
+       }
+      ]
+     },
+     "plq": {
+      "m": null,
+      "en": "Attrition, voluntary departures, redeployment; “never across-the-board cuts”",
+      "fr": "Attrition, départs volontaires, redéploiement; « jamais par coupes paramétriques »",
+      "links": [
+       {
+        "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
+        "en": "PLQ, Sept. 9",
+        "fr": "PLQ, 9 sept."
+       }
+      ]
+     },
+     "pcq": {
+      "m": null,
+      "en": "Hiring freeze, mainly attrition, program review",
+      "fr": "Gel de l’embauche, surtout l’attrition, révision des programmes",
+      "links": [
+       {
+        "url": "https://conservateur.quebec/wp-content/uploads/2026/09/Cadre-Financier_VF.pdf#page=49",
+        "en": "PCQ framework, p. 49",
+        "fr": "Cadre PCQ, p. 49"
+       }
+      ]
+     },
+     "caq": {
+      "m": null,
+      "en": "Voluntary retirement program for staff 55+",
+      "fr": "Programme volontaire de retraite pour les 55 ans et plus",
+      "links": [
+       {
+        "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-poursuivra-la-modernisation-de-letat/",
+        "en": "CAQ, Sept. 2",
+        "fr": "CAQ, 2 sept."
+       }
+      ]
+     },
+     "qs": {
+      "m": null,
+      "en": "Assign the right people to the right tasks",
+      "fr": "Affecter les bonnes personnes aux bonnes tâches",
+      "links": [
+       {
+        "url": "https://www.noovo.info/nouvelles/politique/elections-quebec/article/qs-se-porte-a-la-defense-de-la-fonction-publique/",
+        "en": "Noovo, Sept. 23",
+        "fr": "Noovo, 23 sept."
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Who is spared",
+    "q_fr": "Qui est épargné",
+    "cells": {
+     "pq": {
+      "m": null,
+      "en": "Exit incentives aimed at sectors that do not deliver services",
+      "fr": "Incitatifs visant les secteurs qui ne donnent pas de services",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/un-gouvernement-du-parti-quebecois-lancera-un-grand-menage-dans-la-bureaucratie-afin-de-recentrer-letat-sur-ses-missions-fondamentales/",
+        "en": "PQ, Aug. 31",
+        "fr": "PQ, 31 août"
+       }
+      ]
+     },
+     "plq": {
+      "m": null,
+      "en": "Health, education and culture",
+      "fr": "Santé, éducation et culture",
+      "links": [
+       {
+        "url": "https://plq.org/communique/moderniser-letat-pour-mieux-servir-les-quebecois/",
+        "en": "PLQ, Sept. 9",
+        "fr": "PLQ, 9 sept."
+       }
+      ]
+     },
+     "pcq": {
+      "m": null,
+      "en": "Nurses, teachers, patient attendants",
+      "fr": "Infirmières, enseignantes, préposés aux bénéficiaires",
+      "links": [
+       {
+        "url": "https://conservateur.quebec/wp-content/uploads/2026/09/Cadre-Financier_VF.pdf#page=49",
+        "en": "PCQ framework, p. 49",
+        "fr": "Cadre PCQ, p. 49"
+       }
+      ]
+     },
+     "caq": {
+      "m": null,
+      "en": "Health, education and higher-education networks",
+      "fr": "Réseaux de la santé, de l’éducation et de l’enseignement supérieur",
+      "links": [
+       {
+        "url": "https://coalitionavenirquebec.org/fr/blog/2026/09/02/lequipe-christine-frechette-poursuivra-la-modernisation-de-letat/",
+        "en": "CAQ, Sept. 2",
+        "fr": "CAQ, 2 sept."
+       }
+      ]
+     },
+     "qs": {
+      "m": null,
+      "en": "Not applicable",
+      "fr": "Sans objet",
+      "links": []
+     }
+    }
+   },
+   {
+    "q_en": "New body",
+    "q_fr": "Nouvelle structure",
+    "cells": {
+     "pq": {
+      "m": null,
+      "en": "Secretariat for government efficiency and regulatory relief (Treasury Board)",
+      "fr": "Secrétariat à l’efficacité gouvernementale et à l’allègement réglementaire (Conseil du trésor)",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/un-gouvernement-du-parti-quebecois-lancera-un-grand-menage-dans-la-bureaucratie-afin-de-recentrer-letat-sur-ses-missions-fondamentales/",
+        "en": "PQ, Aug. 31",
+        "fr": "PQ, 31 août"
+       }
+      ]
+     },
+     "plq": {
+      "m": null,
+      "en": "“Efficacité Québec” team",
+      "fr": "Équipe « Efficacité Québec »",
+      "links": [
+       {
+        "url": "https://www.ledevoir.com/economie/1013291/quel-parti-veut-supprimer-plus-postes-fonction-publique",
+        "en": "Le Devoir, Sept. 30",
+        "fr": "Le Devoir, 30 sept."
+       }
+      ]
+     },
+     "pcq": {
+      "m": null,
+      "en": "Liberalization secretariat; Treasury Board renamed",
+      "fr": "Secrétariat à la libéralisation; Conseil du trésor rebaptisé",
+      "links": [
+       {
+        "url": "https://www.ledevoir.com/economie/1013291/quel-parti-veut-supprimer-plus-postes-fonction-publique",
+        "en": "Le Devoir, Sept. 30",
+        "fr": "Le Devoir, 30 sept."
+       }
+      ]
+     },
+     "caq": {
+      "m": null,
+      "en": "Efficiency team reporting to the premier",
+      "fr": "Équipe d’efficacité relevant de la première ministre",
+      "links": [
+       {
+        "url": "https://www.ledevoir.com/economie/1013291/quel-parti-veut-supprimer-plus-postes-fonction-publique",
+        "en": "Le Devoir, Sept. 30",
+        "fr": "Le Devoir, 30 sept."
+       }
+      ]
+     },
+     "qs": {
+      "m": null,
+      "en": "None found",
+      "fr": "Aucune trouvée",
+      "links": []
+     }
+    }
+   }
+  ]
+ },
+ "status": {
+  "id": "sg-status",
+  "cap_en": "Promises vs. results, as of November 1, 2026. “Done”: an official source confirms it. “Reported”: a news report based on unnamed sources. “Not yet”: a promise with no official step found. No party’s projected savings had been confirmed.",
+  "cap_fr": "Promesses et résultats au 1er novembre 2026. « Fait » : une source officielle le confirme. « Rapporté » : un média, sur la foi de sources non nommées. « Pas encore » : une promesse sans geste officiel trouvé. Aucune des économies projetées par les partis n’était confirmée.",
+  "cols": [
+   {
+    "k": "s",
+    "en": "Status on November 1, 2026",
+    "fr": "État au 1er novembre 2026"
+   }
+  ],
+  "marks": {
+   "yes": {
+    "en": "Done",
+    "fr": "Fait"
+   },
+   "part": {
+    "en": "Reported",
+    "fr": "Rapporté"
+   },
+   "no": {
+    "en": "Not yet",
+    "fr": "Pas encore"
+   }
+  },
+  "rows": [
+   {
+    "q_en": "Public service down 3,106 FTEs in 2025-26 (previous government)",
+    "q_fr": "Fonction publique réduite de 3 106 ETC en 2025-2026 (gouvernement précédent)",
+    "cells": {
+     "s": {
+      "m": "yes",
+      "en": "Confirmed headcount; no official dollar savings found",
+      "fr": "Effectif confirmé; aucune économie officielle en dollars trouvée",
+      "links": [
+       {
+        "url": "https://www.quebec.ca/nouvelles/actualites/details/pour-un-etat-plus-efficace-bilan-2025-2026-la-reduction-des-effectifs-donne-des-resultats-69069",
+        "en": "Treasury Board",
+        "fr": "Conseil du trésor"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Smaller cabinet, merged ministries",
+    "q_fr": "Conseil des ministres réduit, ministères fusionnés",
+    "cells": {
+     "s": {
+      "m": "yes",
+      "en": "23 ministers, sworn in October 21",
+      "fr": "23 ministres, assermentés le 21 octobre",
+      "links": [
+       {
+        "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation",
+        "en": "Radio-Canada",
+        "fr": "Radio-Canada"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Minister for government efficiency",
+    "q_fr": "Ministre de l’Efficacité gouvernementale",
+    "cells": {
+     "s": {
+      "m": "yes",
+      "en": "Sébastien D’Astous, junior minister",
+      "fr": "Sébastien D’Astous, ministre délégué",
+      "links": [
+       {
+        "url": "https://ici.radio-canada.ca/nouvelle/2294952/conseil-ministres-parti-quebecois-assermentation",
+        "en": "Radio-Canada",
+        "fr": "Radio-Canada"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Efficiency Secretariat",
+    "q_fr": "Secrétariat à l’efficacité",
+    "cells": {
+     "s": {
+      "m": "no",
+      "en": "No creating order found",
+      "fr": "Aucun décret trouvé",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/paul-st-pierre-plamondon-presente-ses-priorites-pour-les-100-premiers-jours-dun-gouvernement-du-parti-quebecois/",
+        "en": "PQ, Oct. 3",
+        "fr": "PQ, 3 oct."
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Early retirement and severance packages",
+    "q_fr": "Retraites anticipées et indemnités de départ",
+    "cells": {
+     "s": {
+      "m": "part",
+      "en": "Journal de Québec, unnamed sources",
+      "fr": "Journal de Québec, sources non nommées",
+      "links": [
+       {
+        "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires",
+        "en": "Journal de Québec, Oct. 28",
+        "fr": "Journal de Québec, 28 oct."
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Pay freeze for MNAs, ministers and Crown-corporation heads (“our first bill”)",
+    "q_fr": "Gel salarial des députés, ministres et dirigeants de sociétés d’État (« notre premier projet de loi »)",
+    "cells": {
+     "s": {
+      "m": "no",
+      "en": "Not tabled; the Assembly first sits November 17",
+      "fr": "Non déposé; l’Assemblée siège pour la première fois le 17 novembre",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/paul-st-pierre-plamondon-presente-ses-priorites-pour-les-100-premiers-jours-dun-gouvernement-du-parti-quebecois/",
+        "en": "PQ, Oct. 3",
+        "fr": "PQ, 3 oct."
+       },
+       {
+        "url": "https://www.assnat.qc.ca/fr/travaux-parlementaires/assemblee-nationale/15-2/index.html",
+        "en": "National Assembly",
+        "fr": "Assemblée nationale"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "−2.5% compensation costs; $1.6B a year at term",
+    "q_fr": "−2,5 % des coûts de rémunération; 1,6 G$ par an à terme",
+    "cells": {
+     "s": {
+      "m": "no",
+      "en": "Promise; savings are projections",
+      "fr": "Promesse; les économies sont des projections",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/un-gouvernement-du-parti-quebecois-lancera-un-grand-menage-dans-la-bureaucratie-afin-de-recentrer-letat-sur-ses-missions-fondamentales/",
+        "en": "PQ, Aug. 31",
+        "fr": "PQ, 31 août"
+       }
+      ]
+     }
+    }
+   },
+   {
+    "q_en": "Audit of all IT projects",
+    "q_fr": "Audit de tous les projets informatiques",
+    "cells": {
+     "s": {
+      "m": "no",
+      "en": "No public result found",
+      "fr": "Aucun résultat public trouvé",
+      "links": [
+       {
+        "url": "https://pq.org/nouvelles/paul-st-pierre-plamondon-presente-ses-priorites-pour-les-100-premiers-jours-dun-gouvernement-du-parti-quebecois/",
+        "en": "PQ, Oct. 3",
+        "fr": "PQ, 3 oct."
+       }
+      ]
+     }
+    }
+   }
+  ]
+ }
+}
