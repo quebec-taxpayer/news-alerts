@@ -179,6 +179,17 @@
      "background": true
     },
     {
+     "date": "2026-10",
+     "en": "Hydro-Québec acknowledges that connection delays are longer in Abitibi-Témiscamingue, citing more requests for new buildings, long distances, more outages and the overtime strike by some employees.",
+     "fr": "Hydro-Québec reconnaît que les délais de raccordement sont plus longs en Abitibi-Témiscamingue, invoquant la hausse des demandes pour de nouvelles constructions, les grandes distances, davantage de pannes et la grève de temps supplémentaire de certains employés.",
+     "source_title": "Pourquoi Hydro-Québec tarde à brancher l'Abitibi-Témiscamingue?",
+     "source_outlet": "Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/10/31/pourquoi-hydro-quebec-tarde-a-brancher-labitibi-temiscamingue",
+     "source_type": "media",
+     "post": "2026-11-01",
+     "background": true
+    },
+    {
      "date": "2026-10-13",
      "en": "Radio-Canada reports that Hydro-Québec proposes doubling the data-centre electricity rate and letting those customers voluntarily pay more; critics liken it to an auction.",
      "fr": "Radio-Canada rapporte qu’Hydro-Québec propose de doubler le tarif des centres de données et de leur permettre de payer davantage volontairement; des critiques y voient des enchères.",
@@ -277,8 +288,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "A judge struck down the government’s orders on data-centre rates; a Régie decision is expected in 2027. The overtime strike is set to end on Nov. 2. Newfoundland and Labrador’s premier says the Churchill Falls deal will not be renegotiated.",
-     "fr": "Une juge a annulé les décrets du gouvernement sur les tarifs des centres de données; une décision de la Régie est attendue en 2027. La grève des heures supplémentaires doit prendre fin le 2 novembre. Le premier ministre de Terre-Neuve-et-Labrador affirme que l’entente de Churchill Falls ne sera pas renégociée."
+     "en": "A judge struck down the government’s orders on data-centre rates; a Régie decision is expected in 2027. The overtime strike is set to end on Nov. 2, and Hydro-Québec says it is one reason for longer connection delays in Abitibi-Témiscamingue. Newfoundland and Labrador’s premier says the Churchill Falls deal will not be renegotiated.",
+     "fr": "Une juge a annulé les décrets du gouvernement sur les tarifs des centres de données; une décision de la Régie est attendue en 2027. La grève des heures supplémentaires doit prendre fin le 2 novembre; Hydro-Québec y voit une des raisons des délais de raccordement plus longs en Abitibi-Témiscamingue. Le premier ministre de Terre-Neuve-et-Labrador affirme que l’entente de Churchill Falls ne sera pas renégociée."
     }
    }
   },
@@ -1272,6 +1283,17 @@
      "source_type": "media",
      "post": "2026-10-31",
      "background": false
+    },
+    {
+     "date": "2026-10-31",
+     "en": "Radio-Canada’s Décrypteurs show that a widely shared quote in which Jacinthe-Eve Arel supposedly offered to give up her right to vote to Éric Duhaime was fabricated by the administrator of a satirical page.",
+     "fr": "Les Décrypteurs de Radio-Canada démontrent qu’une citation largement diffusée, où Jacinthe-Eve Arel aurait offert de céder son droit de vote à Éric Duhaime, a été fabriquée par l’administrateur d’une page satirique.",
+     "source_title": "Non, Jacinthe-Eve Arel n’a pas dit vouloir céder son droit de vote à Éric Duhaime",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux",
+     "source_type": "media",
+     "post": "2026-11-01",
+     "background": false
     }
    ],
    "tldr": {
@@ -1284,8 +1306,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Québec solidaire asks the government to cancel Jacinthe-Eve Arel’s appointment as chief of staff. Stéphan La Roche becomes deputy minister of Culture on Nov. 9.",
-     "fr": "Québec solidaire demande au gouvernement d’annuler la nomination de Jacinthe-Eve Arel comme directrice de cabinet. Stéphan La Roche devient sous-ministre de la Culture le 9 novembre."
+     "en": "Québec solidaire asks the government to cancel Jacinthe-Eve Arel’s appointment as chief of staff; a widely shared quote attributed to her turned out to be fake. Stéphan La Roche becomes deputy minister of Culture on Nov. 9.",
+     "fr": "Québec solidaire demande au gouvernement d’annuler la nomination de Jacinthe-Eve Arel comme directrice de cabinet; une citation qui lui était attribuée et largement diffusée s’est révélée fausse. Stéphan La Roche devient sous-ministre de la Culture le 9 novembre."
     }
    }
   },

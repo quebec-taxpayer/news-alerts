@@ -46,7 +46,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-10-28": ["crown-corporations"],
         "2026-10-29": ["crown-corporations"],
         "2026-10-30": ["crown-corporations", "procurement"],
-        "2026-10-31": ["it-digital", "crown-corporations"]}
+        "2026-10-31": ["it-digital", "crown-corporations"],
+        "2026-11-01": ["crown-corporations"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -71,6 +72,8 @@ SUMMARY = {
                 "The AMP faults the ferry corporation (STQ) over four untendered contracts; the TAT sides with Hydro-Québec’s striking trades union; Quebec City tramway prep work on budget, the City says; Jacinthe-Eve Arel joins Government Efficiency; the lieutenant governor defends her role; water infrastructure and housing; a Station 39 officer allegedly erased evidence; Keel cancels its Sherbrooke open house; follow-up: Dubé and Santé Québec."),
  "2026-10-31": ("Churchill Falls : Terre-Neuve-et-Labrador refuse de renégocier l’entente; 44 postes abolis chez Santé Québec Chaudière-Appalaches; départs de médecins à Victoriaville et Dossier santé numérique; le chef du SPVM défend le changement de culture; Loto-Québec garde les appareils de loterie vidéo dans les bars de Rimouski; nouvelle alliance Canada-UE; Carney veut rencontrer PSPP; QS demande l’annulation de la nomination de Jacinthe-Eve Arel; Stéphan La Roche sous-ministre de la Culture.",
                 "Churchill Falls: Newfoundland and Labrador refuses to renegotiate the deal; 44 positions cut at Santé Québec Chaudière-Appalaches; doctors leave Victoriaville amid the Digital Health Record rollout; SPVM chief defends culture change; Loto-Québec keeps video lottery terminals in Rimouski bars; new Canada–EU alliance; Carney wants to meet PSPP; QS demands Jacinthe-Eve Arel’s appointment be cancelled; Stéphan La Roche named deputy minister of Culture."),
+ "2026-11-01": ("Hydro-Québec reconnaît des délais de raccordement plus longs en Abitibi-Témiscamingue; cinq morts en cinq ans chez le recycleur AIM; une fausse citation attribuée à Jacinthe-Eve Arel; élections partielles fédérales le 7 décembre, dont trois au Québec; trois maires veulent une base navale dans le Bas-Saint-Laurent; premier Sommet des Laurentides sur le climat.",
+                "Hydro-Québec acknowledges longer connection delays in Abitibi-Témiscamingue; five deaths in five years at recycler AIM; a fake quote attributed to Jacinthe-Eve Arel; federal by-elections on Dec. 7, three in Quebec; three mayors want a naval base in the Lower St. Lawrence; first Laurentians Summit on climate."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

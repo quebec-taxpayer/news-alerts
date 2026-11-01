@@ -561,6 +561,36 @@
    "category": "government",
    "importance": 2,
    "title_en": "Stéphan La Roche leaves the MAC to become deputy minister of Culture in Quebec City"
+  },
+  "https://www.journaldemontreal.com/2026/10/31/pourquoi-hydro-quebec-tarde-a-brancher-labitibi-temiscamingue": {
+   "category": "energy",
+   "importance": 4,
+   "title_en": "Why is Hydro-Québec slow to connect Abitibi-Témiscamingue?"
+  },
+  "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "Workplace deaths: five dead in five years at recycler AIM"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "No, Jacinthe-Eve Arel did not say she wanted to give her right to vote to Éric Duhaime"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "By-elections called in six federal ridings"
+  },
+  "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Lower St. Lawrence – A naval base in their sights"
+  },
+  "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955": {
+   "category": "government",
+   "importance": 2,
+   "title_fr": "L’environnement au cœur du tout premier Sommet des Laurentides"
   }
  }
 }

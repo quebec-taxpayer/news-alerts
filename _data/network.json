@@ -1,7 +1,7 @@
 {
- "generated": "2026-10-31T14:30:39Z",
+ "generated": "2026-11-01T15:37:09Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 118,
+ "story_count": 124,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1257,6 +1257,71 @@
      ]
     }
    ]
+  },
+  "2026-11-01": {
+   "post": "/2026/11/01/digest/",
+   "stories": [
+    {
+     "headline": "Pourquoi Hydro-Québec tarde à brancher l'Abitibi-Témiscamingue?",
+     "url": "https://www.journaldemontreal.com/2026/10/31/pourquoi-hydro-quebec-tarde-a-brancher-labitibi-temiscamingue",
+     "entities": [
+      "hydro-quebec"
+     ]
+    },
+    {
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim",
+     "entities": [
+      "aim",
+      "cnesst",
+      "herbert-black",
+      "travail-securitaire-nb"
+     ]
+    },
+    {
+     "headline": "Non, Jacinthe-Eve Arel n’a pas dit vouloir céder son droit de vote à Éric Duhaime",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux",
+     "entities": [
+      "eric-duhaime",
+      "jacinthe-eve-arel"
+     ]
+    },
+    {
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney",
+     "entities": [
+      "alexandre-boulerice",
+      "bloc-quebecois",
+      "guy-cormier",
+      "mark-carney",
+      "plc",
+      "pspp",
+      "qs",
+      "simon-pierre-savard-tremblay",
+      "steven-guilbeault"
+     ]
+    },
+    {
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php",
+     "entities": [
+      "eddy-metivier",
+      "guy-caron",
+      "marine-royale-canadienne",
+      "mark-carney",
+      "martin-soucy"
+     ]
+    },
+    {
+     "headline": "Environment takes centre stage at first-ever Laurentians Summit",
+     "url": "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955",
+     "entities": [
+      "agnes-grondin",
+      "kim-meyer",
+      "snap-quebec"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1268,7 +1333,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 31,
+   "mentions": 32,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1424,6 +1489,11 @@
      "date": "2026-10-31",
      "headline": "Rencontre Carney-St-Pierre-Plamondon – « C’est dans l’intérêt des Québécois »",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -1636,7 +1706,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 12,
+   "mentions": 13,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1697,6 +1767,11 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Pourquoi Hydro-Québec tarde à brancher l'Abitibi-Témiscamingue?",
+     "url": "https://www.journaldemontreal.com/2026/10/31/pourquoi-hydro-quebec-tarde-a-brancher-labitibi-temiscamingue"
     }
    ]
   },
@@ -1707,7 +1782,7 @@
    "aliases": [
     "Carney"
    ],
-   "mentions": 9,
+   "mentions": 11,
    "stories": [
     {
      "date": "2026-10-26",
@@ -1753,6 +1828,16 @@
      "date": "2026-10-31",
      "headline": "Rencontre Carney-St-Pierre-Plamondon – « C’est dans l’intérêt des Québécois »",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
     }
    ]
   },
@@ -2323,6 +2408,37 @@
    ]
   },
   {
+   "id": "qs",
+   "name": "Québec solidaire",
+   "type": "organization",
+   "aliases": [
+    "solidaires"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
    "id": "saq",
    "name": "Société des alcools du Québec",
    "type": "organization",
@@ -2472,6 +2588,35 @@
      "date": "2026-10-31",
      "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "id": "eric-duhaime",
+   "name": "Éric Duhaime",
+   "type": "person",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Non, Jacinthe-Eve Arel n’a pas dit vouloir céder son droit de vote à Éric Duhaime",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux"
     }
    ]
   },
@@ -2655,6 +2800,32 @@
    ]
   },
   {
+   "id": "jacinthe-eve-arel",
+   "name": "Jacinthe-Eve Arel",
+   "type": "person",
+   "aliases": [
+    "Arel"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Non, Jacinthe-Eve Arel n’a pas dit vouloir céder son droit de vote à Éric Duhaime",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux"
+    }
+   ]
+  },
+  {
    "id": "jacques-allard",
    "name": "Jacques Allard",
    "type": "person",
@@ -2753,32 +2924,6 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
-    }
-   ]
-  },
-  {
-   "id": "qs",
-   "name": "Québec solidaire",
-   "type": "organization",
-   "aliases": [
-    "solidaires"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -2910,30 +3055,6 @@
    ]
   },
   {
-   "id": "eric-duhaime",
-   "name": "Éric Duhaime",
-   "type": "person",
-   "aliases": [],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    }
-   ]
-  },
-  {
    "id": "adriana-szalontai",
    "name": "Adriana Szalontai",
    "type": "person",
@@ -2993,6 +3114,28 @@
      "date": "2026-10-21",
      "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
      "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
+    }
+   ]
+  },
+  {
+   "id": "bloc-quebecois",
+   "name": "Bloc Québécois",
+   "type": "organization",
+   "aliases": [
+    "Bloc québécois",
+    "Bloc"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -3142,6 +3285,27 @@
    ]
   },
   {
+   "id": "cnesst",
+   "name": "Commission des normes, de l’équité, de la santé et de la sécurité du travail",
+   "type": "organization",
+   "aliases": [
+    "CNESST"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
+    }
+   ]
+  },
+  {
    "id": "dpcp",
    "name": "Directeur des poursuites criminelles et pénales",
    "type": "organization",
@@ -3203,23 +3367,23 @@
    ]
   },
   {
-   "id": "jacinthe-eve-arel",
-   "name": "Jacinthe-Eve Arel",
+   "id": "guy-caron",
+   "name": "Guy Caron",
    "type": "person",
    "aliases": [
-    "Arel"
+    "Caron"
    ],
    "mentions": 2,
    "stories": [
     {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
     },
     {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
     }
    ]
   },
@@ -3570,6 +3734,22 @@
    ]
   },
   {
+   "id": "agnes-grondin",
+   "name": "Agnès Grondin",
+   "type": "person",
+   "aliases": [
+    "Grondin"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Environment takes centre stage at first-ever Laurentians Summit",
+     "url": "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955"
+    }
+   ]
+  },
+  {
    "id": "air-canada",
    "name": "Air Canada",
    "type": "organization",
@@ -3608,6 +3788,22 @@
      "date": "2026-10-29",
      "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "id": "alexandre-boulerice",
+   "name": "Alexandre Boulerice",
+   "type": "person",
+   "aliases": [
+    "Boulerice"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -3891,23 +4087,6 @@
    ]
   },
   {
-   "id": "bloc-quebecois",
-   "name": "Bloc Québécois",
-   "type": "organization",
-   "aliases": [
-    "Bloc québécois",
-    "Bloc"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
-    }
-   ]
-  },
-  {
    "id": "bruno-verreault",
    "name": "Bruno Verreault",
    "type": "person",
@@ -4150,18 +4329,19 @@
    ]
   },
   {
-   "id": "cnesst",
-   "name": "Commission des normes, de l’équité, de la santé et de la sécurité du travail",
+   "id": "aim",
+   "name": "Compagnie américaine de fer & métaux (AIM)",
    "type": "organization",
    "aliases": [
-    "CNESST"
+    "AIM",
+    "American Iron & Metal"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
     }
    ]
   },
@@ -4309,6 +4489,22 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "id": "eddy-metivier",
+   "name": "Eddy Métivier",
+   "type": "person",
+   "aliases": [
+    "Métivier"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
     }
    ]
   },
@@ -4704,18 +4900,32 @@
    ]
   },
   {
-   "id": "guy-caron",
-   "name": "Guy Caron",
+   "id": "guy-cormier",
+   "name": "Guy Cormier",
    "type": "person",
    "aliases": [
-    "Caron"
+    "Cormier"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-31",
-     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
-     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "id": "herbert-black",
+   "name": "Herbert Black",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
     }
    ]
   },
@@ -5100,6 +5310,22 @@
    ]
   },
   {
+   "id": "kim-meyer",
+   "name": "Kim Meyer",
+   "type": "person",
+   "aliases": [
+    "Meyer"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Environment takes centre stage at first-ever Laurentians Summit",
+     "url": "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955"
+    }
+   ]
+  },
+  {
    "id": "kokou-nouwozan-langueh",
    "name": "Kokou Nouwozan Langueh",
    "type": "person",
@@ -5281,6 +5507,22 @@
    ]
   },
   {
+   "id": "marine-royale-canadienne",
+   "name": "Marine royale canadienne",
+   "type": "organization",
+   "aliases": [
+    "Royal Canadian Navy"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
    "id": "martin-beaumont",
    "name": "Martin Beaumont",
    "type": "person",
@@ -5305,6 +5547,22 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "id": "martin-soucy",
+   "name": "Martin Soucy",
+   "type": "person",
+   "aliases": [
+    "Soucy"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
     }
    ]
   },
@@ -5630,6 +5888,23 @@
    ]
   },
   {
+   "id": "plc",
+   "name": "Parti libéral du Canada",
+   "type": "organization",
+   "aliases": [
+    "PLC",
+    "Liberal Party of Canada"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
    "id": "pascal-paradis",
    "name": "Pascal Paradis",
    "type": "person",
@@ -5813,6 +6088,22 @@
    ]
   },
   {
+   "id": "snap-quebec",
+   "name": "SNAP Québec",
+   "type": "organization",
+   "aliases": [
+    "SNAP Quebec"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Environment takes centre stage at first-ever Laurentians Summit",
+     "url": "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955"
+    }
+   ]
+  },
+  {
    "id": "sncf-voyageurs",
    "name": "SNCF Voyageurs",
    "type": "organization",
@@ -5915,6 +6206,20 @@
    ]
   },
   {
+   "id": "simon-pierre-savard-tremblay",
+   "name": "Simon-Pierre Savard-Tremblay",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
    "id": "schl",
    "name": "Société canadienne d’hypothèques et de logement",
    "type": "organization",
@@ -5975,6 +6280,22 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "steven-guilbeault",
+   "name": "Steven Guilbeault",
+   "type": "person",
+   "aliases": [
+    "Guilbeault"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -6172,6 +6493,22 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "id": "travail-securitaire-nb",
+   "name": "Travail sécuritaire Nouveau-Brunswick",
+   "type": "organization",
+   "aliases": [
+    "WorkSafeNB"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
     }
    ]
   },
@@ -6538,7 +6875,7 @@
   {
    "source": "mark-carney",
    "target": "pspp",
-   "weight": 7,
+   "weight": 8,
    "stories": [
     {
      "date": "2026-10-27",
@@ -6574,6 +6911,11 @@
      "date": "2026-10-31",
      "headline": "Rencontre Carney-St-Pierre-Plamondon – « C’est dans l’intérêt des Québécois »",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -7434,6 +7776,28 @@
   },
   {
    "source": "pspp",
+   "target": "qs",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "sante-quebec",
    "weight": 3,
    "stories": [
@@ -7740,6 +8104,40 @@
      "date": "2026-10-21",
      "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
      "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "mark-carney",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -8063,6 +8461,23 @@
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
+   "target": "jacinthe-eve-arel",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Non, Jacinthe-Eve Arel n’a pas dit vouloir céder son droit de vote à Éric Duhaime",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux"
     }
    ]
   },
@@ -8663,23 +9078,6 @@
   },
   {
    "source": "pspp",
-   "target": "qs",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
    "target": "sebastien-dastous",
    "weight": 2,
    "stories": [
@@ -8961,6 +9359,66 @@
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    }
+   ]
+  },
+  {
+   "source": "agnes-grondin",
+   "target": "kim-meyer",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Environment takes centre stage at first-ever Laurentians Summit",
+     "url": "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955"
+    }
+   ]
+  },
+  {
+   "source": "agnes-grondin",
+   "target": "snap-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Environment takes centre stage at first-ever Laurentians Summit",
+     "url": "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955"
+    }
+   ]
+  },
+  {
+   "source": "aim",
+   "target": "cnesst",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
+    }
+   ]
+  },
+  {
+   "source": "aim",
+   "target": "herbert-black",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
+    }
+   ]
+  },
+  {
+   "source": "aim",
+   "target": "travail-securitaire-nb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
     }
    ]
   },
@@ -9453,6 +9911,102 @@
      "date": "2026-10-29",
      "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "bloc-quebecois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "guy-cormier",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "plc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "simon-pierre-savard-tremblay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-boulerice",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -10574,25 +11128,61 @@
   },
   {
    "source": "bloc-quebecois",
-   "target": "mark-carney",
+   "target": "guy-cormier",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-31",
-     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
   {
    "source": "bloc-quebecois",
-   "target": "pspp",
+   "target": "plc",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-31",
-     "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "simon-pierre-savard-tremblay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "bloc-quebecois",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -11714,6 +12304,18 @@
   },
   {
    "source": "cnesst",
+   "target": "herbert-black",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
+    }
+   ]
+  },
+  {
+   "source": "cnesst",
    "target": "rbq",
    "weight": 1,
    "stories": [
@@ -11733,6 +12335,18 @@
      "date": "2026-10-26",
      "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "cnesst",
+   "target": "travail-securitaire-nb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
     }
    ]
   },
@@ -12673,6 +13287,54 @@
    ]
   },
   {
+   "source": "eddy-metivier",
+   "target": "guy-caron",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "eddy-metivier",
+   "target": "marine-royale-canadienne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "eddy-metivier",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "eddy-metivier",
+   "target": "martin-soucy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
    "source": "edith-filion",
    "target": "gve",
    "weight": 1,
@@ -13209,18 +13871,6 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
-    }
-   ]
-  },
-  {
-   "source": "eric-duhaime",
-   "target": "jacinthe-eve-arel",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -14282,6 +14932,42 @@
   },
   {
    "source": "guy-caron",
+   "target": "marine-royale-canadienne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-caron",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-caron",
+   "target": "martin-soucy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-caron",
    "target": "sylvain-leduc",
    "weight": 1,
    "stories": [
@@ -14301,6 +14987,78 @@
      "date": "2026-10-31",
      "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
      "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "plc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "simon-pierre-savard-tremblay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -14361,6 +15119,18 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "source": "herbert-black",
+   "target": "travail-securitaire-nb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
+     "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
     }
    ]
   },
@@ -15529,6 +16299,18 @@
    ]
   },
   {
+   "source": "kim-meyer",
+   "target": "snap-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Environment takes centre stage at first-ever Laurentians Summit",
+     "url": "https://www.cbc.ca/news/canada/montreal/laurentians-summit-environment-focus-9.7399955"
+    }
+   ]
+  },
+  {
    "source": "kokou-nouwozan-langueh",
    "target": "magasin-bryan",
    "weight": 1,
@@ -16057,6 +16839,42 @@
    ]
   },
   {
+   "source": "marine-royale-canadienne",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "marine-royale-canadienne",
+   "target": "martin-soucy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "martin-soucy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
+     "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    }
+   ]
+  },
+  {
    "source": "mark-carney",
    "target": "michele-chappaz",
    "weight": 1,
@@ -16125,6 +16943,54 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "plc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "simon-pierre-savard-tremblay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -16849,6 +17715,54 @@
    ]
   },
   {
+   "source": "plc",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "plc",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "plc",
+   "target": "simon-pierre-savard-tremblay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "plc",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
    "source": "plq",
    "target": "rafael-primeau-ferraro",
    "weight": 1,
@@ -17054,6 +17968,18 @@
   },
   {
    "source": "pspp",
+   "target": "simon-pierre-savard-tremblay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "soraya-martinez-ferrada",
    "weight": 1,
    "stories": [
@@ -17061,6 +17987,18 @@
      "date": "2026-10-22",
      "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -17150,6 +18088,18 @@
   },
   {
    "source": "qs",
+   "target": "simon-pierre-savard-tremblay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "qs",
    "target": "sol-zanetti",
    "weight": 1,
    "stories": [
@@ -17157,6 +18107,18 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "qs",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },
@@ -17493,6 +18455,18 @@
      "date": "2026-10-27",
      "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+    }
+   ]
+  },
+  {
+   "source": "simon-pierre-savard-tremblay",
+   "target": "steven-guilbeault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
     }
    ]
   },

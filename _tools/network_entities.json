@@ -1678,6 +1678,102 @@
    "aliases": [
     "FIQ-SPSCA"
    ]
+  },
+  "guy-cormier": {
+   "name": "Guy Cormier",
+   "type": "person",
+   "aliases": [
+    "Cormier"
+   ]
+  },
+  "steven-guilbeault": {
+   "name": "Steven Guilbeault",
+   "type": "person",
+   "aliases": [
+    "Guilbeault"
+   ]
+  },
+  "alexandre-boulerice": {
+   "name": "Alexandre Boulerice",
+   "type": "person",
+   "aliases": [
+    "Boulerice"
+   ]
+  },
+  "simon-pierre-savard-tremblay": {
+   "name": "Simon-Pierre Savard-Tremblay",
+   "type": "person",
+   "aliases": []
+  },
+  "plc": {
+   "name": "Parti libéral du Canada",
+   "type": "organization",
+   "aliases": [
+    "PLC",
+    "Liberal Party of Canada"
+   ]
+  },
+  "aim": {
+   "name": "Compagnie américaine de fer & métaux (AIM)",
+   "type": "organization",
+   "aliases": [
+    "AIM",
+    "American Iron & Metal"
+   ]
+  },
+  "herbert-black": {
+   "name": "Herbert Black",
+   "type": "person",
+   "aliases": []
+  },
+  "travail-securitaire-nb": {
+   "name": "Travail sécuritaire Nouveau-Brunswick",
+   "type": "organization",
+   "aliases": [
+    "WorkSafeNB"
+   ]
+  },
+  "martin-soucy": {
+   "name": "Martin Soucy",
+   "type": "person",
+   "aliases": [
+    "Soucy"
+   ]
+  },
+  "eddy-metivier": {
+   "name": "Eddy Métivier",
+   "type": "person",
+   "aliases": [
+    "Métivier"
+   ]
+  },
+  "marine-royale-canadienne": {
+   "name": "Marine royale canadienne",
+   "type": "organization",
+   "aliases": [
+    "Royal Canadian Navy"
+   ]
+  },
+  "agnes-grondin": {
+   "name": "Agnès Grondin",
+   "type": "person",
+   "aliases": [
+    "Grondin"
+   ]
+  },
+  "kim-meyer": {
+   "name": "Kim Meyer",
+   "type": "person",
+   "aliases": [
+    "Meyer"
+   ]
+  },
+  "snap-quebec": {
+   "name": "SNAP Québec",
+   "type": "organization",
+   "aliases": [
+    "SNAP Quebec"
+   ]
   }
  },
  "stories": [
@@ -3162,6 +3258,76 @@
    "dossiers": [
     "pq-transition"
    ]
+  },
+  {
+   "match": "pourquoi-hydro-quebec-tarde-a-brancher-labitibi",
+   "entities": [
+    "hydro-quebec"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim",
+   "entities": [
+    "aim",
+    "herbert-black",
+    "cnesst",
+    "travail-securitaire-nb"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux",
+   "entities": [
+    "jacinthe-eve-arel",
+    "eric-duhaime"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "2297401/elections-partielles-federal-canada-carney",
+   "entities": [
+    "mark-carney",
+    "guy-cormier",
+    "steven-guilbeault",
+    "alexandre-boulerice",
+    "simon-pierre-savard-tremblay",
+    "pspp",
+    "plc",
+    "bloc-quebecois",
+    "qs"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2026-11-01/bas-saint-laurent/une-base-navale",
+   "entities": [
+    "martin-soucy",
+    "guy-caron",
+    "eddy-metivier",
+    "marine-royale-canadienne",
+    "mark-carney"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "laurentians-summit-environment-focus",
+   "entities": [
+    "agnes-grondin",
+    "kim-meyer",
+    "snap-quebec"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
   }
  ]
 }
