@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-01T15:37:09Z",
+ "generated": "2026-11-02T15:34:30Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 124,
+ "story_count": 132,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1322,6 +1322,98 @@
      ]
     }
    ]
+  },
+  "2026-11-02": {
+   "post": "/2026/11/02/digest/",
+   "stories": [
+    {
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique",
+     "entities": [
+      "alain-therrien",
+      "anne-nguyen",
+      "assemblee-nationale",
+      "conseil-tresor",
+      "france-elaine-duranceau",
+      "gilles-belanger",
+      "mcn",
+      "pq",
+      "stephane-le-bouyonnec"
+     ]
+    },
+    {
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331",
+     "entities": [
+      "caroline-simard",
+      "christyan-dufour",
+      "stq"
+     ]
+    },
+    {
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau",
+     "entities": [
+      "alain-therrien",
+      "caq",
+      "conseil-tresor",
+      "guillaume-bouvrette",
+      "patrick-audy",
+      "pq",
+      "pspp",
+      "sfpq",
+      "spgq"
+     ]
+    },
+    {
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels",
+     "entities": [
+      "association-pompiers-montreal",
+      "sim",
+      "spvm"
+     ]
+    },
+    {
+     "headline": "Western Quebec medical centre shuts down after years of staff shortages",
+     "url": "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001",
+     "entities": [
+      "marcel-chartrand",
+      "sante-quebec",
+      "vigi-sante-collines"
+     ]
+    },
+    {
+     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
+     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php",
+     "entities": [
+      "gold-fields",
+      "melccfp"
+     ]
+    },
+    {
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php",
+     "entities": [
+      "charles-milliard",
+      "mark-carney",
+      "pascal-paradis",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie",
+     "entities": [
+      "charles-iii",
+      "karim-al-dahdah",
+      "ligue-monarchiste",
+      "manon-jeannotte",
+      "mark-carney",
+      "pspp"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1333,7 +1425,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 32,
+   "mentions": 35,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1494,6 +1586,21 @@
      "date": "2026-11-01",
      "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
      "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
     }
    ]
   },
@@ -1506,7 +1613,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 20,
+   "mentions": 22,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1607,6 +1714,16 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -1615,7 +1732,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 16,
+   "mentions": 17,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1696,6 +1813,11 @@
      "date": "2026-10-31",
      "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
      "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Western Quebec medical centre shuts down after years of staff shortages",
+     "url": "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001"
     }
    ]
   },
@@ -1782,7 +1904,7 @@
    "aliases": [
     "Carney"
    ],
-   "mentions": 11,
+   "mentions": 13,
    "stories": [
     {
      "date": "2026-10-26",
@@ -1838,6 +1960,119 @@
      "date": "2026-11-01",
      "headline": "Bas-Saint-Laurent – Une base navale dans la ligne de mire",
      "url": "https://www.lapresse.ca/actualites/regional/2026-11-01/bas-saint-laurent/une-base-navale-dans-la-ligne-de-mire.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "id": "alain-therrien",
+   "name": "Alain Therrien",
+   "type": "person",
+   "aliases": [
+    "Therrien"
+   ],
+   "mentions": 8,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "id": "caq",
+   "name": "Coalition Avenir Québec",
+   "type": "organization",
+   "aliases": [
+    "CAQ",
+    "caquiste"
+   ],
+   "mentions": 8,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -1889,53 +2124,6 @@
      "date": "2026-10-31",
      "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
      "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
-    }
-   ]
-  },
-  {
-   "id": "caq",
-   "name": "Coalition Avenir Québec",
-   "type": "organization",
-   "aliases": [
-    "CAQ",
-    "caquiste"
-   ],
-   "mentions": 7,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
-     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
     }
    ]
   },
@@ -2032,33 +2220,23 @@
    ]
   },
   {
-   "id": "alain-therrien",
-   "name": "Alain Therrien",
-   "type": "person",
+   "id": "conseil-tresor",
+   "name": "Conseil du trésor",
+   "type": "organization",
    "aliases": [
-    "Therrien"
+    "Treasury Board"
    ],
    "mentions": 6,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
      "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
     },
     {
      "date": "2026-10-28",
@@ -2069,6 +2247,16 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -2121,7 +2309,7 @@
    "aliases": [
     "SPVM"
    ],
-   "mentions": 5,
+   "mentions": 6,
    "stories": [
     {
      "date": "2026-10-25",
@@ -2147,6 +2335,79 @@
      "date": "2026-10-31",
      "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
      "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
+    }
+   ]
+  },
+  {
+   "id": "manon-jeannotte",
+   "name": "Manon Jeannotte",
+   "type": "person",
+   "aliases": [
+    "Manon Jeanotte"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "id": "assemblee-nationale",
+   "name": "Assemblée nationale du Québec",
+   "type": "organization",
+   "aliases": [
+    "Assemblée nationale",
+    "National Assembly"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -2182,33 +2443,34 @@
    ]
   },
   {
-   "id": "conseil-tresor",
-   "name": "Conseil du trésor",
-   "type": "organization",
+   "id": "charles-iii",
+   "name": "Charles III",
+   "type": "person",
    "aliases": [
-    "Treasury Board"
+    "roi Charles III",
+    "King Charles III"
    ],
    "mentions": 4,
    "stories": [
     {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
      "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
     }
    ]
   },
@@ -2275,37 +2537,6 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
-   "id": "manon-jeannotte",
-   "name": "Manon Jeannotte",
-   "type": "person",
-   "aliases": [
-    "Manon Jeanotte"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
     }
    ]
   },
@@ -2645,19 +2876,16 @@
    ]
   },
   {
-   "id": "assemblee-nationale",
-   "name": "Assemblée nationale du Québec",
-   "type": "organization",
-   "aliases": [
-    "Assemblée nationale",
-    "National Assembly"
-   ],
+   "id": "charles-milliard",
+   "name": "Charles Milliard",
+   "type": "person",
+   "aliases": [],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
     },
     {
      "date": "2026-10-28",
@@ -2665,36 +2893,9 @@
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     },
     {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
-    }
-   ]
-  },
-  {
-   "id": "charles-iii",
-   "name": "Charles III",
-   "type": "person",
-   "aliases": [
-    "roi Charles III",
-    "King Charles III"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
     }
    ]
   },
@@ -2981,6 +3182,32 @@
    ]
   },
   {
+   "id": "stq",
+   "name": "Société des traversiers du Québec",
+   "type": "organization",
+   "aliases": [
+    "STQ"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
+     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
+    }
+   ]
+  },
+  {
    "id": "stephan-fogaing",
    "name": "Stephan Fogaing",
    "type": "person",
@@ -3072,6 +3299,25 @@
      "date": "2026-10-23",
      "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
      "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    }
+   ]
+  },
+  {
+   "id": "anne-nguyen",
+   "name": "Anne Nguyen",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: dossiers chauds, gros mandats et diverses missions de l'État",
+     "url": "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -3203,25 +3449,6 @@
    ]
   },
   {
-   "id": "charles-milliard",
-   "name": "Charles Milliard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    }
-   ]
-  },
-  {
    "id": "christian-dube",
    "name": "Christian Dubé",
    "type": "person",
@@ -3342,6 +3569,27 @@
      "date": "2026-10-31",
      "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
      "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    }
+   ]
+  },
+  {
+   "id": "france-elaine-duranceau",
+   "name": "France-Élaine Duranceau",
+   "type": "person",
+   "aliases": [
+    "Duranceau"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -3531,6 +3779,25 @@
    ]
   },
   {
+   "id": "pascal-paradis",
+   "name": "Pascal Paradis",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
+    }
+   ]
+  },
+  {
    "id": "projet-montreal",
    "name": "Projet Montréal",
    "type": "organization",
@@ -3592,6 +3859,27 @@
    ]
   },
   {
+   "id": "sim",
+   "name": "Service de sécurité incendie de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SIM"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
+    }
+   ]
+  },
+  {
    "id": "stm",
    "name": "Société de transport de Montréal",
    "type": "organization",
@@ -3609,27 +3897,6 @@
      "date": "2026-10-28",
      "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
      "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
-    }
-   ]
-  },
-  {
-   "id": "stq",
-   "name": "Société des traversiers du Québec",
-   "type": "organization",
-   "aliases": [
-    "STQ"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
-     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
-     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
     }
    ]
   },
@@ -3871,20 +4138,6 @@
    ]
   },
   {
-   "id": "anne-nguyen",
-   "name": "Anne Nguyen",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: dossiers chauds, gros mandats et diverses missions de l'État",
-     "url": "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec"
-    }
-   ]
-  },
-  {
    "id": "antonio-costa",
    "name": "António Costa",
    "type": "person",
@@ -3960,6 +4213,20 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "id": "association-pompiers-montreal",
+   "name": "Association des pompiers de Montréal",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
     }
    ]
   },
@@ -4187,6 +4454,20 @@
    ]
   },
   {
+   "id": "caroline-simard",
+   "name": "Caroline Simard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
+    }
+   ]
+  },
+  {
    "id": "batshaw",
    "name": "Centres de la jeunesse et de la famille Batshaw",
    "type": "organization",
@@ -4213,6 +4494,22 @@
      "date": "2026-10-21",
      "headline": "Où en est la filière hydrogène ?",
      "url": "https://www.lapresse.ca/affaires/economie/2026-10-17/ou-en-est-la-filiere-hydrogene.php"
+    }
+   ]
+  },
+  {
+   "id": "christyan-dufour",
+   "name": "Christyan Dufour",
+   "type": "person",
+   "aliases": [
+    "Dufour"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
     }
    ]
   },
@@ -4641,22 +4938,6 @@
    ]
   },
   {
-   "id": "france-elaine-duranceau",
-   "name": "France-Élaine Duranceau",
-   "type": "person",
-   "aliases": [
-    "Duranceau"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
    "id": "francois-chapdelaine",
    "name": "François Chapdelaine",
    "type": "person",
@@ -4870,6 +5151,36 @@
    ]
   },
   {
+   "id": "gilles-belanger",
+   "name": "Gilles Bélanger",
+   "type": "person",
+   "aliases": [
+    "Bélanger"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "id": "gold-fields",
+   "name": "Gold Fields",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
+     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
+    }
+   ]
+  },
+  {
    "id": "gouv-canada",
    "name": "Gouvernement du Canada",
    "type": "organization",
@@ -4896,6 +5207,22 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "id": "guillaume-bouvrette",
+   "name": "Guillaume Bouvrette",
+   "type": "person",
+   "aliases": [
+    "Bouvrette"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -5282,6 +5609,22 @@
    ]
   },
   {
+   "id": "karim-al-dahdah",
+   "name": "Karim Al-Dahdah",
+   "type": "person",
+   "aliases": [
+    "Al-Dahdah"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
    "id": "karine-millaire",
    "name": "Karine Millaire",
    "type": "person",
@@ -5366,6 +5709,22 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "ligue-monarchiste",
+   "name": "Ligue monarchiste du Canada",
+   "type": "organization",
+   "aliases": [
+    "Monarchist League of Canada"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
     }
    ]
   },
@@ -5457,6 +5816,22 @@
      "date": "2026-10-22",
      "headline": "Placements sans prospectus – Le TMF impose des mesures à Kokou Nouwozan Langueh et à Magasin Bryan inc.",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/placements-sans-prospectus-le-tmf-impose-des-mesures-a-kokou-nouwozan-langueh-et-a-magasin-bryan-inc"
+    }
+   ]
+  },
+  {
+   "id": "marcel-chartrand",
+   "name": "Marcel Chartrand",
+   "type": "person",
+   "aliases": [
+    "Chartrand"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Western Quebec medical centre shuts down after years of staff shortages",
+     "url": "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001"
     }
    ]
   },
@@ -5671,6 +6046,24 @@
    ]
   },
   {
+   "id": "mcn",
+   "name": "Ministère de la Cybersécurité et du Numérique",
+   "type": "organization",
+   "aliases": [
+    "MCN",
+    "ministère de la Cybersécurité et du Numérique",
+    "Ministry of Cybersecurity and Digital Affairs"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
    "id": "mess",
    "name": "Ministère de l’Emploi et de la Solidarité sociale",
    "type": "organization",
@@ -5684,6 +6077,23 @@
      "date": "2026-10-28",
      "headline": "De nombreuses fautes de français dans des lettres d’un ministère",
      "url": "https://ici.radio-canada.ca/nouvelle/2295358/aide-sociale-francais-lettre-avis-decision"
+    }
+   ]
+  },
+  {
+   "id": "melccfp",
+   "name": "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs",
+   "type": "organization",
+   "aliases": [
+    "ministère de l’Environnement",
+    "Environment ministry"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
+     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
     }
    ]
   },
@@ -5905,16 +6315,18 @@
    ]
   },
   {
-   "id": "pascal-paradis",
-   "name": "Pascal Paradis",
+   "id": "patrick-audy",
+   "name": "Patrick Audy",
    "type": "person",
-   "aliases": [],
+   "aliases": [
+    "Audy"
+   ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -6146,22 +6558,6 @@
    ]
   },
   {
-   "id": "sim",
-   "name": "Service de sécurité incendie de Montréal",
-   "type": "organization",
-   "aliases": [
-    "SIM"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
-    }
-   ]
-  },
-  {
    "id": "sherbrooke-refuse",
    "name": "Sherbrooke Refuse",
    "type": "organization",
@@ -6316,6 +6712,22 @@
    ]
   },
   {
+   "id": "stephane-le-bouyonnec",
+   "name": "Stéphane Le Bouyonnec",
+   "type": "person",
+   "aliases": [
+    "Le Bouyonnec"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
    "id": "swimko",
    "name": "Swimko",
    "type": "organization",
@@ -6356,6 +6768,38 @@
      "date": "2026-10-31",
      "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
      "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
+   "id": "sfpq",
+   "name": "Syndicat de la fonction publique et parapublique du Québec",
+   "type": "organization",
+   "aliases": [
+    "SFPQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "id": "spgq",
+   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
+   "type": "organization",
+   "aliases": [
+    "SPGQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -6541,6 +6985,20 @@
      "date": "2026-10-31",
      "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "id": "vigi-sante-collines",
+   "name": "Vigi Santé des Collines",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Western Quebec medical centre shuts down after years of staff shortages",
+     "url": "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001"
     }
    ]
   },
@@ -6808,7 +7266,7 @@
   {
    "source": "pq",
    "target": "pspp",
-   "weight": 12,
+   "weight": 13,
    "stories": [
     {
      "date": "2026-10-21",
@@ -6869,13 +7327,18 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
   {
    "source": "mark-carney",
    "target": "pspp",
-   "weight": 8,
+   "weight": 10,
    "stories": [
     {
      "date": "2026-10-27",
@@ -6916,6 +7379,90 @@
      "date": "2026-11-01",
      "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
      "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "pq",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "pspp",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -6957,34 +7504,98 @@
    ]
   },
   {
-   "source": "alain-therrien",
-   "target": "pspp",
+   "source": "caq",
+   "target": "pq",
    "weight": 5,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
     },
     {
      "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
     },
     {
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "pspp",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "manon-jeannotte",
+   "target": "pspp",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
     }
    ]
   },
@@ -7022,19 +7633,9 @@
   },
   {
    "source": "alain-therrien",
-   "target": "pq",
+   "target": "conseil-tresor",
    "weight": 4,
    "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
     {
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
@@ -7044,60 +7645,70 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
   {
-   "source": "caq",
-   "target": "pq",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
-    }
-   ]
-  },
-  {
-   "source": "caq",
+   "source": "charles-iii",
    "target": "pspp",
    "weight": 4,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
     },
     {
      "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
     },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "pq",
+   "weight": 4,
+   "stories": [
     {
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     },
     {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -7125,33 +7736,6 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
-   "source": "manon-jeannotte",
-   "target": "pspp",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
     }
    ]
   },
@@ -7446,7 +8030,7 @@
   },
   {
    "source": "charles-iii",
-   "target": "pspp",
+   "target": "manon-jeannotte",
    "weight": 3,
    "stories": [
     {
@@ -7460,9 +8044,9 @@
      "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
     }
    ]
   },
@@ -7905,6 +8489,23 @@
   },
   {
    "source": "alain-therrien",
+   "target": "caq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "catherine-gentilcore",
    "weight": 2,
    "stories": [
@@ -7922,7 +8523,7 @@
   },
   {
    "source": "alain-therrien",
-   "target": "conseil-tresor",
+   "target": "france-elaine-duranceau",
    "weight": 2,
    "stories": [
     {
@@ -7931,9 +8532,9 @@
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     },
     {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -8074,6 +8675,23 @@
    ]
   },
   {
+   "source": "assemblee-nationale",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
    "source": "bertin-castonguay",
    "target": "claude-roy",
    "weight": 2,
@@ -8159,6 +8777,23 @@
    ]
   },
   {
+   "source": "caq",
+   "target": "conseil-tresor",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
    "source": "catherine-gentilcore",
    "target": "pq",
    "weight": 2,
@@ -8227,19 +8862,36 @@
    ]
   },
   {
-   "source": "charles-iii",
-   "target": "manon-jeannotte",
+   "source": "charles-milliard",
+   "target": "mark-carney",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     },
     {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
+    }
+   ]
+  },
+  {
+   "source": "charles-milliard",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
     }
    ]
   },
@@ -8313,7 +8965,7 @@
   },
   {
    "source": "conseil-tresor",
-   "target": "pq",
+   "target": "france-elaine-duranceau",
    "weight": 2,
    "stories": [
     {
@@ -8322,9 +8974,26 @@
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     },
     {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -8618,6 +9287,23 @@
    ]
   },
   {
+   "source": "france-elaine-duranceau",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
    "source": "guy-lapointe-fils",
    "target": "soraya-martinez-ferrada",
    "weight": 2,
@@ -8856,6 +9542,23 @@
    ]
   },
   {
+   "source": "mark-carney",
+   "target": "pascal-paradis",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
+    }
+   ]
+  },
+  {
    "source": "mpo",
    "target": "msi",
    "weight": 2,
@@ -8971,6 +9674,23 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "pascal-paradis",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
     }
    ]
   },
@@ -9616,13 +10336,25 @@
   },
   {
    "source": "alain-therrien",
-   "target": "caq",
+   "target": "anne-nguyen",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "assemblee-nationale",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -9664,18 +10396,6 @@
   },
   {
    "source": "alain-therrien",
-   "target": "france-elaine-duranceau",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
    "target": "frederic-alberro",
    "weight": 1,
    "stories": [
@@ -9683,6 +10403,30 @@
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "gilles-belanger",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "guillaume-bouvrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -9736,6 +10480,18 @@
   },
   {
    "source": "alain-therrien",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "msss",
    "weight": 1,
    "stories": [
@@ -9767,6 +10523,18 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "patrick-audy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -9820,6 +10588,18 @@
   },
   {
    "source": "alain-therrien",
+   "target": "sfpq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "sol-zanetti",
    "weight": 1,
    "stories": [
@@ -9827,6 +10607,30 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "stephane-le-bouyonnec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -10264,6 +11068,78 @@
   },
   {
    "source": "anne-nguyen",
+   "target": "assemblee-nationale",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "anne-nguyen",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "anne-nguyen",
+   "target": "france-elaine-duranceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "anne-nguyen",
+   "target": "gilles-belanger",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "anne-nguyen",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "anne-nguyen",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "anne-nguyen",
    "target": "pspp",
    "weight": 1,
    "stories": [
@@ -10271,6 +11147,18 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: dossiers chauds, gros mandats et diverses missions de l'État",
      "url": "https://www.journaldemontreal.com/2026/10/24/decouvrez-les-forces-les-parcours-et-les-defis-des-22-ministres-appeles-a-gouverner-le-quebec"
+    }
+   ]
+  },
+  {
+   "source": "anne-nguyen",
+   "target": "stephane-le-bouyonnec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -10600,6 +11488,18 @@
   },
   {
    "source": "assemblee-nationale",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
    "target": "eric-duhaime",
    "weight": 1,
    "stories": [
@@ -10612,6 +11512,30 @@
   },
   {
    "source": "assemblee-nationale",
+   "target": "france-elaine-duranceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "gilles-belanger",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
    "target": "manon-jeannotte",
    "weight": 1,
    "stories": [
@@ -10619,6 +11543,18 @@
      "date": "2026-10-27",
      "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
      "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -10672,13 +11608,13 @@
   },
   {
    "source": "assemblee-nationale",
-   "target": "pq",
+   "target": "stephane-le-bouyonnec",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -10691,6 +11627,30 @@
      "date": "2026-10-28",
      "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    }
+   ]
+  },
+  {
+   "source": "association-pompiers-montreal",
+   "target": "sim",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
+    }
+   ]
+  },
+  {
+   "source": "association-pompiers-montreal",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
     }
    ]
   },
@@ -11368,18 +12328,6 @@
   },
   {
    "source": "caq",
-   "target": "conseil-tresor",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    }
-   ]
-  },
-  {
-   "source": "caq",
    "target": "cour-superieure",
    "weight": 1,
    "stories": [
@@ -11447,6 +12395,18 @@
      "date": "2026-10-21",
      "headline": "Québec prépare l’abolition de Santé Québec",
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "guillaume-bouvrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -11548,6 +12508,18 @@
   },
   {
    "source": "caq",
+   "target": "patrick-audy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "pcq",
    "weight": 1,
    "stories": [
@@ -11608,6 +12580,18 @@
   },
   {
    "source": "caq",
+   "target": "sfpq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "simon-jolin-barrette",
    "weight": 1,
    "stories": [
@@ -11615,6 +12599,18 @@
      "date": "2026-10-30",
      "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -11663,6 +12659,30 @@
      "date": "2026-10-28",
      "headline": "L'argent public ne devrait pas financer le militantisme politique",
      "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
+    }
+   ]
+  },
+  {
+   "source": "caroline-simard",
+   "target": "christyan-dufour",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
+    }
+   ]
+  },
+  {
+   "source": "caroline-simard",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
     }
    ]
   },
@@ -11956,6 +12976,42 @@
   },
   {
    "source": "charles-iii",
+   "target": "karim-al-dahdah",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "charles-iii",
+   "target": "ligue-monarchiste",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "charles-iii",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "charles-iii",
    "target": "pq",
    "weight": 1,
    "stories": [
@@ -11992,18 +13048,6 @@
   },
   {
    "source": "charles-milliard",
-   "target": "mark-carney",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    }
-   ]
-  },
-  {
-   "source": "charles-milliard",
    "target": "monsef-derraji",
    "weight": 1,
    "stories": [
@@ -12016,6 +13060,18 @@
   },
   {
    "source": "charles-milliard",
+   "target": "pascal-paradis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php"
+    }
+   ]
+  },
+  {
+   "source": "charles-milliard",
    "target": "plq",
    "weight": 1,
    "stories": [
@@ -12023,18 +13079,6 @@
      "date": "2026-10-24",
      "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    }
-   ]
-  },
-  {
-   "source": "charles-milliard",
-   "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     }
    ]
   },
@@ -12179,6 +13223,18 @@
      "date": "2026-10-29",
      "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "christyan-dufour",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
     }
    ]
   },
@@ -12436,13 +13492,25 @@
   },
   {
    "source": "conseil-tresor",
-   "target": "france-elaine-duranceau",
+   "target": "gilles-belanger",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "guillaume-bouvrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -12472,6 +13540,18 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "nicolas-paradis",
    "weight": 1,
    "stories": [
@@ -12496,6 +13576,18 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "patrick-audy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "pcq",
    "weight": 1,
    "stories": [
@@ -12515,18 +13607,6 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    }
-   ]
-  },
-  {
-   "source": "conseil-tresor",
-   "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     }
    ]
   },
@@ -12568,6 +13648,18 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "sfpq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "sol-zanetti",
    "weight": 1,
    "stories": [
@@ -12575,6 +13667,30 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "stephane-le-bouyonnec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -14452,13 +15568,25 @@
   },
   {
    "source": "france-elaine-duranceau",
-   "target": "pq",
+   "target": "gilles-belanger",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "france-elaine-duranceau",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -14471,6 +15599,18 @@
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    }
+   ]
+  },
+  {
+   "source": "france-elaine-duranceau",
+   "target": "stephane-le-bouyonnec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -14847,6 +15987,54 @@
    ]
   },
   {
+   "source": "gilles-belanger",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "gilles-belanger",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "gilles-belanger",
+   "target": "stephane-le-bouyonnec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "gold-fields",
+   "target": "melccfp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
+     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
+    }
+   ]
+  },
+  {
    "source": "gouv-canada",
    "target": "jean-simard",
    "weight": 1,
@@ -14915,6 +16103,66 @@
      "date": "2026-10-21",
      "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    }
+   ]
+  },
+  {
+   "source": "guillaume-bouvrette",
+   "target": "patrick-audy",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "guillaume-bouvrette",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "guillaume-bouvrette",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "guillaume-bouvrette",
+   "target": "sfpq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "guillaume-bouvrette",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -16203,6 +17451,54 @@
    ]
   },
   {
+   "source": "karim-al-dahdah",
+   "target": "ligue-monarchiste",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "karim-al-dahdah",
+   "target": "manon-jeannotte",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "karim-al-dahdah",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "karim-al-dahdah",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
    "source": "karine-millaire",
    "target": "manon-jeannotte",
    "weight": 1,
@@ -16419,6 +17715,42 @@
    ]
   },
   {
+   "source": "ligue-monarchiste",
+   "target": "manon-jeannotte",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "ligue-monarchiste",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "ligue-monarchiste",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
    "source": "loto-quebec",
    "target": "sylvain-leduc",
    "weight": 1,
@@ -16588,6 +17920,18 @@
   },
   {
    "source": "manon-jeannotte",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "manon-jeannotte",
    "target": "patrick-taillon",
    "weight": 1,
    "stories": [
@@ -16619,6 +17963,30 @@
      "date": "2026-10-22",
      "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
      "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    }
+   ]
+  },
+  {
+   "source": "marcel-chartrand",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Western Quebec medical centre shuts down after years of staff shortages",
+     "url": "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001"
+    }
+   ]
+  },
+  {
+   "source": "marcel-chartrand",
+   "target": "vigi-sante-collines",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Western Quebec medical centre shuts down after years of staff shortages",
+     "url": "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001"
     }
    ]
   },
@@ -16924,18 +18292,6 @@
   },
   {
    "source": "mark-carney",
-   "target": "pascal-paradis",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
-    }
-   ]
-  },
-  {
-   "source": "mark-carney",
    "target": "pauline-marois",
    "weight": 1,
    "stories": [
@@ -17123,6 +18479,30 @@
      "date": "2026-10-25",
      "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
      "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "source": "mcn",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "mcn",
+   "target": "stephane-le-bouyonnec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -17572,7 +18952,7 @@
   },
   {
    "source": "pascal-paradis",
-   "target": "pspp",
+   "target": "union-europeenne",
    "weight": 1,
    "stories": [
     {
@@ -17583,14 +18963,50 @@
    ]
   },
   {
-   "source": "pascal-paradis",
-   "target": "union-europeenne",
+   "source": "patrick-audy",
+   "target": "pq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Sommet Canada-Union européenne – St-Pierre Plamondon menace d’ignorer une entente Canada-UE",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/sommet-canada-union-europeenne/st-pierre-plamondon-menace-d-ignorer-une-entente-canada-ue.php"
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "patrick-audy",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "patrick-audy",
+   "target": "sfpq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "patrick-audy",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -17860,6 +19276,18 @@
   },
   {
    "source": "pq",
+   "target": "sfpq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "pq",
    "target": "sol-zanetti",
    "weight": 1,
    "stories": [
@@ -17867,6 +19295,30 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "stephane-le-bouyonnec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     }
    ]
   },
@@ -17968,6 +19420,18 @@
   },
   {
    "source": "pspp",
+   "target": "sfpq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "simon-pierre-savard-tremblay",
    "weight": 1,
    "stories": [
@@ -17987,6 +19451,18 @@
      "date": "2026-10-22",
      "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -18339,6 +19815,18 @@
    ]
   },
   {
+   "source": "sante-quebec",
+   "target": "vigi-sante-collines",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Western Quebec medical centre shuts down after years of staff shortages",
+     "url": "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001"
+    }
+   ]
+  },
+  {
    "source": "saq",
    "target": "semb-saq",
    "weight": 1,
@@ -18435,6 +19923,18 @@
    ]
   },
   {
+   "source": "sfpq",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
    "source": "sherbrooke-refuse",
    "target": "ville-sherbrooke",
    "weight": 1,
@@ -18443,6 +19943,18 @@
      "date": "2026-10-30",
      "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "source": "sim",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
     }
    ]
   },

@@ -423,6 +423,17 @@
      "source_type": "media",
      "post": "2026-10-30",
      "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "Radio-Canada reports that no chief information officer has been designated since the Ministry of Cybersecurity and Digital Affairs’ deputy minister was not kept on; the role can order audits of IT projects in trouble.",
+     "fr": "Radio-Canada rapporte qu’aucun dirigeant principal de l’information n’a été désigné depuis que le sous-ministre de la Cybersécurité et du Numérique n’a pas été reconduit; ce rôle permet d’ordonner des audits des projets informatiques en difficulté.",
+     "source_title": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique",
+     "source_type": "media",
+     "post": "2026-11-02",
+     "background": false
     }
    ],
    "tldr": {
@@ -435,8 +446,8 @@
      "fr": "Les contrats sans concurrence ouverte sont payés avec des fonds publics. SAAQclic a montré comment les coûts peuvent grimper."
     },
     "now": {
-     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects.",
-     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État."
+     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board, and no chief information officer has been designated.",
+     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor, et aucun dirigeant principal de l’information n’a été désigné."
     }
    }
   },
@@ -603,6 +614,17 @@
      "source_type": "media",
      "post": "2026-10-30",
      "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "Radio-Canada reports that the premier plans to deliver his opening speech on Nov. 17 without Lieutenant Governor Manon Jeannotte present.",
+     "fr": "Radio-Canada rapporte que le premier ministre prévoit prononcer son discours d’ouverture le 17 novembre sans la présence de la lieutenante-gouverneure, Manon Jeannotte.",
+     "source_title": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie",
+     "source_type": "media",
+     "post": "2026-11-02",
+     "background": false
     }
    ],
    "tldr": {
@@ -615,8 +637,8 @@
      "fr": "La cause pourrait influer sur le moment où l’Assemblée nationale commence ses travaux après l’élection."
     },
     "now": {
-     "en": "The Superior Court heard the case. A ruling is expected by Nov. 24. MNAs must also find a way to open the session without the Lieutenant Governor.",
-     "fr": "La Cour supérieure a entendu la cause. Une décision est attendue d’ici le 24 novembre. Les députés doivent aussi trouver comment ouvrir la session sans la lieutenante-gouverneure."
+     "en": "The Superior Court heard the case. A ruling is expected by Nov. 24. The premier plans to deliver his opening speech on Nov. 17 without the Lieutenant Governor present.",
+     "fr": "La Cour supérieure a entendu la cause. Une décision est attendue d’ici le 24 novembre. Le premier ministre prévoit prononcer son discours d’ouverture le 17 novembre sans la présence de la lieutenante-gouverneure."
     }
    }
   },
@@ -1294,6 +1316,28 @@
      "source_type": "media",
      "post": "2026-11-01",
      "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "Radio-Canada reports that the government is dismantling the Ministry of Cybersecurity and Digital Affairs and has moved its staff to the Treasury Board before any vote in the National Assembly; a bill will be needed.",
+     "fr": "Radio-Canada rapporte que le gouvernement démantèle le ministère de la Cybersécurité et du Numérique et a transféré ses employés au Conseil du trésor avant tout vote à l’Assemblée nationale; un projet de loi sera nécessaire.",
+     "source_title": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique",
+     "source_type": "media",
+     "post": "2026-11-02",
+     "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "Treasury Board president Alain Therrien’s office says the rule requiring public servants to work at the office at least three days a week will not be reviewed for now.",
+     "fr": "Le cabinet du président du Conseil du trésor, Alain Therrien, indique que la règle exigeant des fonctionnaires au moins trois jours par semaine au bureau ne sera pas revue pour le moment.",
+     "source_title": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "source_outlet": "Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau",
+     "source_type": "media",
+     "post": "2026-11-02",
+     "background": false
     }
    ],
    "tldr": {
@@ -1306,8 +1350,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Québec solidaire asks the government to cancel Jacinthe-Eve Arel’s appointment as chief of staff; a widely shared quote attributed to her turned out to be fake. Stéphan La Roche becomes deputy minister of Culture on Nov. 9.",
-     "fr": "Québec solidaire demande au gouvernement d’annuler la nomination de Jacinthe-Eve Arel comme directrice de cabinet; une citation qui lui était attribuée et largement diffusée s’est révélée fausse. Stéphan La Roche devient sous-ministre de la Culture le 9 novembre."
+     "en": "The government is moving the Ministry of Cybersecurity and Digital Affairs’ staff to the Treasury Board before a vote in the Assembly, and keeps three office days a week for public servants. Stéphan La Roche becomes deputy minister of Culture on Nov. 9.",
+     "fr": "Le gouvernement transfère les employés du ministère de la Cybersécurité et du Numérique au Conseil du trésor avant un vote à l’Assemblée et maintient trois jours de présence au bureau pour les fonctionnaires. Stéphan La Roche devient sous-ministre de la Culture le 9 novembre."
     }
    }
   },
@@ -2198,8 +2242,8 @@
      "fr": "Québec dit que les discussions touchent ses champs de compétence. Ottawa dit qu’il s’agit d’un sommet fédéral et qu’un discours créerait un précédent."
     },
     "now": {
-     "en": "The summit launched an Alliance for the Future and talks on an associate-member status for Canada; the Bloc Québécois says Quebec must be part of them. Carney wants to meet the premier before the Francophonie Summit.",
-     "fr": "Le sommet a lancé une Alliance pour l’avenir et des négociations sur un statut de membre associé pour le Canada; le Bloc québécois dit que le Québec doit y prendre part. M. Carney veut rencontrer le premier ministre avant le Sommet de la Francophonie."
+     "en": "The summit launched an Alliance for the Future and talks on an associate-member status for Canada; the Bloc Québécois says Quebec must be part of them. The premier accepts Carney’s invitation to meet before the Francophonie Summit, but wants the meeting held in Quebec City.",
+     "fr": "Le sommet a lancé une Alliance pour l’avenir et des négociations sur un statut de membre associé pour le Canada; le Bloc québécois dit que le Québec doit y prendre part. Le premier ministre accepte l’invitation de M. Carney à se rencontrer avant le Sommet de la Francophonie, mais veut que la rencontre ait lieu à Québec."
     }
    },
    "events": [
@@ -2256,6 +2300,17 @@
      "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php",
      "source_type": "media",
      "post": "2026-10-31",
+     "background": false
+    },
+    {
+     "date": "2026-11-01",
+     "en": "Premier St-Pierre Plamondon accepts Mark Carney’s invitation to meet before the Francophonie Summit, on condition that the meeting take place in Quebec City.",
+     "fr": "Le premier ministre St-Pierre Plamondon accepte l’invitation de Mark Carney à se rencontrer avant le Sommet de la Francophonie, à condition que la rencontre ait lieu à Québec.",
+     "source_title": "Rencontre Québec-Ottawa | Paul St-Pierre Plamondon accepte l’invitation de Mark Carney",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php",
+     "source_type": "media",
+     "post": "2026-11-02",
      "background": false
     }
    ]

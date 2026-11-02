@@ -591,6 +591,46 @@
    "category": "government",
    "importance": 2,
    "title_fr": "L’environnement au cœur du tout premier Sommet des Laurentides"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "The PQ dismantles the Ministry of Cybersecurity and Digital Affairs"
+  },
+  "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_fr": "L’Isle-aux-Coudres déclare l’état d’urgence local après le bris de son traversier"
+  },
+  "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Less telework for public servants: the PQ will keep requiring 3 days a week at the office"
+  },
+  "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Montreal firefighters are taking longer and longer to respond to calls"
+  },
+  "https://www.cbc.ca/news/canada/ottawa/western-quebec-medical-centre-shuts-down-after-years-of-staff-shortages-9.7405001": {
+   "category": "health",
+   "importance": 3,
+   "title_fr": "Un centre médical de l’ouest du Québec ferme après des années de pénurie de personnel"
+  },
+  "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Windfall gold deposit – Green light for a 3-billion project"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-01/rencontre-quebec-ottawa/paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Quebec–Ottawa meeting – Paul St-Pierre Plamondon accepts Mark Carney’s invitation"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Mark Carney with King Charles III amid an anti-monarchist revolt in Quebec City"
   }
  }
 }

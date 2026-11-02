@@ -1774,6 +1774,113 @@
    "aliases": [
     "SNAP Quebec"
    ]
+  },
+  "mcn": {
+   "name": "Ministère de la Cybersécurité et du Numérique",
+   "type": "organization",
+   "aliases": [
+    "MCN",
+    "ministère de la Cybersécurité et du Numérique",
+    "Ministry of Cybersecurity and Digital Affairs"
+   ]
+  },
+  "gilles-belanger": {
+   "name": "Gilles Bélanger",
+   "type": "person",
+   "aliases": [
+    "Bélanger"
+   ]
+  },
+  "stephane-le-bouyonnec": {
+   "name": "Stéphane Le Bouyonnec",
+   "type": "person",
+   "aliases": [
+    "Le Bouyonnec"
+   ]
+  },
+  "caroline-simard": {
+   "name": "Caroline Simard",
+   "type": "person",
+   "aliases": []
+  },
+  "christyan-dufour": {
+   "name": "Christyan Dufour",
+   "type": "person",
+   "aliases": [
+    "Dufour"
+   ]
+  },
+  "sfpq": {
+   "name": "Syndicat de la fonction publique et parapublique du Québec",
+   "type": "organization",
+   "aliases": [
+    "SFPQ"
+   ]
+  },
+  "spgq": {
+   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
+   "type": "organization",
+   "aliases": [
+    "SPGQ"
+   ]
+  },
+  "patrick-audy": {
+   "name": "Patrick Audy",
+   "type": "person",
+   "aliases": [
+    "Audy"
+   ]
+  },
+  "guillaume-bouvrette": {
+   "name": "Guillaume Bouvrette",
+   "type": "person",
+   "aliases": [
+    "Bouvrette"
+   ]
+  },
+  "association-pompiers-montreal": {
+   "name": "Association des pompiers de Montréal",
+   "type": "organization",
+   "aliases": []
+  },
+  "marcel-chartrand": {
+   "name": "Marcel Chartrand",
+   "type": "person",
+   "aliases": [
+    "Chartrand"
+   ]
+  },
+  "vigi-sante-collines": {
+   "name": "Vigi Santé des Collines",
+   "type": "organization",
+   "aliases": []
+  },
+  "gold-fields": {
+   "name": "Gold Fields",
+   "type": "organization",
+   "aliases": []
+  },
+  "melccfp": {
+   "name": "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs",
+   "type": "organization",
+   "aliases": [
+    "ministère de l’Environnement",
+    "Environment ministry"
+   ]
+  },
+  "karim-al-dahdah": {
+   "name": "Karim Al-Dahdah",
+   "type": "person",
+   "aliases": [
+    "Al-Dahdah"
+   ]
+  },
+  "ligue-monarchiste": {
+   "name": "Ligue monarchiste du Canada",
+   "type": "organization",
+   "aliases": [
+    "Monarchist League of Canada"
+   ]
   }
  },
  "stories": [
@@ -3328,6 +3435,110 @@
    ],
    "checked_by_hand": false,
    "dossiers": []
+  },
+  {
+   "match": "2297473/pq-demante-ministere-cybersecurite-numerique",
+   "entities": [
+    "mcn",
+    "conseil-tresor",
+    "alain-therrien",
+    "anne-nguyen",
+    "gilles-belanger",
+    "stephane-le-bouyonnec",
+    "france-elaine-duranceau",
+    "pq",
+    "assemblee-nationale"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition",
+    "it-procurement"
+   ]
+  },
+  {
+   "match": "isle-aux-coudres-state-of-emergency-broken-ferry",
+   "entities": [
+    "stq",
+    "caroline-simard",
+    "christyan-dufour"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "teletravail-reduit-pour-les-fonctionnaires",
+   "entities": [
+    "conseil-tresor",
+    "alain-therrien",
+    "sfpq",
+    "spgq",
+    "patrick-audy",
+    "guillaume-bouvrette",
+    "pspp",
+    "caq",
+    "pq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps",
+   "entities": [
+    "sim",
+    "association-pompiers-montreal",
+    "spvm"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "western-quebec-medical-centre-shuts-down",
+   "entities": [
+    "marcel-chartrand",
+    "vigi-sante-collines",
+    "sante-quebec"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "gisement-d-or-windfall/feu-vert",
+   "entities": [
+    "gold-fields",
+    "melccfp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "paul-st-pierre-plamondon-accepte-l-invitation-de-mark-carney",
+   "entities": [
+    "pspp",
+    "mark-carney",
+    "charles-milliard",
+    "pascal-paradis"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "canada-eu-summit"
+   ]
+  },
+  {
+   "match": "2297462/mark-carney-sommet-commonwealth-pspp-monarchie",
+   "entities": [
+    "mark-carney",
+    "charles-iii",
+    "pspp",
+    "manon-jeannotte",
+    "karim-al-dahdah",
+    "ligue-monarchiste"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "oath-king"
+   ]
   }
  ]
 }
