@@ -1881,6 +1881,123 @@
    "aliases": [
     "Monarchist League of Canada"
    ]
+  },
+  "dave-rheaume": {
+   "name": "Dave Rhéaume",
+   "type": "person",
+   "aliases": [
+    "Rhéaume"
+   ]
+  },
+  "paule-de-blois": {
+   "name": "Paule De Blois",
+   "type": "person",
+   "aliases": [
+    "De Blois"
+   ]
+  },
+  "alain-sans-cartier": {
+   "name": "Alain Sans Cartier",
+   "type": "person",
+   "aliases": [
+    "Sans Cartier"
+   ]
+  },
+  "daniel-pare": {
+   "name": "Daniel Paré",
+   "type": "person",
+   "aliases": []
+  },
+  "david-bahan": {
+   "name": "David Bahan",
+   "type": "person",
+   "aliases": [
+    "Bahan"
+   ]
+  },
+  "patrick-dube": {
+   "name": "Patrick Dubé",
+   "type": "person",
+   "aliases": []
+  },
+  "conseil-executif": {
+   "name": "Ministère du Conseil exécutif",
+   "type": "organization",
+   "aliases": [
+    "Conseil exécutif"
+   ]
+  },
+  "mifi": {
+   "name": "Ministère de l’Immigration, de la Francisation et de l’Intégration",
+   "type": "organization",
+   "aliases": [
+    "ministère de l’Immigration",
+    "ministère de l'Immigration",
+    "MIFI",
+    "Immigration Ministry"
+   ]
+  },
+  "le-quebec-cest-nous-aussi": {
+   "name": "Le Québec, c’est nous aussi",
+   "type": "organization",
+   "aliases": [
+    "Le Québec, c'est nous aussi"
+   ]
+  },
+  "eleni-yiannakis": {
+   "name": "Eleni Yiannakis",
+   "type": "person",
+   "aliases": [
+    "Yiannakis"
+   ]
+  },
+  "rqra": {
+   "name": "Regroupement québécois des résidences pour aînés",
+   "type": "organization",
+   "aliases": [
+    "RQRA"
+   ]
+  },
+  "chaur": {
+   "name": "Centre hospitalier affilié universitaire régional (CHAUR)",
+   "type": "organization",
+   "aliases": [
+    "CHAUR",
+    "Centre hospitalier affilié universitaire régional"
+   ]
+  },
+  "conseil-protection-malades": {
+   "name": "Conseil pour la protection des malades",
+   "type": "organization",
+   "aliases": []
+  },
+  "paul-brunet": {
+   "name": "Paul Brunet",
+   "type": "person",
+   "aliases": [
+    "Brunet"
+   ]
+  },
+  "protecteur-citoyen": {
+   "name": "Protecteur du citoyen",
+   "type": "organization",
+   "aliases": [
+    "Quebec Ombudsman"
+   ]
+  },
+  "bruno-marchand": {
+   "name": "Bruno Marchand",
+   "type": "person",
+   "aliases": [
+    "Marchand"
+   ]
+  },
+  "pierre-paul-hus": {
+   "name": "Pierre Paul-Hus",
+   "type": "person",
+   "aliases": [
+    "Paul-Hus"
+   ]
   }
  },
  "stories": [
@@ -3538,6 +3655,149 @@
    "checked_by_hand": false,
    "dossiers": [
     "oath-king"
+   ]
+  },
+  {
+   "match": "hausse-de-production/hydro-quebec-manque-de-jus",
+   "entities": [
+    "hydro-quebec",
+    "regie-energie",
+    "dave-rheaume"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "coup-de-balai-dans-la-haute-fonction-publique",
+   "entities": [
+    "pq",
+    "stephane-le-bouyonnec",
+    "caq",
+    "mcn",
+    "paule-de-blois",
+    "alain-sans-cartier",
+    "daniel-pare",
+    "conseil-executif",
+    "genevieve-biron",
+    "sante-quebec",
+    "david-bahan",
+    "patrick-dube"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "sebastien-dastous-explique-comment-il-compte-degraisser-letat",
+   "entities": [
+    "sebastien-dastous",
+    "jacinthe-eve-arel"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "des-milliers-d-immigrants-plonges-dans-l-incertitude",
+   "entities": [
+    "mifi",
+    "le-quebec-cest-nous-aussi",
+    "caq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "judge-denies-request-to-suspend-montreal-bylaw-banning-insults",
+   "entities": [
+    "cour-superieure",
+    "eleni-yiannakis",
+    "ville-montreal"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2297634/spvm-congediement-sept-policiers",
+   "entities": [
+    "spvm",
+    "fady-dagher",
+    "ville-montreal",
+    "dpcp",
+    "soraya-martinez-ferrada"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "spvm-pdq39",
+    "spvm-pdq21"
+   ]
+  },
+  {
+   "match": "2297604/residences-privees-aines-primes-salariales",
+   "entities": [
+    "rqra",
+    "msss"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2297661/accouchement-trois-rivieres-facturation",
+   "entities": [
+    "chaur",
+    "protecteur-citoyen",
+    "conseil-protection-malades",
+    "paul-brunet"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2297572/pspp-carney-premiere-rencontre-quebec",
+   "entities": [
+    "mark-carney",
+    "pspp",
+    "bruno-marchand",
+    "pierre-paul-hus"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "canada-eu-summit"
+   ]
+  },
+  {
+   "match": "fonctionnaires-3-jours-semaine-au-bureau-pspp-empire",
+   "entities": [
+    "qs",
+    "etienne-grandmont",
+    "alain-therrien",
+    "conseil-tresor",
+    "pspp"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue",
+   "entities": [
+    "mcn",
+    "qs",
+    "etienne-grandmont",
+    "alain-therrien",
+    "conseil-tresor",
+    "assemblee-nationale",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition",
+    "it-procurement"
    ]
   }
  ]

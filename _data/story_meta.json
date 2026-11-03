@@ -631,6 +631,61 @@
    "category": "government",
    "importance": 3,
    "title_en": "Mark Carney with King Charles III amid an anti-monarchist revolt in Quebec City"
+  },
+  "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "Production increase: Hydro-Québec is short of power"
+  },
+  "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique": {
+   "category": "government",
+   "importance": 5,
+   "title_en": "Early departures and severance: a clean sweep in the senior public service"
+  },
+  "https://www.noovo.info/nouvelles/politique/article/sebastien-dastous-explique-comment-il-compte-degraisser-letat/": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Sébastien D’Astous explains how he plans to “trim the fat” from the state"
+  },
+  "https://www.lapresse.ca/actualites/2026-11-03/programme-de-l-experience-quebecoise/des-milliers-d-immigrants-plonges-dans-l-incertitude.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Quebec Experience Program: thousands of immigrants left in uncertainty"
+  },
+  "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942": {
+   "category": "justice",
+   "importance": 2,
+   "title_fr": "Une juge refuse de suspendre le règlement montréalais interdisant les insultes envers les policiers"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "Misconduct allegations: SPVM fires 7 officers"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297604/residences-privees-aines-primes-salariales-gouvernement": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "End of a pandemic-era premium worries private seniors’ residence owners"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297661/accouchement-trois-rivieres-facturation": {
+   "category": "health",
+   "importance": 2,
+   "title_en": "In a coma, but still billed for her private room"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Meeting with PSPP: not possible in Quebec City before December, Carney replies"
+  },
+  "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Public servants in the office 3 days a week: PSPP “worsens traffic congestion,” QS says"
+  },
+  "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Ministry of Cybersecurity and Digital Affairs dismantled: the PQ “flouts principles,” QS says"
   }
  }
 }

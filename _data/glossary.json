@@ -319,6 +319,27 @@
     "appareils de loterie vidéo",
     "appareil de loterie vidéo"
    ]
+  },
+  {
+   "id": "rpa",
+   "term_en": "Private seniors’ residence (RPA)",
+   "term_fr": "Résidence privée pour aînés (RPA)",
+   "def_en": "A rental facility occupied mainly by people aged 65 or over, where services such as nursing care, meals, housekeeping or recreation are offered. The name is reserved for residences holding a certificate of compliance issued by the Government of Québec.",
+   "def_fr": "Immeuble locatif occupé principalement par des personnes âgées de 65 ans ou plus, où sont offerts des services comme des soins infirmiers, des repas, l’entretien ménager ou des loisirs. L’appellation est réservée aux résidences titulaires d’un certificat de conformité délivré par le gouvernement du Québec.",
+   "source_en": "https://www.quebec.ca/en/housing-territory/renting/private-seniors-residences",
+   "source_fr": "https://www.quebec.ca/habitation-territoire/location/residences-privees-aines",
+   "source_label": "Gouvernement du Québec (Québec.ca)",
+   "match_en": [
+    "private seniors’ residences",
+    "private seniors’ residence",
+    "RPAs",
+    "RPA"
+   ],
+   "match_fr": [
+    "résidences privées pour aînés",
+    "résidence privée pour aînés",
+    "RPA"
+   ]
   }
  ]
 }

@@ -48,7 +48,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-10-30": ["crown-corporations", "procurement"],
         "2026-10-31": ["it-digital", "crown-corporations"],
         "2026-11-01": ["crown-corporations"],
-        "2026-11-02": ["it-digital", "crown-corporations"]}
+        "2026-11-02": ["it-digital", "crown-corporations"],
+        "2026-11-03": ["crown-corporations", "it-digital"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -77,6 +78,8 @@ SUMMARY = {
                 "Hydro-Québec acknowledges longer connection delays in Abitibi-Témiscamingue; five deaths in five years at recycler AIM; a fake quote attributed to Jacinthe-Eve Arel; federal by-elections on Dec. 7, three in Quebec; three mayors want a naval base in the Lower St. Lawrence; first Laurentians Summit on climate."),
  "2026-11-02": ("Le PQ démantèle le ministère de la Cybersécurité et du Numérique et transfère ses employés au Conseil du trésor; état d’urgence à L’Isle-aux-Coudres après le bris du traversier de la STQ; Québec maintient trois jours de présence au bureau pour les fonctionnaires; temps de réponse en hausse chez les pompiers de Montréal; fermeture du Centre médical familial de Wakefield; feu vert au projet aurifère Windfall; suivis : PSPP accepte de rencontrer Mark Carney, à Québec, et prévoit son discours d’ouverture sans la lieutenante-gouverneure.",
                 "The PQ dismantles the Ministry of Cybersecurity and Digital Affairs and moves its staff to the Treasury Board; state of emergency on Isle-aux-Coudres after the STQ ferry breaks down; Quebec keeps three office days a week for public servants; Montreal fire response times rise; Wakefield Family Medical Centre closes; green light for the Windfall gold project; follow-ups: PSPP agrees to meet Mark Carney, in Quebec City, and plans his opening speech without the lieutenant governor."),
+ "2026-11-03": ("Hydro-Québec repousse à 2041 sa hausse de production et prévoit importer de l’électricité presque tout au long de son plan; primes de départ dans la haute fonction publique; Sébastien D’Astous promet des abolitions de postes; incertitude après la fermeture du PEQ; Montréal : sept policiers congédiés et règlement anti-insultes maintenu; fin des primes en RPA; suivis : dates proposées pour une rencontre Carney–St-Pierre Plamondon, Therrien ouvert à discuter du télétravail, QS dénonce le démantèlement du ministère de la Cybersécurité et du Numérique.",
+                "Hydro-Québec pushes its production increase back to 2041 and plans to import electricity for almost all of its plan; severance payments in the senior public service; Sébastien D’Astous promises job cuts; uncertainty after the PEQ closes; Montreal: seven police officers fired and the anti-insult bylaw stays in force; end of the RPA wage premium; follow-ups: dates proposed for a Carney–St-Pierre Plamondon meeting, Therrien open to talks on telework, QS denounces the dismantling of the Ministry of Cybersecurity and Digital Affairs."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

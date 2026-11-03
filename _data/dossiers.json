@@ -276,6 +276,17 @@
      "source_type": "media",
      "post": "2026-10-30",
      "background": false
+    },
+    {
+     "date": "2026-11-03",
+     "en": "Hydro-Québec files its 2027-2041 supply plan with the Régie de l’énergie; according to La Presse, its production-increase target moves from 2035 to 2041 and it expects to import electricity for almost the whole plan.",
+     "fr": "Hydro-Québec dépose son plan d’approvisionnement 2027-2041 à la Régie de l’énergie; selon La Presse, son objectif de hausse de production passe de 2035 à 2041 et elle prévoit importer de l’électricité pendant presque toute la durée du plan.",
+     "source_title": "Hausse de production | Hydro-Québec manque de jus",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php",
+     "source_type": "media",
+     "post": "2026-11-03",
+     "background": false
     }
    ],
    "tldr": {
@@ -288,8 +299,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "A judge struck down the government’s orders on data-centre rates; a Régie decision is expected in 2027. The overtime strike is set to end on Nov. 2, and Hydro-Québec says it is one reason for longer connection delays in Abitibi-Témiscamingue. Newfoundland and Labrador’s premier says the Churchill Falls deal will not be renegotiated.",
-     "fr": "Une juge a annulé les décrets du gouvernement sur les tarifs des centres de données; une décision de la Régie est attendue en 2027. La grève des heures supplémentaires doit prendre fin le 2 novembre; Hydro-Québec y voit une des raisons des délais de raccordement plus longs en Abitibi-Témiscamingue. Le premier ministre de Terre-Neuve-et-Labrador affirme que l’entente de Churchill Falls ne sera pas renégociée."
+     "en": "Hydro-Québec has filed its 2027-2041 supply plan with the Régie: its production-increase target moves to 2041, and it expects to import electricity for almost the whole plan. A judge struck down the government’s orders on data-centre rates; a Régie decision is expected in 2027. Newfoundland and Labrador’s premier says the Churchill Falls deal will not be renegotiated.",
+     "fr": "Hydro-Québec a déposé son plan d’approvisionnement 2027-2041 à la Régie : son objectif de hausse de production passe à 2041, et elle prévoit importer de l’électricité pendant presque toute la durée du plan. Une juge a annulé les décrets du gouvernement sur les tarifs des centres de données; une décision de la Régie est attendue en 2027. Le premier ministre de Terre-Neuve-et-Labrador affirme que l’entente de Churchill Falls ne sera pas renégociée."
     }
    }
   },
@@ -434,6 +445,17 @@
      "source_type": "media",
      "post": "2026-11-02",
      "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "Québec solidaire says dismantling the Ministry of Cybersecurity and Digital Affairs without the Assembly’s approval flouts accountability; Treasury Board president Alain Therrien replies on X that nothing done so far required a bill and that a bill will follow once the new structure is in place.",
+     "fr": "Québec solidaire estime que le démantèlement du ministère de la Cybersécurité et du Numérique sans l’accord de l’Assemblée bafoue la reddition de compte; le président du Conseil du trésor, Alain Therrien, répond sur X que rien de ce qui a été fait ne nécessitait de projet de loi et qu’un projet de loi suivra une fois la nouvelle structure en place.",
+     "source_title": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/",
+     "source_type": "media",
+     "post": "2026-11-03",
+     "background": false
     }
    ],
    "tldr": {
@@ -446,8 +468,8 @@
      "fr": "Les contrats sans concurrence ouverte sont payés avec des fonds publics. SAAQclic a montré comment les coûts peuvent grimper."
     },
     "now": {
-     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board, and no chief information officer has been designated.",
-     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor, et aucun dirigeant principal de l’information n’a été désigné."
+     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board; the Treasury Board president says a bill will follow once the new structure is in place. No chief information officer has been designated.",
+     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor; le président du Conseil du trésor dit qu’un projet de loi suivra une fois la nouvelle structure en place. Aucun dirigeant principal de l’information n’a été désigné."
     }
    }
   },
@@ -1338,6 +1360,50 @@
      "source_type": "media",
      "post": "2026-11-02",
      "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "In an interview with Noovo Info, Government Efficiency Minister Sébastien D’Astous says jobs will be cut, starting with “small bites.”",
+     "fr": "En entrevue avec Noovo Info, le ministre de l’Efficacité gouvernementale, Sébastien D’Astous, affirme que des emplois seront supprimés, en commençant par « de petites bouchées ».",
+     "source_title": "Sébastien D’Astous explique comment il compte «dégraisser» l’État",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/politique/article/sebastien-dastous-explique-comment-il-compte-degraisser-letat/",
+     "source_type": "media",
+     "post": "2026-11-03",
+     "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "Treasury Board president Alain Therrien tells LCN the three-office-days rule is not “final” and that he will meet the unions.",
+     "fr": "Le président du Conseil du trésor, Alain Therrien, dit à LCN que la règle des trois jours au bureau n’est pas « définitive » et qu’il rencontrera les syndicats.",
+     "source_title": "Fonctionnaires au bureau 3 jours par semaine: PSPP «empire la congestion routière», dénonce QS",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs",
+     "source_type": "media",
+     "post": "2026-11-03",
+     "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "Québec solidaire says dismantling the Ministry of Cybersecurity and Digital Affairs without the Assembly’s approval flouts accountability; Treasury Board president Alain Therrien replies on X that nothing done so far required a bill and that a bill will follow once the new structure is in place.",
+     "fr": "Québec solidaire estime que le démantèlement du ministère de la Cybersécurité et du Numérique sans l’accord de l’Assemblée bafoue la reddition de compte; le président du Conseil du trésor, Alain Therrien, répond sur X que rien de ce qui a été fait ne nécessitait de projet de loi et qu’un projet de loi suivra une fois la nouvelle structure en place.",
+     "source_title": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/",
+     "source_type": "media",
+     "post": "2026-11-03",
+     "background": false
+    },
+    {
+     "date": "2026-11-03",
+     "en": "The Journal de Québec reports that the government ended deputy minister Stéphane Le Bouyonnec’s contract mandate early, with a $214,000 severance, and that other senior officials hired on contract also lost their posts.",
+     "fr": "Le Journal de Québec rapporte que le gouvernement a résilié avant terme le mandat du sous-ministre Stéphane Le Bouyonnec, avec une indemnité de 214 000 $, et que d’autres hauts dirigeants embauchés à contrat ont aussi perdu leur poste.",
+     "source_title": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique",
+     "source_type": "media",
+     "post": "2026-11-03",
+     "background": false
     }
    ],
    "tldr": {
@@ -1350,8 +1416,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "The government is moving the Ministry of Cybersecurity and Digital Affairs’ staff to the Treasury Board before a vote in the Assembly, and keeps three office days a week for public servants. Stéphan La Roche becomes deputy minister of Culture on Nov. 9.",
-     "fr": "Le gouvernement transfère les employés du ministère de la Cybersécurité et du Numérique au Conseil du trésor avant un vote à l’Assemblée et maintient trois jours de présence au bureau pour les fonctionnaires. Stéphan La Roche devient sous-ministre de la Culture le 9 novembre."
+     "en": "The government ended some contract deputy ministers’ mandates early, with severance, and is moving the Ministry of Cybersecurity and Digital Affairs’ staff to the Treasury Board before an Assembly vote; a bill is to follow. The three-office-days rule stays for now, but the Treasury Board president says it is not final. Stéphan La Roche becomes deputy minister of Culture on Nov. 9.",
+     "fr": "Le gouvernement a mis fin avant terme au mandat de sous-ministres embauchés à contrat, avec des indemnités, et transfère les employés du ministère de la Cybersécurité et du Numérique au Conseil du trésor avant un vote à l’Assemblée; un projet de loi doit suivre. La règle des trois jours au bureau est maintenue pour l’instant, mais le président du Conseil du trésor dit qu’elle n’est pas définitive. Stéphan La Roche devient sous-ministre de la Culture le 9 novembre."
     }
    }
   },
@@ -2115,8 +2181,8 @@
      "fr": "La population doit pouvoir faire confiance à la police. Le ministre dit qu’une enquête externe aide à préserver cette confiance."
     },
     "now": {
-     "en": "The BEI and the police ethics commissioner are each investigating the first officer.",
-     "fr": "Le BEI et le Commissaire à la déontologie policière enquêtent chacun sur le premier policier."
+     "en": "Two officers from this station were among seven SPVM officers fired on Nov. 2. The BEI and the police ethics commissioner are each investigating the first officer.",
+     "fr": "Deux policiers de ce poste font partie des sept policiers du SPVM congédiés le 2 novembre. Le BEI et le Commissaire à la déontologie policière enquêtent chacun sur le premier policier."
     }
    },
    "events": [
@@ -2151,6 +2217,17 @@
      "source_url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm",
      "source_type": "media",
      "post": "2026-10-26",
+     "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "SPVM chief Fady Dagher announces the administrative dismissal of seven officers, five from PDQ 39 and two from PDQ 21, over allegations of discriminatory and racist conduct; any criminal charges are up to the DPCP.",
+     "fr": "Le directeur du SPVM, Fady Dagher, annonce le congédiement administratif de sept policiers, cinq du PDQ 39 et deux du PDQ 21, en lien avec des allégations de comportements discriminatoires et racistes; le dépôt d’accusations criminelles relève du DPCP.",
+     "source_title": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve",
+     "source_type": "media",
+     "post": "2026-11-03",
      "background": false
     }
    ]
@@ -2242,8 +2319,8 @@
      "fr": "Québec dit que les discussions touchent ses champs de compétence. Ottawa dit qu’il s’agit d’un sommet fédéral et qu’un discours créerait un précédent."
     },
     "now": {
-     "en": "The summit launched an Alliance for the Future and talks on an associate-member status for Canada; the Bloc Québécois says Quebec must be part of them. The premier accepts Carney’s invitation to meet before the Francophonie Summit, but wants the meeting held in Quebec City.",
-     "fr": "Le sommet a lancé une Alliance pour l’avenir et des négociations sur un statut de membre associé pour le Canada; le Bloc québécois dit que le Québec doit y prendre part. Le premier ministre accepte l’invitation de M. Carney à se rencontrer avant le Sommet de la Francophonie, mais veut que la rencontre ait lieu à Québec."
+     "en": "The summit launched an Alliance for the Future and talks on an associate-member status for Canada; the Bloc Québécois says Quebec must be part of them. The premier wants to meet Carney in Quebec City; according to a government source, Carney’s office proposed three dates elsewhere, with Quebec City only possible in December or over the New Year.",
+     "fr": "Le sommet a lancé une Alliance pour l’avenir et des négociations sur un statut de membre associé pour le Canada; le Bloc québécois dit que le Québec doit y prendre part. Le premier ministre veut rencontrer M. Carney à Québec; selon une source gouvernementale, le bureau de M. Carney a proposé trois dates ailleurs, une rencontre à Québec n’étant possible qu’en décembre ou durant le Nouvel An."
     }
    },
    "events": [
@@ -2312,6 +2389,17 @@
      "source_type": "media",
      "post": "2026-11-02",
      "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "According to a government source cited by Radio-Canada, Mark Carney’s office proposes three meeting dates outside Quebec City; a meeting in Quebec City would only be possible in December or over the New Year.",
+     "fr": "Selon une source gouvernementale citée par Radio-Canada, le bureau de Mark Carney propose trois dates de rencontre hors de Québec; une rencontre à Québec ne serait possible qu’en décembre ou durant le Nouvel An.",
+     "source_title": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec",
+     "source_type": "media",
+     "post": "2026-11-03",
+     "background": false
     }
    ]
   },
@@ -2338,8 +2426,8 @@
      "fr": "La population doit pouvoir compter sur la police pour protéger la preuve. La mairesse dit que sa confiance est ébranlée."
     },
     "now": {
-     "en": "A criminal investigation into the officer is under way, and the DPCP has the file on the June team. Chief Fady Dagher defends his culture change and promises more information in November.",
-     "fr": "Une enquête criminelle sur le policier est en cours, et le DPCP a le dossier de l’équipe de juin. Le chef Fady Dagher défend son changement de culture et promet d’autres informations en novembre."
+     "en": "Seven SPVM officers, five of them from this station, were fired on Nov. 2; the DPCP will decide on criminal charges. A criminal investigation into the officer who allegedly deleted a video is under way, and an action plan is expected in November or December.",
+     "fr": "Sept policiers du SPVM, dont cinq de ce poste, ont été congédiés le 2 novembre; le DPCP décidera des accusations criminelles. Une enquête criminelle sur le policier qui aurait effacé une vidéo est en cours, et un plan d’action est attendu en novembre ou en décembre."
     }
    },
    "events": [
@@ -2385,6 +2473,17 @@
      "source_url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416",
      "source_type": "media",
      "post": "2026-10-31",
+     "background": false
+    },
+    {
+     "date": "2026-11-02",
+     "en": "SPVM chief Fady Dagher announces the administrative dismissal of seven officers, five from PDQ 39 and two from PDQ 21, over allegations of discriminatory and racist conduct; any criminal charges are up to the DPCP.",
+     "fr": "Le directeur du SPVM, Fady Dagher, annonce le congédiement administratif de sept policiers, cinq du PDQ 39 et deux du PDQ 21, en lien avec des allégations de comportements discriminatoires et racistes; le dépôt d’accusations criminelles relève du DPCP.",
+     "source_title": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve",
+     "source_type": "media",
+     "post": "2026-11-03",
      "background": false
     }
    ]
