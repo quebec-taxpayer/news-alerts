@@ -49,7 +49,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-10-31": ["it-digital", "crown-corporations"],
         "2026-11-01": ["crown-corporations"],
         "2026-11-02": ["it-digital", "crown-corporations"],
-        "2026-11-03": ["crown-corporations", "it-digital"]}
+        "2026-11-03": ["crown-corporations", "it-digital"],
+        "2026-11-04": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -80,6 +81,8 @@ SUMMARY = {
                 "The PQ dismantles the Ministry of Cybersecurity and Digital Affairs and moves its staff to the Treasury Board; state of emergency on Isle-aux-Coudres after the STQ ferry breaks down; Quebec keeps three office days a week for public servants; Montreal fire response times rise; Wakefield Family Medical Centre closes; green light for the Windfall gold project; follow-ups: PSPP agrees to meet Mark Carney, in Quebec City, and plans his opening speech without the lieutenant governor."),
  "2026-11-03": ("Hydro-Québec repousse à 2041 sa hausse de production et prévoit importer de l’électricité presque tout au long de son plan; primes de départ dans la haute fonction publique; Sébastien D’Astous promet des abolitions de postes; incertitude après la fermeture du PEQ; Montréal : sept policiers congédiés et règlement anti-insultes maintenu; fin des primes en RPA; suivis : dates proposées pour une rencontre Carney–St-Pierre Plamondon, Therrien ouvert à discuter du télétravail, QS dénonce le démantèlement du ministère de la Cybersécurité et du Numérique.",
                 "Hydro-Québec pushes its production increase back to 2041 and plans to import electricity for almost all of its plan; severance payments in the senior public service; Sébastien D’Astous promises job cuts; uncertainty after the PEQ closes; Montreal: seven police officers fired and the anti-insult bylaw stays in force; end of the RPA wage premium; follow-ups: dates proposed for a Carney–St-Pierre Plamondon meeting, Therrien open to talks on telework, QS denounces the dismantling of the Ministry of Cybersecurity and Digital Affairs."),
+ "2026-11-04": ("PSPP évoque un déficit « important » et nomme un conseiller chargé de traquer le gaspillage avec le Conseil du trésor; Investissement Québec poursuit Northex; La Caisse « très surprise » par Alstom; le SPVM acquiert des caméras de lecture de plaques; la consigne sur le verre pourrait être reportée.",
+                "PSPP points to a “significant” deficit and names an adviser to hunt for waste with the Treasury Board; Investissement Québec sues Northex; La Caisse “very surprised” by Alstom; the SPVM buys licence-plate-reading cameras; the deposit on glass could be postponed."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

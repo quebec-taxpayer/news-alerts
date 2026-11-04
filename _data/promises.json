@@ -198,6 +198,34 @@
    "status_source_outlet": "Radio-Canada",
    "status_source_url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole",
    "status_source_date": "2026-10-24"
+  },
+  {
+   "id": "pq-balanced-budget-2028",
+   "dossier": "pq-transition",
+   "type": "deadline",
+   "status": "promised",
+   "item_en": "Balanced budget in 2028-2029",
+   "item_fr": "Équilibre budgétaire en 2028-2029",
+   "announced_en": "A return to a balanced budget in 2028-2029, a year earlier than the Balanced Budget Act requires, promised by the PQ during the campaign",
+   "announced_fr": "Un retour à l’équilibre budgétaire en 2028-2029, un an plus tôt que ne le prévoit la Loi sur l’équilibre budgétaire, promis par le PQ en campagne",
+   "announced_source_title": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+   "announced_source_outlet": "La Presse",
+   "announced_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php",
+   "actual_en": "The Premier says the deficit is “significant” and calls for “courageous decisions,” without giving the amount; the economic and financial update is being prepared",
+   "actual_fr": "Le premier ministre parle d’un déficit « important » et de « décisions courageuses », sans en préciser le montant; la mise à jour économique et financière est en préparation",
+   "actual_source_title": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+   "actual_source_outlet": "La Presse",
+   "actual_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php",
+   "actual_date": "2026-11-03",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-11-03",
+   "status_evidence_en": "The government is preparing its economic and financial update; the cited source reports no budget or bill setting out the path to balance yet.",
+   "status_evidence_fr": "Le gouvernement prépare sa mise à jour économique et financière; la source citée ne fait encore état d’aucun budget ni projet de loi précisant le chemin vers l’équilibre.",
+   "status_source_title": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+   "status_source_outlet": "La Presse",
+   "status_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php",
+   "status_source_date": "2026-11-03"
   }
  ]
 }

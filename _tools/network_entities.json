@@ -711,7 +711,8 @@
    "type": "organization",
    "aliases": [
     "La Caisse",
-    "CDPQ"
+    "CDPQ",
+    "Caisse de dépôt et placement"
    ]
   },
   "gouv-canada": {
@@ -1506,7 +1507,9 @@
    "name": "Yves Francœur",
    "type": "person",
    "aliases": [
-    "Francœur"
+    "Francœur",
+    "Yves Francoeur",
+    "Francoeur"
    ]
   },
   "marie-claude-bibeau": {
@@ -1997,6 +2000,156 @@
    "type": "person",
    "aliases": [
     "Paul-Hus"
+   ]
+  },
+  "laurent-desbois": {
+   "name": "Laurent Desbois",
+   "type": "person",
+   "aliases": [
+    "Desbois"
+   ]
+  },
+  "isabelle-garon": {
+   "name": "Isabelle Garon",
+   "type": "person",
+   "aliases": [
+    "Garon"
+   ]
+  },
+  "eric-girard": {
+   "name": "Eric Girard",
+   "type": "person",
+   "aliases": [
+    "Girard"
+   ]
+  },
+  "exo": {
+   "name": "exo (Réseau de transport métropolitain)",
+   "type": "organization",
+   "aliases": [
+    "exo"
+   ]
+  },
+  "artm": {
+   "name": "Autorité régionale de transport métropolitain (ARTM)",
+   "type": "organization",
+   "aliases": [
+    "ARTM",
+    "Autorité régionale de transport métropolitain"
+   ]
+  },
+  "jim-colonel-bertrand": {
+   "name": "Jim Colonel-Bertrand",
+   "type": "person",
+   "aliases": [
+    "Colonel-Bertrand"
+   ]
+  },
+  "northex": {
+   "name": "Northex",
+   "type": "organization",
+   "aliases": []
+  },
+  "marie-josee-lamothe": {
+   "name": "Marie-Josée Lamothe",
+   "type": "person",
+   "aliases": [
+    "Lamothe"
+   ]
+  },
+  "roynat": {
+   "name": "Roynat",
+   "type": "organization",
+   "aliases": []
+  },
+  "alstom": {
+   "name": "Alstom",
+   "type": "organization",
+   "aliases": []
+  },
+  "jean-benoit-houde": {
+   "name": "Jean-Benoît Houde",
+   "type": "person",
+   "aliases": [
+    "Houde"
+   ]
+  },
+  "martin-sion": {
+   "name": "Martin Sion",
+   "type": "person",
+   "aliases": []
+  },
+  "yannick-desmarais": {
+   "name": "Yannick Desmarais",
+   "type": "person",
+   "aliases": [
+    "Desmarais"
+   ]
+  },
+  "catherine-dupont-gagnon": {
+   "name": "Catherine Dupont-Gagnon",
+   "type": "person",
+   "aliases": [
+    "Dupont-Gagnon"
+   ]
+  },
+  "cyber-citoyen": {
+   "name": "Cyber Citoyen",
+   "type": "organization",
+   "aliases": []
+  },
+  "fraternite-policiers-montreal": {
+   "name": "Fraternité des policiers et policières de Montréal",
+   "type": "organization",
+   "aliases": [
+    "Fraternité des policiers et des policières de Montréal",
+    "Fraternité des policiers de Montréal",
+    "Montreal police union"
+   ]
+  },
+  "jean-pellerin": {
+   "name": "Jean Pellerin",
+   "type": "person",
+   "aliases": [
+    "Pellerin"
+   ]
+  },
+  "kevin-morin": {
+   "name": "Kevin Morin",
+   "type": "person",
+   "aliases": []
+  },
+  "ceteq": {
+   "name": "Conseil des entreprises en technologies environnementales du Québec (CETEQ)",
+   "type": "organization",
+   "aliases": [
+    "CETEQ"
+   ]
+  },
+  "eeq": {
+   "name": "Éco Entreprises Québec (ÉEQ)",
+   "type": "organization",
+   "aliases": [
+    "Éco Entreprises Québec",
+    "ÉEQ"
+   ]
+  },
+  "karel-menard": {
+   "name": "Karel Ménard",
+   "type": "person",
+   "aliases": []
+  },
+  "marc-fortin": {
+   "name": "Marc Fortin",
+   "type": "person",
+   "aliases": []
+  },
+  "ircc": {
+   "name": "Immigration, Réfugiés et Citoyenneté Canada (Immigration Canada)",
+   "type": "organization",
+   "aliases": [
+    "Immigration Canada",
+    "IRCC"
    ]
   }
  },
@@ -3799,6 +3952,123 @@
     "pq-transition",
     "it-procurement"
    ]
+  },
+  {
+   "match": "2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre",
+   "entities": [
+    "pspp",
+    "nicolas-marceau",
+    "alain-therrien",
+    "conseil-tresor",
+    "laurent-desbois",
+    "isabelle-garon",
+    "guy-cormier",
+    "eric-girard",
+    "caq",
+    "pq"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "2297801/train-mascouche",
+   "entities": [
+    "exo",
+    "artm",
+    "jim-colonel-bertrand"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "sols-contamines-investissement-quebec-incapable",
+   "entities": [
+    "investissement-quebec",
+    "northex",
+    "marie-josee-lamothe",
+    "roynat",
+    "cour-superieure"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "problemes-persistants-chez-alstom",
+   "entities": [
+    "la-caisse",
+    "alstom",
+    "jean-benoit-houde",
+    "martin-sion"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas",
+   "entities": [
+    "hydro-quebec",
+    "dave-rheaume"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "2297813/cameras-flock-spvm",
+   "entities": [
+    "spvm",
+    "ville-montreal",
+    "fady-dagher",
+    "yannick-desmarais",
+    "catherine-dupont-gagnon",
+    "cyber-citoyen"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2297932/fraternite-policiers-conteste",
+   "entities": [
+    "fraternite-policiers-montreal",
+    "yves-francoeur",
+    "spvm",
+    "fady-dagher",
+    "dpcp",
+    "ville-montreal"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "spvm-pdq39",
+    "spvm-pdq21"
+   ]
+  },
+  {
+   "match": "lelargissement-de-la-consigne-pourrait-encore",
+   "entities": [
+    "consignaction",
+    "jean-pellerin",
+    "kevin-morin",
+    "ceteq",
+    "eeq",
+    "karel-menard"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "saq"
+   ]
+  },
+  {
+   "match": "2297892/residence-aines-travail-etrangers",
+   "entities": [
+    "rqra",
+    "marc-fortin",
+    "ircc"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
   }
  ]
 }

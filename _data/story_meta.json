@@ -686,6 +686,51 @@
    "category": "crown-it",
    "importance": 3,
    "title_en": "Ministry of Cybersecurity and Digital Affairs dismantled: the PQ “flouts principles,” QS says"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "“The previous government left the house in disorder,” St-Pierre Plamondon laments"
+  },
+  "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Contaminated soil: Investissement Québec unable to recover $5M in Contrecoeur"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "The SPVM adds Flock-type cameras to its arsenal"
+  },
+  "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Persistent problems at Alstom: La Caisse's patience is wearing thin"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Mascouche train: ridership back up, but still far from its targets"
+  },
+  "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Hydro-Québec's water levels are at their lowest since 2014"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "The Montreal police union contests the dismissal of 7 of its members"
+  },
+  "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte": {
+   "category": "other",
+   "importance": 3,
+   "title_en": "The expansion of the deposit system could be postponed again"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Private seniors' residences: services to seniors threatened by immigration delays"
   }
  }
 }

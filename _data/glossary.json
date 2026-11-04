@@ -340,6 +340,25 @@
     "résidence privée pour aînés",
     "RPA"
    ]
+  },
+  {
+   "id": "lmia",
+   "term_en": "Labour Market Impact Assessment (LMIA)",
+   "term_fr": "Évaluation de l’impact sur le marché du travail (EIMT)",
+   "def_en": "A document an employer in Canada may need to get before hiring a foreign worker. A positive LMIA shows there is a need for a foreign worker to fill the job and that no Canadian worker or permanent resident is available to do it.",
+   "def_fr": "Document qu’un employeur canadien peut devoir obtenir avant d’embaucher un travailleur étranger. Une EIMT favorable indique qu’il faut embaucher un travailleur étranger pour faire le travail et qu’aucun travailleur canadien ou résident permanent n’est disponible pour le faire.",
+   "source_en": "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=163",
+   "source_fr": "https://ircc.canada.ca/francais/centre-aide/reponse.asp?qnum=163",
+   "source_label": "Immigration, Réfugiés et Citoyenneté Canada (IRCC)",
+   "match_en": [
+    "labour market impact assessment",
+    "LMIA"
+   ],
+   "match_fr": [
+    "évaluation de l’impact sur le marché du travail",
+    "étude d’impact sur le marché du travail",
+    "EIMT"
+   ]
   }
  ]
 }

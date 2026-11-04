@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-03T15:32:30Z",
+ "generated": "2026-11-04T15:29:30Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 143,
+ "story_count": 152,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1535,6 +1535,110 @@
      ]
     }
    ]
+  },
+  "2026-11-04": {
+   "post": "/2026/11/04/digest/",
+   "stories": [
+    {
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php",
+     "entities": [
+      "alain-therrien",
+      "caq",
+      "conseil-tresor",
+      "eric-girard",
+      "guy-cormier",
+      "isabelle-garon",
+      "laurent-desbois",
+      "nicolas-marceau",
+      "pq",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Train de Mascouche : l’achalandage de retour à la hausse, mais encore loin des objectifs",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem",
+     "entities": [
+      "artm",
+      "exo",
+      "jim-colonel-bertrand"
+     ]
+    },
+    {
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur",
+     "entities": [
+      "cour-superieure",
+      "investissement-quebec",
+      "marie-josee-lamothe",
+      "northex",
+      "roynat"
+     ]
+    },
+    {
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php",
+     "entities": [
+      "alstom",
+      "jean-benoit-houde",
+      "la-caisse",
+      "martin-sion"
+     ]
+    },
+    {
+     "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
+     "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014",
+     "entities": [
+      "dave-rheaume",
+      "hydro-quebec"
+     ]
+    },
+    {
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal",
+     "entities": [
+      "catherine-dupont-gagnon",
+      "cyber-citoyen",
+      "fady-dagher",
+      "spvm",
+      "ville-montreal",
+      "yannick-desmarais"
+     ]
+    },
+    {
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm",
+     "entities": [
+      "dpcp",
+      "fady-dagher",
+      "fraternite-policiers-montreal",
+      "spvm",
+      "ville-montreal",
+      "yves-francoeur"
+     ]
+    },
+    {
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte",
+     "entities": [
+      "ceteq",
+      "consignaction",
+      "eeq",
+      "jean-pellerin",
+      "karel-menard",
+      "kevin-morin"
+     ]
+    },
+    {
+     "headline": "RPA : des services aux aînés menacés par des retards en immigration",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa",
+     "entities": [
+      "ircc",
+      "marc-fortin",
+      "rqra"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1546,7 +1650,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 38,
+   "mentions": 39,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1737,6 +1841,11 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -1749,7 +1858,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 23,
+   "mentions": 24,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1865,6 +1974,11 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -1974,7 +2088,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 14,
+   "mentions": 15,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2045,6 +2159,11 @@
      "date": "2026-11-03",
      "headline": "Hausse de production | Hydro-Québec manque de jus",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
+     "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
     }
    ]
   },
@@ -2136,7 +2255,7 @@
    "aliases": [
     "Therrien"
    ],
-   "mentions": 10,
+   "mentions": 11,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2187,6 +2306,11 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -2198,7 +2322,7 @@
     "CAQ",
     "caquiste"
    ],
-   "mentions": 10,
+   "mentions": 11,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2249,6 +2373,11 @@
      "date": "2026-11-03",
      "headline": "Programme de l’expérience québécoise | Des milliers d’immigrants plongés dans l’incertitude",
      "url": "https://www.lapresse.ca/actualites/2026-11-03/programme-de-l-experience-quebecoise/des-milliers-d-immigrants-plonges-dans-l-incertitude.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -2259,7 +2388,7 @@
    "aliases": [
     "Treasury Board"
    ],
-   "mentions": 8,
+   "mentions": 9,
    "stories": [
     {
      "date": "2026-10-22",
@@ -2300,6 +2429,67 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ],
+   "mentions": 9,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -2452,24 +2642,102 @@
    ]
   },
   {
-   "id": "spvm",
-   "name": "Service de police de la Ville de Montréal",
+   "id": "ville-montreal",
+   "name": "Ville de Montréal",
    "type": "organization",
    "aliases": [
-    "SPVM"
+    "City of Montreal"
    ],
    "mentions": 7,
    "stories": [
     {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
     },
     {
      "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     },
+    {
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
+     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "id": "cour-superieure",
+   "name": "Cour supérieure du Québec",
+   "type": "organization",
+   "aliases": [
+    "Cour supérieure",
+    "Superior Court"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
+     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "id": "fady-dagher",
+   "name": "Fady Dagher",
+   "type": "person",
+   "aliases": [
+    "Dagher"
+   ],
+   "mentions": 6,
+   "stories": [
     {
      "date": "2026-10-29",
      "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
@@ -2486,14 +2754,19 @@
      "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     },
     {
-     "date": "2026-11-02",
-     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
-     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
-    },
-    {
      "date": "2026-11-03",
      "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
      "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -2618,43 +2891,6 @@
    ]
   },
   {
-   "id": "cour-superieure",
-   "name": "Cour supérieure du Québec",
-   "type": "organization",
-   "aliases": [
-    "Cour supérieure",
-    "Superior Court"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
-     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
-    }
-   ]
-  },
-  {
    "id": "manon-jeannotte",
    "name": "Manon Jeannotte",
    "type": "person",
@@ -2691,6 +2927,42 @@
    ]
   },
   {
+   "id": "nicolas-marceau",
+   "name": "Nicolas Marceau",
+   "type": "person",
+   "aliases": [
+    "Marceau"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "id": "sebastien-dastous",
    "name": "Sébastien D’Astous",
    "type": "person",
@@ -2723,42 +2995,6 @@
      "date": "2026-11-03",
      "headline": "Sébastien D’Astous explique comment il compte «dégraisser» l’État",
      "url": "https://www.noovo.info/nouvelles/politique/article/sebastien-dastous-explique-comment-il-compte-degraisser-letat/"
-    }
-   ]
-  },
-  {
-   "id": "ville-montreal",
-   "name": "Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "City of Montreal"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
-     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
     }
    ]
   },
@@ -2826,11 +3062,11 @@
    ]
   },
   {
-   "id": "fady-dagher",
-   "name": "Fady Dagher",
-   "type": "person",
+   "id": "dpcp",
+   "name": "Directeur des poursuites criminelles et pénales",
+   "type": "organization",
    "aliases": [
-    "Dagher"
+    "DPCP"
    ],
    "mentions": 4,
    "stories": [
@@ -2845,14 +3081,14 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     },
     {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
      "date": "2026-11-03",
      "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
      "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -2951,37 +3187,6 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
-    }
-   ]
-  },
-  {
-   "id": "nicolas-marceau",
-   "name": "Nicolas Marceau",
-   "type": "person",
-   "aliases": [
-    "Marceau"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
     }
    ]
   },
@@ -3330,32 +3535,6 @@
    ]
   },
   {
-   "id": "dpcp",
-   "name": "Directeur des poursuites criminelles et pénales",
-   "type": "organization",
-   "aliases": [
-    "DPCP"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
    "id": "guy-lapointe-fils",
    "name": "Guy Lapointe fils",
    "type": "person",
@@ -3429,6 +3608,34 @@
      "date": "2026-10-30",
      "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "id": "la-caisse",
+   "name": "La Caisse (Caisse de dépôt et placement du Québec)",
+   "type": "organization",
+   "aliases": [
+    "La Caisse",
+    "CDPQ",
+    "Caisse de dépôt et placement"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
+     "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
     }
    ]
   },
@@ -3891,6 +4098,49 @@
    ]
   },
   {
+   "id": "consignaction",
+   "name": "Consignaction",
+   "type": "organization",
+   "aliases": [
+    "AQRCB",
+    "Association québécoise des récupérateurs de contenants de boissons"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "id": "dave-rheaume",
+   "name": "Dave Rhéaume",
+   "type": "person",
+   "aliases": [
+    "Rhéaume"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Hausse de production | Hydro-Québec manque de jus",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
+     "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
+    }
+   ]
+  },
+  {
    "id": "ericka-alneus",
    "name": "Ericka Alneus",
    "type": "person",
@@ -3992,6 +4242,48 @@
    ]
   },
   {
+   "id": "guy-cormier",
+   "name": "Guy Cormier",
+   "type": "person",
+   "aliases": [
+    "Cormier"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "id": "investissement-quebec",
+   "name": "Investissement Québec",
+   "type": "organization",
+   "aliases": [
+    "IQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
    "id": "joel-arseneau",
    "name": "Joël Arseneau",
    "type": "person",
@@ -4009,28 +4301,6 @@
      "date": "2026-10-25",
      "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
      "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
-    }
-   ]
-  },
-  {
-   "id": "la-caisse",
-   "name": "La Caisse (Caisse de dépôt et placement du Québec)",
-   "type": "organization",
-   "aliases": [
-    "La Caisse",
-    "CDPQ"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
-     "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tours cellulaires : Bell Canada vend une participation de 2,45 G $ à La Caisse",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296173/tours-cellulaires-bell-caisse-quebec"
     }
    ]
   },
@@ -4147,6 +4417,27 @@
      "date": "2026-10-29",
      "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
      "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    }
+   ]
+  },
+  {
+   "id": "rqra",
+   "name": "Regroupement québécois des résidences pour aînés",
+   "type": "organization",
+   "aliases": [
+    "RQRA"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "La fin d’une prime versée depuis la pandémie inquiète les propriétaires de RPA",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297604/residences-privees-aines-primes-salariales-gouvernement"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "RPA : des services aux aînés menacés par des retards en immigration",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa"
     }
    ]
   },
@@ -4273,6 +4564,29 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "yves-francoeur",
+   "name": "Yves Francœur",
+   "type": "person",
+   "aliases": [
+    "Francœur",
+    "Yves Francoeur",
+    "Francoeur"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -4454,6 +4768,20 @@
      "date": "2026-10-31",
      "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
      "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    }
+   ]
+  },
+  {
+   "id": "alstom",
+   "name": "Alstom",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
     }
    ]
   },
@@ -4659,6 +4987,23 @@
    ]
   },
   {
+   "id": "artm",
+   "name": "Autorité régionale de transport métropolitain (ARTM)",
+   "type": "organization",
+   "aliases": [
+    "ARTM",
+    "Autorité régionale de transport métropolitain"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Train de Mascouche : l’achalandage de retour à la hausse, mais encore loin des objectifs",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem"
+    }
+   ]
+  },
+  {
    "id": "banques-alimentaires-quebec",
    "name": "Banques alimentaires du Québec",
    "type": "organization",
@@ -4830,6 +5175,22 @@
      "date": "2026-11-02",
      "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
      "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
+    }
+   ]
+  },
+  {
+   "id": "catherine-dupont-gagnon",
+   "name": "Catherine Dupont-Gagnon",
+   "type": "person",
+   "aliases": [
+    "Dupont-Gagnon"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
     }
    ]
   },
@@ -5026,6 +5387,22 @@
    ]
   },
   {
+   "id": "ceteq",
+   "name": "Conseil des entreprises en technologies environnementales du Québec (CETEQ)",
+   "type": "organization",
+   "aliases": [
+    "CETEQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
    "id": "conseil-protection-malades",
    "name": "Conseil pour la protection des malades",
    "type": "organization",
@@ -5036,23 +5413,6 @@
      "date": "2026-11-03",
      "headline": "Dans le coma, mais toujours facturée pour sa chambre individuelle",
      "url": "https://ici.radio-canada.ca/nouvelle/2297661/accouchement-trois-rivieres-facturation"
-    }
-   ]
-  },
-  {
-   "id": "consignaction",
-   "name": "Consignaction",
-   "type": "organization",
-   "aliases": [
-    "AQRCB",
-    "Association québécoise des récupérateurs de contenants de boissons"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
     }
    ]
   },
@@ -5083,6 +5443,20 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "cyber-citoyen",
+   "name": "Cyber Citoyen",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
     }
    ]
   },
@@ -5127,22 +5501,6 @@
      "date": "2026-10-27",
      "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
      "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
-    }
-   ]
-  },
-  {
-   "id": "dave-rheaume",
-   "name": "Dave Rhéaume",
-   "type": "person",
-   "aliases": [
-    "Rhéaume"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "Hausse de production | Hydro-Québec manque de jus",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
     }
    ]
   },
@@ -5339,6 +5697,22 @@
    ]
   },
   {
+   "id": "eric-girard",
+   "name": "Eric Girard",
+   "type": "person",
+   "aliases": [
+    "Girard"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "id": "fnz",
    "name": "FNZ",
    "type": "organization",
@@ -5423,6 +5797,24 @@
      "date": "2026-10-25",
      "headline": "Maintenant armés, les contrôleurs routiers reprennent progressivement les patrouilles",
      "url": "https://ici.radio-canada.ca/nouvelle/2295065/controleurs-routiers-arme-routes-infraction"
+    }
+   ]
+  },
+  {
+   "id": "fraternite-policiers-montreal",
+   "name": "Fraternité des policiers et policières de Montréal",
+   "type": "organization",
+   "aliases": [
+    "Fraternité des policiers et des policières de Montréal",
+    "Fraternité des policiers de Montréal",
+    "Montreal police union"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -5672,22 +6064,6 @@
    ]
   },
   {
-   "id": "guy-cormier",
-   "name": "Guy Cormier",
-   "type": "person",
-   "aliases": [
-    "Cormier"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-01",
-     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
-    }
-   ]
-  },
-  {
    "id": "herbert-black",
    "name": "Herbert Black",
    "type": "person",
@@ -5786,6 +6162,23 @@
    ]
   },
   {
+   "id": "ircc",
+   "name": "Immigration, Réfugiés et Citoyenneté Canada (Immigration Canada)",
+   "type": "organization",
+   "aliases": [
+    "Immigration Canada",
+    "IRCC"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "RPA : des services aux aînés menacés par des retards en immigration",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa"
+    }
+   ]
+  },
+  {
    "id": "index",
    "name": "Index (agence numérique)",
    "type": "organization",
@@ -5866,22 +6259,6 @@
    ]
   },
   {
-   "id": "investissement-quebec",
-   "name": "Investissement Québec",
-   "type": "organization",
-   "aliases": [
-    "IQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
-     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
    "id": "isabelle-demers",
    "name": "Isabelle Demers",
    "type": "person",
@@ -5910,6 +6287,38 @@
    ]
   },
   {
+   "id": "isabelle-garon",
+   "name": "Isabelle Garon",
+   "type": "person",
+   "aliases": [
+    "Garon"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "id": "jean-pellerin",
+   "name": "Jean Pellerin",
+   "type": "person",
+   "aliases": [
+    "Pellerin"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
    "id": "jean-simard",
    "name": "Jean Simard",
    "type": "person",
@@ -5920,6 +6329,22 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "id": "jean-benoit-houde",
+   "name": "Jean-Benoît Houde",
+   "type": "person",
+   "aliases": [
+    "Houde"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
     }
    ]
   },
@@ -6010,6 +6435,22 @@
    ]
   },
   {
+   "id": "jim-colonel-bertrand",
+   "name": "Jim Colonel-Bertrand",
+   "type": "person",
+   "aliases": [
+    "Colonel-Bertrand"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Train de Mascouche : l’achalandage de retour à la hausse, mais encore loin des objectifs",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem"
+    }
+   ]
+  },
+  {
    "id": "jodie-ashini",
    "name": "Jodie Ashini",
    "type": "person",
@@ -6050,6 +6491,20 @@
      "date": "2026-10-23",
      "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    }
+   ]
+  },
+  {
+   "id": "karel-menard",
+   "name": "Karel Ménard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
     }
    ]
   },
@@ -6098,6 +6553,20 @@
    ]
   },
   {
+   "id": "kevin-morin",
+   "name": "Kevin Morin",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
    "id": "kim-meyer",
    "name": "Kim Meyer",
    "type": "person",
@@ -6140,6 +6609,22 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "id": "laurent-desbois",
+   "name": "Laurent Desbois",
+   "type": "person",
+   "aliases": [
+    "Desbois"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -6281,6 +6766,20 @@
    ]
   },
   {
+   "id": "marc-fortin",
+   "name": "Marc Fortin",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "RPA : des services aux aînés menacés par des retards en immigration",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa"
+    }
+   ]
+  },
+  {
    "id": "marcel-chartrand",
    "name": "Marcel Chartrand",
    "type": "person",
@@ -6309,6 +6808,22 @@
      "date": "2026-10-30",
      "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    }
+   ]
+  },
+  {
+   "id": "marie-josee-lamothe",
+   "name": "Marie-Josée Lamothe",
+   "type": "person",
+   "aliases": [
+    "Lamothe"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
     }
    ]
   },
@@ -6383,6 +6898,20 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "id": "martin-sion",
+   "name": "Martin Sion",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
     }
    ]
   },
@@ -6712,6 +7241,20 @@
    ]
   },
   {
+   "id": "northex",
+   "name": "Northex",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
    "id": "oliver-wyman",
    "name": "Oliver Wyman",
    "type": "organization",
@@ -6959,22 +7502,6 @@
    ]
   },
   {
-   "id": "rqra",
-   "name": "Regroupement québécois des résidences pour aînés",
-   "type": "organization",
-   "aliases": [
-    "RQRA"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "La fin d’une prime versée depuis la pandémie inquiète les propriétaires de RPA",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297604/residences-privees-aines-primes-salariales-gouvernement"
-    }
-   ]
-  },
-  {
    "id": "rio-tinto",
    "name": "Rio Tinto",
    "type": "organization",
@@ -6985,6 +7512,20 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "id": "roynat",
+   "name": "Roynat",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
     }
    ]
   },
@@ -7681,18 +8222,51 @@
    ]
   },
   {
-   "id": "yves-francoeur",
-   "name": "Yves Francœur",
+   "id": "yannick-desmarais",
+   "name": "Yannick Desmarais",
    "type": "person",
    "aliases": [
-    "Francœur"
+    "Desmarais"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "id": "exo",
+   "name": "exo (Réseau de transport métropolitain)",
+   "type": "organization",
+   "aliases": [
+    "exo"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Train de Mascouche : l’achalandage de retour à la hausse, mais encore loin des objectifs",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem"
+    }
+   ]
+  },
+  {
+   "id": "eeq",
+   "name": "Éco Entreprises Québec (ÉEQ)",
+   "type": "organization",
+   "aliases": [
+    "Éco Entreprises Québec",
+    "ÉEQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
     }
    ]
   },
@@ -7822,7 +8396,7 @@
   {
    "source": "pq",
    "target": "pspp",
-   "weight": 13,
+   "weight": 14,
    "stories": [
     {
      "date": "2026-10-21",
@@ -7888,6 +8462,11 @@
      "date": "2026-11-02",
      "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
      "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -7956,7 +8535,7 @@
   {
    "source": "alain-therrien",
    "target": "pspp",
-   "weight": 8,
+   "weight": 9,
    "stories": [
     {
      "date": "2026-10-21",
@@ -7997,13 +8576,18 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
   {
    "source": "alain-therrien",
    "target": "conseil-tresor",
-   "weight": 6,
+   "weight": 7,
    "stories": [
     {
      "date": "2026-10-28",
@@ -8034,13 +8618,18 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
   {
    "source": "alain-therrien",
    "target": "pq",
-   "weight": 6,
+   "weight": 7,
    "stories": [
     {
      "date": "2026-10-21",
@@ -8071,13 +8660,18 @@
      "date": "2026-11-02",
      "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
      "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
   {
    "source": "caq",
    "target": "pq",
-   "weight": 6,
+   "weight": 7,
    "stories": [
     {
      "date": "2026-10-21",
@@ -8108,6 +8702,85 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "pspp",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
+   "target": "spvm",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -8149,34 +8822,66 @@
    ]
   },
   {
-   "source": "caq",
-   "target": "pspp",
+   "source": "conseil-tresor",
+   "target": "pq",
    "weight": 5,
    "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
     {
      "date": "2026-10-28",
      "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
      "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     },
     {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     },
     {
      "date": "2026-11-02",
      "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
      "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "pspp",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Fonctionnaires au bureau 3 jours par semaine: PSPP «empire la congestion routière», dénonce QS",
+     "url": "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -8341,6 +9046,33 @@
    ]
   },
   {
+   "source": "alain-therrien",
+   "target": "nicolas-marceau",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "source": "assemblee-nationale",
    "target": "pspp",
    "weight": 4,
@@ -8395,56 +9127,56 @@
    ]
   },
   {
-   "source": "conseil-tresor",
-   "target": "pq",
+   "source": "dpcp",
+   "target": "fady-dagher",
    "weight": 4,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     },
     {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     },
     {
-     "date": "2026-11-02",
-     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
     },
     {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
   {
-   "source": "conseil-tresor",
-   "target": "pspp",
+   "source": "dpcp",
+   "target": "spvm",
    "weight": 4,
    "stories": [
     {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     },
     {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Fonctionnaires au bureau 3 jours par semaine: PSPP «empire la congestion routière», dénonce QS",
-     "url": "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs"
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     },
     {
      "date": "2026-11-03",
-     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
-     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -8503,33 +9235,6 @@
    ]
   },
   {
-   "source": "fady-dagher",
-   "target": "spvm",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
    "source": "grc",
    "target": "lion",
    "weight": 4,
@@ -8580,6 +9285,60 @@
      "date": "2026-10-31",
      "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
+   "target": "pq",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
+   "target": "pspp",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -8705,6 +9464,28 @@
   },
   {
    "source": "alain-therrien",
+   "target": "caq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "marie-karlynn-laflamme",
    "weight": 3,
    "stories": [
@@ -8722,28 +9503,6 @@
      "date": "2026-10-24",
      "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
-   "target": "nicolas-marceau",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     }
    ]
   },
@@ -8788,6 +9547,28 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "conseil-tresor",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -8880,50 +9661,6 @@
    ]
   },
   {
-   "source": "dpcp",
-   "target": "fady-dagher",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
-   "source": "dpcp",
-   "target": "spvm",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
    "source": "elections-quebec",
    "target": "pq",
    "weight": 3,
@@ -8964,6 +9701,28 @@
      "date": "2026-11-03",
      "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
      "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
+   "target": "ville-montreal",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -9100,50 +9859,6 @@
    ]
   },
   {
-   "source": "nicolas-marceau",
-   "target": "pq",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
-    }
-   ]
-  },
-  {
-   "source": "nicolas-marceau",
-   "target": "pspp",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    }
-   ]
-  },
-  {
    "source": "pcq",
    "target": "pq",
    "weight": 3,
@@ -9276,6 +9991,28 @@
    ]
   },
   {
+   "source": "spvm",
+   "target": "ville-montreal",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
    "source": "adriana-szalontai",
    "target": "pcq",
    "weight": 2,
@@ -9374,23 +10111,6 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
-    }
-   ]
-  },
-  {
-   "source": "alain-therrien",
-   "target": "caq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     }
    ]
   },
@@ -9736,23 +10456,6 @@
   },
   {
    "source": "caq",
-   "target": "conseil-tresor",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    }
-   ]
-  },
-  {
-   "source": "caq",
    "target": "genevieve-biron",
    "weight": 2,
    "stories": [
@@ -10075,6 +10778,23 @@
    ]
   },
   {
+   "source": "dave-rheaume",
+   "target": "hydro-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Hausse de production | Hydro-Québec manque de jus",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
+     "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
+    }
+   ]
+  },
+  {
    "source": "dpcp",
    "target": "soraya-martinez-ferrada",
    "weight": 2,
@@ -10088,6 +10808,40 @@
      "date": "2026-11-03",
      "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
      "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "ville-montreal",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
+   "target": "yves-francoeur",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -10228,6 +10982,23 @@
    ]
   },
   {
+   "source": "fady-dagher",
+   "target": "yves-francoeur",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
    "source": "france-elaine-duranceau",
    "target": "pq",
    "weight": 2,
@@ -10275,6 +11046,23 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-01",
+     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -10802,6 +11590,23 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "spvm",
+   "target": "yves-francoeur",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -11491,6 +12296,18 @@
   },
   {
    "source": "alain-therrien",
+   "target": "eric-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "frederic-alberro",
    "weight": 1,
    "stories": [
@@ -11527,6 +12344,18 @@
   },
   {
    "source": "alain-therrien",
+   "target": "guy-cormier",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
    "target": "hydro-quebec",
    "weight": 1,
    "stories": [
@@ -11534,6 +12363,18 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "isabelle-garon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -11558,6 +12399,18 @@
      "date": "2026-10-21",
      "headline": "Conseil des ministres : de l’expérience aux postes clés",
      "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "laurent-desbois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -11942,6 +12795,42 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "source": "alstom",
+   "target": "jean-benoit-houde",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
+    }
+   ]
+  },
+  {
+   "source": "alstom",
+   "target": "la-caisse",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
+    }
+   ]
+  },
+  {
+   "source": "alstom",
+   "target": "martin-sion",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
     }
    ]
   },
@@ -12542,6 +13431,30 @@
      "date": "2026-10-27",
      "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
+   "source": "artm",
+   "target": "exo",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Train de Mascouche : l’achalandage de retour à la hausse, mais encore loin des objectifs",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem"
+    }
+   ]
+  },
+  {
+   "source": "artm",
+   "target": "jim-colonel-bertrand",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Train de Mascouche : l’achalandage de retour à la hausse, mais encore loin des objectifs",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem"
     }
    ]
   },
@@ -13483,6 +14396,18 @@
   },
   {
    "source": "caq",
+   "target": "eric-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "france-elaine-duranceau",
    "weight": 1,
    "stories": [
@@ -13543,6 +14468,18 @@
   },
   {
    "source": "caq",
+   "target": "guy-cormier",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "isabelle-demers",
    "weight": 1,
    "stories": [
@@ -13555,6 +14492,18 @@
   },
   {
    "source": "caq",
+   "target": "isabelle-garon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "jacinthe-eve-arel",
    "weight": 1,
    "stories": [
@@ -13562,6 +14511,18 @@
      "date": "2026-10-30",
      "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "laurent-desbois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -13670,6 +14631,18 @@
      "date": "2026-10-24",
      "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
      "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -13874,6 +14847,66 @@
      "date": "2026-11-02",
      "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
      "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
+    }
+   ]
+  },
+  {
+   "source": "catherine-dupont-gagnon",
+   "target": "cyber-citoyen",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "catherine-dupont-gagnon",
+   "target": "fady-dagher",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "catherine-dupont-gagnon",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "catherine-dupont-gagnon",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "catherine-dupont-gagnon",
+   "target": "yannick-desmarais",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
     }
    ]
   },
@@ -14126,6 +15159,66 @@
      "date": "2026-10-30",
      "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
      "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    }
+   ]
+  },
+  {
+   "source": "ceteq",
+   "target": "consignaction",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "ceteq",
+   "target": "eeq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "ceteq",
+   "target": "jean-pellerin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "ceteq",
+   "target": "karel-menard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "ceteq",
+   "target": "kevin-morin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
     }
    ]
   },
@@ -14851,6 +15944,18 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "eric-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "gilles-belanger",
    "weight": 1,
    "stories": [
@@ -14875,6 +15980,30 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "guy-cormier",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "isabelle-garon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "jacinthe-eve-arel",
    "weight": 1,
    "stories": [
@@ -14894,6 +16023,30 @@
      "date": "2026-10-22",
      "headline": "Nominations du Conseil des ministres",
      "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "laurent-desbois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -15055,6 +16208,18 @@
   },
   {
    "source": "consignaction",
+   "target": "eeq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
    "target": "gve",
    "weight": 1,
    "stories": [
@@ -15074,6 +16239,42 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
+   "target": "jean-pellerin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
+   "target": "karel-menard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
+   "target": "kevin-morin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
     }
    ]
   },
@@ -15343,6 +16544,18 @@
   },
   {
    "source": "cour-superieure",
+   "target": "investissement-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
    "target": "keel",
    "weight": 1,
    "stories": [
@@ -15379,6 +16592,30 @@
   },
   {
    "source": "cour-superieure",
+   "target": "marie-josee-lamothe",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
+   "target": "northex",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
    "target": "regie-energie",
    "weight": 1,
    "stories": [
@@ -15386,6 +16623,18 @@
      "date": "2026-10-27",
      "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
      "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
+   "target": "roynat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
     }
    ]
   },
@@ -15506,6 +16755,54 @@
      "date": "2026-10-25",
      "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
      "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "source": "cyber-citoyen",
+   "target": "fady-dagher",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "cyber-citoyen",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "cyber-citoyen",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "cyber-citoyen",
+   "target": "yannick-desmarais",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
     }
    ]
   },
@@ -15638,18 +16935,6 @@
      "date": "2026-10-27",
      "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
      "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
-    }
-   ]
-  },
-  {
-   "source": "dave-rheaume",
-   "target": "hydro-quebec",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "Hausse de production | Hydro-Québec manque de jus",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
     }
    ]
   },
@@ -15919,6 +17204,18 @@
   },
   {
    "source": "dpcp",
+   "target": "fraternite-policiers-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "dpcp",
    "target": "guy-lapointe-fils",
    "weight": 1,
    "stories": [
@@ -15938,30 +17235,6 @@
      "date": "2026-10-29",
      "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
      "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    }
-   ]
-  },
-  {
-   "source": "dpcp",
-   "target": "ville-montreal",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
-   "source": "dpcp",
-   "target": "yves-francoeur",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -16082,6 +17355,42 @@
      "date": "2026-10-27",
      "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    }
+   ]
+  },
+  {
+   "source": "eeq",
+   "target": "jean-pellerin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "eeq",
+   "target": "karel-menard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "eeq",
+   "target": "kevin-morin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
     }
    ]
   },
@@ -16674,6 +17983,78 @@
    ]
   },
   {
+   "source": "eric-girard",
+   "target": "guy-cormier",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-girard",
+   "target": "isabelle-garon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-girard",
+   "target": "laurent-desbois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-girard",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-girard",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-girard",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "source": "eric-martel",
    "target": "pcq",
    "weight": 1,
@@ -16818,6 +18199,30 @@
    ]
   },
   {
+   "source": "exo",
+   "target": "jim-colonel-bertrand",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Train de Mascouche : l’achalandage de retour à la hausse, mais encore loin des objectifs",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297801/train-mascouche-achaladage-rem"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
+   "target": "fraternite-policiers-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
    "source": "fady-dagher",
    "target": "guy-lapointe-fils",
    "weight": 1,
@@ -16843,25 +18248,13 @@
   },
   {
    "source": "fady-dagher",
-   "target": "ville-montreal",
+   "target": "yannick-desmarais",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
-   "source": "fady-dagher",
-   "target": "yves-francoeur",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
     }
    ]
   },
@@ -17318,6 +18711,42 @@
      "date": "2026-10-29",
      "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "source": "fraternite-policiers-montreal",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "fraternite-policiers-montreal",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "fraternite-policiers-montreal",
+   "target": "yves-francoeur",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   },
@@ -17863,6 +19292,30 @@
   },
   {
    "source": "guy-cormier",
+   "target": "isabelle-garon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "laurent-desbois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
    "target": "mark-carney",
    "weight": 1,
    "stories": [
@@ -17870,6 +19323,18 @@
      "date": "2026-11-01",
      "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
      "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "guy-cormier",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -17887,13 +19352,13 @@
   },
   {
    "source": "guy-cormier",
-   "target": "pspp",
+   "target": "pq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-01",
-     "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -18594,6 +20059,66 @@
    ]
   },
   {
+   "source": "investissement-quebec",
+   "target": "marie-josee-lamothe",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "northex",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "roynat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "ircc",
+   "target": "marc-fortin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "RPA : des services aux aînés menacés par des retards en immigration",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "ircc",
+   "target": "rqra",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "RPA : des services aux aînés menacés par des retards en immigration",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa"
+    }
+   ]
+  },
+  {
    "source": "isabelle-demers",
    "target": "michael-pilote",
    "weight": 1,
@@ -18662,6 +20187,54 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
+    }
+   ]
+  },
+  {
+   "source": "isabelle-garon",
+   "target": "laurent-desbois",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "isabelle-garon",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "isabelle-garon",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "isabelle-garon",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -18750,6 +20323,30 @@
    ]
   },
   {
+   "source": "jean-benoit-houde",
+   "target": "la-caisse",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
+    }
+   ]
+  },
+  {
+   "source": "jean-benoit-houde",
+   "target": "martin-sion",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
+    }
+   ]
+  },
+  {
    "source": "jean-charles-boily",
    "target": "pspp",
    "weight": 1,
@@ -18770,6 +20367,30 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "source": "jean-pellerin",
+   "target": "karel-menard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "jean-pellerin",
+   "target": "kevin-morin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
     }
    ]
   },
@@ -19074,6 +20695,18 @@
    ]
   },
   {
+   "source": "karel-menard",
+   "target": "kevin-morin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
    "source": "karim-al-dahdah",
    "target": "ligue-monarchiste",
    "weight": 1,
@@ -19255,6 +20888,18 @@
   },
   {
    "source": "la-caisse",
+   "target": "martin-sion",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
+     "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
+    }
+   ]
+  },
+  {
+   "source": "la-caisse",
    "target": "thomas-birch",
    "weight": 1,
    "stories": [
@@ -19262,6 +20907,42 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "source": "laurent-desbois",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "laurent-desbois",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "laurent-desbois",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -19602,6 +21283,18 @@
    ]
   },
   {
+   "source": "marc-fortin",
+   "target": "rqra",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "RPA : des services aux aînés menacés par des retards en immigration",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa"
+    }
+   ]
+  },
+  {
    "source": "marcel-chartrand",
    "target": "sante-quebec",
    "weight": 1,
@@ -19694,6 +21387,30 @@
      "date": "2026-10-27",
      "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
      "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "marie-josee-lamothe",
+   "target": "northex",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "marie-josee-lamothe",
+   "target": "roynat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
     }
    ]
   },
@@ -20642,6 +22359,18 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "northex",
+   "target": "roynat",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
     }
    ]
   },
@@ -21835,25 +23564,13 @@
   },
   {
    "source": "spvm",
-   "target": "ville-montreal",
+   "target": "yannick-desmarais",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
-   "source": "spvm",
-   "target": "yves-francoeur",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
     }
    ]
   },
@@ -21938,6 +23655,30 @@
      "date": "2026-10-26",
      "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
      "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "ville-montreal",
+   "target": "yannick-desmarais",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "source": "ville-montreal",
+   "target": "yves-francoeur",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     }
    ]
   }
