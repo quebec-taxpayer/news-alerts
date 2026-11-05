@@ -359,6 +359,27 @@
     "étude d’impact sur le marché du travail",
     "EIMT"
    ]
+  },
+  {
+   "id": "csq",
+   "term_en": "CSQ (Quebec selection certificate)",
+   "term_fr": "CSQ (certificat de sélection du Québec)",
+   "def_en": "A document issued by Quebec that says the province has selected a person for permanent immigration. It is usually needed before applying for permanent residence when Quebec chooses the candidate.",
+   "def_fr": "Document délivré par le Québec qui atteste que la province a sélectionné une personne pour l’immigration permanente. Il est en général requis avant une demande de résidence permanente lorsque le Québec choisit le candidat.",
+   "source_en": "https://www.quebec.ca/en/immigration",
+   "source_fr": "https://www.quebec.ca/immigration",
+   "source_label": "Gouvernement du Québec",
+   "match_en": [
+    "CSQ",
+    "Quebec selection certificate",
+    "selection certificates"
+   ],
+   "match_fr": [
+    "CSQ",
+    "certificat de sélection",
+    "certificats de sélection",
+    "faux certificats de sélection"
+   ]
   }
  ]
 }

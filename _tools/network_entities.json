@@ -2151,6 +2151,66 @@
     "Immigration Canada",
     "IRCC"
    ]
+  },
+  "nemaska-lithium": {
+   "name": "Nemaska Lithium",
+   "type": "organization",
+   "aliases": [
+    "Nemaska"
+   ]
+  },
+  "mohawk-council-kahnawake": {
+   "name": "Mohawk Council of Kahnawà:ke",
+   "type": "organization",
+   "aliases": [
+    "Conseil mohawk de Kahnawà:ke",
+    "Kahnawà:ke",
+    "Kahnawake"
+   ]
+  },
+  "horizon-kahnawake-hq": {
+   "name": "Horizon Kahnawà:ke Hydro-Québec",
+   "type": "organization",
+   "aliases": [
+    "Horizon Kahnawà:ke"
+   ]
+  },
+  "pascal-berube": {
+   "name": "Pascal Bérubé",
+   "type": "person",
+   "aliases": [
+    "Bérubé"
+   ]
+  },
+  "andre-fortin": {
+   "name": "André Fortin",
+   "type": "person",
+   "aliases": [
+    "Fortin"
+   ]
+  },
+  "laneq": {
+   "name": "Les avocats et notaires de l’État québécois",
+   "type": "organization",
+   "aliases": [
+    "LANEQ"
+   ]
+  },
+  "sqi": {
+   "name": "Société québécoise des infrastructures",
+   "type": "organization",
+   "aliases": [
+    "SQI"
+   ]
+  },
+  "mii": {
+   "name": "Ministère de l’Immigration et de l’Intégration",
+   "type": "organization",
+   "aliases": [
+    "MII",
+    "MIFI",
+    "ministère de l’Immigration"
+   ]
   }
  },
  "stories": [
@@ -4068,6 +4128,100 @@
     "ircc"
    ],
    "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "nemaska-lithium-le-plus-gros-projet",
+   "entities": [
+    "nemaska-lithium",
+    "rio-tinto",
+    "investissement-quebec"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "hydro-quebec-to-sell-part-of-new-york",
+   "entities": [
+    "hydro-quebec",
+    "mohawk-council-kahnawake",
+    "horizon-kahnawake-hq",
+    "regie-energie"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "2298350/budget-canada-2026-quebec-demandeur",
+   "entities": [
+    "nicolas-marceau",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "2298422/rentree-parlementaire-repoussee",
+   "entities": [
+    "pspp",
+    "manon-jeannotte",
+    "andre-fortin",
+    "ruba-ghazal"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "oath-king",
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "les-partis-de-l-opposition-disent-non-a-la-loi-101",
+   "entities": [
+    "pascal-berube",
+    "pspp"
+   ],
+   "checked_by_hand": false,
+   "dossiers": []
+  },
+  {
+   "match": "Nominations/Communique/2026-11-04",
+   "entities": [
+    "alex-perreault"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "une-ex-fonctionnaire-accusee-d-avoir-livre",
+   "entities": [
+    "clcc",
+    "upac",
+    "mii"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "2298373/ia-sante-quebec-appels-info-sante",
+   "entities": [
+    "sante-quebec"
+   ],
+   "checked_by_hand": false,
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi",
+   "entities": [
+    "laneq",
+    "sqi"
+   ],
+   "checked_by_hand": true,
    "dossiers": []
   }
  ]

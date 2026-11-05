@@ -731,6 +731,53 @@
    "category": "health",
    "importance": 3,
    "title_en": "Private seniors' residences: services to seniors threatened by immigration delays"
+  },
+  "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "Nemaska Lithium, Quebec's biggest battery-sector project, is in danger"
+  },
+  "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211": {
+   "category": "energy",
+   "importance": 4,
+   "title_fr": "Hydro-Québec vendra une part de la ligne vers New York à Kahnawà:ke"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Federal budget: Quebec “demands” $690 million for asylum-seeker services"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Quebec’s parliamentary return postponed to Dec. 1"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Protection of French: opposition parties say no to Bill 101 at CEGEP"
+  },
+  "https://www.emplois-superieurs.gouv.qc.ca/Nominations/Communique/2026-11-04": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Cabinet appointments",
+   "title_fr": "Nominations du Conseil des ministres"
+  },
+  "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "Immigration: a former official accused of issuing more than a hundred false selection certificates"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298373/ia-sante-quebec-appels-info-sante": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "AI to speed up response times on the 811 line"
+  },
+  "https://www.newswire.ca/news-releases/l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi-a-ete-annule-836839883.html": {
+   "category": "other",
+   "importance": 2,
+   "title_en": "LANEQ’s strike notice at the SQI has been cancelled",
+   "title_fr": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé"
   }
  }
 }

@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-04T15:29:30Z",
+ "generated": "2026-11-05T15:32:48Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 152,
+ "story_count": 161,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1639,6 +1639,87 @@
      ]
     }
    ]
+  },
+  "2026-11-05": {
+   "post": "/2026/11/05/digest/",
+   "stories": [
+    {
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger",
+     "entities": [
+      "investissement-quebec",
+      "nemaska-lithium",
+      "rio-tinto"
+     ]
+    },
+    {
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211",
+     "entities": [
+      "horizon-kahnawake-hq",
+      "hydro-quebec",
+      "mohawk-council-kahnawake",
+      "regie-energie"
+     ]
+    },
+    {
+     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile",
+     "entities": [
+      "nicolas-marceau",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre",
+     "entities": [
+      "andre-fortin",
+      "manon-jeannotte",
+      "pspp",
+      "ruba-ghazal"
+     ]
+    },
+    {
+     "headline": "Protection du français | Les partis de l’opposition disent non à la loi 101 au cégep",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php",
+     "entities": [
+      "pascal-berube",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.emplois-superieurs.gouv.qc.ca/Nominations/Communique/2026-11-04",
+     "entities": [
+      "alex-perreault"
+     ]
+    },
+    {
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php",
+     "entities": [
+      "clcc",
+      "mii",
+      "upac"
+     ]
+    },
+    {
+     "headline": "L’IA pour accélérer le temps de réponse au 811",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298373/ia-sante-quebec-appels-info-sante",
+     "entities": [
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé",
+     "url": "https://www.newswire.ca/news-releases/l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi-a-ete-annule-836839883.html",
+     "entities": [
+      "laneq",
+      "sqi"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1650,7 +1731,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 39,
+   "mentions": 42,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1846,6 +1927,21 @@
      "date": "2026-11-04",
      "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Protection du français | Les partis de l’opposition disent non à la loi 101 au cégep",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php"
     }
    ]
   },
@@ -1987,7 +2083,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 18,
+   "mentions": 19,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2078,6 +2174,11 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "L’IA pour accélérer le temps de réponse au 811",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298373/ia-sante-quebec-appels-info-sante"
     }
    ]
   },
@@ -2088,7 +2189,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 15,
+   "mentions": 16,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2164,6 +2265,11 @@
      "date": "2026-11-04",
      "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
      "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
     }
    ]
   },
@@ -2813,6 +2919,88 @@
    ]
   },
   {
+   "id": "manon-jeannotte",
+   "name": "Manon Jeannotte",
+   "type": "person",
+   "aliases": [
+    "Manon Jeanotte"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    }
+   ]
+  },
+  {
+   "id": "nicolas-marceau",
+   "name": "Nicolas Marceau",
+   "type": "person",
+   "aliases": [
+    "Marceau"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    }
+   ]
+  },
+  {
    "id": "qs",
    "name": "Québec solidaire",
    "type": "organization",
@@ -2891,74 +3079,39 @@
    ]
   },
   {
-   "id": "manon-jeannotte",
-   "name": "Manon Jeannotte",
-   "type": "person",
+   "id": "regie-energie",
+   "name": "Régie de l’énergie",
+   "type": "organization",
    "aliases": [
-    "Manon Jeanotte"
+    "Régie de l'énergie",
+    "Régie"
    ],
    "mentions": 5,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
-    }
-   ]
-  },
-  {
-   "id": "nicolas-marceau",
-   "name": "Nicolas Marceau",
-   "type": "person",
-   "aliases": [
-    "Marceau"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
     },
     {
      "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "headline": "Fini le gaz américain chez Énergir",
+     "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
     },
     {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
     },
     {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+     "date": "2026-11-03",
+     "headline": "Hausse de production | Hydro-Québec manque de jus",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
     }
    ]
   },
@@ -3221,38 +3374,6 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    }
-   ]
-  },
-  {
-   "id": "regie-energie",
-   "name": "Régie de l’énergie",
-   "type": "organization",
-   "aliases": [
-    "Régie de l'énergie",
-    "Régie"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Fini le gaz américain chez Énergir",
-     "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Hausse de production | Hydro-Québec manque de jus",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
     }
    ]
   },
@@ -3558,6 +3679,32 @@
      "date": "2026-10-30",
      "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "id": "investissement-quebec",
+   "name": "Investissement Québec",
+   "type": "organization",
+   "aliases": [
+    "IQ"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
     }
    ]
   },
@@ -3868,6 +4015,25 @@
    ]
   },
   {
+   "id": "alex-perreault",
+   "name": "Alex Perreault",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.emplois-superieurs.gouv.qc.ca/Nominations/Communique/2026-11-04"
+    }
+   ]
+  },
+  {
    "id": "anne-nguyen",
    "name": "Anne Nguyen",
    "type": "person",
@@ -4077,6 +4243,27 @@
    ]
   },
   {
+   "id": "clcc",
+   "name": "Commissaire à la lutte contre la corruption",
+   "type": "organization",
+   "aliases": [
+    "CLCC"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
+     "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    }
+   ]
+  },
+  {
    "id": "cnesst",
    "name": "Commission des normes, de l’équité, de la santé et de la sécurité du travail",
    "type": "organization",
@@ -4263,27 +4450,6 @@
    ]
   },
   {
-   "id": "investissement-quebec",
-   "name": "Investissement Québec",
-   "type": "organization",
-   "aliases": [
-    "IQ"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
-     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
-     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
-    }
-   ]
-  },
-  {
    "id": "joel-arseneau",
    "name": "Joël Arseneau",
    "type": "person",
@@ -4463,6 +4629,46 @@
    ]
   },
   {
+   "id": "rio-tinto",
+   "name": "Rio Tinto",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    }
+   ]
+  },
+  {
+   "id": "ruba-ghazal",
+   "name": "Ruba Ghazal",
+   "type": "person",
+   "aliases": [
+    "Ghazal"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    }
+   ]
+  },
+  {
    "id": "rbq",
    "name": "Régie du bâtiment du Québec",
    "type": "organization",
@@ -4564,6 +4770,27 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "upac",
+   "name": "Unité permanente anticorruption",
+   "type": "organization",
+   "aliases": [
+    "UPAC"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
     }
    ]
   },
@@ -4709,20 +4936,6 @@
    ]
   },
   {
-   "id": "alex-perreault",
-   "name": "Alex Perreault",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
-    }
-   ]
-  },
-  {
    "id": "alexandre-boulerice",
    "name": "Alexandre Boulerice",
    "type": "person",
@@ -4812,6 +5025,22 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "id": "andre-fortin",
+   "name": "André Fortin",
+   "type": "person",
+   "aliases": [
+    "Fortin"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
     }
    ]
   },
@@ -5300,22 +5529,6 @@
      "date": "2026-10-26",
      "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
      "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    }
-   ]
-  },
-  {
-   "id": "clcc",
-   "name": "Commissaire à la lutte contre la corruption",
-   "type": "organization",
-   "aliases": [
-    "CLCC"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
-     "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
     }
    ]
   },
@@ -6078,6 +6291,22 @@
    ]
   },
   {
+   "id": "horizon-kahnawake-hq",
+   "name": "Horizon Kahnawà:ke Hydro-Québec",
+   "type": "organization",
+   "aliases": [
+    "Horizon Kahnawà:ke"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    }
+   ]
+  },
+  {
    "id": "hugues-mousseau",
    "name": "Hugues Mousseau",
    "type": "person",
@@ -6659,6 +6888,22 @@
    ]
   },
   {
+   "id": "laneq",
+   "name": "Les avocats et notaires de l’État québécois",
+   "type": "organization",
+   "aliases": [
+    "LANEQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé",
+     "url": "https://www.newswire.ca/news-releases/l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi-a-ete-annule-836839883.html"
+    }
+   ]
+  },
+  {
    "id": "ligue-monarchiste",
    "name": "Ligue monarchiste du Canada",
    "type": "organization",
@@ -7070,6 +7315,24 @@
    ]
   },
   {
+   "id": "mii",
+   "name": "Ministère de l’Immigration et de l’Intégration",
+   "type": "organization",
+   "aliases": [
+    "MII",
+    "MIFI",
+    "ministère de l’Immigration"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    }
+   ]
+  },
+  {
    "id": "mifi",
    "name": "Ministère de l’Immigration, de la Francisation et de l’Intégration",
    "type": "organization",
@@ -7101,6 +7364,24 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "id": "mohawk-council-kahnawake",
+   "name": "Mohawk Council of Kahnawà:ke",
+   "type": "organization",
+   "aliases": [
+    "Conseil mohawk de Kahnawà:ke",
+    "Kahnawà:ke",
+    "Kahnawake"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
     }
    ]
   },
@@ -7207,6 +7488,22 @@
      "date": "2026-10-25",
      "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
      "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "id": "nemaska-lithium",
+   "name": "Nemaska Lithium",
+   "type": "organization",
+   "aliases": [
+    "Nemaska"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
     }
    ]
   },
@@ -7332,6 +7629,22 @@
      "date": "2026-11-01",
      "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
      "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "id": "pascal-berube",
+   "name": "Pascal Bérubé",
+   "type": "person",
+   "aliases": [
+    "Bérubé"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Protection du français | Les partis de l’opposition disent non à la loi 101 au cégep",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php"
     }
    ]
   },
@@ -7502,20 +7815,6 @@
    ]
   },
   {
-   "id": "rio-tinto",
-   "name": "Rio Tinto",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
-    }
-   ]
-  },
-  {
    "id": "roynat",
    "name": "Roynat",
    "type": "organization",
@@ -7526,22 +7825,6 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
-    }
-   ]
-  },
-  {
-   "id": "ruba-ghazal",
-   "name": "Ruba Ghazal",
-   "type": "person",
-   "aliases": [
-    "Ghazal"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -7759,6 +8042,22 @@
      "date": "2026-10-28",
      "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
      "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
+    }
+   ]
+  },
+  {
+   "id": "sqi",
+   "name": "Société québécoise des infrastructures",
+   "type": "organization",
+   "aliases": [
+    "SQI"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé",
+     "url": "https://www.newswire.ca/news-releases/l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi-a-ete-annule-836839883.html"
     }
    ]
   },
@@ -8050,22 +8349,6 @@
      "date": "2026-11-01",
      "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
      "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
-    }
-   ]
-  },
-  {
-   "id": "upac",
-   "name": "Unité permanente anticorruption",
-   "type": "organization",
-   "aliases": [
-    "UPAC"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
-     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
     }
    ]
   },
@@ -8785,6 +9068,43 @@
    ]
   },
   {
+   "source": "manon-jeannotte",
+   "target": "pspp",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    }
+   ]
+  },
+  {
    "source": "marie-karlynn-laflamme",
    "target": "sante-quebec",
    "weight": 6,
@@ -8886,34 +9206,34 @@
    ]
   },
   {
-   "source": "manon-jeannotte",
+   "source": "nicolas-marceau",
    "target": "pspp",
    "weight": 5,
    "stories": [
     {
      "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
     },
     {
      "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     },
     {
-     "date": "2026-10-30",
-     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     },
     {
-     "date": "2026-11-02",
-     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+     "date": "2026-11-05",
+     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
     }
    ]
   },
@@ -9262,6 +9582,33 @@
    ]
   },
   {
+   "source": "hydro-quebec",
+   "target": "regie-energie",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Hausse de production | Hydro-Québec manque de jus",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    }
+   ]
+  },
+  {
    "source": "mark-carney",
    "target": "union-europeenne",
    "weight": 4,
@@ -9307,33 +9654,6 @@
      "date": "2026-10-29",
      "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    }
-   ]
-  },
-  {
-   "source": "nicolas-marceau",
-   "target": "pspp",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     },
     {
      "date": "2026-11-04",
@@ -9723,28 +10043,6 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
-   "target": "regie-energie",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Hausse de production | Hydro-Québec manque de jus",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
     }
    ]
   },
@@ -13027,6 +13325,42 @@
    ]
   },
   {
+   "source": "andre-fortin",
+   "target": "manon-jeannotte",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    }
+   ]
+  },
+  {
+   "source": "andre-fortin",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    }
+   ]
+  },
+  {
+   "source": "andre-fortin",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    }
+   ]
+  },
+  {
    "source": "anne-nguyen",
    "target": "assemblee-nationale",
    "weight": 1,
@@ -15663,6 +15997,30 @@
      "date": "2026-10-21",
      "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
      "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    }
+   ]
+  },
+  {
+   "source": "clcc",
+   "target": "mii",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    }
+   ]
+  },
+  {
+   "source": "clcc",
+   "target": "upac",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
     }
    ]
   },
@@ -19483,6 +19841,42 @@
    ]
   },
   {
+   "source": "horizon-kahnawake-hq",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    }
+   ]
+  },
+  {
+   "source": "horizon-kahnawake-hq",
+   "target": "mohawk-council-kahnawake",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    }
+   ]
+  },
+  {
+   "source": "horizon-kahnawake-hq",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    }
+   ]
+  },
+  {
    "source": "hugues-mousseau",
    "target": "sante-quebec",
    "weight": 1,
@@ -19551,6 +19945,18 @@
      "date": "2026-10-25",
      "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
      "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "mohawk-council-kahnawake",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
     }
    ]
   },
@@ -20072,6 +20478,18 @@
   },
   {
    "source": "investissement-quebec",
+   "target": "nemaska-lithium",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
    "target": "northex",
    "weight": 1,
    "stories": [
@@ -20079,6 +20497,18 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "rio-tinto",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
     }
    ]
   },
@@ -20911,6 +21341,18 @@
    ]
   },
   {
+   "source": "laneq",
+   "target": "sqi",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé",
+     "url": "https://www.newswire.ca/news-releases/l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi-a-ete-annule-836839883.html"
+    }
+   ]
+  },
+  {
    "source": "laurent-desbois",
    "target": "nicolas-marceau",
    "weight": 1,
@@ -21279,6 +21721,18 @@
      "date": "2026-10-22",
      "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
      "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    }
+   ]
+  },
+  {
+   "source": "manon-jeannotte",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
     }
    ]
   },
@@ -22003,6 +22457,18 @@
    ]
   },
   {
+   "source": "mii",
+   "target": "upac",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    }
+   ]
+  },
+  {
    "source": "ministere-culture",
    "target": "musee-civilisation",
    "weight": 1,
@@ -22059,6 +22525,18 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "mohawk-council-kahnawake",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
     }
    ]
   },
@@ -22255,6 +22733,18 @@
    ]
   },
   {
+   "source": "nemaska-lithium",
+   "target": "rio-tinto",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    }
+   ]
+  },
+  {
    "source": "nicolas-girard",
    "target": "nicolas-marceau",
    "weight": 1,
@@ -22371,6 +22861,18 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "pascal-berube",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Protection du français | Les partis de l’opposition disent non à la loi 101 au cégep",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php"
     }
    ]
   },
@@ -22923,6 +23425,18 @@
      "date": "2026-10-29",
      "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
      "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "ruba-ghazal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
     }
    ]
   },

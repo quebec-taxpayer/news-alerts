@@ -50,7 +50,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-01": ["crown-corporations"],
         "2026-11-02": ["it-digital", "crown-corporations"],
         "2026-11-03": ["crown-corporations", "it-digital"],
-        "2026-11-04": ["crown-corporations", "procurement"]}
+        "2026-11-04": ["crown-corporations", "procurement"],
+        "2026-11-05": ["crown-corporations", "it-digital"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -83,6 +84,8 @@ SUMMARY = {
                 "Hydro-Québec pushes its production increase back to 2041 and plans to import electricity for almost all of its plan; severance payments in the senior public service; Sébastien D’Astous promises job cuts; uncertainty after the PEQ closes; Montreal: seven police officers fired and the anti-insult bylaw stays in force; end of the RPA wage premium; follow-ups: dates proposed for a Carney–St-Pierre Plamondon meeting, Therrien open to talks on telework, QS denounces the dismantling of the Ministry of Cybersecurity and Digital Affairs."),
  "2026-11-04": ("PSPP évoque un déficit « important » et nomme un conseiller chargé de traquer le gaspillage avec le Conseil du trésor; Investissement Québec poursuit Northex; La Caisse « très surprise » par Alstom; le SPVM acquiert des caméras de lecture de plaques; la consigne sur le verre pourrait être reportée.",
                 "PSPP points to a “significant” deficit and names an adviser to hunt for waste with the Treasury Board; Investissement Québec sues Northex; La Caisse “very surprised” by Alstom; the SPVM buys licence-plate-reading cameras; the deposit on glass could be postponed."),
+ "2026-11-05": ("Nemaska Lithium, projet à 1,2 milliard de fonds publics, risque de manquer de financement à Bécancour; Québec exige 690 M$ d’Ottawa pour les demandeurs d’asile; rentrée parlementaire reportée au 1er décembre; Hydro-Québec propose un partenariat avec Kahnawà:ke sur la ligne vers New York; faux CSQ : une ex-fonctionnaire accusée; l’opposition dit non à la loi 101 au cégep.",
+                "Nemaska Lithium, a project with $1.2 billion in public funds, risks running short of financing in Bécancour; Quebec demands $690 million from Ottawa for asylum seekers; the Assembly’s return is postponed to Dec. 1; Hydro-Québec proposes a Kahnawà:ke partnership on the New York line; false CSQs: a former official charged; the opposition says no to Bill 101 at CEGEP."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {
@@ -90,6 +93,10 @@ HEADINGS = {
  "Government & institutions": ("Gouvernement & institutions", "Government & institutions"),
  "Energy & industry": ("Énergie & industrie", "Energy & industry"),
  "Lobbying & ethics": ("Lobbyisme & éthique", "Lobbying & ethics"),
+ "Justice & investigations": ("Justice & enquêtes", "Justice & investigations"),
+ "Contracting & labour": ("Contrats & travail", "Contracting & labour"),
+ "Health & social services": ("Santé & services sociaux", "Health & social services"),
+ "Public finances": ("Finances publiques", "Public finances"),
  "Mise à jour / Update (après-midi)": ("Mise à jour (après-midi)", "Update (afternoon)"),
  "Mise à jour / Update (fin de matinée / late morning)": ("Mise à jour (fin de matinée)", "Update (late morning)"),
  "Mise à jour / Update (fin d’après-midi / late afternoon)": ("Mise à jour (fin d’après-midi)", "Update (late afternoon)"),

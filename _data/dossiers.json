@@ -298,6 +298,16 @@
      "source_type": "media",
      "post": "2026-11-04",
      "background": false
+    },
+    {
+     "date": "2026-11-05",
+     "en": "CBC reports Hydro-Québec proposes selling Kahnawà:ke a share of a 58-km segment of the New York transmission line, through a new joint company, Horizon Kahnawà:ke Hydro-Québec; the proposal needs Régie de l’énergie approval.",
+     "fr": "CBC rapporte qu’Hydro-Québec propose de vendre à Kahnawà:ke une part d’un tronçon de 58 km de la ligne de transport vers New York, via une nouvelle société commune, Horizon Kahnawà:ke Hydro-Québec; le projet doit être approuvé par la Régie de l’énergie.",
+     "source_title": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211",
+     "background": true,
+     "source_type": "media"
     }
    ],
    "tldr": {
@@ -310,8 +320,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Hydro-Québec has filed its 2027-2041 supply plan with the Régie: its production-increase target moves to 2041, and it expects to import electricity for almost the whole plan. A judge struck down the government’s orders on data-centre rates; a Régie decision is expected in 2027. Newfoundland and Labrador’s premier says the Churchill Falls deal will not be renegotiated.",
-     "fr": "Hydro-Québec a déposé son plan d’approvisionnement 2027-2041 à la Régie : son objectif de hausse de production passe à 2041, et elle prévoit importer de l’électricité pendant presque toute la durée du plan. Une juge a annulé les décrets du gouvernement sur les tarifs des centres de données; une décision de la Régie est attendue en 2027. Le premier ministre de Terre-Neuve-et-Labrador affirme que l’entente de Churchill Falls ne sera pas renégociée."
+     "en": "Hydro-Québec’s 2027-2041 supply plan is before the Régie. It is also proposing a first equity partnership with Kahnawà:ke on part of the New York line.",
+     "fr": "Le plan d’approvisionnement 2027-2041 d’Hydro-Québec est devant la Régie. Elle propose aussi un premier partenariat en capital avec Kahnawà:ke sur une partie de la ligne vers New York."
     }
    }
   },
@@ -669,6 +679,16 @@
      "source_type": "media",
      "post": "2026-11-02",
      "background": false
+    },
+    {
+     "date": "2026-11-05",
+     "en": "Radio-Canada reports the premier postponed the Assembly’s first sitting by two weeks, to Dec. 1; opposition leaders say they were not consulted, and the Lieutenant Governor’s role remains unsettled ahead of the Superior Court ruling expected by Nov. 24.",
+     "fr": "Radio-Canada rapporte que le premier ministre a reporté de deux semaines la première séance de l’Assemblée, au 1er décembre; les chefs de l’opposition disent n’avoir pas été consultés, et le rôle de la lieutenante-gouverneure reste en suspens avant la décision de la Cour supérieure attendue d’ici le 24 novembre.",
+     "source_title": "Rentrée parlementaire reportée de deux semaines, au 1er décembre",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre",
+     "background": true,
+     "source_type": "media"
     }
    ],
    "tldr": {
@@ -681,8 +701,8 @@
      "fr": "La cause pourrait influer sur le moment où l’Assemblée nationale commence ses travaux après l’élection."
     },
     "now": {
-     "en": "The Superior Court heard the case. A ruling is expected by Nov. 24. The premier plans to deliver his opening speech on Nov. 17 without the Lieutenant Governor present.",
-     "fr": "La Cour supérieure a entendu la cause. Une décision est attendue d’ici le 24 novembre. Le premier ministre prévoit prononcer son discours d’ouverture le 17 novembre sans la présence de la lieutenante-gouverneure."
+     "en": "The Superior Court ruling on the oath is still expected by Nov. 24. The first sitting is now set for Dec. 1 after the premier postponed it by two weeks.",
+     "fr": "La décision de la Cour supérieure sur le serment est toujours attendue d’ici le 24 novembre. La première séance est maintenant fixée au 1er décembre après le report de deux semaines annoncé par le premier ministre."
     }
    }
   },
@@ -940,6 +960,16 @@
      "source_type": "media",
      "post": "2026-10-31",
      "background": false
+    },
+    {
+     "date": "2026-11-05",
+     "en": "Radio-Canada reports Santé Québec is testing artificial intelligence on Info-Santé 811 calls, with a nurse still making the final triage decision.",
+     "fr": "Radio-Canada rapporte que Santé Québec teste l’intelligence artificielle sur les appels Info-Santé 811, une infirmière gardant la décision finale de triage.",
+     "source_title": "Santé Québec teste l’intelligence artificielle sur les appels Info-Santé 811",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298373/ia-sante-quebec-appels-info-sante",
+     "background": true,
+     "source_type": "media"
     }
    ],
    "tldr": {
@@ -1437,6 +1467,26 @@
      "source_type": "media",
      "post": "2026-11-04",
      "background": false
+    },
+    {
+     "date": "2026-11-04",
+     "en": "The Conseil des ministres names Alex Perreault assistant deputy minister at the Ministry of Economic Development, Innovation and Energy, effective Nov. 30; he is a former deputy chief of staff to the premier.",
+     "fr": "Le Conseil des ministres nomme Alex Perreault sous-ministre adjoint au ministère du Développement économique, de l’Innovation et de l’Énergie, à compter du 30 novembre; il est un ancien directeur adjoint du cabinet du premier ministre.",
+     "source_title": "Nominations du Conseil des ministres — 4 novembre 2026",
+     "source_outlet": "Emplois supérieurs",
+     "source_url": "https://www.emplois-superieurs.gouv.qc.ca/Nominations/Communique/2026-11-04",
+     "background": true,
+     "source_type": "primary"
+    },
+    {
+     "date": "2026-11-05",
+     "en": "The premier postpones the National Assembly’s first sitting to Dec. 1; PLQ, QS and CAQ leaders say they were not consulted.",
+     "fr": "Le premier ministre reporte la première séance de l’Assemblée nationale au 1er décembre; les chefs du PLQ, de QS et de la CAQ disent n’avoir pas été consultés.",
+     "source_title": "Rentrée parlementaire reportée de deux semaines, au 1er décembre",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre",
+     "background": true,
+     "source_type": "media"
     }
    ],
    "tldr": {
