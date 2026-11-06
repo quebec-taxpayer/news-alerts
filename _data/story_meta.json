@@ -778,6 +778,51 @@
    "importance": 2,
    "title_en": "LANEQ’s strike notice at the SQI has been cancelled",
    "title_fr": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé"
+  },
+  "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598": {
+   "category": "finances",
+   "importance": 5,
+   "title_fr": "Le gouvernement du Québec critique le budget fédéral, tandis que des maires saluent le financement contre l’itinérance"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "Équiterre calls for a moratorium on data centres"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Mark Carney and PSPP arrange to meet in Phnom Penh"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Quebec City cuts 100 homes from a real-estate project"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Home buying: a Quebec City pilot program fails to take off"
+  },
+  "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Closed since 2020: poorly designed windows delayed work on the Olympic Stadium observatory"
+  },
+  "https://www.newswire.ca/news-releases/congres-annuel-de-l-aqpp-les-pharmaciens-veulent-assumer-pleinement-leur-place-pour-maximiser-leur-impact-893595452.html": {
+   "category": "health",
+   "importance": 2,
+   "title_en": "AQPP annual convention: pharmacists want to take their full place to maximize their impact"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement": {
+   "category": "other",
+   "importance": 3,
+   "title_en": "The milk carton is the deposit system’s new challenge in Quebec"
+  },
+  "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm": {
+   "category": "other",
+   "importance": 3,
+   "title_fr": "Enquête sur la population active, octobre 2026"
   }
  }
 }

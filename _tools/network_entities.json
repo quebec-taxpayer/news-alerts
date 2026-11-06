@@ -2211,6 +2211,146 @@
     "MIFI",
     "ministère de l’Immigration"
    ]
+  },
+  "yves-francois-blanchet": {
+   "name": "Yves-François Blanchet",
+   "type": "person",
+   "aliases": [
+    "Blanchet"
+   ]
+  },
+  "ray-khalil": {
+   "name": "Ray Khalil",
+   "type": "person",
+   "aliases": [
+    "Khalil"
+   ]
+  },
+  "equiterre": {
+   "name": "Équiterre",
+   "type": "organization",
+   "aliases": []
+  },
+  "daniel-rotman": {
+   "name": "Daniel Rotman",
+   "type": "person",
+   "aliases": [
+    "Rotman"
+   ]
+  },
+  "collectif-nrs": {
+   "name": "Collectif numérique responsable et soutenable",
+   "type": "organization",
+   "aliases": [
+    "NRS"
+   ]
+  },
+  "cendrix-bouchard": {
+   "name": "Cendrix Bouchard",
+   "type": "person",
+   "aliases": []
+  },
+  "doug-ford": {
+   "name": "Doug Ford",
+   "type": "person",
+   "aliases": [
+    "Ford"
+   ]
+  },
+  "dieudonne-ella-oyono": {
+   "name": "Dieudonné Ella Oyono",
+   "type": "person",
+   "aliases": [
+    "Ella Oyono"
+   ]
+  },
+  "oif": {
+   "name": "Organisation internationale de la Francophonie",
+   "type": "organization",
+   "aliases": [
+    "OIF",
+    "Francophonie"
+   ]
+  },
+  "jean-pascal-lavoie": {
+   "name": "Jean-Pascal Lavoie",
+   "type": "person",
+   "aliases": []
+  },
+  "stephane-lachance": {
+   "name": "Stéphane Lachance",
+   "type": "person",
+   "aliases": []
+  },
+  "cedric-essiminy": {
+   "name": "Cédric Essiminy",
+   "type": "person",
+   "aliases": [
+    "Essiminy"
+   ]
+  },
+  "pomerleau": {
+   "name": "Pomerleau",
+   "type": "organization",
+   "aliases": []
+  },
+  "lemay-co": {
+   "name": "Lemay CO",
+   "type": "organization",
+   "aliases": [
+    "Lemay"
+   ]
+  },
+  "vitreco": {
+   "name": "Vitreco",
+   "type": "organization",
+   "aliases": []
+  },
+  "louis-moreau": {
+   "name": "Louis Moreau",
+   "type": "person",
+   "aliases": []
+  },
+  "benoit-morin": {
+   "name": "Benoit Morin",
+   "type": "person",
+   "aliases": []
+  },
+  "sustana": {
+   "name": "Sustana",
+   "type": "organization",
+   "aliases": []
+  },
+  "marie-eve-chapdelaine": {
+   "name": "Marie-Eve Chapdelaine",
+   "type": "person",
+   "aliases": []
+  },
+  "pierre-alexandre-blouin": {
+   "name": "Pierre-Alexandre Blouin",
+   "type": "person",
+   "aliases": [
+    "Blouin"
+   ]
+  },
+  "ada-quebec": {
+   "name": "Association des détaillants en alimentation du Québec",
+   "type": "organization",
+   "aliases": [
+    "ADAQ"
+   ]
+  },
+  "front-commun-dechets": {
+   "name": "Front commun québécois pour une gestion écologique des déchets",
+   "type": "organization",
+   "aliases": []
+  },
+  "statistique-canada": {
+   "name": "Statistics Canada",
+   "type": "organization",
+   "aliases": [
+    "Statistique Canada"
+   ]
   }
  },
  "stories": [
@@ -4222,6 +4362,115 @@
     "sqi"
    ],
    "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "quebec-government-pans-federal-budget",
+   "entities": [
+    "nicolas-marceau",
+    "mark-carney",
+    "yves-francois-blanchet",
+    "soraya-martinez-ferrada",
+    "ray-khalil",
+    "bruno-marchand",
+    "gouv-canada",
+    "ville-quebec"
+   ],
+   "dossiers": [
+    "pq-transition",
+    "homelessness"
+   ]
+  },
+  {
+   "match": "centres-donnees-equiterre-moratoire-quebec",
+   "entities": [
+    "equiterre",
+    "daniel-rotman",
+    "collectif-nrs",
+    "hydro-quebec",
+    "marie-claude-bibeau",
+    "ville-sherbrooke",
+    "regie-energie",
+    "cendrix-bouchard",
+    "pspp"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "premiere-rencontre-mark-carney-pspp",
+   "entities": [
+    "mark-carney",
+    "pspp",
+    "doug-ford",
+    "dieudonne-ella-oyono",
+    "oif"
+   ],
+   "dossiers": [
+    "canada-eu-summit",
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "projet-immobilier-haute-saint-charles-cimes",
+   "entities": [
+    "ville-quebec"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "programme-acheteur-maison-acces-famille",
+   "entities": [
+    "ville-quebec",
+    "jean-pascal-lavoie",
+    "bruno-marchand",
+    "stephane-lachance"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "ferme-depuis-2020-des-fenetres-mal-concues",
+   "entities": [
+    "parc-olympique",
+    "cedric-essiminy",
+    "pomerleau",
+    "lemay-co",
+    "vitreco",
+    "louis-moreau"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "congres-annuel-de-l-aqpp-les-pharmaciens",
+   "entities": [
+    "aqpp",
+    "benoit-morin"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "lait-jus-contenant-consigne-quebec-environnement",
+   "entities": [
+    "consignaction",
+    "saq",
+    "sustana",
+    "marie-eve-chapdelaine",
+    "karel-menard",
+    "front-commun-dechets",
+    "pierre-alexandre-blouin",
+    "ada-quebec"
+   ],
+   "dossiers": [
+    "saq"
+   ]
+  },
+  {
+   "match": "dq261106a-eng",
+   "entities": [
+    "statistique-canada"
+   ],
    "dossiers": []
   }
  ]

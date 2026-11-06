@@ -120,7 +120,8 @@
     "regie-energie",
     "tat",
     "innergex",
-    "mrc-coaticook"
+    "mrc-coaticook",
+    "equiterre"
    ],
    "events": [
     {
@@ -300,6 +301,17 @@
      "background": false
     },
     {
+     "date": "2026-11-04",
+     "en": "Équiterre asks the new Quebec government for a moratorium on data centres and launches a petition; Radio-Canada reports the government is studying requests totalling 2,500 MW from that industry.",
+     "fr": "Équiterre demande au nouveau gouvernement du Québec un moratoire sur les centres de données et lance une pétition; Radio-Canada indique que le gouvernement étudie des demandes totalisant 2 500 MW provenant de cette industrie.",
+     "source_title": "Équiterre exige un moratoire sur les centres de données",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec",
+     "source_type": "media",
+     "post": "2026-11-06",
+     "background": false
+    },
+    {
      "date": "2026-11-05",
      "en": "CBC reports Hydro-Québec proposes selling Kahnawà:ke a share of a 58-km segment of the New York transmission line, through a new joint company, Horizon Kahnawà:ke Hydro-Québec; the proposal needs Régie de l’énergie approval.",
      "fr": "CBC rapporte qu’Hydro-Québec propose de vendre à Kahnawà:ke une part d’un tronçon de 58 km de la ligne de transport vers New York, via une nouvelle société commune, Horizon Kahnawà:ke Hydro-Québec; le projet doit être approuvé par la Régie de l’énergie.",
@@ -320,8 +332,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Hydro-Québec’s 2027-2041 supply plan is before the Régie. It is also proposing a first equity partnership with Kahnawà:ke on part of the New York line.",
-     "fr": "Le plan d’approvisionnement 2027-2041 d’Hydro-Québec est devant la Régie. Elle propose aussi un premier partenariat en capital avec Kahnawà:ke sur une partie de la ligne vers New York."
+     "en": "Équiterre is asking the new government for a moratorium on data centres. Hydro-Québec’s 2027-2041 supply plan is before the Régie, and a first equity partnership with Kahnawà:ke on part of the New York line has been proposed.",
+     "fr": "Équiterre demande au nouveau gouvernement un moratoire sur les centres de données. Le plan d’approvisionnement 2027-2041 d’Hydro-Québec est devant la Régie, et un premier partenariat en capital avec Kahnawà:ke sur une partie de la ligne vers New York a été proposé."
     }
    }
   },
@@ -391,6 +403,17 @@
      "source_type": "media",
      "post": "2026-11-04",
      "background": false
+    },
+    {
+     "date": "2026-11-06",
+     "en": "Radio-Canada reports that multilayer milk and juice cartons are to join Quebec’s deposit system on March 1, 2027, after a two-year delay, while the only Quebec recycler for that material, Sustana in Lévis, has far less capacity than the volumes expected.",
+     "fr": "Radio-Canada indique que les cartons de lait et de jus multicouches doivent entrer dans le système de consigne le 1er mars 2027, après un report de deux ans, alors que le seul recycleur québécois de cette matière, Sustana à Lévis, a une capacité bien inférieure aux volumes attendus.",
+     "source_title": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement",
+     "source_type": "media",
+     "post": "2026-11-06",
+     "background": false
     }
    ],
    "tldr": {
@@ -403,8 +426,8 @@
      "fr": "La SAQ appartient au gouvernement : ses décisions touchent des fonds publics et des règles publiques, comme l’interdiction de vendre de l’alcool aux mineurs."
     },
     "now": {
-     "en": "The SAQ is selling 233 American products at 15% off, under an authorization from February. The expansion of the deposit system to glass, planned for March 1, could be postponed again, according to the Journal de Québec’s sources; the minister says no decision has been made.",
-     "fr": "La SAQ vend 233 produits américains à 15 % de rabais, en vertu d’une autorisation de février. L’élargissement de la consigne au verre, prévu le 1er mars, pourrait encore être reporté, selon les sources du Journal de Québec; le ministre dit qu’aucune décision n’a été prise."
+     "en": "Radio-Canada reports multilayer cartons (milk and juice) are to join the deposit system on March 1, 2027; Quebec has only one recycler for that material, Sustana in Lévis, whose capacity is well below the expected volumes.",
+     "fr": "Radio-Canada indique que les cartons multicouches (lait et jus) doivent entrer dans le système de consigne le 1er mars 2027; le Québec n’a qu’un recycleur pour cette matière, Sustana à Lévis, dont la capacité est bien inférieure aux volumes attendus."
     }
    }
   },
@@ -1487,6 +1510,28 @@
      "source_url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre",
      "background": true,
      "source_type": "media"
+    },
+    {
+     "date": "2026-11-05",
+     "en": "Finance Minister Nicolas Marceau says the federal budget “does not meet expectations” and that Quebec’s requests were not heard, including on asylum-seeker costs and the federal mega-deduction.",
+     "fr": "Le ministre des Finances Nicolas Marceau affirme que le budget fédéral « ne répond pas aux attentes » et que les demandes du Québec n’ont pas été entendues, notamment sur les coûts liés aux demandeurs d’asile et la mégadéduction fédérale.",
+     "source_title": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598",
+     "source_type": "media",
+     "post": "2026-11-06",
+     "background": false
+    },
+    {
+     "date": "2026-11-05",
+     "en": "The premier is scheduled to meet Ontario Premier Doug Ford at Queen’s Park on Nov. 6, his first trip outside Quebec since taking office, and to meet Mark Carney in Cambodia later in November.",
+     "fr": "Le premier ministre doit rencontrer le premier ministre de l’Ontario, Doug Ford, à Queen’s Park le 6 novembre, son premier déplacement hors Québec depuis son arrivée au pouvoir, et rencontrer Mark Carney au Cambodge plus tard en novembre.",
+     "source_title": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp",
+     "source_type": "media",
+     "post": "2026-11-06",
+     "background": false
     }
    ],
    "tldr": {
@@ -1499,8 +1544,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "The government ended some contract deputy ministers’ mandates early, with severance, and is moving the Ministry of Cybersecurity and Digital Affairs’ staff to the Treasury Board before an Assembly vote; a bill is to follow. The three-office-days rule stays for now, but the Treasury Board president says it is not final. Stéphan La Roche becomes deputy minister of Culture on Nov. 9.",
-     "fr": "Le gouvernement a mis fin avant terme au mandat de sous-ministres embauchés à contrat, avec des indemnités, et transfère les employés du ministère de la Cybersécurité et du Numérique au Conseil du trésor avant un vote à l’Assemblée; un projet de loi doit suivre. La règle des trois jours au bureau est maintenue pour l’instant, mais le président du Conseil du trésor dit qu’elle n’est pas définitive. Stéphan La Roche devient sous-ministre de la Culture le 9 novembre."
+     "en": "Finance Minister Marceau says the federal budget “does not meet expectations.” The premier will meet Doug Ford in Toronto on Nov. 6 and Mark Carney in Cambodia later this month, with a possible later meeting in Quebec City. The Ministry of Cybersecurity and Digital Affairs’ staff have been moved to the Treasury Board before an Assembly vote; a bill is to follow.",
+     "fr": "Le ministre des Finances Marceau affirme que le budget fédéral « ne répond pas aux attentes ». Le premier ministre rencontrera Doug Ford à Toronto le 6 novembre et Mark Carney au Cambodge plus tard ce mois-ci, avec une possible rencontre ultérieure à Québec. Les employés du ministère de la Cybersécurité et du Numérique ont été transférés au Conseil du trésor avant un vote à l’Assemblée; un projet de loi doit suivre."
     }
    }
   },
@@ -1561,6 +1606,17 @@
      "source_type": "media",
      "post": "2026-10-28",
      "background": false
+    },
+    {
+     "date": "2026-11-05",
+     "en": "Mayors in Montreal, Laval and Quebec City welcome an $11.2-billion, four-year federal package against homelessness; Finance Minister Marceau says Quebec wants the money paid quickly, without conditions and with respect for its jurisdictions.",
+     "fr": "Les maires de Montréal, Laval et Québec saluent une enveloppe fédérale de 11,2 milliards sur quatre ans contre l’itinérance; le ministre des Finances Nicolas Marceau affirme que Québec veut que ces sommes soient versées rapidement, sans condition et dans le respect de ses compétences.",
+     "source_title": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598",
+     "source_type": "media",
+     "post": "2026-11-06",
+     "background": false
     }
    ],
    "tldr": {
@@ -1573,8 +1629,8 @@
      "fr": "L’argent paie de l’hébergement et de l’aide aux personnes sans logis pendant les mois froids."
     },
     "now": {
-     "en": "Quebec added a one-time $28M on top of $18M already planned. A Montreal community network has sent the new government a white paper with its demands.",
-     "fr": "Québec a ajouté 28 M$ ponctuels aux 18 M$ déjà prévus. Un réseau communautaire montréalais a remis au nouveau gouvernement un livre blanc avec ses demandes."
+     "en": "Mayors in Montreal, Laval and Quebec City welcomed an $11.2-billion, four-year federal package against homelessness. Quebec says it takes note of the funding and wants it paid quickly, without conditions and with respect for its jurisdictions.",
+     "fr": "Les maires de Montréal, Laval et Québec ont salué une enveloppe fédérale de 11,2 milliards sur quatre ans contre l’itinérance. Québec dit prendre note de ces sommes et veut qu’elles soient versées rapidement, sans condition et dans le respect de ses compétences."
     }
    }
   },
@@ -2413,8 +2469,8 @@
      "fr": "Québec dit que les discussions touchent ses champs de compétence. Ottawa dit qu’il s’agit d’un sommet fédéral et qu’un discours créerait un précédent."
     },
     "now": {
-     "en": "The summit launched an Alliance for the Future and talks on an associate-member status for Canada; the Bloc Québécois says Quebec must be part of them. The premier wants to meet Carney in Quebec City; according to a government source, Carney’s office proposed three dates elsewhere, with Quebec City only possible in December or over the New Year.",
-     "fr": "Le sommet a lancé une Alliance pour l’avenir et des négociations sur un statut de membre associé pour le Canada; le Bloc québécois dit que le Québec doit y prendre part. Le premier ministre veut rencontrer M. Carney à Québec; selon une source gouvernementale, le bureau de M. Carney a proposé trois dates ailleurs, une rencontre à Québec n’étant possible qu’en décembre ou durant le Nouvel An."
+     "en": "Government sources say Carney and St-Pierre Plamondon will have their first in-person meeting in Phnom Penh during the Francophonie Summit (Nov. 12–17). A later meeting in Quebec City could follow before year-end.",
+     "fr": "Des sources gouvernementales disent que M. Carney et M. St-Pierre Plamondon auront leur premier tête-à-tête à Phnom Penh, pendant le Sommet de la Francophonie (12-17 novembre). Une rencontre ultérieure à Québec pourrait suivre d’ici la fin de l’année."
     }
    },
    "events": [
@@ -2493,6 +2549,17 @@
      "source_url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec",
      "source_type": "media",
      "post": "2026-11-03",
+     "background": false
+    },
+    {
+     "date": "2026-11-05",
+     "en": "Government sources confirm that Mark Carney and Paul St-Pierre Plamondon will meet in person in Phnom Penh during the Francophonie Summit, their first face-to-face meeting since the Oct. 5 election.",
+     "fr": "Des sources gouvernementales confirment que Mark Carney et Paul St-Pierre Plamondon se rencontreront en personne à Phnom Penh pendant le Sommet de la Francophonie, leur premier tête-à-tête depuis l’élection du 5 octobre.",
+     "source_title": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp",
+     "source_type": "media",
+     "post": "2026-11-06",
      "background": false
     }
    ]

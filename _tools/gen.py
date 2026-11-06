@@ -51,7 +51,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-02": ["it-digital", "crown-corporations"],
         "2026-11-03": ["crown-corporations", "it-digital"],
         "2026-11-04": ["crown-corporations", "procurement"],
-        "2026-11-05": ["crown-corporations", "it-digital"]}
+        "2026-11-05": ["crown-corporations", "it-digital"],
+        "2026-11-06": ["it-digital", "crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -86,6 +87,8 @@ SUMMARY = {
                 "PSPP points to a “significant” deficit and names an adviser to hunt for waste with the Treasury Board; Investissement Québec sues Northex; La Caisse “very surprised” by Alstom; the SPVM buys licence-plate-reading cameras; the deposit on glass could be postponed."),
  "2026-11-05": ("Nemaska Lithium, projet à 1,2 milliard de fonds publics, risque de manquer de financement à Bécancour; Québec exige 690 M$ d’Ottawa pour les demandeurs d’asile; rentrée parlementaire reportée au 1er décembre; Hydro-Québec propose un partenariat avec Kahnawà:ke sur la ligne vers New York; faux CSQ : une ex-fonctionnaire accusée; l’opposition dit non à la loi 101 au cégep.",
                 "Nemaska Lithium, a project with $1.2 billion in public funds, risks running short of financing in Bécancour; Quebec demands $690 million from Ottawa for asylum seekers; the Assembly’s return is postponed to Dec. 1; Hydro-Québec proposes a Kahnawà:ke partnership on the New York line; false CSQs: a former official charged; the opposition says no to Bill 101 at CEGEP."),
+ "2026-11-06": ("Marceau juge que le budget fédéral « ne répond pas aux attentes »; Équiterre réclame un moratoire sur les centres de données; première rencontre Carney–PSPP au Cambodge; poursuite sur les fenêtres de l’observatoire du Stade olympique; la consigne s’étendra aux pintes de lait le 1er mars.",
+                "Marceau says the federal budget “does not meet expectations”; Équiterre calls for a moratorium on data centres; first Carney–PSPP meeting in Cambodia; a lawsuit over the Olympic Stadium observatory windows; the deposit will cover milk cartons on March 1."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {
@@ -117,6 +120,7 @@ OUTLETS = {
  "www.assnat.qc.ca": "Assemblée nationale", "lobbyisme.quebec": "Commissaire au lobbyisme",
  "www.hydroquebec.com": "Hydro-Québec (document)",
  "montreal.citynews.ca": "CityNews Montréal", "www.cardus.ca": "Institut Cardus (communiqué)",
+ "www150.statcan.gc.ca": "Statistique Canada",
 }
 def outlet(url):
     from urllib.parse import urlparse

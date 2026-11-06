@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-05T15:32:48Z",
+ "generated": "2026-11-06T15:34:14Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 161,
+ "story_count": 170,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1720,6 +1720,109 @@
      ]
     }
    ]
+  },
+  "2026-11-06": {
+   "post": "/2026/11/06/digest/",
+   "stories": [
+    {
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598",
+     "entities": [
+      "bruno-marchand",
+      "gouv-canada",
+      "mark-carney",
+      "nicolas-marceau",
+      "ray-khalil",
+      "soraya-martinez-ferrada",
+      "ville-quebec",
+      "yves-francois-blanchet"
+     ]
+    },
+    {
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec",
+     "entities": [
+      "cendrix-bouchard",
+      "collectif-nrs",
+      "daniel-rotman",
+      "equiterre",
+      "hydro-quebec",
+      "marie-claude-bibeau",
+      "pspp",
+      "regie-energie",
+      "ville-sherbrooke"
+     ]
+    },
+    {
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp",
+     "entities": [
+      "dieudonne-ella-oyono",
+      "doug-ford",
+      "mark-carney",
+      "oif",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes",
+     "entities": [
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille",
+     "entities": [
+      "bruno-marchand",
+      "jean-pascal-lavoie",
+      "stephane-lachance",
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique",
+     "entities": [
+      "cedric-essiminy",
+      "lemay-co",
+      "louis-moreau",
+      "parc-olympique",
+      "pomerleau",
+      "vitreco"
+     ]
+    },
+    {
+     "headline": "Congrès annuel de l'AQPP : les pharmaciens veulent assumer pleinement leur place pour maximiser leur impact",
+     "url": "https://www.newswire.ca/news-releases/congres-annuel-de-l-aqpp-les-pharmaciens-veulent-assumer-pleinement-leur-place-pour-maximiser-leur-impact-893595452.html",
+     "entities": [
+      "aqpp",
+      "benoit-morin"
+     ]
+    },
+    {
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement",
+     "entities": [
+      "ada-quebec",
+      "consignaction",
+      "front-commun-dechets",
+      "karel-menard",
+      "marie-eve-chapdelaine",
+      "pierre-alexandre-blouin",
+      "saq",
+      "sustana"
+     ]
+    },
+    {
+     "headline": "Labour Force Survey, October 2026",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm",
+     "entities": [
+      "statistique-canada"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1731,7 +1834,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 42,
+   "mentions": 44,
    "stories": [
     {
      "date": "2026-10-21",
@@ -1942,6 +2045,16 @@
      "date": "2026-11-05",
      "headline": "Protection du français | Les partis de l’opposition disent non à la loi 101 au cégep",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -2189,7 +2302,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 16,
+   "mentions": 17,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2270,6 +2383,11 @@
      "date": "2026-11-05",
      "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
      "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -2280,7 +2398,7 @@
    "aliases": [
     "Carney"
    ],
-   "mentions": 14,
+   "mentions": 16,
    "stories": [
     {
      "date": "2026-10-26",
@@ -2351,6 +2469,16 @@
      "date": "2026-11-03",
      "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
      "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -2600,6 +2728,60 @@
    ]
   },
   {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 9,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
    "id": "marie-karlynn-laflamme",
    "name": "Marie-Karlynn Laflamme",
    "type": "person",
@@ -2651,51 +2833,48 @@
    ]
   },
   {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
+   "id": "nicolas-marceau",
+   "name": "Nicolas Marceau",
    "type": "person",
-   "aliases": [],
-   "mentions": 8,
+   "aliases": [
+    "Marceau"
+   ],
+   "mentions": 7,
    "stories": [
     {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
      "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     },
     {
      "date": "2026-10-29",
-     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
     },
     {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     },
     {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+     "date": "2026-11-05",
+     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
     },
     {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -2960,47 +3139,6 @@
    ]
   },
   {
-   "id": "nicolas-marceau",
-   "name": "Nicolas Marceau",
-   "type": "person",
-   "aliases": [
-    "Marceau"
-   ],
-   "mentions": 6,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
-    }
-   ]
-  },
-  {
    "id": "qs",
    "name": "Québec solidaire",
    "type": "organization",
@@ -3042,6 +3180,48 @@
    ]
   },
   {
+   "id": "regie-energie",
+   "name": "Régie de l’énergie",
+   "type": "organization",
+   "aliases": [
+    "Régie de l'énergie",
+    "Régie"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Fini le gaz américain chez Énergir",
+     "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Hausse de production | Hydro-Québec manque de jus",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "id": "assemblee-nationale",
    "name": "Assemblée nationale du Québec",
    "type": "organization",
@@ -3079,39 +3259,38 @@
    ]
   },
   {
-   "id": "regie-energie",
-   "name": "Régie de l’énergie",
+   "id": "saq",
+   "name": "Société des alcools du Québec",
    "type": "organization",
    "aliases": [
-    "Régie de l'énergie",
-    "Régie"
+    "SAQ"
    ],
    "mentions": 5,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+     "date": "2026-10-22",
+     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
+     "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
     },
     {
      "date": "2026-10-24",
-     "headline": "Fini le gaz américain chez Énergir",
-     "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
+     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+     "date": "2026-10-25",
+     "headline": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire"
     },
     {
-     "date": "2026-11-03",
-     "headline": "Hausse de production | Hydro-Québec manque de jus",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
-     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -3378,37 +3557,6 @@
    ]
   },
   {
-   "id": "saq",
-   "name": "Société des alcools du Québec",
-   "type": "organization",
-   "aliases": [
-    "SAQ"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
-     "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "La SAQ annonce une vente exceptionnelle de vins américains en pleine guerre tarifaire",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-annonce-une-vente-exceptionnelle-de-vins-americains-en-pleine-guerre-tarifaire"
-    }
-   ]
-  },
-  {
    "id": "stephane-paquet",
    "name": "Stéphane Paquet",
    "type": "person",
@@ -3500,6 +3648,37 @@
    ]
   },
   {
+   "id": "ville-quebec",
+   "name": "Ville de Québec",
+   "type": "organization",
+   "aliases": [
+    "Quebec City"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
    "id": "eric-duhaime",
    "name": "Éric Duhaime",
    "type": "person",
@@ -3584,6 +3763,32 @@
    ]
   },
   {
+   "id": "bruno-marchand",
+   "name": "Bruno Marchand",
+   "type": "person",
+   "aliases": [
+    "Marchand"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
    "id": "charles-milliard",
    "name": "Charles Milliard",
    "type": "person",
@@ -3628,6 +3833,33 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
+    }
+   ]
+  },
+  {
+   "id": "consignaction",
+   "name": "Consignaction",
+   "type": "organization",
+   "aliases": [
+    "AQRCB",
+    "Association québécoise des récupérateurs de contenants de boissons"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -4074,6 +4306,27 @@
    ]
   },
   {
+   "id": "aqpp",
+   "name": "Association québécoise des pharmaciens propriétaires",
+   "type": "organization",
+   "aliases": [
+    "AQPP"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Congrès annuel de l'AQPP : les pharmaciens veulent assumer pleinement leur place pour maximiser leur impact",
+     "url": "https://www.newswire.ca/news-releases/congres-annuel-de-l-aqpp-les-pharmaciens-veulent-assumer-pleinement-leur-place-pour-maximiser-leur-impact-893595452.html"
+    }
+   ]
+  },
+  {
    "id": "bertin-castonguay",
    "name": "Bertin Castonguay",
    "type": "person",
@@ -4285,28 +4538,6 @@
    ]
   },
   {
-   "id": "consignaction",
-   "name": "Consignaction",
-   "type": "organization",
-   "aliases": [
-    "AQRCB",
-    "Association québécoise des récupérateurs de contenants de boissons"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "L’élargissement de la consigne pourrait encore être reporté",
-     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
-    }
-   ]
-  },
-  {
    "id": "dave-rheaume",
    "name": "Dave Rhéaume",
    "type": "person",
@@ -4408,6 +4639,27 @@
    ]
   },
   {
+   "id": "gouv-canada",
+   "name": "Gouvernement du Canada",
+   "type": "organization",
+   "aliases": [
+    "Ottawa"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
    "id": "guy-caron",
    "name": "Guy Caron",
    "type": "person",
@@ -4471,6 +4723,25 @@
    ]
   },
   {
+   "id": "karel-menard",
+   "name": "Karel Ménard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "id": "lawrence-david",
    "name": "Lawrence David",
    "type": "person",
@@ -4511,6 +4782,27 @@
    ]
   },
   {
+   "id": "marie-claude-bibeau",
+   "name": "Marie-Claude Bibeau",
+   "type": "person",
+   "aliases": [
+    "Bibeau"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "id": "msi",
    "name": "Ministère de la Sécurité intérieure",
    "type": "organization",
@@ -4545,6 +4837,28 @@
      "date": "2026-10-23",
      "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    }
+   ]
+  },
+  {
+   "id": "parc-olympique",
+   "name": "Parc olympique (Régie des installations olympiques)",
+   "type": "organization",
+   "aliases": [
+    "Parc olympique",
+    "Olympic Park"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
     }
    ]
   },
@@ -4791,6 +5105,27 @@
      "date": "2026-11-05",
      "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    }
+   ]
+  },
+  {
+   "id": "ville-sherbrooke",
+   "name": "Ville de Sherbrooke",
+   "type": "organization",
+   "aliases": [
+    "Sherbrooke"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -5124,6 +5459,22 @@
    ]
   },
   {
+   "id": "ada-quebec",
+   "name": "Association des détaillants en alimentation du Québec",
+   "type": "organization",
+   "aliases": [
+    "ADAQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "id": "association-pompiers-montreal",
    "name": "Association des pompiers de Montréal",
    "type": "organization",
@@ -5159,22 +5510,6 @@
    "type": "organization",
    "aliases": [
     "AQDP"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Des pharmaciens dénoncent un système de distribution des vaccins jugé inefficace",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295407/vaccination-quebec-campagne-insatisfaction"
-    }
-   ]
-  },
-  {
-   "id": "aqpp",
-   "name": "Association québécoise des pharmaciens propriétaires",
-   "type": "organization",
-   "aliases": [
-    "AQPP"
    ],
    "mentions": 1,
    "stories": [
@@ -5264,6 +5599,20 @@
    ]
   },
   {
+   "id": "benoit-morin",
+   "name": "Benoit Morin",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Congrès annuel de l'AQPP : les pharmaciens veulent assumer pleinement leur place pour maximiser leur impact",
+     "url": "https://www.newswire.ca/news-releases/congres-annuel-de-l-aqpp-les-pharmaciens-veulent-assumer-pleinement-leur-place-pour-maximiser-leur-impact-893595452.html"
+    }
+   ]
+  },
+  {
    "id": "benoit-raillard",
    "name": "Benoit Raillard",
    "type": "person",
@@ -5274,22 +5623,6 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
-    }
-   ]
-  },
-  {
-   "id": "bruno-marchand",
-   "name": "Bruno Marchand",
-   "type": "person",
-   "aliases": [
-    "Marchand"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
     }
    ]
   },
@@ -5424,6 +5757,20 @@
    ]
   },
   {
+   "id": "cendrix-bouchard",
+   "name": "Cendrix Bouchard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "id": "chaur",
    "name": "Centre hospitalier affilié universitaire régional (CHAUR)",
    "type": "organization",
@@ -5513,6 +5860,22 @@
      "date": "2026-10-21",
      "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
      "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    }
+   ]
+  },
+  {
+   "id": "collectif-nrs",
+   "name": "Collectif numérique responsable et soutenable",
+   "type": "organization",
+   "aliases": [
+    "NRS"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -5674,6 +6037,22 @@
    ]
   },
   {
+   "id": "cedric-essiminy",
+   "name": "Cédric Essiminy",
+   "type": "person",
+   "aliases": [
+    "Essiminy"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
    "id": "daniel-genest",
    "name": "Daniel Genest",
    "type": "person",
@@ -5698,6 +6077,22 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "id": "daniel-rotman",
+   "name": "Daniel Rotman",
+   "type": "person",
+   "aliases": [
+    "Rotman"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -5776,6 +6171,22 @@
    ]
   },
   {
+   "id": "dieudonne-ella-oyono",
+   "name": "Dieudonné Ella Oyono",
+   "type": "person",
+   "aliases": [
+    "Ella Oyono"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
    "id": "donald-nicole",
    "name": "Donald Nicole",
    "type": "person",
@@ -5786,6 +6197,22 @@
      "date": "2026-10-25",
      "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
      "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "id": "doug-ford",
+   "name": "Doug Ford",
+   "type": "person",
+   "aliases": [
+    "Ford"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -6032,6 +6459,20 @@
    ]
   },
   {
+   "id": "front-commun-dechets",
+   "name": "Front commun québécois pour une gestion écologique des déchets",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "id": "frapru",
    "name": "Front d’action populaire en réaménagement urbain",
    "type": "organization",
@@ -6227,22 +6668,6 @@
      "date": "2026-11-02",
      "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
      "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
-    }
-   ]
-  },
-  {
-   "id": "gouv-canada",
-   "name": "Gouvernement du Canada",
-   "type": "organization",
-   "aliases": [
-    "Ottawa"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
     }
    ]
   },
@@ -6620,6 +7045,20 @@
    ]
   },
   {
+   "id": "jean-pascal-lavoie",
+   "name": "Jean-Pascal Lavoie",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
    "id": "jean-virgile-tasse-themens",
    "name": "Jean-Virgile Tassé-Themens",
    "type": "person",
@@ -6720,20 +7159,6 @@
      "date": "2026-10-23",
      "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    }
-   ]
-  },
-  {
-   "id": "karel-menard",
-   "name": "Karel Ménard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-04",
-     "headline": "L’élargissement de la consigne pourrait encore être reporté",
-     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
     }
    ]
   },
@@ -6874,6 +7299,22 @@
    ]
   },
   {
+   "id": "lemay-co",
+   "name": "Lemay CO",
+   "type": "organization",
+   "aliases": [
+    "Lemay"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
    "id": "lenovo",
    "name": "Lenovo",
    "type": "organization",
@@ -6964,6 +7405,20 @@
    ]
   },
   {
+   "id": "louis-moreau",
+   "name": "Louis Moreau",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
    "id": "action-plus-estrie",
    "name": "L’Action plus de l’Estrie",
    "type": "organization",
@@ -7041,18 +7496,16 @@
    ]
   },
   {
-   "id": "marie-claude-bibeau",
-   "name": "Marie-Claude Bibeau",
+   "id": "marie-eve-chapdelaine",
+   "name": "Marie-Eve Chapdelaine",
    "type": "person",
-   "aliases": [
-    "Bibeau"
-   ],
+   "aliases": [],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-30",
-     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -7599,19 +8052,19 @@
    ]
   },
   {
-   "id": "parc-olympique",
-   "name": "Parc olympique (Régie des installations olympiques)",
+   "id": "oif",
+   "name": "Organisation internationale de la Francophonie",
    "type": "organization",
    "aliases": [
-    "Parc olympique",
-    "Olympic Park"
+    "OIF",
+    "Francophonie"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -7755,6 +8208,22 @@
    ]
   },
   {
+   "id": "pierre-alexandre-blouin",
+   "name": "Pierre-Alexandre Blouin",
+   "type": "person",
+   "aliases": [
+    "Blouin"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "id": "pierre-luc-desgagne",
    "name": "Pierre-Luc Desgagné",
    "type": "person",
@@ -7767,6 +8236,20 @@
      "date": "2026-10-29",
      "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "id": "pomerleau",
+   "name": "Pomerleau",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
     }
    ]
   },
@@ -7811,6 +8294,22 @@
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    }
+   ]
+  },
+  {
+   "id": "ray-khalil",
+   "name": "Ray Khalil",
+   "type": "person",
+   "aliases": [
+    "Khalil"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -8078,6 +8577,22 @@
    ]
   },
   {
+   "id": "statistique-canada",
+   "name": "Statistics Canada",
+   "type": "organization",
+   "aliases": [
+    "Statistique Canada"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Labour Force Survey, October 2026",
+     "url": "https://www150.statcan.gc.ca/n1/daily-quotidien/261106/dq261106a-eng.htm"
+    }
+   ]
+  },
+  {
    "id": "steeve-poulin",
    "name": "Steeve Poulin",
    "type": "person",
@@ -8120,6 +8635,34 @@
      "date": "2026-10-31",
      "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
      "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
+   "id": "stephane-lachance",
+   "name": "Stéphane Lachance",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
+   "id": "sustana",
+   "name": "Sustana",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -8413,22 +8956,6 @@
    ]
   },
   {
-   "id": "ville-quebec",
-   "name": "Ville de Québec",
-   "type": "organization",
-   "aliases": [
-    "Quebec City"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
-     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
-    }
-   ]
-  },
-  {
    "id": "ville-rigaud",
    "name": "Ville de Rigaud",
    "type": "organization",
@@ -8461,22 +8988,6 @@
    ]
   },
   {
-   "id": "ville-sherbrooke",
-   "name": "Ville de Sherbrooke",
-   "type": "organization",
-   "aliases": [
-    "Sherbrooke"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
-    }
-   ]
-  },
-  {
    "id": "vincent-bourassa",
    "name": "Vincent Bourassa",
    "type": "person",
@@ -8487,6 +8998,20 @@
      "date": "2026-10-31",
      "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
      "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
+    }
+   ]
+  },
+  {
+   "id": "vitreco",
+   "name": "Vitreco",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
     }
    ]
   },
@@ -8517,6 +9042,22 @@
      "date": "2026-11-04",
      "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
      "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "id": "yves-francois-blanchet",
+   "name": "Yves-François Blanchet",
+   "type": "person",
+   "aliases": [
+    "Blanchet"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -8608,6 +9149,20 @@
      "date": "2026-10-24",
      "headline": "Fini le gaz américain chez Énergir",
      "url": "https://www.journaldequebec.com/2026/10/23/fini-le-gaz-americain-chez-energir"
+    }
+   ]
+  },
+  {
+   "id": "equiterre",
+   "name": "Équiterre",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -8756,7 +9311,7 @@
   {
    "source": "mark-carney",
    "target": "pspp",
-   "weight": 11,
+   "weight": 12,
    "stories": [
     {
      "date": "2026-10-27",
@@ -8812,6 +9367,11 @@
      "date": "2026-11-03",
      "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
      "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -9206,6 +9766,38 @@
    ]
   },
   {
+   "source": "hydro-quebec",
+   "target": "regie-energie",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Hausse de production | Hydro-Québec manque de jus",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "source": "nicolas-marceau",
    "target": "pspp",
    "weight": 5,
@@ -9578,33 +10170,6 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
-   "target": "regie-energie",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Hausse de production | Hydro-Québec manque de jus",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
-     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
     }
    ]
   },
@@ -10043,6 +10608,28 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "pspp",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -10736,6 +11323,40 @@
    ]
   },
   {
+   "source": "bruno-marchand",
+   "target": "mark-carney",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "ville-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
    "source": "caq",
    "target": "christine-frechette",
    "weight": 2,
@@ -11004,6 +11625,40 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
+   "target": "karel-menard",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
+   "target": "saq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -11416,23 +12071,6 @@
    ]
   },
   {
-   "source": "hydro-quebec",
-   "target": "pspp",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
-     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
-    }
-   ]
-  },
-  {
    "source": "jacinthe-eve-arel",
    "target": "pcq",
    "weight": 2,
@@ -11535,6 +12173,23 @@
    ]
   },
   {
+   "source": "marie-claude-bibeau",
+   "target": "ville-sherbrooke",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "source": "marie-karlynn-laflamme",
    "target": "nicolas-marceau",
    "weight": 2,
@@ -11565,6 +12220,23 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "nicolas-marceau",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -12085,6 +12757,90 @@
      "date": "2026-10-28",
      "headline": "De nombreuses fautes de français dans des lettres d’un ministère",
      "url": "https://ici.radio-canada.ca/nouvelle/2295358/aide-sociale-francais-lettre-avis-decision"
+    }
+   ]
+  },
+  {
+   "source": "ada-quebec",
+   "target": "consignaction",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "ada-quebec",
+   "target": "front-commun-dechets",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "ada-quebec",
+   "target": "karel-menard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "ada-quebec",
+   "target": "marie-eve-chapdelaine",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "ada-quebec",
+   "target": "pierre-alexandre-blouin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "ada-quebec",
+   "target": "saq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "ada-quebec",
+   "target": "sustana",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -13722,6 +14478,18 @@
   },
   {
    "source": "aqpp",
+   "target": "benoit-morin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Congrès annuel de l'AQPP : les pharmaciens veulent assumer pleinement leur place pour maximiser leur impact",
+     "url": "https://www.newswire.ca/news-releases/congres-annuel-de-l-aqpp-les-pharmaciens-veulent-assumer-pleinement-leur-place-pour-maximiser-leur-impact-893595452.html"
+    }
+   ]
+  },
+  {
+   "source": "aqpp",
    "target": "hugues-mousseau",
    "weight": 1,
    "stories": [
@@ -14490,13 +15258,37 @@
   },
   {
    "source": "bruno-marchand",
-   "target": "mark-carney",
+   "target": "gouv-canada",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-03",
-     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "jean-pascal-lavoie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -14521,6 +15313,54 @@
      "date": "2026-11-03",
      "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
      "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "ray-khalil",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "stephane-lachance",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "yves-francois-blanchet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -15497,6 +16337,162 @@
    ]
   },
   {
+   "source": "cedric-essiminy",
+   "target": "lemay-co",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "cedric-essiminy",
+   "target": "louis-moreau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "cedric-essiminy",
+   "target": "parc-olympique",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "cedric-essiminy",
+   "target": "pomerleau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "cedric-essiminy",
+   "target": "vitreco",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "collectif-nrs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "daniel-rotman",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "equiterre",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "marie-claude-bibeau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "cendrix-bouchard",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "source": "ceteq",
    "target": "consignaction",
    "weight": 1,
@@ -16085,6 +17081,90 @@
    ]
   },
   {
+   "source": "collectif-nrs",
+   "target": "daniel-rotman",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "collectif-nrs",
+   "target": "equiterre",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "collectif-nrs",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "collectif-nrs",
+   "target": "marie-claude-bibeau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "collectif-nrs",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "collectif-nrs",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "collectif-nrs",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "source": "commissaire-deontologie-policiere",
    "target": "guy-lapointe-fils",
    "weight": 1,
@@ -16578,6 +17658,18 @@
   },
   {
    "source": "consignaction",
+   "target": "front-commun-dechets",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
    "target": "gve",
    "weight": 1,
    "stories": [
@@ -16614,18 +17706,6 @@
   },
   {
    "source": "consignaction",
-   "target": "karel-menard",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-04",
-     "headline": "L’élargissement de la consigne pourrait encore être reporté",
-     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
-    }
-   ]
-  },
-  {
-   "source": "consignaction",
    "target": "kevin-morin",
    "weight": 1,
    "stories": [
@@ -16638,13 +17718,37 @@
   },
   {
    "source": "consignaction",
-   "target": "saq",
+   "target": "marie-eve-chapdelaine",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "La SAQ a avancé 10 M$ pour Consignaction",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
+   "target": "pierre-alexandre-blouin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "consignaction",
+   "target": "sustana",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -17273,6 +18377,78 @@
    ]
   },
   {
+   "source": "daniel-rotman",
+   "target": "equiterre",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "daniel-rotman",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "daniel-rotman",
+   "target": "marie-claude-bibeau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "daniel-rotman",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "daniel-rotman",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "daniel-rotman",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "source": "dave-kimpton",
    "target": "saaq",
    "weight": 1,
@@ -17525,6 +18701,54 @@
    ]
   },
   {
+   "source": "dieudonne-ella-oyono",
+   "target": "doug-ford",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "dieudonne-ella-oyono",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "dieudonne-ella-oyono",
+   "target": "oif",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "dieudonne-ella-oyono",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
    "source": "donald-nicole",
    "target": "nation-huronne-wendat",
    "weight": 1,
@@ -17545,6 +18769,42 @@
      "date": "2026-10-25",
      "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
      "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "source": "doug-ford",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "doug-ford",
+   "target": "oif",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "doug-ford",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -18229,6 +19489,66 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
+    }
+   ]
+  },
+  {
+   "source": "equiterre",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "equiterre",
+   "target": "marie-claude-bibeau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "equiterre",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "equiterre",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "equiterre",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -19205,6 +20525,66 @@
    ]
   },
   {
+   "source": "front-commun-dechets",
+   "target": "karel-menard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "front-commun-dechets",
+   "target": "marie-eve-chapdelaine",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "front-commun-dechets",
+   "target": "pierre-alexandre-blouin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "front-commun-dechets",
+   "target": "saq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "front-commun-dechets",
+   "target": "sustana",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "source": "genevieve-belisle",
    "target": "martin-beaumont",
    "weight": 1,
@@ -19458,6 +20838,18 @@
   },
   {
    "source": "gouv-canada",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "gouv-canada",
    "target": "melanie-joly",
    "weight": 1,
    "stories": [
@@ -19465,6 +20857,30 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "source": "gouv-canada",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "gouv-canada",
+   "target": "ray-khalil",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -19489,6 +20905,42 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "source": "gouv-canada",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "gouv-canada",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "gouv-canada",
+   "target": "yves-francois-blanchet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -19926,6 +21378,18 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "marie-claude-bibeau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "mark-carney",
    "weight": 1,
    "stories": [
@@ -20113,6 +21577,18 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -20801,6 +22277,30 @@
    ]
   },
   {
+   "source": "jean-pascal-lavoie",
+   "target": "stephane-lachance",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
+   "source": "jean-pascal-lavoie",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
    "source": "jean-pellerin",
    "target": "karel-menard",
    "weight": 1,
@@ -21137,6 +22637,54 @@
    ]
   },
   {
+   "source": "karel-menard",
+   "target": "marie-eve-chapdelaine",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "karel-menard",
+   "target": "pierre-alexandre-blouin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "karel-menard",
+   "target": "saq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "karel-menard",
+   "target": "sustana",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "source": "karim-al-dahdah",
    "target": "ligue-monarchiste",
    "weight": 1,
@@ -21413,6 +22961,54 @@
    ]
   },
   {
+   "source": "lemay-co",
+   "target": "louis-moreau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "lemay-co",
+   "target": "parc-olympique",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "lemay-co",
+   "target": "pomerleau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "lemay-co",
+   "target": "vitreco",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
    "source": "lenovo",
    "target": "lgs",
    "weight": 1,
@@ -21629,6 +23225,42 @@
    ]
   },
   {
+   "source": "louis-moreau",
+   "target": "parc-olympique",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "louis-moreau",
+   "target": "pomerleau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "louis-moreau",
+   "target": "vitreco",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
    "source": "mac-montreal",
    "target": "ministere-culture",
    "weight": 1,
@@ -21774,19 +23406,31 @@
   },
   {
    "source": "marie-claude-bibeau",
-   "target": "sherbrooke-refuse",
+   "target": "pspp",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-30",
-     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
   {
    "source": "marie-claude-bibeau",
-   "target": "ville-sherbrooke",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-bibeau",
+   "target": "sherbrooke-refuse",
    "weight": 1,
    "stories": [
     {
@@ -21841,6 +23485,42 @@
      "date": "2026-10-27",
      "headline": "Paul St-Pierre Plamondon ne pourra pas prendre la parole au sommet Canada-UE",
      "url": "https://ici.radio-canada.ca/nouvelle/2296129/sommet-canada-ue-pspp-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "marie-eve-chapdelaine",
+   "target": "pierre-alexandre-blouin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "marie-eve-chapdelaine",
+   "target": "saq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "marie-eve-chapdelaine",
+   "target": "sustana",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
     }
    ]
   },
@@ -22074,18 +23754,6 @@
   },
   {
    "source": "mark-carney",
-   "target": "nicolas-marceau",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
-    }
-   ]
-  },
-  {
-   "source": "mark-carney",
    "target": "nl-hydro",
    "weight": 1,
    "stories": [
@@ -22093,6 +23761,18 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "oif",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -22146,6 +23826,18 @@
   },
   {
    "source": "mark-carney",
+   "target": "ray-khalil",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
    "target": "simon-pierre-savard-tremblay",
    "weight": 1,
    "stories": [
@@ -22153,6 +23845,18 @@
      "date": "2026-11-01",
      "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
      "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -22189,6 +23893,30 @@
      "date": "2026-10-31",
      "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "yves-francois-blanchet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -22806,6 +24534,30 @@
   },
   {
    "source": "nicolas-marceau",
+   "target": "ray-khalil",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
    "target": "stephane-paquet",
    "weight": 1,
    "stories": [
@@ -22813,6 +24565,30 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
+   "target": "yves-francois-blanchet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -22861,6 +24637,42 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "oif",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "parc-olympique",
+   "target": "pomerleau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "parc-olympique",
+   "target": "vitreco",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
     }
    ]
   },
@@ -23129,6 +24941,30 @@
    ]
   },
   {
+   "source": "pierre-alexandre-blouin",
+   "target": "saq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "source": "pierre-alexandre-blouin",
+   "target": "sustana",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "source": "pierre-luc-desgagne",
    "target": "pq",
    "weight": 1,
@@ -23269,6 +25105,18 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "pomerleau",
+   "target": "vitreco",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
+     "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
     }
    ]
   },
@@ -23430,6 +25278,18 @@
   },
   {
    "source": "pspp",
+   "target": "regie-energie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "ruba-ghazal",
    "weight": 1,
    "stories": [
@@ -23561,6 +25421,18 @@
    ]
   },
   {
+   "source": "pspp",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
    "source": "qs",
    "target": "qsl",
    "weight": 1,
@@ -23645,6 +25517,42 @@
    ]
   },
   {
+   "source": "ray-khalil",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "ray-khalil",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "ray-khalil",
+   "target": "yves-francois-blanchet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
    "source": "rbq",
    "target": "residence-pionniers",
    "weight": 1,
@@ -23689,6 +25597,18 @@
      "date": "2026-10-26",
      "headline": "Un entrepreneur perd sa licence pour « extrême négligence »",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/construction/un-entrepreneur-perd-sa-licence-pour-extreme-negligence.php"
+    }
+   ]
+  },
+  {
+   "source": "regie-energie",
+   "target": "ville-sherbrooke",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     }
    ]
   },
@@ -23909,6 +25829,18 @@
    ]
   },
   {
+   "source": "saq",
+   "target": "sustana",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
    "source": "scfp-1500",
    "target": "tat",
    "weight": 1,
@@ -24054,6 +25986,18 @@
   },
   {
    "source": "soraya-martinez-ferrada",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
    "target": "vivre-en-ville",
    "weight": 1,
    "stories": [
@@ -24073,6 +26017,18 @@
      "date": "2026-10-30",
      "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "yves-francois-blanchet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   },
@@ -24097,6 +26053,18 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "source": "stephane-lachance",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
     }
    ]
   },
@@ -24193,6 +26161,18 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "ville-quebec",
+   "target": "yves-francois-blanchet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
     }
    ]
   }
