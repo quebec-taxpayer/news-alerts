@@ -52,7 +52,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-03": ["crown-corporations", "it-digital"],
         "2026-11-04": ["crown-corporations", "procurement"],
         "2026-11-05": ["crown-corporations", "it-digital"],
-        "2026-11-06": ["it-digital", "crown-corporations", "procurement"]}
+        "2026-11-06": ["it-digital", "crown-corporations", "procurement"],
+        "2026-11-07": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -89,6 +90,8 @@ SUMMARY = {
                 "Nemaska Lithium, a project with $1.2 billion in public funds, risks running short of financing in Bécancour; Quebec demands $690 million from Ottawa for asylum seekers; the Assembly’s return is postponed to Dec. 1; Hydro-Québec proposes a Kahnawà:ke partnership on the New York line; false CSQs: a former official charged; the opposition says no to Bill 101 at CEGEP."),
  "2026-11-06": ("Marceau juge que le budget fédéral « ne répond pas aux attentes »; Équiterre réclame un moratoire sur les centres de données; première rencontre Carney–PSPP au Cambodge; poursuite sur les fenêtres de l’observatoire du Stade olympique; la consigne s’étendra aux pintes de lait le 1er mars.",
                 "Marceau says the federal budget “does not meet expectations”; Équiterre calls for a moratorium on data centres; first Carney–PSPP meeting in Cambodia; a lawsuit over the Olympic Stadium observatory windows; the deposit will cover milk cartons on March 1."),
+ "2026-11-07": ("Hydro-Québec vise le terrain de Northvolt; Québec refuse de nouveaux fonds à Nemaska; la formation en éthique reste facultative.",
+                "Hydro-Québec targets Northvolt’s land; Quebec refuses more Nemaska funding; ethics training remains optional."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

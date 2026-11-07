@@ -823,6 +823,60 @@
    "category": "other",
    "importance": 3,
    "title_fr": "Enquête sur la population active, octobre 2026"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "Hydro-Québec buys Northvolt’s former land",
+   "title_fr": "Hydro-Québec achète l’ancien terrain de Northvolt"
+  },
+  "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "“Nemaska Lithium, an example of a change in economic direction,” says Quebec’s premier",
+   "title_fr": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Ethics training is optional for Quebec’s new MNAs",
+   "title_fr": "La formation en éthique est optionnelle pour les nouveaux députés québécois"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Whistleblower fired by the CAQ wants to become a journalist",
+   "title_fr": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste"
+  },
+  "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "PSPP confirms an “excellent meeting” with his Ontario counterpart Doug Ford",
+   "title_fr": "PSPP confirme une «excellente rencontre» avec son homologue ontarien Doug Ford"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "City backs away from its promise to convert the Canardière municipal garage",
+   "title_fr": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Quebec City begins the process to dismantle the Colisée",
+   "title_fr": "La Ville de Québec lance les démarches pour la déconstruction du Colisée"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "A 23.5% pay increase over 5 years for SPVQ officers",
+   "title_fr": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298893/deux-policiers-levis-suspendus-spvl": {
+   "category": "justice",
+   "importance": 2,
+   "title_en": "Two Lévis police officers suspended with pay",
+   "title_fr": "Deux policiers de Lévis suspendus avec solde"
   }
  }
 }

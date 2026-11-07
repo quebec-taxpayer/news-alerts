@@ -2351,6 +2351,50 @@
    "aliases": [
     "Statistique Canada"
    ]
+  },
+  "northvolt": {
+   "name": "Northvolt",
+   "type": "organization",
+   "aliases": []
+  },
+  "ariane-mignolet": {
+   "name": "Ariane Mignolet",
+   "type": "person",
+   "aliases": []
+  },
+  "olivier-smith-lauzon": {
+   "name": "Olivier Smith-Lauzon",
+   "type": "person",
+   "aliases": []
+  },
+  "table-littoral-est": {
+   "name": "Table citoyenne Littoral Est",
+   "type": "organization",
+   "aliases": []
+  },
+  "stantec": {
+   "name": "Stantec",
+   "type": "organization",
+   "aliases": []
+  },
+  "fraternite-policiers-quebec": {
+   "name": "Fraternité des policiers et policières de Québec",
+   "type": "organization",
+   "aliases": [
+    "Fraternité"
+   ]
+  },
+  "francine-lamy": {
+   "name": "Francine Lamy",
+   "type": "person",
+   "aliases": []
+  },
+  "spvl": {
+   "name": "Service de police de la Ville de Lévis",
+   "type": "organization",
+   "aliases": [
+    "SPVL"
+   ]
   }
  },
  "stories": [
@@ -4278,7 +4322,9 @@
     "investissement-quebec"
    ],
    "checked_by_hand": true,
-   "dossiers": []
+   "dossiers": [
+    "nemaska-lithium"
+   ]
   },
   {
    "match": "hydro-quebec-to-sell-part-of-new-york",
@@ -4470,6 +4516,88 @@
    "match": "dq261106a-eng",
    "entities": [
     "statistique-canada"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt",
+   "entities": [
+    "hydro-quebec",
+    "investissement-quebec",
+    "northvolt"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936",
+   "entities": [
+    "pspp",
+    "stephane-paquet",
+    "nemaska-lithium"
+   ],
+   "dossiers": [
+    "nemaska-lithium"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale",
+   "entities": [
+    "assemblee-nationale",
+    "ariane-mignolet"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq",
+   "entities": [
+    "olivier-smith-lauzon",
+    "spgq",
+    "pspp"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford",
+   "entities": [
+    "pspp",
+    "doug-ford"
+   ],
+   "dossiers": [],
+   "checked_by_hand": true
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec",
+   "entities": [
+    "ville-quebec",
+    "bruno-marchand",
+    "table-littoral-est"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification",
+   "entities": [
+    "ville-quebec",
+    "bruno-marchand",
+    "stantec"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective",
+   "entities": [
+    "ville-quebec",
+    "fraternite-policiers-quebec",
+    "francine-lamy"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298893/deux-policiers-levis-suspendus-spvl",
+   "entities": [
+    "spvl"
    ],
    "dossiers": []
   }

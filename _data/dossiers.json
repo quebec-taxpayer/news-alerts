@@ -320,6 +320,17 @@
      "source_url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211",
      "background": true,
      "source_type": "media"
+    },
+    {
+     "date": "2026-11-06",
+     "en": "Hydro-Québec announces an agreement to acquire Northvolt’s former land for a possible substation; the transaction still requires court approval.",
+     "fr": "Hydro-Québec annonce une entente pour acquérir l’ancien terrain de Northvolt en vue d’un éventuel poste électrique; la transaction nécessite encore l’approbation du tribunal.",
+     "source_title": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt",
+     "source_type": "media",
+     "post": "2026-11-07",
+     "background": false
     }
    ],
    "tldr": {
@@ -332,8 +343,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Équiterre is asking the new government for a moratorium on data centres. Hydro-Québec’s 2027-2041 supply plan is before the Régie, and a first equity partnership with Kahnawà:ke on part of the New York line has been proposed.",
-     "fr": "Équiterre demande au nouveau gouvernement un moratoire sur les centres de données. Le plan d’approvisionnement 2027-2041 d’Hydro-Québec est devant la Régie, et un premier partenariat en capital avec Kahnawà:ke sur une partie de la ligne vers New York a été proposé."
+     "en": "Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval; the price is not public.",
+     "fr": "Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal; le prix n’est pas public."
     }
    }
   },
@@ -2659,6 +2670,57 @@
      "background": false
     }
    ]
+  },
+  {
+   "id": "nemaska-lithium",
+   "name_en": "Nemaska Lithium: public investment and financing",
+   "name_fr": "Nemaska Lithium : investissement public et financement",
+   "desc_en": "Quebec’s public investment in Nemaska Lithium and the financing of its Bécancour processing plant.",
+   "desc_fr": "L’investissement public du Québec dans Nemaska Lithium et le financement de son usine de transformation à Bécancour.",
+   "entities": [
+    "nemaska-lithium",
+    "investissement-quebec",
+    "stephane-paquet",
+    "pspp"
+   ],
+   "events": [
+    {
+     "date": "2026-11",
+     "en": "In early November, the Journal de Montréal reports that contractors are being demobilized at the Bécancour plant, citing unnamed sources who warn of a financing shortfall.",
+     "fr": "Au début de novembre, le Journal de Montréal rapporte une démobilisation des entrepreneurs à l’usine de Bécancour, citant des sources anonymes qui évoquent un manque de financement.",
+     "source_title": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger",
+     "source_type": "media",
+     "post": "2026-11-05",
+     "background": false
+    },
+    {
+     "date": "2026-11-05",
+     "en": "Minister Stéphane Paquet announces that the government will put no more money into Nemaska Lithium; Premier Paul St-Pierre Plamondon confirms the decision in a statement the following day.",
+     "fr": "Le ministre Stéphane Paquet annonce que le gouvernement ne versera plus d’argent à Nemaska Lithium; Paul St-Pierre Plamondon confirme la décision dans un communiqué le lendemain.",
+     "source_title": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "source_outlet": "Cabinet du premier ministre",
+     "source_url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936",
+     "source_type": "primary",
+     "post": "2026-11-07",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "Quebec has invested public money in Nemaska Lithium’s battery-materials project.",
+     "fr": "Québec a investi des fonds publics dans le projet de matériaux pour batteries de Nemaska Lithium."
+    },
+    "why": {
+     "en": "The Journal de Montréal reports a financing risk for the Bécancour plant, citing unnamed sources.",
+     "fr": "Le Journal de Montréal rapporte un risque de financement pour l’usine de Bécancour, selon des sources anonymes."
+    },
+    "now": {
+     "en": "The new government says it will put no more money into the project.",
+     "fr": "Le nouveau gouvernement affirme qu’il ne versera plus d’argent dans le projet."
+    }
+   }
   }
  ]
 }

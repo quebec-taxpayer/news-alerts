@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-06T15:34:14Z",
+ "generated": "2026-11-07T15:29:58Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 170,
+ "story_count": 179,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1823,6 +1823,88 @@
      ]
     }
    ]
+  },
+  "2026-11-07": {
+   "post": "/2026/11/07/digest/",
+   "stories": [
+    {
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt",
+     "entities": [
+      "hydro-quebec",
+      "investissement-quebec",
+      "northvolt"
+     ]
+    },
+    {
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936",
+     "entities": [
+      "nemaska-lithium",
+      "pspp",
+      "stephane-paquet"
+     ]
+    },
+    {
+     "headline": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale",
+     "entities": [
+      "ariane-mignolet",
+      "assemblee-nationale"
+     ]
+    },
+    {
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq",
+     "entities": [
+      "olivier-smith-lauzon",
+      "pspp",
+      "spgq"
+     ]
+    },
+    {
+     "headline": "PSPP confirme une «excellente rencontre» avec son homologue ontarien Doug Ford",
+     "url": "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford",
+     "entities": [
+      "doug-ford",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec",
+     "entities": [
+      "bruno-marchand",
+      "table-littoral-est",
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification",
+     "entities": [
+      "bruno-marchand",
+      "stantec",
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective",
+     "entities": [
+      "francine-lamy",
+      "fraternite-policiers-quebec",
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "Deux policiers de Lévis suspendus avec solde",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298893/deux-policiers-levis-suspendus-spvl",
+     "entities": [
+      "spvl"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1834,7 +1916,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 44,
+   "mentions": 47,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2055,6 +2137,21 @@
      "date": "2026-11-06",
      "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
      "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "PSPP confirme une «excellente rencontre» avec son homologue ontarien Doug Ford",
+     "url": "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford"
     }
    ]
   },
@@ -2302,7 +2399,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 17,
+   "mentions": 18,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2388,6 +2485,11 @@
      "date": "2026-11-06",
      "headline": "Équiterre exige un moratoire sur les centres de données",
      "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
     }
    ]
   },
@@ -2973,6 +3075,94 @@
    ]
   },
   {
+   "id": "ville-quebec",
+   "name": "Ville de Québec",
+   "type": "organization",
+   "aliases": [
+    "Quebec City"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
+    }
+   ]
+  },
+  {
+   "id": "assemblee-nationale",
+   "name": "Assemblée nationale du Québec",
+   "type": "organization",
+   "aliases": [
+    "Assemblée nationale",
+    "National Assembly"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale"
+    }
+   ]
+  },
+  {
    "id": "cour-superieure",
    "name": "Cour supérieure du Québec",
    "type": "organization",
@@ -3222,39 +3412,38 @@
    ]
   },
   {
-   "id": "assemblee-nationale",
-   "name": "Assemblée nationale du Québec",
-   "type": "organization",
+   "id": "bruno-marchand",
+   "name": "Bruno Marchand",
+   "type": "person",
    "aliases": [
-    "Assemblée nationale",
-    "National Assembly"
+    "Marchand"
    ],
    "mentions": 5,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
-    },
-    {
      "date": "2026-11-03",
-     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
-     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
     }
    ]
   },
@@ -3291,6 +3480,40 @@
      "date": "2026-11-06",
      "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
      "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
+    }
+   ]
+  },
+  {
+   "id": "stephane-paquet",
+   "name": "Stéphane Paquet",
+   "type": "person",
+   "aliases": [],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
     }
    ]
   },
@@ -3459,6 +3682,37 @@
    ]
   },
   {
+   "id": "investissement-quebec",
+   "name": "Investissement Québec",
+   "type": "organization",
+   "aliases": [
+    "IQ"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
+    }
+   ]
+  },
+  {
    "id": "jacinthe-eve-arel",
    "name": "Jacinthe-Eve Arel",
    "type": "person",
@@ -3557,35 +3811,6 @@
    ]
   },
   {
-   "id": "stephane-paquet",
-   "name": "Stéphane Paquet",
-   "type": "person",
-   "aliases": [],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    }
-   ]
-  },
-  {
    "id": "tat",
    "name": "Tribunal administratif du travail",
    "type": "organization",
@@ -3644,37 +3869,6 @@
      "date": "2026-10-31",
      "headline": "Sommet Canada-Union européenne – Le Canada et l’Union européenne concluent une nouvelle alliance",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-30/sommet-canada-union-europeenne/le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance.php"
-    }
-   ]
-  },
-  {
-   "id": "ville-quebec",
-   "name": "Ville de Québec",
-   "type": "organization",
-   "aliases": [
-    "Quebec City"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
-     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
     }
    ]
   },
@@ -3759,32 +3953,6 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    }
-   ]
-  },
-  {
-   "id": "bruno-marchand",
-   "name": "Bruno Marchand",
-   "type": "person",
-   "aliases": [
-    "Marchand"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
     }
    ]
   },
@@ -3911,32 +4079,6 @@
      "date": "2026-10-30",
      "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    }
-   ]
-  },
-  {
-   "id": "investissement-quebec",
-   "name": "Investissement Québec",
-   "type": "organization",
-   "aliases": [
-    "IQ"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
-     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
-     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
     }
    ]
   },
@@ -4559,6 +4701,27 @@
    ]
   },
   {
+   "id": "doug-ford",
+   "name": "Doug Ford",
+   "type": "person",
+   "aliases": [
+    "Ford"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "PSPP confirme une «excellente rencontre» avec son homologue ontarien Doug Ford",
+     "url": "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford"
+    }
+   ]
+  },
+  {
    "id": "ericka-alneus",
    "name": "Ericka Alneus",
    "type": "person",
@@ -4822,6 +4985,27 @@
    ]
   },
   {
+   "id": "nemaska-lithium",
+   "name": "Nemaska Lithium",
+   "type": "organization",
+   "aliases": [
+    "Nemaska"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    }
+   ]
+  },
+  {
    "id": "nicolas-girard",
    "name": "Nicolas Girard",
    "type": "person",
@@ -5063,6 +5247,27 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "id": "spgq",
+   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
+   "type": "organization",
+   "aliases": [
+    "SPGQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
     }
    ]
   },
@@ -5406,6 +5611,20 @@
      "date": "2026-10-27",
      "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
+    }
+   ]
+  },
+  {
+   "id": "ariane-mignolet",
+   "name": "Ariane Mignolet",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale"
     }
    ]
   },
@@ -6201,22 +6420,6 @@
    ]
   },
   {
-   "id": "doug-ford",
-   "name": "Doug Ford",
-   "type": "person",
-   "aliases": [
-    "Ford"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
-    }
-   ]
-  },
-  {
    "id": "enipso",
    "name": "ENIPSO",
    "type": "organization",
@@ -6411,6 +6614,20 @@
    ]
   },
   {
+   "id": "francine-lamy",
+   "name": "Francine Lamy",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
+    }
+   ]
+  },
+  {
    "id": "francois-chapdelaine",
    "name": "François Chapdelaine",
    "type": "person",
@@ -6455,6 +6672,22 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "id": "fraternite-policiers-quebec",
+   "name": "Fraternité des policiers et policières de Québec",
+   "type": "organization",
+   "aliases": [
+    "Fraternité"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
     }
    ]
   },
@@ -7945,22 +8178,6 @@
    ]
   },
   {
-   "id": "nemaska-lithium",
-   "name": "Nemaska Lithium",
-   "type": "organization",
-   "aliases": [
-    "Nemaska"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
-    }
-   ]
-  },
-  {
    "id": "nl-hydro",
    "name": "Newfoundland and Labrador Hydro",
    "type": "organization",
@@ -8005,6 +8222,20 @@
    ]
   },
   {
+   "id": "northvolt",
+   "name": "Northvolt",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
+    }
+   ]
+  },
+  {
    "id": "oliver-wyman",
    "name": "Oliver Wyman",
    "type": "organization",
@@ -8015,6 +8246,20 @@
      "date": "2026-10-25",
      "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
      "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "id": "olivier-smith-lauzon",
+   "name": "Olivier Smith-Lauzon",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
     }
    ]
   },
@@ -8453,6 +8698,22 @@
    ]
   },
   {
+   "id": "spvl",
+   "name": "Service de police de la Ville de Lévis",
+   "type": "organization",
+   "aliases": [
+    "SPVL"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Deux policiers de Lévis suspendus avec solde",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298893/deux-policiers-levis-suspendus-spvl"
+    }
+   ]
+  },
+  {
    "id": "sherbrooke-refuse",
    "name": "Sherbrooke Refuse",
    "type": "organization",
@@ -8573,6 +8834,20 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "id": "stantec",
+   "name": "Stantec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
     }
    ]
   },
@@ -8727,22 +9002,6 @@
    ]
   },
   {
-   "id": "spgq",
-   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
-   "type": "organization",
-   "aliases": [
-    "SPGQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    }
-   ]
-  },
-  {
    "id": "sapscq",
    "name": "Syndicat des agents de la paix en services correctionnels du Québec",
    "type": "organization",
@@ -8832,6 +9091,20 @@
      "date": "2026-10-21",
      "headline": "Où en est la filière hydrogène ?",
      "url": "https://www.lapresse.ca/affaires/economie/2026-10-17/ou-en-est-la-filiere-hydrogene.php"
+    }
+   ]
+  },
+  {
+   "id": "table-littoral-est",
+   "name": "Table citoyenne Littoral Est",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
     }
    ]
   },
@@ -9926,6 +10199,38 @@
    ]
   },
   {
+   "source": "pspp",
+   "target": "stephane-paquet",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    }
+   ]
+  },
+  {
    "source": "soraya-martinez-ferrada",
    "target": "spvm",
    "weight": 5,
@@ -10008,6 +10313,33 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "ville-quebec",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
     }
    ]
   },
@@ -10224,33 +10556,6 @@
      "date": "2026-11-04",
      "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
-   "target": "stephane-paquet",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     }
    ]
   },
@@ -11340,23 +11645,6 @@
    ]
   },
   {
-   "source": "bruno-marchand",
-   "target": "ville-quebec",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
-    }
-   ]
-  },
-  {
    "source": "caq",
    "target": "christine-frechette",
    "weight": 2,
@@ -11744,6 +12032,23 @@
      "date": "2026-11-04",
      "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
      "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
+    }
+   ]
+  },
+  {
+   "source": "doug-ford",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "PSPP confirme une «excellente rencontre» avec son homologue ontarien Doug Ford",
+     "url": "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford"
     }
    ]
   },
@@ -12560,6 +12865,23 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "spgq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
     }
    ]
   },
@@ -14537,6 +14859,18 @@
    ]
   },
   {
+   "source": "ariane-mignolet",
+   "target": "assemblee-nationale",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale"
+    }
+   ]
+  },
+  {
    "source": "artm",
    "target": "exo",
    "weight": 1,
@@ -15342,6 +15676,18 @@
   },
   {
    "source": "bruno-marchand",
+   "target": "stantec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
    "target": "stephane-lachance",
    "weight": 1,
    "stories": [
@@ -15349,6 +15695,18 @@
      "date": "2026-11-06",
      "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
      "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    }
+   ]
+  },
+  {
+   "source": "bruno-marchand",
+   "target": "table-littoral-est",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
     }
    ]
   },
@@ -18797,18 +19155,6 @@
    ]
   },
   {
-   "source": "doug-ford",
-   "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
-    }
-   ]
-  },
-  {
    "source": "dpcp",
    "target": "ericka-alneus",
    "weight": 1,
@@ -20285,6 +20631,30 @@
    ]
   },
   {
+   "source": "francine-lamy",
+   "target": "fraternite-policiers-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
+    }
+   ]
+  },
+  {
+   "source": "francine-lamy",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
+    }
+   ]
+  },
+  {
    "source": "francis-verreault-paul",
    "target": "mark-carney",
    "weight": 1,
@@ -20425,6 +20795,18 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "fraternite-policiers-quebec",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
     }
    ]
   },
@@ -21366,6 +21748,18 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "investissement-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "jodie-ashini",
    "weight": 1,
    "stories": [
@@ -21469,6 +21863,18 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "northvolt",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
     }
    ]
   },
@@ -21973,6 +22379,18 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "northvolt",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
     }
    ]
   },
@@ -24462,6 +24880,18 @@
   },
   {
    "source": "nemaska-lithium",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    }
+   ]
+  },
+  {
+   "source": "nemaska-lithium",
    "target": "rio-tinto",
    "weight": 1,
    "stories": [
@@ -24469,6 +24899,18 @@
      "date": "2026-11-05",
      "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
      "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    }
+   ]
+  },
+  {
+   "source": "nemaska-lithium",
+   "target": "stephane-paquet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
     }
    ]
   },
@@ -24649,6 +25091,30 @@
      "date": "2026-11-06",
      "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
      "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "olivier-smith-lauzon",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
+    }
+   ]
+  },
+  {
+   "source": "olivier-smith-lauzon",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
     }
    ]
   },
@@ -25350,18 +25816,6 @@
   },
   {
    "source": "pspp",
-   "target": "spgq",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
    "target": "steven-guilbeault",
    "weight": 1,
    "stories": [
@@ -26045,6 +26499,18 @@
    ]
   },
   {
+   "source": "stantec",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
+    }
+   ]
+  },
+  {
    "source": "steeve-poulin",
    "target": "tmf",
    "weight": 1,
@@ -26101,6 +26567,18 @@
      "date": "2026-10-31",
      "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
      "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    }
+   ]
+  },
+  {
+   "source": "table-littoral-est",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
     }
    ]
   },
