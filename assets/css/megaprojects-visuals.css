@@ -1,0 +1,25 @@
+/* Only today's Megaprojects report. Static evidence never hidden. */
+#governance-report .mpv-nav{background:var(--plain);border:1px solid var(--rule);padding:18px;margin:20px 0}
+#governance-report .mpv-nav h3{margin:0 0 10px;font-size:23px;color:#000}
+#governance-report .mpv-nav p{margin:0 0 12px;font-size:18px;color:#000}
+#governance-report .mpv-legend{list-style:none;display:flex;flex-wrap:wrap;gap:8px 18px;padding:0;margin:0 0 14px}
+#governance-report .mpv-legend li{display:flex;align-items:baseline;gap:6px;font-size:18px;color:#000}
+#governance-report .mpv-axis{list-style:none;display:flex;gap:12px;overflow-x:auto;padding:12px 4px 18px;margin:0;scroll-snap-type:x proximity;scrollbar-width:auto}
+#governance-report .mpv-axis>li{flex:0 0 190px;min-width:0;border-top:3px solid var(--blue);padding-top:8px;scroll-snap-align:start}
+#governance-report .mpv-stop{display:block;border:2px solid transparent;padding:10px;min-height:44px;text-decoration:none;background:#fff}
+#governance-report .mpv-stop:hover,#governance-report .mpv-stop[aria-current="location"]{border-color:var(--blue);text-decoration:underline}
+#governance-report .mpv-stop:focus-visible,#governance-report .mpv-label-button:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+#governance-report .mpv-stop>.mpv-date,#governance-report .mpv-stop>.mpv-source-type,#governance-report .mpv-stop>.mpv-label{display:block;color:#000;font-size:18px;line-height:1.5}
+#governance-report .mpv-date{font-weight:750}
+#governance-report .mpv-symbol{font-size:23px;font-weight:750;color:var(--blue)}
+#governance-report .mpv-audit>.mpv-symbol,#governance-report .mpv-symbol.mpv-audit{color:var(--red)}
+#governance-report .mpv-institution>.mpv-symbol,#governance-report .mpv-symbol.mpv-institution{color:var(--blue-dark)}
+#governance-report .mpv-media>.mpv-symbol,#governance-report .mpv-symbol.mpv-media{color:#000}
+#governance-report .vt-item.mpv-selected{outline:2px solid var(--blue);outline-offset:4px;background:var(--plain)}
+#governance-report .mpv-label-button{font:inherit;color:#000;text-align:start;background:transparent;border:2px solid transparent;padding:4px 6px;min-height:44px;cursor:pointer;width:100%}
+#governance-report .mpv-label-button:hover,#governance-report .mpv-label-button[aria-pressed="true"]{border-color:var(--blue);background:var(--plain)}
+#governance-report .mpv-highlight{outline:2px solid var(--blue);outline-offset:2px}
+#governance-report .mpv-chart-help{font:inherit;font-size:18px;color:#000;margin:8px 0}
+@media(max-width:640px){#governance-report .mpv-nav{padding:14px}#governance-report .mpv-axis>li{flex-basis:180px}#governance-report .mpv-nav p,#governance-report .mpv-nav li,#governance-report .mpv-label-button{font-size:18px;color:#000}}
+@media(prefers-reduced-motion:reduce){#governance-report .mpv-axis{scroll-behavior:auto;scroll-snap-type:none}}
+@media print{#governance-report .mpv-nav{display:none}#governance-report .mpv-label-button{border:0;padding:0;min-height:0}#governance-report .mpv-chart-help{display:none}#governance-report .mpv-highlight,#governance-report .vt-item.mpv-selected{outline:0;background:transparent}}
