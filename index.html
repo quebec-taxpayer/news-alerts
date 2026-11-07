@@ -23,7 +23,7 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
   <h2 id="h-top" class="sec-h"><span class="l-fr" lang="fr">À la une</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Top stories</span></h2>
   <div class="feat-grid">
   {%- for s in feats %}{% assign cat = site.data.categories.items | where: "id", s.category | first %}
-  {% include news-item.html s=s post=latest cat=cat featured=true %}
+  {% include news-item.html s=s post=latest cat=cat featured=true homepage=true %}
   {%- endfor %}
   </div>
 </section>
@@ -39,7 +39,7 @@ the Promised vs delivered tracker, What's next and earlier days. Nothing here is
   <section class="cat" aria-labelledby="cat-{{ cat.id }}">
     <h3 id="cat-{{ cat.id }}" class="cat-h"><span class="l-fr" lang="fr">{{ cat.fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ cat.en }}</span> <span class="cat-n">{{ items.size }}</span></h3>
     <ul class="ni-list">
-    {%- for s in items %}{% include news-item.html s=s post=latest cat=cat %}{% endfor %}
+    {%- for s in items %}{% include news-item.html s=s post=latest cat=cat homepage=true %}{% endfor %}
     </ul>
   </section>
   {%- endif %}

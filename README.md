@@ -28,8 +28,8 @@ Built from the front-matter `stories:` list of the latest post (`site.posts.firs
    chaque jour vers 10 h (HE)* (the daily routine runs at about 10:00 Toronto time) · story count · number of promises
    tracked (computed from `_data/promises.json`). The header tagline is `tagline_en` / `tagline_fr` in `_config.yml`.
 2. **À la une / Top stories** – the 3 stories with `featured: 1..3` (highest `importance`; ties keep digest order).
-   Each card: category badge, headline, byline = the source only (no category or date on the homepage; digest and
-   archive pages keep dates), summary, *Why it matters*, *Read the source* and *Permalink / Lien permanent* (the story
+   Each card: category badge, headline, verified source author(s) when available + media outlet + original source URL
+   (no category or date in that credit on the homepage; digest and archive pages keep dates), summary, *Why it matters*, *Read the source* and *Permalink / Lien permanent* (the story
    in the day's digest). *Headline as published (FR) / Titre tel que publié (EN)* appears only in the language whose
    displayed title differs from the original, with the original's language code.
 3. **Promis vs réalisé** tracker (`_includes/tracker-home.html`, data `_data/promises.json` + `_data/promise_status.json`).
@@ -39,6 +39,26 @@ Built from the front-matter `stories:` list of the latest post (`site.posts.firs
    (it holds the same stories; if a hand-made post ever differs, its own count is shown). Markup: `_includes/news-item.html`.
 5. **What's next**, then the previous 6 days and a link to the Archive.
 Posts without `stories:` fall back to a plain link to the digest.
+
+Homepage summaries may be expanded to roughly **75 words per story per language** in
+`_data/homepage_news.json`, an object keyed by the exact original source URL. Every entry contains
+`url`, `date` (digest day, YYYY-MM-DD), `summary_fr`, `summary_en`, `authors` (array of exact verified
+byline strings, or empty), `contributors` (separate collaboration credits), `author_type`
+(`person`, `agency`, `corporate`, or `unavailable`) and `outlet`. Collaboration names are labelled
+separately, never silently promoted to coauthors; corporate/agency credits are labelled as such.
+This file contains public editorial data only; keep byline-evidence URLs, verification status, source caches
+and audit notes outside the repository. The importer strips those private fields. Private packages may use `credit_type` values
+`individual_authors`, `news_agency`, or `corporate_publisher`; the importer maps these explicitly to public
+`author_type` values without inferring a person’s role.
+`news-item.html` uses an entry only on the homepage, with an explicit homepage include flag and an exact
+match to the displayed post's day. Missing/date-mismatched entries fall back to the existing short summaries
+and source-only credits. Author names must never be inferred. New summaries, credits and optional paired `why_fr`/`why_en` homepage-only overrides are HTML-escaped.
+When an expanded summary already covers the short brief’s Why-it-matters fact, a verified new homepage why
+can be stored in those optional fields; otherwise the existing post why remains the fallback. Digest/post/archive/feed
+why text is never changed by this data file.
+The nine current bilingual summaries remain nine paired paragraph elements (18 language-specific texts).
+Expanded homepage text does **not** replace the roughly20-word digest briefs, posts, archive or RSS content.
+No AI Overview box is added to news cards.
 
 ## How the language toggle works
 - Every piece of language-specific text exists twice: `<span class="l-en" lang="en">…</span>`
@@ -103,6 +123,15 @@ There is no weekly roundup section.
    (only dates stated by the source); add a pop-up definition term (and its EN/FR match phrases) to `_data/glossary.json` if a story
    uses jargon readers may not know; add a *promised vs delivered* pair only when both values are sourced.
    Then rerun `gen.py`, `python3 _tools/chrono.py --strict` and `python3 _tools/plain.py --strict`.
+3c. **Expanded homepage summaries (separate editorial step):** add/replace the day's URL-keyed entries in
+   `_data/homepage_news.json` after reading the source, aiming for roughly75 words in each language (65–85 is
+   advisory, not a reason to pad). Verify author bylines and outlet against the original article, retain its URL,
+   and retain evidence externally. Use `python3 _tools/homepage_news.py --editorial /path/editorial.json
+   --post _posts/YYYY-MM-DD-digest.md --output _data/homepage_news.json` to validate/import a reviewed package.
+   Then run `python3 _tools/homepage_news.py --data _data/homepage_news.json --post _posts/YYYY-MM-DD-digest.md`.
+   Check the homepage Why-it-matters lines still add a sourced fact rather than repeat the expanded summary;
+   warnings require editorial review, not automatic paraphrasing. `gen.py` never writes this separate data file,
+   so regenerated short briefs cannot overwrite the expanded text. A later day cannot inherit older dated entries.
 4. Commit and push to `main`. Home, Archive, Topics and the RSS feed update automatically (about 1 minute).
 
 **Option B – by hand.** Copy an existing `_posts/…-digest.md`, update the front matter
