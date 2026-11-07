@@ -6,28 +6,32 @@ permalink: /special-reports/
 section: special-reports
 summary: "Independent reports on Quebec’s public institutions, governance and accountability, listed newest first."
 summary_fr: "Des rapports indépendants sur les institutions publiques, la gouvernance et la reddition de comptes au Québec, du plus récent au plus ancien."
+reports_library: true
 ---
-<p class="dek"><span class="l-fr" lang="fr">Des rapports indépendants sur les institutions publiques, la gouvernance et la reddition de comptes au Québec.</span><span class="l-en" lang="en">Independent reports on Quebec’s public institutions, governance and accountability.</span></p>
-<p><span class="l-fr" lang="fr">Du plus récent au plus ancien. Les dates indiquent la publication initiale, et non une mise à jour ou la période couverte.</span><span class="l-en" lang="en">Newest first. Dates refer to initial publication, not to an update or the period covered.</span></p>
-<h2><span class="l-fr" lang="fr">Tous les rapports</span><span class="l-en" lang="en">All reports</span></h2>
+<div class="reports-library">
+<div class="intro"><p class="dek"><span class="l-fr" lang="fr">Des rapports indépendants sur les institutions publiques, la gouvernance et la reddition de comptes au Québec.</span><span class="l-en" lang="en">Independent reports on Quebec’s public institutions, governance and accountability.</span></p><a class="secondary-link" href="#master-chronology"><span class="l-fr" lang="fr">Explorer la chronologie maîtresse</span><span class="l-en" lang="en">Explore the master chronology</span><span aria-hidden="true"> →</span></a></div>
 {%- capture ri_serialized -%}{% include report-order.html %}{%- endcapture -%}
 {%- assign ri_rows = ri_serialized | split: "~" | sort -%}
+{%- assign ri_position = 0 -%}
 {% for ri_row in ri_rows %}
   {%- if ri_row == empty -%}{%- continue -%}{%- endif -%}
   {%- assign ri_parts = ri_row | split: "|" -%}
   {%- assign ri_day = ri_parts[1] -%}
   {%- assign ri_report = site.pages | where: "url", ri_parts[2] | first -%}
-<article class="report-card">
-<h3><a href="{{ ri_report.url | relative_url }}"><span class="l-fr" lang="fr">{{ ri_report.title_fr | default: ri_report.title | escape }}</span><span class="l-en" lang="en">{{ ri_report.title | escape }}</span></a></h3>
-{% if ri_day != "-" %}<p><span class="l-fr" lang="fr">Publié le </span><span class="l-en" lang="en">Published </span><time datetime="{{ ri_day }}">{% include date.html date=ri_day %}</time></p>
-{% else %}<p><span class="l-fr" lang="fr">Date de publication non consignée.</span><span class="l-en" lang="en">Publication date not recorded.</span></p>
-{% endif %}<p class="l-fr" lang="fr">{{ ri_report.summary_fr | default: ri_report.summary | escape }}</p>
-<p class="l-en" lang="en">{{ ri_report.summary | escape }}</p>
-</article>
+  {%- assign ri_position = ri_position | plus: 1 -%}
+  {%- assign ri_featured = false -%}
+  {%- if ri_position == 1 -%}{%- assign ri_featured = true -%}{%- endif -%}
+  {% if ri_position == 2 %}
+<section aria-labelledby="all-reports"><header class="section-head"><h2 id="all-reports"><span class="l-fr" lang="fr">À explorer aussi</span><span class="l-en" lang="en">More to explore</span></h2><p><span class="l-fr" lang="fr">Du plus récent au plus ancien. Les dates indiquent la publication initiale.</span><span class="l-en" lang="en">Newest first. Dates refer to initial publication.</span></p></header><div class="cards">
+  {% endif %}
+  {% include report-library-card.html report=ri_report day=ri_day featured=ri_featured %}
 {% endfor %}
-<h2><span class="l-en" lang="en">The master chronology</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">La chronologie maîtresse</span></h2>
-<p class="l-en" lang="en"><a href="{{ '/chronology/decades/' | relative_url }}">Investigated, Reported, Ignored: Quebec 1957–2026</a>, every event dated and sourced, in the Dossiers section.</p>
-<p class="l-fr" lang="fr"><a href="{{ '/chronology/decades/' | relative_url }}">Enquêté, rapporté, ignoré : le Québec de 1957 à 2026</a>, chaque événement daté et sourcé, dans la section Dossiers.</p>
-<h2><span class="l-en" lang="en">How we work</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-fr" lang="fr">Notre méthode</span></h2>
-<p class="l-en" lang="en">Every fact links to a source we read. Page numbers point into the original PDFs. Findings about named people are attributed to the body that made them, and their denials are reported. Where we draw our own conclusion, we say so.</p>
-<p class="l-fr" lang="fr">Chaque fait renvoie à une source que nous avons lue. Les numéros de page renvoient aux PDF originaux. Les constats visant des personnes nommées sont attribués à l’instance qui les a faits, et leurs démentis sont rapportés. Quand nous tirons notre propre conclusion, nous le disons.</p>
+{% if ri_position > 1 %}</div></section>{% endif %}
+<p class="art-note"><span class="l-fr" lang="fr">Illustrations éditoriales — elles ne représentent pas des lieux ou des documents réels.</span><span class="l-en" lang="en">Editorial illustrations—not depictions of actual facilities or documents.</span></p>
+<section aria-labelledby="chronology-title" class="chronology" id="master-chronology"><h2 id="chronology-title"><span class="l-fr" lang="fr">La chronologie maîtresse</span><span class="l-en" lang="en">The master chronology</span></h2><p><strong><span class="l-fr" lang="fr">Enquêté, rapporté, ignoré : le Québec de 1957 à 2026</span><span class="l-en" lang="en">Investigated, Reported, Ignored: Quebec 1957–2026</span></strong></p><p><span class="l-fr" lang="fr">Trois jalons sélectionnés. La chronologie complète rassemble les événements datés et leurs sources; les espacements ci-dessous ne mesurent pas le temps écoulé.</span><span class="l-en" lang="en">Three selected milestones. The complete chronology brings together dated events and their sources; the spacing below does not measure elapsed time.</span></p><ol class="milestones">
+<li class="milestone"><time datetime="1960-10-05">1960</time><a class="event-link" href="{{ '/chronology/decades/' | relative_url }}"><span class="l-fr" lang="fr">Création de la commission Salvas</span><span class="l-en" lang="en">Salvas commission established</span></a><p class="sources"><span class="l-fr" lang="fr">Sources : </span><span class="l-en" lang="en">Sources: </span><a href="https://www.bibliotheque.assnat.qc.ca/guides/fr/commissions-d-enquete-au-quebec-depuis-1867/5445-commission-salvas-1962">Bibliothèque de l’Assemblée nationale</a></p></li>
+<li class="milestone"><time datetime="2015-11-24">2015</time><a class="event-link" href="{{ '/chronology/decades/' | relative_url }}"><span class="l-fr" lang="fr">Dépôt du rapport Charbonneau</span><span class="l-en" lang="en">Charbonneau report submitted</span></a><p class="sources"><span class="l-fr" lang="fr">Sources : </span><span class="l-en" lang="en">Sources: </span><a href="https://www.amp.quebec/en/mission-en">Autorité des marchés publics</a></p></li>
+<li class="milestone"><time datetime="2026-02-16">2026</time><a class="event-link" href="{{ '/chronology/decades/' | relative_url }}"><span class="l-fr" lang="fr">Comité de suivi annoncé par le gouvernement</span><span class="l-en" lang="en">Government announces a follow-up committee</span></a><p class="sources"><span class="l-fr" lang="fr">Sources : </span><span class="l-en" lang="en">Sources: </span><a href="https://www.quebec.ca/nouvelles/actualites/details/depot-du-rapport-de-la-commission-gallant-le-gouvernement-analysera-rapidement-les-recommandations-68561">Gouvernement du Québec</a></p></li>
+</ol><a class="read-link" href="{{ '/chronology/decades/' | relative_url }}"><span class="l-fr" lang="fr">Explorer la chronologie complète</span><span class="l-en" lang="en">Explore the complete chronology</span> →</a></section>
+<section class="method"><h2><span class="l-fr" lang="fr">Notre méthode</span><span class="l-en" lang="en">How we work</span></h2><p><span class="l-fr" lang="fr">Chaque fait renvoie à une source que nous avons lue. Les numéros de page renvoient aux PDF originaux. Les constats visant des personnes nommées sont attribués à l’instance qui les a faits, et leurs démentis sont rapportés. Quand nous tirons notre propre conclusion, nous le disons.</span><span class="l-en" lang="en">Every fact links to a source we read. Page numbers point into the original PDFs. Findings about named people are attributed to the body that made them, and their denials are reported. Where we draw our own conclusion, we say so.</span></p></section>
+</div>

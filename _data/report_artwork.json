@@ -1,0 +1,51 @@
+{
+  "/special-reports/governance-across-decades/": {
+    "image": "/assets/img/reports/governance-across-decades.svg",
+    "topic_fr": "Grands projets",
+    "topic_en": "Major projects",
+    "alt_fr": "Illustration éditoriale : Chantier industriel et contrôle des grands projets",
+    "alt_en": "Editorial illustration: Industrial construction and major-project oversight"
+  },
+  "/special-reports/smaller-government/": {
+    "image": "/assets/img/reports/smaller-government.svg",
+    "topic_fr": "État et services publics",
+    "topic_en": "Government and public services",
+    "alt_fr": "Illustration éditoriale : Institution parlementaire stylisée",
+    "alt_en": "Editorial illustration: Stylized parliamentary institution"
+  },
+  "/special-reports/whistleblowers/": {
+    "image": "/assets/img/reports/whistleblowers.svg",
+    "topic_fr": "Lanceurs d’alerte",
+    "topic_en": "Whistleblowers",
+    "alt_fr": "Illustration éditoriale : Signalement et protection représentés symboliquement",
+    "alt_en": "Editorial illustration: Reporting and protection shown symbolically"
+  },
+  "/special-reports/auditor-general/": {
+    "image": "/assets/img/reports/auditor-general.svg",
+    "topic_fr": "Audit public",
+    "topic_en": "Public audit",
+    "alt_fr": "Illustration éditoriale : Liste de contrôle et examen d’un document",
+    "alt_en": "Editorial illustration: Checklist and document examination"
+  },
+  "/special-reports/charbonneau/": {
+    "image": "/assets/img/reports/charbonneau.svg",
+    "topic_fr": "Marchés publics",
+    "topic_en": "Public procurement",
+    "alt_fr": "Illustration éditoriale : Institution publique et dossiers de marchés",
+    "alt_en": "Editorial illustration: Public institution and procurement documents"
+  },
+  "/special-reports/lobbying/": {
+    "image": "/assets/img/reports/lobbying.svg",
+    "topic_fr": "Lobbyisme et transparence",
+    "topic_en": "Lobbying and transparency",
+    "alt_fr": "Illustration éditoriale : Échanges d’influence et transparence documentaire",
+    "alt_en": "Editorial illustration: Influence and documentary transparency"
+  },
+  "/special-reports/saaqclic/": {
+    "image": "/assets/img/reports/saaqclic.svg",
+    "topic_fr": "Services numériques",
+    "topic_en": "Digital public services",
+    "alt_fr": "Illustration éditoriale : Service public numérique imaginaire, non une capture d’écran",
+    "alt_en": "Editorial illustration: Conceptual digital public service, not a screenshot"
+  }
+}

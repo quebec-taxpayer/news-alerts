@@ -1,0 +1,14 @@
+{%- assign rlc_report = include.report -%}
+{%- assign rlc_art = site.data.report_artwork[rlc_report.url] -%}
+{%- assign rlc_image = rlc_art.image | default: "/assets/img/reports/fallback.svg" -%}
+<article class="report-card {% if include.featured %}featured{% else %}card{% endif %}" data-report="{{ rlc_report.url | split: '/' | last | escape }}">
+{% if include.featured %}<div class="featured-main"><div class="featured-copy"><p class="eyebrow"><span class="l-fr" lang="fr">À la une · Le plus récent</span><span class="l-en" lang="en">Featured · Latest report</span></p>{% else %}
+<figure class="artwork"><img src="{{ rlc_image | relative_url }}" alt="{{ rlc_art.alt_fr | default: 'Illustration éditoriale : rapport' | escape }} / {{ rlc_art.alt_en | default: 'Editorial illustration: report' | escape }}" width="640" height="320" loading="lazy" decoding="async"></figure><div class="card-body"><p class="topic"><span class="l-fr" lang="fr">{{ rlc_art.topic_fr | default: 'Rapport spécial' | escape }}</span><span class="l-en" lang="en">{{ rlc_art.topic_en | default: 'Special report' | escape }}</span></p>
+{% endif %}
+{% if include.featured %}<h2>{% else %}<h3>{% endif %}<a href="{{ rlc_report.url | relative_url }}"><span class="l-fr" lang="fr">{{ rlc_report.title_fr | default: rlc_report.title | escape }}</span><span class="l-en" lang="en">{{ rlc_report.title | escape }}</span></a>{% if include.featured %}</h2>{% else %}</h3>{% endif %}
+<p class="publication">{% if include.day != '-' %}<span class="l-fr" lang="fr">Publié le </span><span class="l-en" lang="en">Published </span><time datetime="{{ include.day }}">{% include date.html date=include.day %}</time>{% else %}<span class="l-fr" lang="fr">Date de publication non consignée.</span><span class="l-en" lang="en">Publication date not recorded.</span>{% endif %}</p>
+<p class="l-fr" lang="fr">{{ rlc_report.summary_fr | default: rlc_report.summary | escape }}</p><p class="l-en" lang="en">{{ rlc_report.summary | escape }}</p>
+<a class="read-link{% if include.featured %} read-primary{% endif %}" href="{{ rlc_report.url | relative_url }}"><span class="l-fr" lang="fr">Lire le rapport</span><span class="l-en" lang="en">Read the report</span><span aria-hidden="true"> →</span></a>
+</div>{% if include.featured %}<figure class="artwork"><img src="{{ rlc_image | relative_url }}" alt="{{ rlc_art.alt_fr | default: 'Illustration éditoriale : rapport' | escape }} / {{ rlc_art.alt_en | default: 'Editorial illustration: report' | escape }}" width="640" height="320" fetchpriority="high" decoding="async"></figure></div>
+{% if rlc_report.url == '/special-reports/governance-across-decades/' %}{% include report-library-milestones.html %}{% endif %}{% endif %}
+</article>
