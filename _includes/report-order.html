@@ -1,0 +1,33 @@
+{%- comment -%}
+Emit sortable records: inverse YYYYMMDD | publication day | canonical URL.
+Capture this include, split on ~, and sort ascending. This makes publication
+newest-first, with canonical URL ascending for same-day ties. All date inputs
+are normalized before comparison (strings, YAML dates and times are not mixed).
+First-publication precedence: published_date, legacy registry, date. Never use
+updated/last_modified_at or ticker_order. Undated reports sort last on the index
+and are omitted from the recent-report ticker, not assigned an invented date.
+{%- endcomment -%}
+{%- assign rp_pages = site.pages | where: "section", "special-reports" | sort: "url" -%}
+{%- assign rp_seen = "" -%}
+{%- for rp in rp_pages -%}
+  {%- assign rp_prefix = rp.url | slice: 0, 17 -%}
+  {%- if rp.url == "/special-reports/" or rp_prefix != "/special-reports/" or rp.noindex or rp.robots contains "noindex" -%}{%- continue -%}{%- endif -%}
+  {%- if include.ticker and rp.ticker == false -%}{%- continue -%}{%- endif -%}
+  {%- capture rp_identity -%}|{{ rp.url }}|{%- endcapture -%}
+  {%- if rp_seen contains rp_identity -%}{%- continue -%}{%- endif -%}
+  {%- assign rp_date = rp.published_date | default: site.data.report_publications[rp.url] | default: rp.date -%}
+  {%- assign rp_day = "-" -%}
+  {%- assign rp_rank = "99999999" -%}
+  {%- if rp_date and rp_date != empty -%}
+    {%- assign rp_candidate_day = rp_date | date: "%Y-%m-%d" -%}
+    {%- assign rp_candidate_epoch = rp_date | date: "%s" -%}
+    {%- if rp_candidate_day != rp_candidate_epoch -%}
+      {%- assign rp_day = rp_candidate_day -%}
+      {%- assign rp_integer = rp_day | remove: "-" | plus: 0 -%}
+      {%- assign rp_rank = 99999999 | minus: rp_integer | prepend: "00000000" | slice: -8, 8 -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if include.ticker and rp_day == "-" -%}{%- continue -%}{%- endif -%}
+  {%- assign rp_seen = rp_seen | append: rp_identity -%}
+  {{- rp_rank -}}|{{- rp_day -}}|{{- rp.url -}}~
+{%- endfor -%}
