@@ -1,0 +1,10 @@
+/* Reports-only editorial summary; no width or shared-language overrides. */
+.ai-overview{background:#f3f3f3;color:#000;border:1px solid #d7d7d7;padding:20px;margin:0 0 24px;font:inherit;line-height:1.6;overflow-wrap:anywhere}
+.ai-overview h2,.gr-report .ai-overview h2{color:#000;font-size:24px;line-height:1.25;margin:0 0 12px;padding:0;border:0}
+.ai-overview p,.ai-overview li{color:#000;font-size:inherit}
+.ai-overview ul{margin:12px 0;padding-left:1.4em}
+.ai-overview li{margin:0 0 10px}
+.ai-overview a,.gr-report .ai-overview a{color:var(--blue);text-decoration:underline}
+.ai-overview a:focus-visible{outline:3px solid var(--blue);outline-offset:3px}
+.ai-overview .ai-overview-limit{border-top:1px solid #d7d7d7;padding-top:12px}
+@media(max-width:640px){.ai-overview{padding:18px;font-size:18px}.ai-overview h2,.gr-report .ai-overview h2{font-size:23px}}

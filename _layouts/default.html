@@ -30,6 +30,7 @@ if(l!=="en")l="fr";var h=document.documentElement;h.className=(h.className.repla
   <link rel="apple-touch-icon" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 {% if page.reports_library %}<link rel="stylesheet" href="{{ '/assets/css/reports-library.css' | relative_url }}?v={{ site.time | date: '%s' }}">{% endif %}
+{% if page.report_ai_overview %}<link rel="stylesheet" href="{{ '/assets/css/report-ai-overview.css' | relative_url }}?v={{ site.time | date: '%s' }}">{% endif %}
 </head>
 <body{% if page.layout == "dossier-print" %} class="print-page"{% endif %}>
 <a class="skip-link" href="#main"><span class="l-fr" lang="fr">Aller au contenu</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Skip to content</span></a>

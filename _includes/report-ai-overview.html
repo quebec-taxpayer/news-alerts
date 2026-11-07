@@ -1,0 +1,11 @@
+{%- assign aov = site.data.report_overviews[page.url] -%}
+{%- if aov -%}
+<section class="ai-overview" aria-labelledby="ai-overview-title">
+<h2 id="ai-overview-title"><span class="l-fr" lang="fr">{{ aov.heading.fr | escape }}</span><span class="l-en" lang="en">{{ aov.heading.en | escape }}</span></h2>
+<p class="l-fr" lang="fr">{{ aov.lead.fr | escape }}</p><p class="l-en" lang="en">{{ aov.lead.en | escape }}</p>
+<ul>{% for aov_item in aov.items %}<li><a href="{{ aov_item.anchor | escape }}"><span class="l-fr" lang="fr">{{ aov_item.fr | escape }}</span><span class="l-en" lang="en">{{ aov_item.en | escape }}</span></a></li>{% endfor %}</ul>
+<p class="ai-overview-limit"><span class="l-fr" lang="fr"><strong>Limites de la preuve : </strong>{{ aov.limitation.fr | escape }}</span><span class="l-en" lang="en"><strong>Evidence limits: </strong>{{ aov.limitation.en | escape }}</span></p>
+{% if aov.as_of %}<p class="ai-overview-cutoff"><span class="l-fr" lang="fr">{{ aov.as_of.fr | escape }}</span><span class="l-en" lang="en">{{ aov.as_of.en | escape }}</span></p>{% endif %}
+{% if aov.disclosure_validated %}<p class="ai-overview-disclosure"><span class="l-fr" lang="fr">{{ aov.disclosure.fr | escape }}</span><span class="l-en" lang="en">{{ aov.disclosure.en | escape }}</span></p>{% endif %}
+</section>
+{%- endif -%}

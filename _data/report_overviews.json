@@ -1,0 +1,258 @@
+{
+  "/special-reports/auditor-general/": {
+    "heading": {
+      "fr": "Aperçu par IA",
+      "en": "AI Overview"
+    },
+    "lead": {
+      "fr": "Le Vérificateur général du Québec (VGQ) distingue les correctifs terminés des progrès satisfaisants : son taux vedette de 85 % ne signifie pas que 85 % des travaux sont finis.",
+      "en": "Quebec’s Auditor General (VGQ) distinguishes completed fixes from satisfactory progress: its 85% headline does not mean 85% of work is finished."
+    },
+    "items": [
+      {
+        "fr": "En 2024–2025, 32 des 99 recommandations suivies sont appliquées; 52 montrent des progrès satisfaisants et 15 des progrès insatisfaisants.",
+        "en": "In 2024–2025, 32 of 99 tracked recommendations are applied; 52 show satisfactory progress and 15 unsatisfactory progress.",
+        "anchor": "#overview-evidence-1"
+      },
+      {
+        "fr": "Le VGQ vérifie la vraisemblance des états d’avancement transmis par les organismes, sans les auditer.",
+        "en": "The VGQ assesses the plausibility of progress reports submitted by public bodies, without auditing them.",
+        "anchor": "#overview-evidence-2"
+      },
+      {
+        "fr": "L’indicateur combinant le VGQ et le Commissaire au développement durable à 36 mois ou plus atteint 78 % en 2023–2024 et 79 % en 2024–2025, sous la cible de 80 %.",
+        "en": "The combined Auditor General/Sustainable Development Commissioner indicator at 36 months or more reaches 78% in 2023–2024 and 79% in 2024–2025, below its 80% target.",
+        "anchor": "#overview-evidence-3"
+      }
+    ],
+    "limitation": {
+      "fr": "Cet indicateur et la cohorte de 99 ont des périmètres distincts; ils ne couvrent pas toutes les recommandations. Inachevé ne veut pas dire ignoré.",
+      "en": "That indicator and the 99-recommendation cohort have different scopes; neither covers every recommendation. Unfinished does not mean ignored."
+    },
+    "disclosure": {
+      "fr": "Résumé assisté par IA, vérifié à partir de ce rapport.",
+      "en": "AI-assisted summary, checked against this report."
+    },
+    "disclosure_validated": true
+  },
+  "/special-reports/charbonneau/": {
+    "heading": {
+      "fr": "Aperçu par IA",
+      "en": "AI Overview"
+    },
+    "lead": {
+      "fr": "La commission Charbonneau a débouché sur de vraies réformes, mais le dernier bilan indépendant retrouvé dans ce rapport ne permet pas d’établir leur état actuel.",
+      "en": "The Charbonneau inquiry led to genuine reforms, but the latest independent tally located in this report cannot establish their current status."
+    },
+    "items": [
+      {
+        "fr": "En novembre 2017, le comité de suivi classait les 60 recommandations : 26 appliquées de façon satisfaisante, 10 partiellement et 24 sans suite.",
+        "en": "In November 2017, the follow-up committee classified the 60 recommendations: 26 satisfactorily applied, 10 partly applied and 24 unaddressed.",
+        "anchor": "#overview-evidence-1"
+      },
+      {
+        "fr": "L’Autorité des marchés publics (AMP) et des changements au financement politique font partie des réformes réalisées.",
+        "en": "The Autorité des marchés publics (AMP), Quebec’s procurement authority, and political-financing changes are among the implemented reforms.",
+        "anchor": "#overview-evidence-2"
+      },
+      {
+        "fr": "En février 2026, l’AMP accueille la demande de renforcement de ses pouvoirs formulée par Gallant.",
+        "en": "In February 2026, the AMP welcomes Gallant’s call to strengthen its powers.",
+        "anchor": "#overview-evidence-3"
+      }
+    ],
+    "limitation": {
+      "fr": "Le rapport n’a pas trouvé de décompte indépendant complet après 2017; ces chiffres ne décrivent donc pas un bilan de 2026.",
+      "en": "The report found no complete independent tally after 2017; these figures therefore are not a 2026 scorecard."
+    },
+    "disclosure": {
+      "fr": "Résumé assisté par IA, vérifié à partir de ce rapport.",
+      "en": "AI-assisted summary, checked against this report."
+    },
+    "disclosure_validated": true
+  },
+  "/special-reports/lobbying/": {
+    "heading": {
+      "fr": "Aperçu par IA",
+      "en": "AI Overview"
+    },
+    "lead": {
+      "fr": "Ce rapport examine les lacunes de la transparence du lobbyisme au Québec et les réformes proposées, sans confondre une absence d’inscription avec la preuve qu’aucune influence n’a été exercée.",
+      "en": "This report examines gaps in Quebec’s lobbying transparency and proposed reforms, without treating an empty registry as proof that no influence occurred."
+    },
+    "items": [
+      {
+        "fr": "Le 17 février 2026, l’Assemblée demande une réforme par 100 voix contre zéro.",
+        "en": "On 17 February 2026, the Assembly calls for reform by 100 votes to zero.",
+        "anchor": "#overview-evidence-1"
+      },
+      {
+        "fr": "En mai 2026, le commissaire indique qu’aucun projet gouvernemental n’a suivi et présente un projet de remplacement.",
+        "en": "In May 2026, the commissioner says no government bill has followed and presents a replacement draft.",
+        "anchor": "#overview-evidence-2"
+      },
+      {
+        "fr": "Selon lui, les seuils d’assujettissement empêchent notamment de savoir si du lobbyisme a entouré CASA/SAAQclic.",
+        "en": "In his account, coverage thresholds prevent determining whether lobbying occurred around CASA/SAAQclic.",
+        "anchor": "#overview-evidence-3"
+      }
+    ],
+    "limitation": {
+      "fr": "Ce constat législatif est daté de mai 2026; il ne prouve ni un lobbyisme illégal ni l’absence de réformes partielles.",
+      "en": "The legislative assessment is dated May 2026; it proves neither unlawful lobbying nor the absence of partial reforms."
+    },
+    "disclosure": {
+      "fr": "Résumé assisté par IA, vérifié à partir de ce rapport.",
+      "en": "AI-assisted summary, checked against this report."
+    },
+    "disclosure_validated": true
+  },
+  "/special-reports/saaqclic/": {
+    "heading": {
+      "fr": "Aperçu par IA",
+      "en": "AI Overview"
+    },
+    "lead": {
+      "fr": "Ce rapport sur la transformation numérique de la SAAQ distingue l’audit du Vérificateur général du Québec (VGQ), les conclusions Gallant rapportées par les médias et les réponses gouvernementales.",
+      "en": "This report on Quebec’s SAAQ digital transformation distinguishes the Quebec Auditor General’s (VGQ) audit, media-reported Gallant findings and government responses."
+    },
+    "items": [
+      {
+        "fr": "En février 2025, le VGQ prévoit au moins 1,1 milliard de dollars pour l’ensemble du programme CASA, dont SAAQclic, jusqu’en mars 2027, contre 638 millions au budget initial de 2017.",
+        "en": "In February 2025, the VGQ forecasts at least C$1.1 billion for the whole CASA programme, including SAAQclic, through March 2027, against its original C$638 million budget in 2017.",
+        "anchor": "#overview-evidence-1"
+      },
+      {
+        "fr": "Le VGQ relève des tests inachevés et une hausse de près de 500 millions mal communiquée aux décideurs.",
+        "en": "The VGQ identifies unfinished testing and nearly C$500 million in increases not clearly communicated to decision-makers.",
+        "anchor": "#overview-evidence-1"
+      },
+      {
+        "fr": "En février 2026, le gouvernement annonce un comité de suivi et l’examen de recours possibles.",
+        "en": "In February 2026, the government announces a follow-up committee and consideration of possible recourse.",
+        "anchor": "#overview-evidence-3"
+      }
+    ],
+    "limitation": {
+      "fr": "La prévision n’est pas un coût final. Le rapport ne vérifie pas les résultats du suivi; les conclusions Gallant citées sont rapportées par les médias.",
+      "en": "The forecast is not a final cost. The report does not verify follow-up outcomes; its cited Gallant findings are media-reported."
+    },
+    "disclosure": {
+      "fr": "Résumé assisté par IA, vérifié à partir de ce rapport.",
+      "en": "AI-assisted summary, checked against this report."
+    },
+    "disclosure_validated": true
+  },
+  "/special-reports/whistleblowers/": {
+    "heading": {
+      "fr": "Aperçu par IA",
+      "en": "AI Overview"
+    },
+    "lead": {
+      "fr": "Le droit québécois protège certaines divulgations concernant des organismes publics, selon les conditions prévues par les lois. Une divulgation et une plainte pour représailles sont deux démarches distinctes.",
+      "en": "Quebec law protects certain disclosures involving public bodies, subject to statutory conditions. A disclosure and a reprisal complaint are distinct processes."
+    },
+    "items": [
+      {
+        "fr": "La loi de 2024 crée une présomption de représailles dans certaines situations : l’employeur doit démontrer un autre motif juste et suffisant.",
+        "en": "The 2024 law creates a reprisal presumption in specified situations: the employer must show another good and sufficient reason.",
+        "anchor": "#overview-evidence-1"
+      },
+      {
+        "fr": "En 2024–2025, le Protecteur reçoit 386 divulgations; cinq motifs examinés aboutissent à un constat d’acte répréhensible.",
+        "en": "In 2024–2025, the Protecteur receives 386 disclosures; five investigated grounds result in findings of wrongdoing.",
+        "anchor": "#overview-evidence-2"
+      },
+      {
+        "fr": "Aucun des 18 motifs de plaintes pour représailles fermés cette année-là n’est jugé recevable.",
+        "en": "None of the 18 reprisal complaint grounds closed that year is judged admissible.",
+        "anchor": "#overview-evidence-3"
+      }
+    ],
+    "limitation": {
+      "fr": "Les nouvelles mesures n’ont que quatre mois de recul dans ce bilan; celui-ci n’est pas un décompte de tous les recours gagnés au Québec.",
+      "en": "The new measures have only four months of reporting history; this is not a count of every successful Quebec remedy."
+    },
+    "disclosure": {
+      "fr": "Résumé assisté par IA, vérifié à partir de ce rapport.",
+      "en": "AI-assisted summary, checked against this report."
+    },
+    "disclosure_validated": true
+  },
+  "/special-reports/smaller-government/": {
+    "heading": {
+      "fr": "Aperçu par IA",
+      "en": "AI Overview"
+    },
+    "lead": {
+      "fr": "Au 1er novembre 2026, ce rapport distingue les promesses de réduction de l’État des résultats vérifiés, sans présenter les économies annoncées comme déjà réalisées.",
+      "en": "As of 1 November 2026, this report distinguishes promises to shrink the state from verified results, without presenting announced savings as already achieved."
+    },
+    "items": [
+      {
+        "fr": "Quatre des cinq principaux partis ont promis de réduire les effectifs ou la masse salariale; Québec solidaire s’y oppose.",
+        "en": "Four of the five main parties promised staffing or payroll cuts; Québec solidaire opposes them.",
+        "anchor": "#overview-evidence-1"
+      },
+      {
+        "fr": "Le PQ propose une baisse récurrente de 2,5 % des dépenses de rémunération : c’est un engagement, pas un résultat.",
+        "en": "The PQ proposes a recurring 2.5% reduction in compensation spending: a commitment, not a result.",
+        "anchor": "#overview-evidence-2"
+      },
+      {
+        "fr": "Le bilan officiel cité indique 3 106 équivalents temps complet de moins dans la fonction publique en 2025–2026, sous le gouvernement précédent.",
+        "en": "The cited official tally records 3,106 fewer full-time equivalents in the public service in 2025–2026, under the previous government.",
+        "anchor": "#overview-evidence-3"
+      }
+    ],
+    "limitation": {
+      "fr": "Les périmètres d’emploi diffèrent. Les sources examinées ne mesurent ni les économies réellement dégagées ni les effets des réductions sur les services.",
+      "en": "Employment measures have different scopes. The reviewed sources measure neither actual savings nor the service effects of the cuts."
+    },
+    "disclosure": {
+      "fr": "Résumé assisté par IA, vérifié à partir de ce rapport.",
+      "en": "AI-assisted summary, checked against this report."
+    },
+    "disclosure_validated": true
+  },
+  "/special-reports/governance-across-decades/": {
+    "heading": {
+      "fr": "Aperçu par IA",
+      "en": "AI Overview"
+    },
+    "lead": {
+      "fr": "Ce rapport compare six dossiers québécois sur cinq décennies : décisions d’investissement public, constats de surveillance et réformes, sans assimiler leurs résultats.",
+      "en": "This report compares six Quebec cases across five decades: public investment decisions, oversight findings and reforms, without treating their outcomes as identical."
+    },
+    "items": [
+      {
+        "fr": "Le Vérificateur général du Québec documente des lacunes de préparation et d’information dans CASA/SAAQclic.",
+        "en": "Quebec’s Auditor General documents preparation and reporting weaknesses in CASA/SAAQclic.",
+        "anchor": "#saaq"
+      },
+      {
+        "fr": "La création de l’Autorité des marchés publics constitue une réforme réelle; La Romaine est un actif productif, pas une perte totale.",
+        "en": "Creating Quebec’s public-procurement authority is a genuine reform; La Romaine is a productive asset, not a total loss.",
+        "anchor": "#cases"
+      },
+      {
+        "fr": "Les prêts, actions, subventions et annonces de financement de Gaspésia et Nemaska ne peuvent être additionnés comme des pertes réalisées.",
+        "en": "Gaspésia’s and Nemaska’s loans, equity, grants and funding announcements cannot be added as realized losses.",
+        "anchor": "#unknown"
+      }
+    ],
+    "limitation": {
+      "fr": "Aucune cause unique, perte finale globale ou efficacité générale des réformes n’est établie. Malouf : mandat et dépôt; Lesage : notice et décret; Gallant : publication et réponses officielles, sans examen intégral.",
+      "en": "No single cause, aggregate final loss or overall reform effectiveness is established. Malouf: mandate and tabling; Lesage: catalogue and decree; Gallant: publication and official responses, without full-report examination."
+    },
+    "disclosure": {
+      "fr": "Résumé assisté par IA, vérifié à partir de ce rapport.",
+      "en": "AI-assisted summary, checked against this report."
+    },
+    "disclosure_validated": true,
+    "as_of": {
+      "fr": "Information arrêtée au 7 novembre 2026.",
+      "en": "Information cutoff: 7 November 2026."
+    }
+  }
+}
