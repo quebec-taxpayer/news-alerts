@@ -3,6 +3,8 @@ layout: page
 title: "About"
 title_fr: "À propos"
 permalink: /about/
+summary_fr: "Qui nous sommes et notre méthode : une veille indépendante et non partisane fondée uniquement sur des sources publiques et vérifiables, chaque nouvelle liée à sa source."
+summary: "Who we are and how we work: an independent, non-partisan digest based only on public, verifiable sources, with every story linked to its source."
 ---
 <section class="l-fr" lang="fr">
 <p>L’Observatoire de la gouvernance du Québec est une démarche de documentation indépendante et non partisane sur la gouvernance, la transparence et la reddition de comptes au Québec.</p>

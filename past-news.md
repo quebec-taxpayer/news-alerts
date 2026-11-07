@@ -4,6 +4,8 @@ title: "Archive"
 title_fr: "Archives"
 permalink: /past-news/
 section: past-news
+summary_fr: "Tous les digests quotidiens d’AltViews, classés par mois."
+summary: "Every AltViews daily digest, by month."
 ---
 <p class="l-en" lang="en">All digests, by month.</p>
 <p class="l-fr" lang="fr">Tous les digests, par mois.</p>

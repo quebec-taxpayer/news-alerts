@@ -2,6 +2,8 @@
 <html lang="fr" class="lang-fr">
 <head>
   <meta charset="utf-8">
+  <script src="{{ '/assets/js/analytics-consent.js' | relative_url }}" defer></script>
+  <link rel="stylesheet" href="{{ '/assets/css/analytics-consent.css' | relative_url }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>/* Language before first paint: ?lang=en|fr wins over storage and is saved; else the saved choice; else French (no browser-language auto-switch). */
 (function(){var l="fr",q=null;try{q=(location.search.match(/[?&]lang=(en|fr)(?:&|$)/)||[])[1]||null;}catch(e){}
@@ -17,7 +19,11 @@ if(l!=="en")l="fr";var h=document.documentElement;h.className=(h.className.repla
   <meta property="og:site_name" content="{{ site.title | escape }}">
   <meta property="og:title" content="{{ t_en | strip_html | escape }}">
   <meta property="og:description" content="{{ page.summary | default: site.description_en | strip_html | escape }}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  {%- assign canonical_path = page.url -%}
+  {%- if page.layout == 'dossier-print' -%}{%- assign canonical_path = page.url | replace: '/print/', '/' -%}{%- endif -%}
+  {%- assign canonical_url = canonical_path | prepend: 'https://altviews.org' -%}
+  <link rel="canonical" href="{{ canonical_url | escape }}">
+  <meta property="og:url" content="{{ canonical_url | escape }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title_fr | escape }} / {{ site.title | escape }} (RSS)" href="{{ '/feed.xml' | absolute_url }}">
   <link rel="icon" href="{{ '/assets/img/favicon.svg' | relative_url }}" type="image/svg+xml">
   <link rel="icon" href="{{ '/assets/img/favicon-32.png' | relative_url }}" sizes="32x32" type="image/png">

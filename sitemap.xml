@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /sitemap.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- assign items = site.pages | concat: site.posts | sort: 'url' -%}
+{%- for item in items -%}
+  {%- if item.layout and item.sitemap != false and item.noindex != true and item.draft != true and item.published != false and item.layout != 'dossier-print' -%}
+  <url><loc>{{ item.url | prepend: 'https://altviews.org' | xml_escape }}</loc></url>
+  {%- endif -%}
+{%- endfor %}
+</urlset>

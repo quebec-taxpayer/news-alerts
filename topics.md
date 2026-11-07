@@ -3,6 +3,8 @@ layout: page
 title: "Priority topics"
 title_fr: "Thèmes prioritaires"
 permalink: /topics/
+summary_fr: "Les digests qui touchent les trois thèmes prioritaires : projets informatiques et numériques, sociétés d’État, et approvisionnement et contrats publics."
+summary: "Digests touching the three priority topics: IT and digital projects, Crown corporations, and procurement and public contracting."
 ---
 <p class="l-en" lang="en">Days whose stories clearly touch one of the team’s three priority topics.</p>
 <p class="l-fr" lang="fr">Les jours dont les nouvelles touchent clairement l’un des trois thèmes prioritaires de l’équipe.</p>
