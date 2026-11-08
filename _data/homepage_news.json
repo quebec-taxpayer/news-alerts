@@ -115,5 +115,91 @@
     "url": "https://ici.radio-canada.ca/nouvelle/2298893/deux-policiers-levis-suspendus-spvl",
     "why_en": "Le Journal de Québec reports that the officers were barred from communicating with colleagues; Lévis police have not confirmed that account.",
     "why_fr": "Le Journal de Québec rapporte que les agents auraient reçu l’interdiction d’échanger avec leurs collègues; le SPVL n’a pas confirmé cette information."
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore": {
+    "author_type": "person",
+    "authors": [
+      "Ariane Émond"
+    ],
+    "contributors": [],
+    "date": "2026-11-08",
+    "outlet": "Radio-Canada",
+    "summary_en": "Catherine Gentilcore says she is shocked by allegations against a former Immigration employee, Radio-Canada reports. The investigation concerns selection certificates allegedly issued to ineligible applicants between August 2016 and February 2019. Her office confirms that the person has not worked at the ministry since 2019. The minister wants safeguards protecting programme integrity and answers about whether this was an isolated case. Her reaction is not a judicial finding on the allegations against the former employee.",
+    "summary_fr": "Catherine Gentilcore se dit choquée par les accusations visant une ancienne employée de l’Immigration, rapporte Radio-Canada. L’enquête concerne la délivrance présumée de certificats de sélection à des candidats inadmissibles entre août 2016 et février 2019. Le cabinet confirme que cette personne ne travaille plus au ministère depuis 2019. La ministre réclame des mécanismes protégeant l’intégrité des programmes et veut savoir si le cas est isolé. Sa réaction ne constitue pas une conclusion judiciaire sur les allégations.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore",
+    "why_en": "Radio-Canada reports that a Montreal court appearance is scheduled for December 10; the allegations remain to be examined.",
+    "why_fr": "Selon Radio-Canada, une comparution au tribunal de Montréal est prévue le 10 décembre; les accusations restent à examiner."
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm": {
+    "author_type": "unavailable",
+    "authors": [],
+    "contributors": [],
+    "date": "2026-11-08",
+    "outlet": "Radio-Canada",
+    "summary_en": "Radio-Canada, citing TVA Nouvelles, reports that anonymous officers made complaints about Fady Dagher to Quebec’s police ethics commissioner. They allege that the SPVM director lacked impartiality in handling the station 39 case, which led to seven officers being dismissed. On Friday, Minister Guy Lapointe fils said he would await the investigations before commenting. The complaints against Dagher are reported as allegations, not as findings established by those investigations into the handling of the police case.",
+    "summary_fr": "Radio-Canada rapporte, en citant TVA Nouvelles, que des policiers anonymes ont signalé Fady Dagher au Commissaire à la déontologie policière. Ils reprochent au directeur du SPVM un manque d’impartialité dans le dossier du poste 39, qui a mené au congédiement de sept policiers. Vendredi, le ministre Guy Lapointe fils a dit attendre les enquêtes avant de se prononcer. Les reproches contre Dagher sont rapportés comme des allégations, et non comme des conclusions établies par ces enquêtes.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm",
+    "why_en": "Lapointe says Montreal’s mayor maintains confidence in the director and stresses the importance of public confidence.",
+    "why_fr": "Lapointe affirme que la mairesse de Montréal garde confiance dans le directeur; il insiste sur la confiance de la population."
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada": {
+    "author_type": "person",
+    "authors": [
+      "Arly Bosom"
+    ],
+    "contributors": [
+      "Jérôme Labbé"
+    ],
+    "date": "2026-11-08",
+    "outlet": "Radio-Canada",
+    "summary_en": "A study by the Institut de recherche sur le Québec proposes gradual ‘demonarchization’ rather than immediate abolition of monarchical institutions, Radio-Canada reports. It distinguishes measures Quebec could take alone from agreements requiring Ottawa. One proposal would give Quebec a role in recommending its lieutenant-governor. These remain proposals: the article discusses possible challenges and disagreement over the constitutional protection of the office. The author distinguishes the constitutional office itself from some of the royal representative’s powers.",
+    "summary_fr": "Une étude de l’Institut de recherche sur le Québec propose une « démonarchisation » graduelle plutôt que l’abolition immédiate des institutions monarchiques, rapporte Radio-Canada. Elle distingue des mesures que Québec pourrait prendre seul d’ententes qui nécessiteraient Ottawa. Parmi les pistes figure une recommandation québécoise pour le choix du lieutenant-gouverneur. Ces avenues restent des propositions : l’article souligne les contestations possibles et le débat sur la protection constitutionnelle de la charge. L’auteur distingue la charge constitutionnelle du représentant royal de certaines de ses attributions.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada",
+    "why_en": "The study’s author warns that reallocating the lieutenant-governor’s budget could also face a challenge over its effects on the office’s functioning.",
+    "why_fr": "L’auteur prévient qu’une réaffectation du budget du lieutenant-gouverneur pourrait aussi être contestée selon ses effets sur l’exercice de la charge."
+  },
+  "https://www.cbc.ca/news/canada/montreal/quebec-flu-shots-9.7412417": {
+    "author_type": "person",
+    "authors": [
+      "Hayley Carolan"
+    ],
+    "contributors": [
+      "The Canadian Press"
+    ],
+    "date": "2026-11-08",
+    "outlet": "CBC News",
+    "summary_en": "CBC reports that Quebec now limits free flu vaccination to eligible groups rather than offering it universally. Infectious disease physician Don Vinh worries about financial barriers for people who must pay. The ministry says the programme primarily aims to prevent serious complications, hospitalization and death. Another specialist defends targeting those most vulnerable. The article therefore presents a debate over access and resource allocation, without establishing that the funding policy explains the reported rise in flu cases.",
+    "summary_fr": "Selon CBC, le Québec réserve désormais la gratuité des vaccins antigrippaux à des groupes admissibles plutôt qu’à toute la population. Don Vinh, infectiologue, craint des obstacles financiers pour les personnes qui doivent payer. Le ministère répond que le programme vise surtout les complications graves, les hospitalisations et les décès. Un autre spécialiste défend le ciblage des personnes les plus vulnérables. L’article expose donc un débat sur l’accès et l’allocation des ressources, sans établir que cette politique explique la hausse des cas.",
+    "url": "https://www.cbc.ca/news/canada/montreal/quebec-flu-shots-9.7412417",
+    "why_en": "The public health institute tells CBC that fewer than half of young adults with chronic conditions are vaccinated.",
+    "why_fr": "L’institut de santé publique indique à CBC que moins de la moitié des jeunes adultes atteints de maladies chroniques sont vaccinés."
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres": {
+    "author_type": "unavailable",
+    "authors": [],
+    "contributors": [
+      "Alexandra Fortin"
+    ],
+    "date": "2026-11-08",
+    "outlet": "Radio-Canada",
+    "summary_en": "The MUHC asked people on Saturday to avoid Montreal General and Royal Victoria emergency departments for non-urgent needs. Radio-Canada reports stretcher occupancy of 203% and 224% respectively that morning, not a live measurement for Sunday. Authorities directed non-urgent needs toward 811 or pharmacists. Despite an early flu season, the MUHC had not identified a precise explanation for the particularly heavy emergency traffic at these two hospitals, according to the report describing the situation on Saturday.",
+    "summary_fr": "Le CUSM a demandé samedi d’éviter les urgences de l’Hôpital général de Montréal et de l’Hôpital Royal Victoria pour les besoins non urgents. Radio-Canada rapporte des taux d’occupation des civières de 203 % et 224 % respectivement ce matin-là, pas une mesure actualisée dimanche. Les autorités orientent les besoins non urgents vers le 811 ou les pharmaciens. Malgré une saison grippale précoce, le CUSM n’avait pas identifié de cause précise expliquant l’achalandage particulièrement élevé de ces deux établissements.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres",
+    "why_en": "An emergency physician quoted in the report points to patients occupying hospital beds while awaiting transfer to other care.",
+    "why_fr": "Un urgentologue cité explique que des patients occupent des lits en attendant un transfert vers d’autres types de soins."
+  },
+  "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec": {
+    "author_type": "person",
+    "authors": [
+      "Flavie Villeneuve"
+    ],
+    "contributors": [],
+    "date": "2026-11-08",
+    "outlet": "Radio-Canada",
+    "summary_en": "Insurers linked to Beneva, Industrielle Alliance, Desjardins and Promutuel now share risk through a heritage-home insurance product, Radio-Canada reports. Quebec City, the Culture Ministry and the Insurance Bureau of Canada participated in discussions. A trial has been available since June in three cities in the Quebec City area. The spokesperson promises more affordable coverage, but the Maisons anciennes du Québec association says this last-resort insurance does not resolve the underlying problem of reconstruction costs for owners of heritage homes.",
+    "summary_fr": "Des assureurs liés à Beneva, Industrielle Alliance, Desjardins et Promutuel partagent désormais le risque d’un produit pour maisons patrimoniales, rapporte Radio-Canada. La Ville de Québec, le ministère de la Culture et le Bureau d’assurance du Canada ont participé aux discussions. Un essai est ouvert depuis juin dans trois villes de la région de Québec. Le porte-parole promet des coûts plus abordables, mais Maisons anciennes du Québec juge que cette assurance de dernier recours ne règle pas le problème des coûts de reconstruction.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec",
+    "why_en": "The programme targets residential buildings; commercial uses are not accepted at present.",
+    "why_fr": "Le programme vise les bâtiments résidentiels; les usages commerciaux ne sont pas acceptés pour le moment."
   }
 }

@@ -53,7 +53,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-04": ["crown-corporations", "procurement"],
         "2026-11-05": ["crown-corporations", "it-digital"],
         "2026-11-06": ["it-digital", "crown-corporations", "procurement"],
-        "2026-11-07": ["crown-corporations", "procurement"]}
+        "2026-11-07": ["crown-corporations", "procurement"],
+        "2026-11-08": []}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -92,6 +93,8 @@ SUMMARY = {
                 "Marceau says the federal budget “does not meet expectations”; Équiterre calls for a moratorium on data centres; first Carney–PSPP meeting in Cambodia; a lawsuit over the Olympic Stadium observatory windows; the deposit will cover milk cartons on March 1."),
  "2026-11-07": ("Hydro-Québec vise le terrain de Northvolt; Québec refuse de nouveaux fonds à Nemaska; la formation en éthique reste facultative.",
                 "Hydro-Québec targets Northvolt’s land; Quebec refuses more Nemaska funding; ethics training remains optional."),
+ "2026-11-08": ("Vaccins antigrippaux gratuits réservés aux groupes admissibles; le CUSM demande d’éviter deux urgences; la ministre Gentilcore réagit aux accusations visant une ex-employée de l’Immigration; plaintes visant Fady Dagher; une étude propose une « démonarchisation » graduelle; assurance des maisons patrimoniales.",
+                "Free flu shots limited to eligible groups; the MUHC asks people to avoid two emergency departments; Minister Gentilcore reacts to charges against a former Immigration employee; complaints target Fady Dagher; a study proposes gradual ‘demonarchization’; heritage-home insurance."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-07T15:29:58Z",
+ "generated": "2026-11-08T15:53:37Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 179,
+ "story_count": 185,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -1905,6 +1905,73 @@
      ]
     }
    ]
+  },
+  "2026-11-08": {
+   "post": "/2026/11/08/digest/",
+   "stories": [
+    {
+     "headline": "As flu cases rise, Quebec only province without free flu shots for all",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-flu-shots-9.7412417",
+     "entities": [
+      "msss",
+      "naci"
+     ]
+    },
+    {
+     "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres",
+     "entities": [
+      "cusm",
+      "hopital-general-montreal",
+      "hopital-royal-victoria"
+     ]
+    },
+    {
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore",
+     "entities": [
+      "catherine-gentilcore",
+      "clcc",
+      "mii",
+      "upac"
+     ]
+    },
+    {
+     "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada",
+     "entities": [
+      "irq",
+      "manon-jeannotte",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec",
+     "entities": [
+      "beneva",
+      "bureau-assurance-canada",
+      "desjardins",
+      "industrielle-alliance",
+      "maisons-anciennes-quebec",
+      "melissa-coulombe-leduc",
+      "ministere-culture",
+      "promutuel",
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm",
+     "entities": [
+      "commissaire-deontologie-policiere",
+      "fady-dagher",
+      "guy-lapointe-fils",
+      "soraya-martinez-ferrada",
+      "spvm"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -1916,7 +1983,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 47,
+   "mentions": 48,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2152,6 +2219,11 @@
      "date": "2026-11-07",
      "headline": "PSPP confirme une «excellente rencontre» avec son homologue ontarien Doug Ford",
      "url": "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
     }
    ]
   },
@@ -2718,6 +2790,126 @@
    ]
   },
   {
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ],
+   "mentions": 10,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 10,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
    "id": "conseil-tresor",
    "name": "Conseil du trésor",
    "type": "organization",
@@ -2774,116 +2966,6 @@
    ]
   },
   {
-   "id": "spvm",
-   "name": "Service de police de la Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "SPVM"
-   ],
-   "mentions": 9,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
-     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    }
-   ]
-  },
-  {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
-   "type": "person",
-   "aliases": [],
-   "mentions": 9,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    }
-   ]
-  },
-  {
    "id": "marie-karlynn-laflamme",
    "name": "Marie-Karlynn Laflamme",
    "type": "person",
@@ -2931,6 +3013,149 @@
      "date": "2026-10-31",
      "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
      "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
+    }
+   ]
+  },
+  {
+   "id": "ville-quebec",
+   "name": "Ville de Québec",
+   "type": "organization",
+   "aliases": [
+    "Quebec City"
+   ],
+   "mentions": 8,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "id": "fady-dagher",
+   "name": "Fady Dagher",
+   "type": "person",
+   "aliases": [
+    "Dagher"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "id": "manon-jeannotte",
+   "name": "Manon Jeannotte",
+   "type": "person",
+   "aliases": [
+    "Manon Jeanotte"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
     }
    ]
   },
@@ -3075,52 +3300,6 @@
    ]
   },
   {
-   "id": "ville-quebec",
-   "name": "Ville de Québec",
-   "type": "organization",
-   "aliases": [
-    "Quebec City"
-   ],
-   "mentions": 7,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
-     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
-    }
-   ]
-  },
-  {
    "id": "assemblee-nationale",
    "name": "Assemblée nationale du Québec",
    "type": "organization",
@@ -3205,47 +3384,6 @@
    ]
   },
   {
-   "id": "fady-dagher",
-   "name": "Fady Dagher",
-   "type": "person",
-   "aliases": [
-    "Dagher"
-   ],
-   "mentions": 6,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    }
-   ]
-  },
-  {
    "id": "lion",
    "name": "Lion Électrique",
    "type": "organization",
@@ -3284,47 +3422,6 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
-   "id": "manon-jeannotte",
-   "name": "Manon Jeannotte",
-   "type": "person",
-   "aliases": [
-    "Manon Jeanotte"
-   ],
-   "mentions": 6,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
     }
    ]
   },
@@ -3682,6 +3779,38 @@
    ]
   },
   {
+   "id": "guy-lapointe-fils",
+   "name": "Guy Lapointe fils",
+   "type": "person",
+   "aliases": [
+    "Guy Jr. Lapointe",
+    "Lapointe"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
    "id": "investissement-quebec",
    "name": "Investissement Québec",
    "type": "organization",
@@ -3740,6 +3869,39 @@
      "date": "2026-11-03",
      "headline": "Sébastien D’Astous explique comment il compte «dégraisser» l’État",
      "url": "https://www.noovo.info/nouvelles/politique/article/sebastien-dastous-explique-comment-il-compte-degraisser-letat/"
+    }
+   ]
+  },
+  {
+   "id": "msss",
+   "name": "Ministère de la Santé et des Services sociaux",
+   "type": "organization",
+   "aliases": [
+    "ministère de la Santé",
+    "MSSS",
+    "Quebec's Health Ministry"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "La fin d’une prime versée depuis la pandémie inquiète les propriétaires de RPA",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297604/residences-privees-aines-primes-salariales-gouvernement"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "As flu cases rise, Quebec only province without free flu shots for all",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-flu-shots-9.7412417"
     }
    ]
   },
@@ -3957,6 +4119,32 @@
    ]
   },
   {
+   "id": "catherine-gentilcore",
+   "name": "Catherine Gentilcore",
+   "type": "person",
+   "aliases": [
+    "Gentilcore"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    }
+   ]
+  },
+  {
    "id": "charles-milliard",
    "name": "Charles Milliard",
    "type": "person",
@@ -4001,6 +4189,32 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
+    }
+   ]
+  },
+  {
+   "id": "clcc",
+   "name": "Commissaire à la lutte contre la corruption",
+   "type": "organization",
+   "aliases": [
+    "CLCC"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
+     "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
     }
    ]
   },
@@ -4052,33 +4266,6 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    }
-   ]
-  },
-  {
-   "id": "guy-lapointe-fils",
-   "name": "Guy Lapointe fils",
-   "type": "person",
-   "aliases": [
-    "Guy Jr. Lapointe",
-    "Lapointe"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Établissement de détention de Montréal – Une livraison par drone mène à un soulèvement",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-27/etablissement-de-detention-de-montreal/une-livraison-par-drone-mene-a-un-soulevement.php"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -4215,33 +4402,6 @@
    ]
   },
   {
-   "id": "msss",
-   "name": "Ministère de la Santé et des Services sociaux",
-   "type": "organization",
-   "aliases": [
-    "ministère de la Santé",
-    "MSSS"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "La fin d’une prime versée depuis la pandémie inquiète les propriétaires de RPA",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297604/residences-privees-aines-primes-salariales-gouvernement"
-    }
-   ]
-  },
-  {
    "id": "mpo",
    "name": "Pêches et Océans Canada",
    "type": "organization",
@@ -4340,6 +4500,32 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "id": "upac",
+   "name": "Unité permanente anticorruption",
+   "type": "organization",
+   "aliases": [
+    "UPAC"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
+     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
     }
    ]
   },
@@ -4554,27 +4740,6 @@
    ]
   },
   {
-   "id": "catherine-gentilcore",
-   "name": "Catherine Gentilcore",
-   "type": "person",
-   "aliases": [
-    "Gentilcore"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    }
-   ]
-  },
-  {
    "id": "christian-dube",
    "name": "Christian Dubé",
    "type": "person",
@@ -4638,23 +4803,23 @@
    ]
   },
   {
-   "id": "clcc",
-   "name": "Commissaire à la lutte contre la corruption",
+   "id": "commissaire-deontologie-policiere",
+   "name": "Commissaire à la déontologie policière",
    "type": "organization",
    "aliases": [
-    "CLCC"
+    "police ethics commissioner"
    ],
    "mentions": 2,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "L'ancien maire suppléant de Chandler Bruno-Pierre Godbout reconnu coupable de fraude envers la municipalité",
-     "url": "https://www.newswire.ca/fr/news-releases/l-ancien-maire-suppleant-de-chandler-bruno-pierre-godbout-reconnu-coupable-de-fraude-envers-la-municipalite-847915018.html"
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     },
     {
-     "date": "2026-11-05",
-     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
     }
    ]
   },
@@ -4966,6 +5131,28 @@
    ]
   },
   {
+   "id": "ministere-culture",
+   "name": "Ministère de la Culture, du Patrimoine, des Communications et de la Langue française",
+   "type": "organization",
+   "aliases": [
+    "ministère de la Culture, du Patrimoine, des Communications et de la Langue française",
+    "ministère de la Culture"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "id": "msi",
    "name": "Ministère de la Sécurité intérieure",
    "type": "organization",
@@ -4981,6 +5168,29 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "id": "mii",
+   "name": "Ministère de l’Immigration et de l’Intégration",
+   "type": "organization",
+   "aliases": [
+    "MII",
+    "MIFI",
+    "ministère de l’Immigration"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
     }
    ]
   },
@@ -5289,27 +5499,6 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
-    }
-   ]
-  },
-  {
-   "id": "upac",
-   "name": "Unité permanente anticorruption",
-   "type": "organization",
-   "aliases": [
-    "UPAC"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
-     "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
     }
    ]
   },
@@ -5818,6 +6007,20 @@
    ]
   },
   {
+   "id": "beneva",
+   "name": "Beneva",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "id": "benoit-morin",
    "name": "Benoit Morin",
    "type": "person",
@@ -5886,6 +6089,22 @@
      "date": "2026-10-26",
      "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
      "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    }
+   ]
+  },
+  {
+   "id": "bureau-assurance-canada",
+   "name": "Bureau d’assurance du Canada",
+   "type": "organization",
+   "aliases": [
+    "Insurance Bureau of Canada"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
     }
    ]
   },
@@ -6007,6 +6226,24 @@
    ]
   },
   {
+   "id": "cusm",
+   "name": "Centre universitaire de santé McGill",
+   "type": "organization",
+   "aliases": [
+    "CUSM",
+    "McGill University Health Centre",
+    "MUHC"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres"
+    }
+   ]
+  },
+  {
    "id": "batshaw",
    "name": "Centres de la jeunesse et de la famille Batshaw",
    "type": "organization",
@@ -6095,22 +6332,6 @@
      "date": "2026-11-06",
      "headline": "Équiterre exige un moratoire sur les centres de données",
      "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
-    }
-   ]
-  },
-  {
-   "id": "commissaire-deontologie-policiere",
-   "name": "Commissaire à la déontologie policière",
-   "type": "organization",
-   "aliases": [
-    "police ethics commissioner"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
     }
    ]
   },
@@ -6372,6 +6593,22 @@
      "date": "2026-10-22",
      "headline": "Placements sans prospectus – Le TMF impose des mesures à Kokou Nouwozan Langueh et à Magasin Bryan inc.",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/placements-sans-prospectus-le-tmf-impose-des-mesures-a-kokou-nouwozan-langueh-et-a-magasin-bryan-inc"
+    }
+   ]
+  },
+  {
+   "id": "desjardins",
+   "name": "Desjardins",
+   "type": "organization",
+   "aliases": [
+    "Mouvement Desjardins"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
     }
    ]
   },
@@ -7021,6 +7258,38 @@
    ]
   },
   {
+   "id": "hopital-royal-victoria",
+   "name": "Hôpital Royal Victoria",
+   "type": "organization",
+   "aliases": [
+    "Royal Victoria Hospital"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres"
+    }
+   ]
+  },
+  {
+   "id": "hopital-general-montreal",
+   "name": "Hôpital général de Montréal",
+   "type": "organization",
+   "aliases": [
+    "Montreal General Hospital"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres"
+    }
+   ]
+  },
+  {
    "id": "ibm",
    "name": "IBM",
    "type": "organization",
@@ -7082,6 +7351,22 @@
    ]
   },
   {
+   "id": "industrielle-alliance",
+   "name": "Industrielle Alliance",
+   "type": "organization",
+   "aliases": [
+    "iA Groupe financier"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "id": "innergex",
    "name": "Innergex",
    "type": "organization",
@@ -7125,6 +7410,22 @@
      "date": "2026-10-28",
      "headline": "L'argent public ne devrait pas financer le militantisme politique",
      "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
+    }
+   ]
+  },
+  {
+   "id": "irq",
+   "name": "Institut de recherche sur le Québec",
+   "type": "organization",
+   "aliases": [
+    "IRQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
     }
    ]
   },
@@ -7699,6 +8000,20 @@
    ]
   },
   {
+   "id": "maisons-anciennes-quebec",
+   "name": "Maisons anciennes du Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "id": "marc-fortin",
    "name": "Marc Fortin",
    "type": "person",
@@ -7951,22 +8266,6 @@
    ]
   },
   {
-   "id": "ministere-culture",
-   "name": "Ministère de la Culture, du Patrimoine, des Communications et de la Langue française",
-   "type": "organization",
-   "aliases": [
-    "ministère de la Culture, du Patrimoine, des Communications et de la Langue française"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
-    }
-   ]
-  },
-  {
    "id": "mess",
    "name": "Ministère de l’Emploi et de la Solidarité sociale",
    "type": "organization",
@@ -7997,24 +8296,6 @@
      "date": "2026-11-02",
      "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
      "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
-    }
-   ]
-  },
-  {
-   "id": "mii",
-   "name": "Ministère de l’Immigration et de l’Intégration",
-   "type": "organization",
-   "aliases": [
-    "MII",
-    "MIFI",
-    "ministère de l’Immigration"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
     }
    ]
   },
@@ -8150,6 +8431,20 @@
    ]
   },
   {
+   "id": "melissa-coulombe-leduc",
+   "name": "Mélissa Coulombe-Leduc",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "id": "natalie-bisaillon",
    "name": "Natalie Bisaillon",
    "type": "person",
@@ -8174,6 +8469,23 @@
      "date": "2026-10-25",
      "headline": "Une aînée est morte en CHSLD d’une infection urinaire ignorée pendant cinq jours",
      "url": "https://www.tvanouvelles.ca/2026/10/26/une-ainee-meurt-en-chsld-dune-infection-urinaire-ignoree-pendant-cinq-jours"
+    }
+   ]
+  },
+  {
+   "id": "naci",
+   "name": "National Advisory Committee on Immunization",
+   "type": "organization",
+   "aliases": [
+    "NACI",
+    "Comité consultatif national de l’immunisation"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "As flu cases rise, Quebec only province without free flu shots for all",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-flu-shots-9.7412417"
     }
    ]
   },
@@ -8495,6 +8807,22 @@
      "date": "2026-11-06",
      "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
      "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "id": "promutuel",
+   "name": "Promutuel Assurance",
+   "type": "organization",
+   "aliases": [
+    "Promutuel"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
     }
    ]
   },
@@ -9827,6 +10155,90 @@
    ]
   },
   {
+   "source": "fady-dagher",
+   "target": "spvm",
+   "weight": 7,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "source": "manon-jeannotte",
+   "target": "pspp",
+   "weight": 7,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
+    }
+   ]
+  },
+  {
    "source": "caq",
    "target": "pspp",
    "weight": 6,
@@ -9864,80 +10276,6 @@
    ]
   },
   {
-   "source": "fady-dagher",
-   "target": "spvm",
-   "weight": 6,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    }
-   ]
-  },
-  {
-   "source": "manon-jeannotte",
-   "target": "pspp",
-   "weight": 6,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "« Beaucoup plus que du rubber stamping », se défend la lieutenante-gouverneure",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296958/lieutenante-gouverneure-manon-jeannotte-monarchie-reconciliation"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "La rentrée parlementaire à Québec repoussée au 1er décembre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre"
-    }
-   ]
-  },
-  {
    "source": "marie-karlynn-laflamme",
    "target": "sante-quebec",
    "weight": 6,
@@ -9971,6 +10309,43 @@
      "date": "2026-10-30",
      "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
      "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "spvm",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
     }
    ]
   },
@@ -10231,38 +10606,6 @@
    ]
   },
   {
-   "source": "soraya-martinez-ferrada",
-   "target": "spvm",
-   "weight": 5,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
    "source": "alain-therrien",
    "target": "nicolas-marceau",
    "weight": 4,
@@ -10475,6 +10818,33 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
+   "target": "soraya-martinez-ferrada",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
     }
    ]
   },
@@ -10874,28 +11244,6 @@
   },
   {
    "source": "fady-dagher",
-   "target": "soraya-martinez-ferrada",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    }
-   ]
-  },
-  {
-   "source": "fady-dagher",
    "target": "ville-montreal",
    "weight": 3,
    "stories": [
@@ -10913,6 +11261,50 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "soraya-martinez-ferrada",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "source": "guy-lapointe-fils",
+   "target": "spvm",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
     }
    ]
   },
@@ -11866,6 +12258,91 @@
    ]
   },
   {
+   "source": "clcc",
+   "target": "mii",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    }
+   ]
+  },
+  {
+   "source": "clcc",
+   "target": "upac",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    }
+   ]
+  },
+  {
+   "source": "commissaire-deontologie-policiere",
+   "target": "guy-lapointe-fils",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "source": "commissaire-deontologie-policiere",
+   "target": "soraya-martinez-ferrada",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "source": "commissaire-deontologie-policiere",
+   "target": "spvm",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
    "source": "conseil-tresor",
    "target": "etienne-grandmont",
    "weight": 2,
@@ -12241,6 +12718,23 @@
   },
   {
    "source": "fady-dagher",
+   "target": "guy-lapointe-fils",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
    "target": "yves-francoeur",
    "weight": 2,
    "stories": [
@@ -12321,40 +12815,6 @@
      "date": "2026-11-04",
      "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    }
-   ]
-  },
-  {
-   "source": "guy-lapointe-fils",
-   "target": "soraya-martinez-ferrada",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    }
-   ]
-  },
-  {
-   "source": "guy-lapointe-fils",
-   "target": "spvm",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -12593,6 +13053,23 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "mii",
+   "target": "upac",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
     }
    ]
   },
@@ -15447,6 +15924,102 @@
    ]
   },
   {
+   "source": "beneva",
+   "target": "bureau-assurance-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "beneva",
+   "target": "desjardins",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "beneva",
+   "target": "industrielle-alliance",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "beneva",
+   "target": "maisons-anciennes-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "beneva",
+   "target": "melissa-coulombe-leduc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "beneva",
+   "target": "ministere-culture",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "beneva",
+   "target": "promutuel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "beneva",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "source": "benoit-raillard",
    "target": "fnz",
    "weight": 1,
@@ -15767,6 +16340,90 @@
      "date": "2026-10-30",
      "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
      "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
+   "source": "bureau-assurance-canada",
+   "target": "desjardins",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bureau-assurance-canada",
+   "target": "industrielle-alliance",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bureau-assurance-canada",
+   "target": "maisons-anciennes-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bureau-assurance-canada",
+   "target": "melissa-coulombe-leduc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bureau-assurance-canada",
+   "target": "ministere-culture",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bureau-assurance-canada",
+   "target": "promutuel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "bureau-assurance-canada",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
     }
    ]
   },
@@ -16444,6 +17101,18 @@
   },
   {
    "source": "catherine-gentilcore",
+   "target": "clcc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
    "target": "conseil-tresor",
    "weight": 1,
    "stories": [
@@ -16499,6 +17168,18 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
+   "target": "mii",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
     }
    ]
   },
@@ -16607,6 +17288,18 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "catherine-gentilcore",
+   "target": "upac",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
     }
    ]
   },
@@ -17356,30 +18049,6 @@
   },
   {
    "source": "clcc",
-   "target": "mii",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
-    }
-   ]
-  },
-  {
-   "source": "clcc",
-   "target": "upac",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
-    }
-   ]
-  },
-  {
-   "source": "clcc",
    "target": "ville-chandler",
    "weight": 1,
    "stories": [
@@ -17524,37 +18193,13 @@
   },
   {
    "source": "commissaire-deontologie-policiere",
-   "target": "guy-lapointe-fils",
+   "target": "fady-dagher",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    }
-   ]
-  },
-  {
-   "source": "commissaire-deontologie-policiere",
-   "target": "soraya-martinez-ferrada",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    }
-   ]
-  },
-  {
-   "source": "commissaire-deontologie-policiere",
-   "target": "spvm",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
     }
    ]
   },
@@ -18579,6 +19224,30 @@
    ]
   },
   {
+   "source": "cusm",
+   "target": "hopital-general-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres"
+    }
+   ]
+  },
+  {
+   "source": "cusm",
+   "target": "hopital-royal-victoria",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres"
+    }
+   ]
+  },
+  {
    "source": "cyber-citoyen",
    "target": "fady-dagher",
    "weight": 1,
@@ -19007,6 +19676,78 @@
      "date": "2026-10-22",
      "headline": "Placements sans prospectus – Le TMF impose des mesures à Kokou Nouwozan Langueh et à Magasin Bryan inc.",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/placements-sans-prospectus-le-tmf-impose-des-mesures-a-kokou-nouwozan-langueh-et-a-magasin-bryan-inc"
+    }
+   ]
+  },
+  {
+   "source": "desjardins",
+   "target": "industrielle-alliance",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "desjardins",
+   "target": "maisons-anciennes-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "desjardins",
+   "target": "melissa-coulombe-leduc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "desjardins",
+   "target": "ministere-culture",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "desjardins",
+   "target": "promutuel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "desjardins",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
     }
    ]
   },
@@ -20243,18 +20984,6 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    }
-   ]
-  },
-  {
-   "source": "fady-dagher",
-   "target": "guy-lapointe-fils",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
     }
    ]
   },
@@ -21663,6 +22392,18 @@
    ]
   },
   {
+   "source": "hopital-general-montreal",
+   "target": "hopital-royal-victoria",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres"
+    }
+   ]
+  },
+  {
    "source": "hopital-pierre-le-gardeur",
    "target": "sante-quebec",
    "weight": 1,
@@ -22251,6 +22992,66 @@
    ]
   },
   {
+   "source": "industrielle-alliance",
+   "target": "maisons-anciennes-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "industrielle-alliance",
+   "target": "melissa-coulombe-leduc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "industrielle-alliance",
+   "target": "ministere-culture",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "industrielle-alliance",
+   "target": "promutuel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "industrielle-alliance",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "source": "innergex",
    "target": "mrc-coaticook",
    "weight": 1,
@@ -22439,6 +23240,30 @@
      "date": "2026-11-04",
      "headline": "RPA : des services aux aînés menacés par des retards en immigration",
      "url": "https://ici.radio-canada.ca/nouvelle/2297892/residence-aines-travail-etrangers-delais-immigration-ottawa"
+    }
+   ]
+  },
+  {
+   "source": "irq",
+   "target": "manon-jeannotte",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
+    }
+   ]
+  },
+  {
+   "source": "irq",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
     }
    ]
   },
@@ -23727,6 +24552,54 @@
    ]
   },
   {
+   "source": "maisons-anciennes-quebec",
+   "target": "melissa-coulombe-leduc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "maisons-anciennes-quebec",
+   "target": "ministere-culture",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "maisons-anciennes-quebec",
+   "target": "promutuel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "maisons-anciennes-quebec",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "source": "manon-jeannotte",
    "target": "mark-carney",
    "weight": 1,
@@ -24531,6 +25404,42 @@
    ]
   },
   {
+   "source": "melissa-coulombe-leduc",
+   "target": "ministere-culture",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "melissa-coulombe-leduc",
+   "target": "promutuel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "melissa-coulombe-leduc",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
    "source": "michael-pilote",
    "target": "ville-baie-saint-paul",
    "weight": 1,
@@ -24603,18 +25512,6 @@
    ]
   },
   {
-   "source": "mii",
-   "target": "upac",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Immigration | Une ex-fonctionnaire accusée d’avoir livré plus d’une centaine de faux certificats de sélection",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-04/immigration/une-ex-fonctionnaire-accusee-d-avoir-livre-plus-d-une-centaine-de-faux-certificats-de-selection.php"
-    }
-   ]
-  },
-  {
    "source": "ministere-culture",
    "target": "musee-civilisation",
    "weight": 1,
@@ -24628,6 +25525,18 @@
   },
   {
    "source": "ministere-culture",
+   "target": "promutuel",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    }
+   ]
+  },
+  {
+   "source": "ministere-culture",
    "target": "stephan-la-roche",
    "weight": 1,
    "stories": [
@@ -24635,6 +25544,18 @@
      "date": "2026-10-31",
      "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
      "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
+    }
+   ]
+  },
+  {
+   "source": "ministere-culture",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
     }
    ]
   },
@@ -24731,6 +25652,18 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "source": "msss",
+   "target": "naci",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "As flu cases rise, Quebec only province without free flu shots for all",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-flu-shots-9.7412417"
     }
    ]
   },
@@ -25727,6 +26660,18 @@
      "date": "2026-10-26",
      "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
      "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    }
+   ]
+  },
+  {
+   "source": "promutuel",
+   "target": "ville-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
     }
    ]
   },

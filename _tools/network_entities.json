@@ -453,7 +453,8 @@
    "type": "organization",
    "aliases": [
     "ministère de la Santé",
-    "MSSS"
+    "MSSS",
+    "Quebec's Health Ministry"
    ]
   },
   "cour-superieure": {
@@ -1672,7 +1673,8 @@
    "name": "Ministère de la Culture, du Patrimoine, des Communications et de la Langue française",
    "type": "organization",
    "aliases": [
-    "ministère de la Culture, du Patrimoine, des Communications et de la Langue française"
+    "ministère de la Culture, du Patrimoine, des Communications et de la Langue française",
+    "ministère de la Culture"
    ]
   },
   "fiq-spsca": {
@@ -2395,6 +2397,87 @@
    "aliases": [
     "SPVL"
    ]
+  },
+  "cusm": {
+   "name": "Centre universitaire de santé McGill",
+   "type": "organization",
+   "aliases": [
+    "CUSM",
+    "McGill University Health Centre",
+    "MUHC"
+   ]
+  },
+  "hopital-general-montreal": {
+   "name": "Hôpital général de Montréal",
+   "type": "organization",
+   "aliases": [
+    "Montreal General Hospital"
+   ]
+  },
+  "hopital-royal-victoria": {
+   "name": "Hôpital Royal Victoria",
+   "type": "organization",
+   "aliases": [
+    "Royal Victoria Hospital"
+   ]
+  },
+  "naci": {
+   "name": "National Advisory Committee on Immunization",
+   "type": "organization",
+   "aliases": [
+    "NACI",
+    "Comité consultatif national de l’immunisation"
+   ]
+  },
+  "irq": {
+   "name": "Institut de recherche sur le Québec",
+   "type": "organization",
+   "aliases": [
+    "IRQ"
+   ]
+  },
+  "bureau-assurance-canada": {
+   "name": "Bureau d’assurance du Canada",
+   "type": "organization",
+   "aliases": [
+    "Insurance Bureau of Canada"
+   ]
+  },
+  "beneva": {
+   "name": "Beneva",
+   "type": "organization",
+   "aliases": []
+  },
+  "industrielle-alliance": {
+   "name": "Industrielle Alliance",
+   "type": "organization",
+   "aliases": [
+    "iA Groupe financier"
+   ]
+  },
+  "desjardins": {
+   "name": "Desjardins",
+   "type": "organization",
+   "aliases": [
+    "Mouvement Desjardins"
+   ]
+  },
+  "promutuel": {
+   "name": "Promutuel Assurance",
+   "type": "organization",
+   "aliases": [
+    "Promutuel"
+   ]
+  },
+  "maisons-anciennes-quebec": {
+   "name": "Maisons anciennes du Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "melissa-coulombe-leduc": {
+   "name": "Mélissa Coulombe-Leduc",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -4598,6 +4681,68 @@
    "match": "https://ici.radio-canada.ca/nouvelle/2298893/deux-policiers-levis-suspendus-spvl",
    "entities": [
     "spvl"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/quebec-flu-shots-9.7412417",
+   "entities": [
+    "msss",
+    "naci"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres",
+   "entities": [
+    "cusm",
+    "hopital-general-montreal",
+    "hopital-royal-victoria"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore",
+   "entities": [
+    "catherine-gentilcore",
+    "mii",
+    "upac",
+    "clcc"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada",
+   "entities": [
+    "irq",
+    "pspp",
+    "manon-jeannotte"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec",
+   "entities": [
+    "beneva",
+    "industrielle-alliance",
+    "desjardins",
+    "promutuel",
+    "bureau-assurance-canada",
+    "ville-quebec",
+    "ministere-culture",
+    "melissa-coulombe-leduc",
+    "maisons-anciennes-quebec"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm",
+   "entities": [
+    "fady-dagher",
+    "spvm",
+    "commissaire-deontologie-policiere",
+    "guy-lapointe-fils",
+    "soraya-martinez-ferrada"
    ],
    "dossiers": []
   }
