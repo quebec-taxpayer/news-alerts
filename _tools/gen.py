@@ -54,7 +54,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-05": ["crown-corporations", "it-digital"],
         "2026-11-06": ["it-digital", "crown-corporations", "procurement"],
         "2026-11-07": ["crown-corporations", "procurement"],
-        "2026-11-08": []}
+        "2026-11-08": [],
+        "2026-11-09": ["crown-corporations"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -95,6 +96,8 @@ SUMMARY = {
                 "Hydro-Québec targets Northvolt’s land; Quebec refuses more Nemaska funding; ethics training remains optional."),
  "2026-11-08": ("Vaccins antigrippaux gratuits réservés aux groupes admissibles; le CUSM demande d’éviter deux urgences; la ministre Gentilcore réagit aux accusations visant une ex-employée de l’Immigration; plaintes visant Fady Dagher; une étude propose une « démonarchisation » graduelle; assurance des maisons patrimoniales.",
                 "Free flu shots limited to eligible groups; the MUHC asks people to avoid two emergency departments; Minister Gentilcore reacts to charges against a former Immigration employee; complaints target Fady Dagher; a study proposes gradual ‘demonarchization’; heritage-home insurance."),
+ "2026-11-09": ("Québec met fin aux prêts pardonnables; les libéraux contestent en cour le résultat dans Vachon; Consignaction compte sur les contenants non retournés; retrait préventif d’un traversier à L’Isle-aux-Coudres; tunnel La Fontaine; liberté académique; incendies criminels à Ormstown; manifestation devant le PDQ 39; transport médical par hélicoptère; recommandations d’une coroner à Verdun.",
+                "Quebec ends forgivable loans; the Liberals contest the Vachon result in court; Consignaction relies on unreturned containers; a ferry withdrawn as a precaution at L’Isle-aux-Coudres; La Fontaine tunnel; academic freedom; arson fires in Ormstown; protest outside Station 39; medical helicopter transport; a coroner’s recommendations in Verdun."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

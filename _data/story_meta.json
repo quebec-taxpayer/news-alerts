@@ -913,6 +913,56 @@
    "importance": 3,
    "title_fr": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
    "title_en": "Quebec insurers return to the heritage-property insurance market"
+  },
+  "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "Quebec ends the open bar of forgivable loans"
+  },
+  "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Light at the end of the Louis-H.-La Fontaine tunnel? Four lanes soon open to traffic"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Vachon recount: the PLQ challenges the results in court"
+  },
+  "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Academic freedom – University professors don’t want a minister in their classrooms"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "The (not always) quiet long river of the L’Isle-aux-Coudres ferries"
+  },
+  "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles": {
+   "category": "other",
+   "importance": 4,
+   "title_en": "Deposit containers: Quebecers throw $100M a year in the garbage"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "Series of arson fires: the internal security minister dispatched to Ormstown"
+  },
+  "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant": {
+   "category": "justice",
+   "importance": 2,
+   "title_en": "Protest against the SPVM: the dismissals are “absolutely not enough,” says a participant"
+  },
+  "https://www.lapresse.ca/actualites/sante/2026-11-09/transport-public-medical-par-helicoptere/des-patients-dans-un-etat-critique-sauves-par-le-nouveau-service.php": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Public medical helicopter transport – Critically ill patients saved by the new service"
+  },
+  "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "A coroner recommends banning access to the dike along Verdun beach"
   }
  }
 }

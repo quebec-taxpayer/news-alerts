@@ -2478,6 +2478,65 @@
    "name": "Mélissa Coulombe-Leduc",
    "type": "person",
    "aliases": []
+  },
+  "pierre-fitzgibbon": {
+   "name": "Pierre Fitzgibbon",
+   "type": "person",
+   "aliases": []
+  },
+  "fqppu": {
+   "name": "Fédération québécoise des professeures et professeurs d’université",
+   "type": "organization",
+   "aliases": [
+    "FQPPU"
+   ]
+  },
+  "madeleine-pastinelli": {
+   "name": "Madeleine Pastinelli",
+   "type": "person",
+   "aliases": []
+  },
+  "noelle-ange-harvey": {
+   "name": "Noëlle-Ange Harvey",
+   "type": "person",
+   "aliases": []
+  },
+  "greta-bedard": {
+   "name": "Greta Bédard",
+   "type": "person",
+   "aliases": []
+  },
+  "philippe-besombes": {
+   "name": "Philippe Besombes",
+   "type": "person",
+   "aliases": []
+  },
+  "frederic-laplante": {
+   "name": "Frédéric Laplante",
+   "type": "person",
+   "aliases": []
+  },
+  "evaq": {
+   "name": "Programme d’évacuations aéromédicales du Québec",
+   "type": "organization",
+   "aliases": [
+    "ÉVAQ"
+   ]
+  },
+  "chu-de-quebec": {
+   "name": "CHU de Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "james-tu": {
+   "name": "James Tu",
+   "type": "person",
+   "aliases": []
+  },
+  "marie-eve-lavoie": {
+   "name": "Marie-Ève Lavoie",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -4060,7 +4119,9 @@
     "christyan-dufour"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "stq-isle-aux-coudres"
+   ]
   },
   {
    "match": "teletravail-reduit-pour-les-fonctionnaires",
@@ -4384,7 +4445,8 @@
    ],
    "checked_by_hand": true,
    "dossiers": [
-    "saq"
+    "saq",
+    "deposit-system"
    ]
   },
   {
@@ -4592,7 +4654,8 @@
     "ada-quebec"
    ],
    "dossiers": [
-    "saq"
+    "saq",
+    "deposit-system"
    ]
   },
   {
@@ -4743,6 +4806,117 @@
     "commissaire-deontologie-policiere",
     "guy-lapointe-fils",
     "soraya-martinez-ferrada"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables",
+   "entities": [
+    "stephane-paquet",
+    "pierre-fitzgibbon",
+    "investissement-quebec",
+    "nemaska-lithium",
+    "rio-tinto"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "nemaska-lithium"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation",
+   "entities": [
+    "mtmd"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-",
+   "entities": [
+    "affine-lwalalika",
+    "stephan-fogaing",
+    "marie-pierre-charland",
+    "plq",
+    "pq",
+    "cour-superieure"
+   ],
+   "dossiers": [
+    "recounts-2026"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php",
+   "entities": [
+    "elsie-lefebvre",
+    "pspp",
+    "fqppu",
+    "madeleine-pastinelli"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey",
+   "entities": [
+    "stq",
+    "noelle-ange-harvey",
+    "christyan-dufour",
+    "greta-bedard"
+   ],
+   "dossiers": [
+    "stq-isle-aux-coudres"
+   ]
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles",
+   "entities": [
+    "consignaction",
+    "karel-menard",
+    "front-commun-dechets",
+    "jean-pellerin"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "deposit-system"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe",
+   "entities": [
+    "guy-lapointe-fils",
+    "philippe-besombes",
+    "surete-quebec",
+    "frederic-laplante"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant",
+   "entities": [
+    "spvm",
+    "fady-dagher"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "spvm-pdq39"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/sante/2026-11-09/transport-public-medical-par-helicoptere/des-patients-dans-un-etat-critique-sauves-par-le-nouveau-service.php",
+   "entities": [
+    "evaq",
+    "chu-de-quebec",
+    "james-tu"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun",
+   "entities": [
+    "marie-eve-lavoie",
+    "ville-montreal"
    ],
    "dossiers": []
   }

@@ -201,5 +201,133 @@
     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec",
     "why_en": "The programme targets residential buildings; commercial uses are not accepted at present.",
     "why_fr": "Le programme vise les bâtiments résidentiels; les usages commerciaux ne sont pas acceptés pour le moment."
+  },
+  "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables": {
+    "author_type": "person",
+    "authors": [
+      "Nicolas Lachance"
+    ],
+    "contributors": [],
+    "date": "2026-11-09",
+    "outlet": "Le Journal de Montréal",
+    "summary_en": "Economy and Energy Minister Stéphane Paquet tells the Journal de Montréal that forgivable loans are over. The program was launched in 2019 by Pierre Fitzgibbon and run by Investissement Québec. No new applications will be accepted, including those under review, but signed contracts will be honoured. According to the Journal, 88 companies received more than $2 billion in loans, about $1.1 billion of which became grants. The minister promises fewer subsidies and lower taxes for all businesses.",
+    "summary_fr": "Le ministre de l’Économie et de l’Énergie, Stéphane Paquet, annonce au Journal de Montréal la fin des prêts pardonnables, un programme lancé en 2019 par Pierre Fitzgibbon et administré par Investissement Québec. Aucune nouvelle demande ne sera acceptée, même celles à l’étude, mais les contrats signés seront respectés. Selon le Journal, 88 entreprises ont reçu plus de 2 milliards $ en prêts, dont environ 1,1 milliard $ transformé en subventions. Le ministre promet moins de subventions et des baisses d’impôt pour l’ensemble des entreprises.",
+    "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+  },
+  "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation": {
+    "author_type": "person",
+    "authors": [
+      "Yannick Beaudoin"
+    ],
+    "contributors": [
+      "Andy St-André"
+    ],
+    "date": "2026-11-09",
+    "outlet": "TVA Nouvelles",
+    "summary_en": "Quebec’s Transport Ministry expects to reopen the north tube of the Louis-Hippolyte-La Fontaine bridge-tunnel around the end of fall, but cannot confirm the date, TVA Nouvelles reports. Two lanes would then run in each direction, compared with three lanes in total today. All lanes should reopen from summer 2027, and the end of the work, begun in 2020, is still planned for 2027. The project’s total bill now stands at nearly $2.8 billion, according to TVA Nouvelles.",
+    "summary_fr": "Le ministère des Transports prévoit rouvrir le tube nord du pont-tunnel Louis-Hippolyte-La Fontaine vers la fin de l’automne, sans pouvoir confirmer la date, rapporte TVA Nouvelles. Deux voies par direction seraient alors offertes, contre trois voies au total actuellement. Toutes les voies devraient rouvrir à compter de l’été 2027, et la fin du chantier commencé en 2020 reste prévue en 2027. La facture totale du projet atteint désormais près de 2,8 milliards $, selon TVA Nouvelles.",
+    "url": "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation",
+    "why_en": "One lane in each direction will stay closed for concrete work on the central median, which cannot begin before spring.",
+    "why_fr": "Une voie par direction restera fermée pour le bétonnage du terre-plein central, des travaux qui ne pourront commencer qu’au printemps."
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-": {
+    "author_type": "person",
+    "authors": [
+      "Marie-Josée Paquette-Comeau"
+    ],
+    "contributors": [],
+    "date": "2026-11-09",
+    "outlet": "Radio-Canada",
+    "summary_en": "Liberal Affine Lwalalika, who lost Vachon by three votes after the judicial recount, filed an election contest in Superior Court on Friday, Radio-Canada reports. She argues that Judge Marie-Pierre Charland applied the Election Act too rigidly by rejecting 31 ballots over pencil marks the Liberals call accidental; 22 of those votes had gone to her. She asks the court to count them, which would give her a 10-vote lead, or alternatively to annul the election.",
+    "summary_fr": "La libérale Affine Lwalalika, défaite par trois voix après le dépouillement judiciaire dans Vachon, a déposé vendredi une contestation d’élection à la Cour supérieure, rapporte Radio-Canada. Elle soutient que la juge Marie-Pierre Charland a appliqué la Loi électorale trop rigidement en rejetant 31 bulletins pour des marques de crayon que les libéraux jugent accidentelles; 22 de ces votes lui avaient été accordés. Elle demande qu’ils soient reconnus, ce qui lui donnerait 10 voix d’avance, ou subsidiairement l’annulation de l’élection.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+  },
+  "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php": {
+    "author_type": "person",
+    "authors": [
+      "Hugo Pilon-Larose",
+      "Mélanie Marquis"
+    ],
+    "contributors": [],
+    "date": "2026-11-09",
+    "outlet": "La Presse",
+    "summary_en": "Quebec’s federation of university professors (FQPPU) is worried about the mandate given to new Higher Education Minister Elsie Lefebvre, La Presse reports. Paul St-Pierre Plamondon asked her to ensure the scientific method takes precedence “over all other considerations or ideologies.” FQPPU president Madeleine Pastinelli sees a risk of political interference in content and calls for respect for university autonomy and more public funding. The Université de Montréal replies that this is already what it does.",
+    "summary_fr": "La Fédération québécoise des professeures et professeurs d’université s’inquiète du mandat confié à la nouvelle ministre de l’Enseignement supérieur, Elsie Lefebvre, rapporte La Presse. Paul St-Pierre Plamondon lui a demandé que la méthode scientifique ait préséance « sur toutes autres considérations ou idéologies ». La présidente de la FQPPU, Madeleine Pastinelli, y voit un risque d’intervention politique dans les contenus et réclame le respect de l’autonomie universitaire et plus de financement public. L’Université de Montréal répond que c’est déjà ce qu’elle fait.",
+    "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey": {
+    "author_type": "person",
+    "authors": [
+      "Marie-Christine Gagnon"
+    ],
+    "contributors": [
+      "Philippe L’Heureux"
+    ],
+    "date": "2026-11-09",
+    "outlet": "Radio-Canada",
+    "summary_en": "The Société des traversiers du Québec preventively withdrew the MV Joseph-Savard from the L’Isle-aux-Coudres crossing on Saturday evening, Radio-Canada reports. Another ferry had an electrical relay problem similar to the one the Joseph-Savard had earlier in the week; the STQ is looking for the cause of this intermittent problem and cannot set a return date. The MV Radisson is providing service, and acting mayor Noëlle-Ange Harvey is calling for at least one new vessel.",
+    "summary_fr": "La Société des traversiers du Québec a retiré samedi soir, par prévention, le NM Joseph-Savard de la traverse de L’Isle-aux-Coudres, rapporte Radio-Canada. Un autre traversier a connu un problème de relais électrique semblable à celui du Joseph-Savard plus tôt dans la semaine; la STQ cherche la cause de ce problème intermittent et ne peut fixer de date de retour. Le NM Radisson assure le service, et la mairesse suppléante, Noëlle-Ange Harvey, réclame au moins un navire neuf.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
+  },
+  "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles": {
+    "author_type": "person",
+    "authors": [
+      "Élizabeth Ménard",
+      "Dominique Cambron-Goulet"
+    ],
+    "contributors": [],
+    "date": "2026-11-09",
+    "outlet": "Le Journal de Montréal",
+    "summary_en": "According to internal budget forecasts obtained by the Journal de Montréal, Consignaction expects to collect about $100 million a year until 2034 from deposit containers that are never returned, and $130 million next year with the expansion to glass and multilayer cartons. Without that money, the beverage producers’ organization would not cover its costs. Sources believe producers would raise eco-fees if all containers were returned. Consignaction says it aims to control costs and limit the impact on prices.",
+    "summary_fr": "Selon des prévisions budgétaires internes obtenues par le Journal de Montréal, Consignaction prévoit encaisser environ 100 M$ par année jusqu’en 2034 grâce aux contenants consignés non retournés, et 130 M$ l’an prochain avec l’élargissement au verre et au carton multicouche. Sans cet argent, l’organisme des producteurs de boissons ne couvrirait pas ses coûts. Des sources croient que les producteurs hausseraient l’écofrais si tous les contenants étaient rapportés. Consignaction dit vouloir maîtriser ses coûts et limiter l’effet sur les prix.",
+    "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
+  },
+  "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe": {
+    "author_type": "unavailable",
+    "authors": [],
+    "contributors": [
+      "Charlotte Dumoulin"
+    ],
+    "date": "2026-11-09",
+    "outlet": "Radio-Canada",
+    "summary_en": "Ormstown mayor Philippe Besombes is asking Quebec and the Sûreté du Québec for help after a series of arson fires targeting restaurants on Lambton Street, including Pizzeria Ormstown, destroyed overnight from Saturday to Sunday, Radio-Canada reports. It is not known whether the fires are linked; the SQ is investigating and arrested a man last week. Internal Security Minister Guy Lapointe Jr. was to meet the mayor, the SQ and the local MNA on Monday.",
+    "summary_fr": "Le maire d’Ormstown, Philippe Besombes, demande l’aide de Québec et de la Sûreté du Québec après une série d’incendies criminels visant des restaurants de la rue Lambton, dont la Pizzeria Ormstown, détruite dans la nuit de samedi à dimanche, rapporte Radio-Canada. On ignore si les incendies sont liés; la SQ enquête et a arrêté un homme la semaine dernière. Le ministre de la Sécurité intérieure, Guy Lapointe fils, devait rencontrer lundi le maire, la SQ et le député local.",
+    "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
+  },
+  "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant": {
+    "author_type": "person",
+    "authors": [
+      "Olivier Faucher"
+    ],
+    "contributors": [],
+    "date": "2026-11-09",
+    "outlet": "TVA Nouvelles",
+    "summary_en": "About sixty people protested on Sunday outside neighbourhood station 39 in Montréal-Nord, calling the seven dismissals announced last week by SPVM chief Fady Dagher “insufficient,” TVA Nouvelles reports. Protesters cited allegations of racism against station 39 officers and the case of a station 21 officer. One participant called for cuts to the SPVM’s budget. Henri-Bourassa Boulevard East was closed to traffic in both directions during the afternoon march, according to the report.",
+    "summary_fr": "Une soixantaine de personnes ont manifesté dimanche devant le poste de quartier 39, à Montréal-Nord, pour dénoncer l’« insuffisance » des sept congédiements annoncés la semaine dernière par le chef du SPVM, Fady Dagher, rapporte TVA Nouvelles. Les manifestants ont évoqué des allégations de racisme visant des agents du PDQ 39 et le cas d’un agent du PDQ 21. Un participant réclame des compressions dans le budget du SPVM. Le boulevard Henri-Bourassa Est a été fermé pendant la marche.",
+    "url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant"
+  },
+  "https://www.lapresse.ca/actualites/sante/2026-11-09/transport-public-medical-par-helicoptere/des-patients-dans-un-etat-critique-sauves-par-le-nouveau-service.php": {
+    "author_type": "person",
+    "authors": [
+      "Katrine Desautels"
+    ],
+    "contributors": [],
+    "date": "2026-11-09",
+    "outlet": "La Presse",
+    "summary_en": "Quebec, the last province to set up public medical helicopter transport, had logged 114 missions as of Nov. 6 under its aeromedical evacuation program (ÉVAQ), The Canadian Press reports. Bases in Quebec City, open since mid-June, and Mirabel, in service since Oct. 19, serve critically ill patients located 75 to 250 km from major centres. According to Dr. James Tu, the service also lets regional hospitals keep their medical staff on site instead of sending them along on long ambulance transfers.",
+    "summary_fr": "Le Québec, dernière province à se doter d’un transport médical public par hélicoptère, compte 114 missions au 6 novembre avec le Programme d’évacuations aéromédicales du Québec (ÉVAQ), rapporte La Presse Canadienne. Les bases de Québec, ouverte à la mi-juin, et de Mirabel, en service depuis le 19 octobre, desservent des patients en état critique situés de 75 à 250 km des grands centres. Selon le Dr James Tu, le service permet aussi aux hôpitaux régionaux de garder leur personnel sur place.",
+    "url": "https://www.lapresse.ca/actualites/sante/2026-11-09/transport-public-medical-par-helicoptere/des-patients-dans-un-etat-critique-sauves-par-le-nouveau-service.php"
+  },
+  "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun": {
+    "author_type": "person",
+    "authors": [
+      "Jeanne Corriveau"
+    ],
+    "contributors": [],
+    "date": "2026-11-09",
+    "outlet": "Le Devoir",
+    "summary_en": "After an 18-year-old drowned in June near Verdun beach, coroner Marie-Ève Lavoie recommends that the City of Montreal block access to the rock dike and review the signage, Le Devoir reports. She points to strong currents beneath calm-looking water and four deaths in that area since 2023. She considers the measures already taken by the borough, such as awareness patrols and a new warning sign on the rocks, to be insufficient.",
+    "summary_fr": "À la suite de la noyade d’un jeune homme de 18 ans en juin près de la plage de Verdun, la coroner Marie-Ève Lavoie recommande à la Ville de Montréal d’empêcher l’accès à la digue de roches et de revoir la signalisation, rapporte Le Devoir. Elle souligne de forts courants sous une eau d’apparence calme et quatre décès dans ce secteur depuis 2023. Elle juge insuffisantes les mesures déjà prises par l’arrondissement, comme les tournées de sensibilisation.",
+    "url": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun"
   }
 }
