@@ -2537,6 +2537,72 @@
    "name": "Marie-Ève Lavoie",
    "type": "person",
    "aliases": []
+  },
+  "francois-legault": {
+   "name": "François Legault",
+   "type": "person",
+   "aliases": [
+    "Legault"
+   ]
+  },
+  "fqm": {
+   "name": "Fédération québécoise des municipalités",
+   "type": "organization",
+   "aliases": [
+    "FQM",
+    "Federation of Quebec Municipalities"
+   ]
+  },
+  "jennifer-maccarone": {
+   "name": "Jennifer Maccarone",
+   "type": "person",
+   "aliases": []
+  },
+  "cegerco": {
+   "name": "CEGERCO",
+   "type": "organization",
+   "aliases": []
+  },
+  "stephanie-martin": {
+   "name": "Stéphanie Martin",
+   "type": "person",
+   "aliases": []
+  },
+  "crues": {
+   "name": "Coalition de résistance pour l’unité étudiante syndicale",
+   "type": "organization",
+   "aliases": [
+    "CRUES"
+   ]
+  },
+  "ville-levis": {
+   "name": "Ville de Lévis",
+   "type": "organization",
+   "aliases": [
+    "City of Lévis"
+   ]
+  },
+  "steven-blaney": {
+   "name": "Steven Blaney",
+   "type": "person",
+   "aliases": []
+  },
+  "julie-kim-godin": {
+   "name": "Julie-Kim Godin",
+   "type": "person",
+   "aliases": []
+  },
+  "rem": {
+   "name": "Réseau express métropolitain",
+   "type": "organization",
+   "aliases": [
+    "REM"
+   ]
+  },
+  "pulsar": {
+   "name": "Pulsar",
+   "type": "organization",
+   "aliases": []
   }
  },
  "stories": [
@@ -4820,7 +4886,8 @@
    ],
    "checked_by_hand": true,
    "dossiers": [
-    "nemaska-lithium"
+    "nemaska-lithium",
+    "forgivable-loans"
    ]
   },
   {
@@ -4917,6 +4984,128 @@
    "entities": [
     "marie-eve-lavoie",
     "ville-montreal"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium",
+   "entities": [
+    "nemaska-lithium",
+    "rio-tinto",
+    "investissement-quebec",
+    "stephane-paquet"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "nemaska-lithium"
+   ]
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675",
+   "entities": [
+    "hydro-quebec",
+    "collectif-nrs",
+    "equiterre",
+    "daniel-rotman",
+    "keel",
+    "marie-claude-bibeau",
+    "stephane-paquet",
+    "fqm",
+    "alain-therrien",
+    "jennifer-maccarone",
+    "conseil-tresor"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois",
+   "entities": [
+    "francois-legault",
+    "pierre-fitzgibbon",
+    "stephane-paquet",
+    "pspp",
+    "charles-milliard",
+    "pq",
+    "caq",
+    "northvolt"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "forgivable-loans"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor",
+   "entities": [
+    "marie-karlynn-laflamme",
+    "msss",
+    "conseil-tresor",
+    "cegerco",
+    "christine-frechette"
+   ],
+   "dossiers": [
+    "it-procurement"
+   ]
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/09/risque-de-defaillance--les-thermostats-hilo-de-21-000-clients-seront-remplaces-par-hydro-quebec",
+   "entities": [
+    "hydro-quebec",
+    "cendrix-bouchard"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres",
+   "entities": [
+    "stq",
+    "greta-bedard",
+    "christyan-dufour",
+    "caroline-simard"
+   ],
+   "dossiers": [
+    "stq-isle-aux-coudres"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale",
+   "entities": [
+    "stephanie-martin",
+    "nicolas-girard",
+    "pspp",
+    "pq",
+    "pcq"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/student-strike-quebec-9.7415018",
+   "entities": [
+    "crues"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction",
+   "entities": [
+    "ville-levis",
+    "steven-blaney"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/quebec-coroner-report-death-brochu-brothers-rem-brossard-9.7415319",
+   "entities": [
+    "julie-kim-godin",
+    "rem",
+    "pulsar"
    ],
    "dossiers": []
   }

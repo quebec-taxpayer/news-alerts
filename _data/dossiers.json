@@ -121,7 +121,9 @@
     "tat",
     "innergex",
     "mrc-coaticook",
-    "equiterre"
+    "equiterre",
+    "stephane-paquet",
+    "fqm"
    ],
    "events": [
     {
@@ -331,6 +333,28 @@
      "source_type": "media",
      "post": "2026-11-07",
      "background": false
+    },
+    {
+     "date": "2026-11-09",
+     "en": "Hydro-Québec announces it will replace, free of charge, first-generation Hilo smart thermostats for about 21,000 customers after a technical assessment found a very low risk of failure in exceptional situations such as a power surge.",
+     "fr": "Hydro-Québec annonce qu’elle remplacera sans frais des thermostats intelligents Hilo de première génération chez environ 21 000 clients, après qu’une évaluation technique a conclu à un très faible risque de défaillance dans des situations exceptionnelles, comme une surtension.",
+     "source_title": "Risque de défaillance: les thermostats Hilo de 21 000 clients seront remplacés par Hydro-Québec",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/09/risque-de-defaillance--les-thermostats-hilo-de-21-000-clients-seront-remplaces-par-hydro-quebec",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
+    },
+    {
+     "date": "2026-11-10",
+     "en": "CBC reports that citizens’ groups, environmental organizations and IT experts are calling for a public debate and a clear framework for data centres; Minister Stéphane Paquet’s office says he needs time to review the files.",
+     "fr": "CBC rapporte que des groupes citoyens, des organismes environnementaux et des experts en TI réclament un débat public et un cadre clair pour les centres de données; le cabinet du ministre Stéphane Paquet dit avoir besoin de temps pour examiner les dossiers.",
+     "source_title": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
     }
    ],
    "tldr": {
@@ -343,8 +367,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval; the price is not public.",
-     "fr": "Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal; le prix n’est pas public."
+     "en": "Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval. It will also replace some Hilo thermostats for free. Groups want clear rules for data centres; the economy minister’s office says it needs time.",
+     "fr": "Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal. Elle remplacera aussi sans frais certains thermostats Hilo. Des groupes réclament des règles claires pour les centres de données; le cabinet du ministre de l’Économie dit avoir besoin de temps."
     }
    }
   },
@@ -454,7 +478,9 @@
     "lgs",
     "ibm",
     "anne-nguyen",
-    "conseil-tresor"
+    "conseil-tresor",
+    "marie-karlynn-laflamme",
+    "cegerco"
    ],
    "events": [
     {
@@ -522,6 +548,17 @@
      "source_type": "media",
      "post": "2026-11-03",
      "background": false
+    },
+    {
+     "date": "2026-11-09",
+     "en": "The Health Ministry tells Radio-Canada that no bidder could offer its services at the amount Quebec planned for the Jonquière hospital emergency expansion; Minister Marie-Karlynn Laflamme says Treasury Board authorization is being sought, which could delay the project.",
+     "fr": "Le ministère de la Santé indique à Radio-Canada qu’aucun soumissionnaire n’a pu offrir ses services au montant prévu par Québec pour l’agrandissement de l’urgence de l’hôpital de Jonquière; la ministre Marie-Karlynn Laflamme dit qu’une autorisation du Conseil du trésor est demandée, ce qui pourrait retarder le projet.",
+     "source_title": "Retard des travaux à l’hôpital de Jonquière en raison de soumissions trop élevées",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
     }
    ],
    "tldr": {
@@ -534,8 +571,8 @@
      "fr": "Les contrats sans concurrence ouverte sont payés avec des fonds publics. SAAQclic a montré comment les coûts peuvent grimper."
     },
     "now": {
-     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board; the Treasury Board president says a bill will follow once the new structure is in place. No chief information officer has been designated.",
-     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor; le président du Conseil du trésor dit qu’un projet de loi suivra une fois la nouvelle structure en place. Aucun dirigeant principal de l’information n’a été désigné."
+     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board; the Treasury Board president says a bill will follow once the new structure is in place. No chief information officer has been designated. In Jonquière, bids for the hospital emergency expansion came in above Quebec’s planned amount, and Treasury Board approval is now being sought.",
+     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor; le président du Conseil du trésor dit qu’un projet de loi suivra une fois la nouvelle structure en place. Aucun dirigeant principal de l’information n’a été désigné. À Jonquière, les soumissions pour l’agrandissement de l’urgence ont dépassé le montant prévu par Québec, et l’approbation du Conseil du trésor est maintenant demandée."
     }
    }
   },
@@ -1257,7 +1294,8 @@
     "julie-blackburn",
     "nicolas-paradis",
     "marie-claude-sarrazin",
-    "anne-nguyen"
+    "anne-nguyen",
+    "stephanie-martin"
    ],
    "events": [
     {
@@ -1565,6 +1603,17 @@
      "source_type": "media",
      "post": "2026-11-06",
      "background": false
+    },
+    {
+     "date": "2026-11-10",
+     "en": "Minister Nicolas Girard announces that former journalist Stéphanie Martin, a defeated PQ candidate, becomes special adviser for the Capitale-Nationale in his political staff.",
+     "fr": "Le ministre Nicolas Girard annonce que l’ex-journaliste Stéphanie Martin, candidate péquiste défaite, devient conseillère spéciale pour la Capitale-Nationale au sein de son personnel politique.",
+     "source_title": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
     }
    ],
    "tldr": {
@@ -1577,8 +1626,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Finance Minister Marceau says the federal budget “does not meet expectations.” The premier will meet Doug Ford in Toronto on Nov. 6 and Mark Carney in Cambodia later this month, with a possible later meeting in Quebec City. The Ministry of Cybersecurity and Digital Affairs’ staff have been moved to the Treasury Board before an Assembly vote; a bill is to follow.",
-     "fr": "Le ministre des Finances Marceau affirme que le budget fédéral « ne répond pas aux attentes ». Le premier ministre rencontrera Doug Ford à Toronto le 6 novembre et Mark Carney au Cambodge plus tard ce mois-ci, avec une possible rencontre ultérieure à Québec. Les employés du ministère de la Cybersécurité et du Numérique ont été transférés au Conseil du trésor avant un vote à l’Assemblée; un projet de loi doit suivre."
+     "en": "Finance Minister Marceau says the federal budget “does not meet expectations.” The premier will meet Doug Ford in Toronto on Nov. 6 and Mark Carney in Cambodia later this month, with a possible later meeting in Quebec City. The Ministry of Cybersecurity and Digital Affairs’ staff have been moved to the Treasury Board before an Assembly vote; a bill is to follow. Defeated PQ candidate Stéphanie Martin becomes special adviser for the Capitale-Nationale in Minister Nicolas Girard’s office.",
+     "fr": "Le ministre des Finances Marceau affirme que le budget fédéral « ne répond pas aux attentes ». Le premier ministre rencontrera Doug Ford à Toronto le 6 novembre et Mark Carney au Cambodge plus tard ce mois-ci, avec une possible rencontre ultérieure à Québec. Les employés du ministère de la Cybersécurité et du Numérique ont été transférés au Conseil du trésor avant un vote à l’Assemblée; un projet de loi doit suivre. La candidate péquiste défaite Stéphanie Martin devient conseillère spéciale pour la Capitale-Nationale au cabinet du ministre Nicolas Girard."
     }
    }
   },
@@ -2750,6 +2799,17 @@
      "source_type": "primary",
      "post": "2026-11-07",
      "background": false
+    },
+    {
+     "date": "2026-11-09",
+     "en": "Minister Stéphane Paquet’s office confirms it has been notified of 68 layoffs at Nemaska Lithium, spread out until December; TVA’s investigative bureau reports that nearly a hundred jobs will be lost and that Investissement Québec is considering finding a partner to sell its shares.",
+     "fr": "Le cabinet du ministre Stéphane Paquet confirme avoir été avisé de 68 mises à pied chez Nemaska Lithium, étalées jusqu’en décembre; le Bureau d’enquête de TVA rapporte que près d’une centaine d’emplois seront perdus et qu’Investissement Québec envisage de trouver un partenaire pour se départir de ses actions.",
+     "source_title": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
     }
    ],
    "tldr": {
@@ -2762,8 +2822,8 @@
      "fr": "Le Journal de Montréal rapporte un risque de financement pour l’usine de Bécancour, selon des sources anonymes."
     },
     "now": {
-     "en": "The new government says it will put no more money into the project. The economy minister expects the Bécancour plant to be mothballed soon.",
-     "fr": "Le nouveau gouvernement affirme qu’il ne versera plus d’argent dans le projet. Le ministre de l’Économie s’attend à ce que l’usine de Bécancour soit bientôt mise sous cocon."
+     "en": "The new government says it will put no more money into the project. Layoffs have started at the Bécancour plant, and TVA reports that Investissement Québec is thinking about selling its shares.",
+     "fr": "Le nouveau gouvernement affirme qu’il ne versera plus d’argent dans le projet. Des mises à pied commencent à l’usine de Bécancour, et TVA rapporte qu’Investissement Québec songe à vendre ses actions."
     }
    }
   },
@@ -2804,6 +2864,17 @@
      "background": false
     },
     {
+     "date": "2026-11-05",
+     "en": "The relief ferry, the MV Radisson, also runs into problems a few days after arriving; STQ CEO Greta Bédard has to extend her stay on the island, Le Devoir reports.",
+     "fr": "Le navire de relève, le NM Radisson, connaît lui aussi des problèmes quelques jours après son arrivée; la p.-d.g. de la STQ, Greta Bédard, doit prolonger son séjour sur l’île, rapporte Le Devoir.",
+     "source_title": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+     "source_outlet": "Le Devoir",
+     "source_url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
+    },
+    {
      "date": "2026-11-07",
      "en": "The STQ withdraws the MV Joseph-Savard again as a precaution, after an electrical relay problem on another ferry similar to one the Joseph-Savard had earlier in the week; no return date is set, Radio-Canada reports.",
      "fr": "La STQ retire de nouveau le NM Joseph-Savard par prévention, après un problème de relais électrique sur un autre traversier semblable à celui du Joseph-Savard plus tôt dans la semaine; aucune date de retour n’est fixée, rapporte Radio-Canada.",
@@ -2825,8 +2896,8 @@
      "fr": "Les insulaires dépendent du traversier pour le travail, la nourriture et les soins. La députée locale dit que la panne a révélé des failles du plan d’urgence."
     },
     "now": {
-     "en": "A replacement ferry is running. The STQ withdrew the Joseph-Savard again as a precaution and cannot say when it will return.",
-     "fr": "Un traversier de remplacement assure le service. La STQ a de nouveau retiré le Joseph-Savard par prévention et ne peut dire quand il reviendra."
+     "en": "A replacement ferry is running. The Joseph-Savard was kept at the dock again as a precaution. The mayor wants new docks closer to Baie-Saint-Paul.",
+     "fr": "Un traversier de remplacement assure le service. Le Joseph-Savard est de nouveau resté à quai par prévention. Le maire réclame de nouveaux quais plus près de Baie-Saint-Paul."
     }
    }
   },
@@ -2900,6 +2971,69 @@
     "now": {
      "en": "Milk and juice cartons and glass are set to join on March 1, 2027, but the environment minister is to decide soon on a possible delay.",
      "fr": "Les cartons de lait et de jus et le verre doivent s’ajouter le 1er mars 2027, mais le ministre de l’Environnement doit bientôt statuer sur un possible report."
+    }
+   }
+  },
+  {
+   "id": "forgivable-loans",
+   "name_en": "Forgivable loans to businesses",
+   "name_fr": "Les prêts pardonnables aux entreprises",
+   "desc_en": "Quebec’s program of forgivable loans to companies, run by Investissement Québec, and its end under the new government.",
+   "desc_fr": "Le programme québécois de prêts pardonnables aux entreprises, administré par Investissement Québec, et sa fin sous le nouveau gouvernement.",
+   "entities": [
+    "investissement-quebec",
+    "pierre-fitzgibbon",
+    "francois-legault",
+    "stephane-paquet",
+    "pspp"
+   ],
+   "events": [
+    {
+     "date": "2019",
+     "en": "Pierre Fitzgibbon sets up the forgivable-loan program, administered by Investissement Québec, the Journal de Montréal recalls.",
+     "fr": "Pierre Fitzgibbon met sur pied le programme de prêts pardonnables, administré par Investissement Québec, rappelle le Journal de Montréal.",
+     "source_title": "Québec met fin au bar ouvert des prêts pardonnables",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables",
+     "source_type": "media",
+     "post": "2026-11-09",
+     "background": false
+    },
+    {
+     "date": "2026-11-09",
+     "en": "In an interview published Nov. 9, Economy Minister Stéphane Paquet tells the Journal de Montréal that no new forgivable loans will be granted, even for files under review; signed contracts will be honoured.",
+     "fr": "Dans une entrevue publiée le 9 novembre, le ministre de l’Économie Stéphane Paquet affirme au Journal de Montréal qu’aucun nouveau prêt pardonnable ne sera accordé, même pour les dossiers à l’étude; les contrats signés seront respectés.",
+     "source_title": "Québec met fin au bar ouvert des prêts pardonnables",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables",
+     "source_type": "media",
+     "post": "2026-11-09",
+     "background": false
+    },
+    {
+     "date": "2026-11-09",
+     "en": "Former premier François Legault defends the program on social media; Premier Paul St-Pierre Plamondon says for his part that it is not the government’s role to pick winners.",
+     "fr": "L’ex-premier ministre François Legault défend le programme sur les réseaux sociaux; le premier ministre Paul St-Pierre Plamondon affirme que ce n’est pas au gouvernement de choisir les gagnants.",
+     "source_title": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "A forgivable loan is a government loan to a company that can become a grant if the company meets its goals. Investissement Québec ran the program.",
+     "fr": "Un prêt pardonnable est un prêt du gouvernement à une entreprise qui peut devenir une subvention si elle atteint ses objectifs. Investissement Québec gérait le programme."
+    },
+    "why": {
+     "en": "It is public money. According to the Journal de Montréal, a large part of the loans was turned into grants.",
+     "fr": "C’est de l’argent public. Selon le Journal de Montréal, une grande partie des prêts a été transformée en subventions."
+    },
+    "now": {
+     "en": "The new government has ended the program, but signed contracts will be honoured. Former premier François Legault defends it.",
+     "fr": "Le nouveau gouvernement a mis fin au programme, mais les contrats signés seront respectés. L’ex-premier ministre François Legault le défend."
     }
    }
   }

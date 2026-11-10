@@ -963,6 +963,56 @@
    "category": "government",
    "importance": 2,
    "title_en": "A coroner recommends banning access to the dike along Verdun beach"
+  },
+  "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "Nearly a hundred layoffs at Nemaska Lithium"
+  },
+  "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675": {
+   "category": "energy",
+   "importance": 3,
+   "title_fr": "Alors que des centres de données d’IA ciblent le réseau québécois, les appels à un meilleur encadrement de l’industrie se multiplient"
+  },
+  "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "François Legault defends the forgivable-loan program the Parti Québécois has just abolished"
+  },
+  "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Work at the Jonquière hospital delayed because bids were too high"
+  },
+  "https://www.journaldequebec.com/2026/11/09/risque-de-defaillance--les-thermostats-hilo-de-21-000-clients-seront-remplaces-par-hydro-quebec": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Risk of failure: Hilo thermostats of 21,000 customers will be replaced by Hydro-Québec"
+  },
+  "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "A string of ferry setbacks highlights L’Isle-aux-Coudres’ vulnerability"
+  },
+  "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "PSPP appoints a special adviser to support Nicolas Girard"
+  },
+  "https://www.cbc.ca/news/canada/montreal/student-strike-quebec-9.7415018": {
+   "category": "government",
+   "importance": 2,
+   "title_fr": "Des milliers d’étudiants québécois devraient faire grève cette semaine contre l’austérité et la précarité"
+  },
+  "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction": {
+   "category": "finances",
+   "importance": 2,
+   "title_en": "Cost increase for the wastewater treatment plants under moratorium in Lévis"
+  },
+  "https://www.cbc.ca/news/canada/montreal/quebec-coroner-report-death-brochu-brothers-rem-brossard-9.7415319": {
+   "category": "other",
+   "importance": 2,
+   "title_fr": "Après la mort de deux frères, une coroner du Québec demande des améliorations à la clôture d’une gare du REM"
   }
  }
 }

@@ -55,7 +55,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-06": ["it-digital", "crown-corporations", "procurement"],
         "2026-11-07": ["crown-corporations", "procurement"],
         "2026-11-08": [],
-        "2026-11-09": ["crown-corporations"]}
+        "2026-11-09": ["crown-corporations"],
+        "2026-11-10": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -98,6 +99,8 @@ SUMMARY = {
                 "Free flu shots limited to eligible groups; the MUHC asks people to avoid two emergency departments; Minister Gentilcore reacts to charges against a former Immigration employee; complaints target Fady Dagher; a study proposes gradual ‘demonarchization’; heritage-home insurance."),
  "2026-11-09": ("Québec met fin aux prêts pardonnables; les libéraux contestent en cour le résultat dans Vachon; Consignaction compte sur les contenants non retournés; retrait préventif d’un traversier à L’Isle-aux-Coudres; tunnel La Fontaine; liberté académique; incendies criminels à Ormstown; manifestation devant le PDQ 39; transport médical par hélicoptère; recommandations d’une coroner à Verdun.",
                 "Quebec ends forgivable loans; the Liberals contest the Vachon result in court; Consignaction relies on unreturned containers; a ferry withdrawn as a precaution at L’Isle-aux-Coudres; La Fontaine tunnel; academic freedom; arson fires in Ormstown; protest outside Station 39; medical helicopter transport; a coroner’s recommendations in Verdun."),
+ "2026-11-10": ("Près d’une centaine de mises à pied chez Nemaska Lithium; Hydro-Québec remplacera des thermostats Hilo; soumissions trop élevées pour l’urgence de l’hôpital de Jonquière; François Legault défend les prêts pardonnables; appels à encadrer les centres de données; une conseillère spéciale pour la Capitale-Nationale; traversiers de L’Isle-aux-Coudres; grève étudiante; coûts en hausse à Lévis; rapport de coroner sur une gare du REM.",
+                "Nearly a hundred layoffs at Nemaska Lithium; Hydro-Québec to replace Hilo thermostats; bids too high for the Jonquière hospital emergency department; François Legault defends forgivable loans; calls to regulate data centres; a special adviser for the Capitale-Nationale; L’Isle-aux-Coudres ferries; student strike; rising costs in Lévis; coroner’s report on a REM station."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

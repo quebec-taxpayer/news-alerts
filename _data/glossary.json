@@ -380,6 +380,22 @@
     "certificats de sélection",
     "faux certificats de sélection"
    ]
+  },
+  {
+   "id": "seao",
+   "term_en": "SEAO (electronic tendering system)",
+   "term_fr": "SEAO (Système électronique d’appel d’offres)",
+   "def_en": "The Quebec government’s online system where most public bodies post their calls for tenders and other contract notices. Companies can read the notices there and submit bids online.",
+   "def_fr": "Application du gouvernement du Québec qui rassemble les avis d’appel d’offres et autres avis de la plupart des organismes publics. Les entreprises peuvent y consulter les avis et y soumissionner en ligne.",
+   "source_en": "https://www.quebec.ca/gouvernement/faire-affaire-gouvernement/outils/systeme-electronique-appel-offre",
+   "source_fr": "https://www.quebec.ca/gouvernement/faire-affaire-gouvernement/outils/systeme-electronique-appel-offre",
+   "source_label": "Gouvernement du Québec – Accéder au Système électronique d’appel d’offres (SEAO)",
+   "match_en": [
+    "SEAO"
+   ],
+   "match_fr": [
+    "SEAO"
+   ]
   }
  ]
 }
