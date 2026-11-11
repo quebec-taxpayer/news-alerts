@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-10T15:32:26Z",
+ "generated": "2026-11-11T15:33:39Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 205,
+ "story_count": 215,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -2182,6 +2182,112 @@
      ]
     }
    ]
+  },
+  "2026-11-11": {
+   "post": "/2026/11/11/digest/",
+   "stories": [
+    {
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec",
+     "entities": [
+      "amazon-web-services",
+      "attac-quebec",
+      "mcn",
+      "mrnf",
+      "msi",
+      "uqam",
+      "ville-montreal"
+     ]
+    },
+    {
+     "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
+     "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude",
+     "entities": [
+      "cssdm",
+      "fppe",
+      "fpss-csq"
+     ]
+    },
+    {
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine",
+     "entities": [
+      "melanie-joly",
+      "nemaska-lithium",
+      "rio-tinto",
+      "stephane-paquet"
+     ]
+    },
+    {
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape",
+     "entities": [
+      "bape",
+      "jean-pellerin",
+      "melccfp",
+      "tes-canada"
+     ]
+    },
+    {
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales",
+     "entities": [
+      "csn",
+      "domtar",
+      "jimmy-bouchard",
+      "luc-boivin",
+      "unifor"
+     ]
+    },
+    {
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif",
+     "entities": [
+      "caq",
+      "nicolas-girard",
+      "rtc",
+      "stm"
+     ]
+    },
+    {
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard",
+     "entities": [
+      "greta-bedard",
+      "nicolas-girard",
+      "stq"
+     ]
+    },
+    {
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal",
+     "entities": [
+      "cf-montreal",
+      "joey-saputo",
+      "pspp",
+      "soraya-martinez-ferrada",
+      "stephane-paquet"
+     ]
+    },
+    {
+     "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa",
+     "entities": [
+      "bruno-marchand",
+      "mark-carney",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration",
+     "entities": [
+      "ccm",
+      "claude-villeneuve",
+      "cour-superieure"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -2193,7 +2299,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 51,
+   "mentions": 53,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2449,6 +2555,16 @@
      "date": "2026-11-10",
      "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
      "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa"
     }
    ]
   },
@@ -2822,7 +2938,7 @@
    "aliases": [
     "Carney"
    ],
-   "mentions": 16,
+   "mentions": 17,
    "stories": [
     {
      "date": "2026-10-26",
@@ -2903,6 +3019,88 @@
      "date": "2026-11-06",
      "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
      "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa"
+    }
+   ]
+  },
+  {
+   "id": "caq",
+   "name": "Coalition Avenir Québec",
+   "type": "organization",
+   "aliases": [
+    "CAQ",
+    "caquiste"
+   ],
+   "mentions": 13,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Programme de l’expérience québécoise | Des milliers d’immigrants plongés dans l’incertitude",
+     "url": "https://www.lapresse.ca/actualites/2026-11-03/programme-de-l-experience-quebecoise/des-milliers-d-immigrants-plonges-dans-l-incertitude.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
     }
    ]
   },
@@ -2974,78 +3172,6 @@
      "date": "2026-11-10",
      "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
-    }
-   ]
-  },
-  {
-   "id": "caq",
-   "name": "Coalition Avenir Québec",
-   "type": "organization",
-   "aliases": [
-    "CAQ",
-    "caquiste"
-   ],
-   "mentions": 12,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
-     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Programme de l’expérience québécoise | Des milliers d’immigrants plongés dans l’incertitude",
-     "url": "https://www.lapresse.ca/actualites/2026-11-03/programme-de-l-experience-quebecoise/des-milliers-d-immigrants-plonges-dans-l-incertitude.php"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
     }
    ]
   },
@@ -3186,7 +3312,7 @@
    "name": "Soraya Martinez Ferrada",
    "type": "person",
    "aliases": [],
-   "mentions": 10,
+   "mentions": 11,
    "stories": [
     {
      "date": "2026-10-22",
@@ -3237,6 +3363,75 @@
      "date": "2026-11-08",
      "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
      "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
+   "id": "stephane-paquet",
+   "name": "Stéphane Paquet",
+   "type": "person",
+   "aliases": [],
+   "mentions": 11,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
     }
    ]
   },
@@ -3297,10 +3492,12 @@
    ]
   },
   {
-   "id": "stephane-paquet",
-   "name": "Stéphane Paquet",
-   "type": "person",
-   "aliases": [],
+   "id": "ville-montreal",
+   "name": "Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "City of Montreal"
+   ],
    "mentions": 9,
    "stories": [
     {
@@ -3309,44 +3506,96 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
     },
     {
-     "date": "2026-10-23",
-     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "date": "2026-11-03",
+     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
+     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
     },
     {
-     "date": "2026-11-07",
-     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
-     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
     },
     {
      "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+     "headline": "Une coroner recommande d’interdire l’accès à la digue bordant la plage de Verdun",
+     "url": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun"
     },
     {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "id": "cour-superieure",
+   "name": "Cour supérieure du Québec",
+   "type": "organization",
+   "aliases": [
+    "Cour supérieure",
+    "Superior Court"
+   ],
+   "mentions": 8,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
     },
     {
-     "date": "2026-11-10",
-     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
     },
     {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
+     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
   },
@@ -3455,57 +3704,6 @@
    ]
   },
   {
-   "id": "ville-montreal",
-   "name": "Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "City of Montreal"
-   ],
-   "mentions": 8,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
-     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Une coroner recommande d’interdire l’accès à la digue bordant la plage de Verdun",
-     "url": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun"
-    }
-   ]
-  },
-  {
    "id": "ville-quebec",
    "name": "Ville de Québec",
    "type": "organization",
@@ -3553,53 +3751,6 @@
      "date": "2026-11-08",
      "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
-    }
-   ]
-  },
-  {
-   "id": "cour-superieure",
-   "name": "Cour supérieure du Québec",
-   "type": "organization",
-   "aliases": [
-    "Cour supérieure",
-    "Superior Court"
-   ],
-   "mentions": 7,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
-     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
-     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
     }
    ]
   },
@@ -3734,6 +3885,47 @@
      "date": "2026-11-07",
      "headline": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
      "url": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale"
+    }
+   ]
+  },
+  {
+   "id": "bruno-marchand",
+   "name": "Bruno Marchand",
+   "type": "person",
+   "aliases": [
+    "Marchand"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa"
     }
    ]
   },
@@ -3904,38 +4096,43 @@
    ]
   },
   {
-   "id": "bruno-marchand",
-   "name": "Bruno Marchand",
-   "type": "person",
+   "id": "stq",
+   "name": "Société des traversiers du Québec",
+   "type": "organization",
    "aliases": [
-    "Marchand"
+    "STQ"
    ],
-   "mentions": 5,
+   "mentions": 6,
    "stories": [
     {
-     "date": "2026-11-03",
-     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+     "date": "2026-10-24",
+     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
+     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
     },
     {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
     },
     {
-     "date": "2026-11-06",
-     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
     },
     {
-     "date": "2026-11-07",
-     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
+     "date": "2026-11-09",
+     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
     },
     {
-     "date": "2026-11-07",
-     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
+     "date": "2026-11-10",
+     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
     }
    ]
   },
@@ -4053,6 +4250,76 @@
    ]
   },
   {
+   "id": "nemaska-lithium",
+   "name": "Nemaska Lithium",
+   "type": "organization",
+   "aliases": [
+    "Nemaska"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
+   "id": "nicolas-girard",
+   "name": "Nicolas Girard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    }
+   ]
+  },
+  {
    "id": "pcq",
    "name": "Parti conservateur du Québec",
    "type": "organization",
@@ -4092,6 +4359,40 @@
    ]
   },
   {
+   "id": "rio-tinto",
+   "name": "Rio Tinto",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
    "id": "saq",
    "name": "Société des alcools du Québec",
    "type": "organization",
@@ -4124,42 +4425,6 @@
      "date": "2026-11-06",
      "headline": "La pinte de lait, le nouveau défi de la consigne au Québec",
      "url": "https://ici.radio-canada.ca/nouvelle/2298756/lait-jus-contenant-consigne-quebec-environnement"
-    }
-   ]
-  },
-  {
-   "id": "stq",
-   "name": "Société des traversiers du Québec",
-   "type": "organization",
-   "aliases": [
-    "STQ"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
-     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
-     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
-     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
-     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
     }
    ]
   },
@@ -4480,62 +4745,35 @@
    ]
   },
   {
-   "id": "nemaska-lithium",
-   "name": "Nemaska Lithium",
+   "id": "mcn",
+   "name": "Ministère de la Cybersécurité et du Numérique",
    "type": "organization",
    "aliases": [
-    "Nemaska"
+    "MCN",
+    "ministère de la Cybersécurité et du Numérique",
+    "Ministry of Cybersecurity and Digital Affairs"
    ],
    "mentions": 4,
    "stories": [
     {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     },
     {
-     "date": "2026-11-07",
-     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
-     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
     },
     {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+     "date": "2026-11-03",
+     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
     },
     {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
-    }
-   ]
-  },
-  {
-   "id": "rio-tinto",
-   "name": "Rio Tinto",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     }
    ]
   },
@@ -4687,6 +4925,32 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "id": "bape",
+   "name": "Bureau d’audiences publiques sur l’environnement",
+   "type": "organization",
+   "aliases": [
+    "BAPE"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
     }
    ]
   },
@@ -4843,6 +5107,30 @@
    ]
   },
   {
+   "id": "greta-bedard",
+   "name": "Greta Bédard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    }
+   ]
+  },
+  {
    "id": "jacques-allard",
    "name": "Jacques Allard",
    "type": "person",
@@ -4863,6 +5151,32 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "id": "jean-pellerin",
+   "name": "Jean Pellerin",
+   "type": "person",
+   "aliases": [
+    "Pellerin"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
+     "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
     }
    ]
   },
@@ -4971,54 +5285,26 @@
    ]
   },
   {
-   "id": "mcn",
-   "name": "Ministère de la Cybersécurité et du Numérique",
+   "id": "msi",
+   "name": "Ministère de la Sécurité intérieure",
    "type": "organization",
-   "aliases": [
-    "MCN",
-    "ministère de la Cybersécurité et du Numérique",
-    "Ministry of Cybersecurity and Digital Affairs"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
-     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
-    }
-   ]
-  },
-  {
-   "id": "nicolas-girard",
-   "name": "Nicolas Girard",
-   "type": "person",
    "aliases": [],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
     },
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     },
     {
-     "date": "2026-11-10",
-     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     }
    ]
   },
@@ -5071,6 +5357,32 @@
      "date": "2026-10-27",
      "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
      "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    }
+   ]
+  },
+  {
+   "id": "stm",
+   "name": "Société de transport de Montréal",
+   "type": "organization",
+   "aliases": [
+    "STM"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
     }
    ]
   },
@@ -5286,27 +5598,6 @@
      "date": "2026-10-28",
      "headline": "Quebec coroner's office lays out changes following death of Chloé Bélanger",
      "url": "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703"
-    }
-   ]
-  },
-  {
-   "id": "bape",
-   "name": "Bureau d’audiences publiques sur l’environnement",
-   "type": "organization",
-   "aliases": [
-    "BAPE"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
     }
    ]
   },
@@ -5616,6 +5907,27 @@
    ]
   },
   {
+   "id": "fpss-csq",
+   "name": "Fédération du personnel de soutien scolaire",
+   "type": "organization",
+   "aliases": [
+    "FPSS-CSQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Près de 30 000 incidents de violence dans les écoles",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
+     "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
+    }
+   ]
+  },
+  {
    "id": "genevieve-biron",
    "name": "Geneviève Biron",
    "type": "person",
@@ -5652,25 +5964,6 @@
      "date": "2026-11-06",
      "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    }
-   ]
-  },
-  {
-   "id": "greta-bedard",
-   "name": "Greta Bédard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-09",
-     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
-     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
     }
    ]
   },
@@ -5713,27 +6006,6 @@
      "date": "2026-11-04",
      "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    }
-   ]
-  },
-  {
-   "id": "jean-pellerin",
-   "name": "Jean Pellerin",
-   "type": "person",
-   "aliases": [
-    "Pellerin"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-04",
-     "headline": "L’élargissement de la consigne pourrait encore être reporté",
-     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
-     "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
     }
    ]
   },
@@ -5842,21 +6114,24 @@
    ]
   },
   {
-   "id": "msi",
-   "name": "Ministère de la Sécurité intérieure",
+   "id": "melccfp",
+   "name": "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs",
    "type": "organization",
-   "aliases": [],
+   "aliases": [
+    "ministère de l’Environnement",
+    "Environment ministry"
+   ],
    "mentions": 2,
    "stories": [
     {
-     "date": "2026-10-25",
-     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+     "date": "2026-11-02",
+     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
+     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
     },
     {
-     "date": "2026-10-29",
-     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
     }
    ]
   },
@@ -5880,6 +6155,25 @@
      "date": "2026-11-08",
      "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
      "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    }
+   ]
+  },
+  {
+   "id": "melanie-joly",
+   "name": "Mélanie Joly",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
     }
    ]
   },
@@ -6066,6 +6360,27 @@
    ]
   },
   {
+   "id": "rtc",
+   "name": "Réseau de transport de la Capitale",
+   "type": "organization",
+   "aliases": [
+    "RTC"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
    "id": "sim",
    "name": "Service de sécurité incendie de Montréal",
    "type": "organization",
@@ -6083,27 +6398,6 @@
      "date": "2026-11-02",
      "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
      "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
-    }
-   ]
-  },
-  {
-   "id": "stm",
-   "name": "Société de transport de Montréal",
-   "type": "organization",
-   "aliases": [
-    "STM"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
     }
    ]
   },
@@ -6168,6 +6462,25 @@
      "date": "2026-11-09",
      "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
      "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
+    }
+   ]
+  },
+  {
+   "id": "tes-canada",
+   "name": "TES Canada",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Où en est la filière hydrogène ?",
+     "url": "https://www.lapresse.ca/affaires/economie/2026-10-17/ou-en-est-la-filiere-hydrogene.php"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
     }
    ]
   },
@@ -6467,6 +6780,22 @@
    ]
   },
   {
+   "id": "amazon-web-services",
+   "name": "Amazon Web Services",
+   "type": "organization",
+   "aliases": [
+    "AWS"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
    "id": "andre-fortin",
    "name": "André Fortin",
    "type": "person",
@@ -6648,6 +6977,20 @@
      "date": "2026-10-25",
      "headline": "Alto testerait les premiers TGV du pays à l’est d’Ottawa",
      "url": "https://ici.radio-canada.ca/nouvelle/2295314/alto-tgv-tests-trace-train"
+    }
+   ]
+  },
+  {
+   "id": "attac-quebec",
+   "name": "Attac Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     }
    ]
   },
@@ -6846,6 +7189,22 @@
    ]
   },
   {
+   "id": "cf-montreal",
+   "name": "CF Montréal",
+   "type": "organization",
+   "aliases": [
+    "CF Montreal"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
    "id": "chsld-wendake",
    "name": "CHSLD de Wendake",
    "type": "organization",
@@ -6914,6 +7273,23 @@
      "date": "2026-11-04",
      "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
      "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    }
+   ]
+  },
+  {
+   "id": "cssdm",
+   "name": "Centre de services scolaire de Montréal",
+   "type": "organization",
+   "aliases": [
+    "CSSDM",
+    "CSS de Montréal"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
+     "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
     }
    ]
   },
@@ -6995,6 +7371,20 @@
      "date": "2026-10-26",
      "headline": "La Réunion des Premières Nations et des premiers ministres a lieu lundi à Ottawa",
      "url": "https://ici.radio-canada.ca/espaces-autochtones/2295767/reunion-premieres-nations-premiers-ministres-ottawa"
+    }
+   ]
+  },
+  {
+   "id": "claude-villeneuve",
+   "name": "Claude Villeneuve",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
   },
@@ -7092,6 +7482,38 @@
      "date": "2026-11-01",
      "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
      "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
+    }
+   ]
+  },
+  {
+   "id": "csn",
+   "name": "Confédération des syndicats nationaux",
+   "type": "organization",
+   "aliases": [
+    "CSN"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "id": "ccm",
+   "name": "Conseil canadien de la magistrature",
+   "type": "organization",
+   "aliases": [
+    "Canadian Judicial Council"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
   },
@@ -7316,6 +7738,20 @@
      "date": "2026-11-06",
      "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
      "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "id": "domtar",
+   "name": "Domtar",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
     }
    ]
   },
@@ -7701,18 +8137,18 @@
    ]
   },
   {
-   "id": "fpss-csq",
-   "name": "Fédération du personnel de soutien scolaire",
+   "id": "fppe",
+   "name": "Fédération du personnel professionnel de l’éducation du Québec",
    "type": "organization",
    "aliases": [
-    "FPSS-CSQ"
+    "FPPE-CSQ"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "Près de 30 000 incidents de violence dans les écoles",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295431/ecole-violence-hausse-employes-soutien"
+     "date": "2026-11-11",
+     "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
+     "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
     }
    ]
   },
@@ -8377,6 +8813,20 @@
    ]
   },
   {
+   "id": "jimmy-bouchard",
+   "name": "Jimmy Bouchard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
    "id": "jodie-ashini",
    "name": "Jodie Ashini",
    "type": "person",
@@ -8389,6 +8839,20 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "id": "joey-saputo",
+   "name": "Joey Saputo",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
     }
    ]
   },
@@ -8687,6 +9151,20 @@
      "date": "2026-11-06",
      "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
      "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "id": "luc-boivin",
+   "name": "Luc Boivin",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
     }
    ]
   },
@@ -9033,23 +9511,6 @@
    ]
   },
   {
-   "id": "melccfp",
-   "name": "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs",
-   "type": "organization",
-   "aliases": [
-    "ministère de l’Environnement",
-    "Environment ministry"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
-     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
-    }
-   ]
-  },
-  {
    "id": "mifi",
    "name": "Ministère de l’Immigration, de la Francisation et de l’Intégration",
    "type": "organization",
@@ -9065,6 +9526,22 @@
      "date": "2026-11-03",
      "headline": "Programme de l’expérience québécoise | Des milliers d’immigrants plongés dans l’incertitude",
      "url": "https://www.lapresse.ca/actualites/2026-11-03/programme-de-l-experience-quebecoise/des-milliers-d-immigrants-plonges-dans-l-incertitude.php"
+    }
+   ]
+  },
+  {
+   "id": "mrnf",
+   "name": "Ministère des Ressources naturelles et des Forêts",
+   "type": "organization",
+   "aliases": [
+    "MRNF"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     }
    ]
   },
@@ -9163,20 +9640,6 @@
      "date": "2026-10-31",
      "headline": "Stéphan La Roche quitte le MAC pour devenir sous-ministre de la Culture à Québec",
      "url": "https://ici.radio-canada.ca/nouvelle/2296845/stephan-laroche-sous-minitre-culture-quebec-musee"
-    }
-   ]
-  },
-  {
-   "id": "melanie-joly",
-   "name": "Mélanie Joly",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
     }
    ]
   },
@@ -9691,22 +10154,6 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
-    }
-   ]
-  },
-  {
-   "id": "rtc",
-   "name": "Réseau de transport de la Capitale",
-   "type": "organization",
-   "aliases": [
-    "RTC"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
     }
    ]
   },
@@ -10230,20 +10677,6 @@
    ]
   },
   {
-   "id": "tes-canada",
-   "name": "TES Canada",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Où en est la filière hydrogène ?",
-     "url": "https://www.lapresse.ca/affaires/economie/2026-10-17/ou-en-est-la-filiere-hydrogene.php"
-    }
-   ]
-  },
-  {
    "id": "table-littoral-est",
    "name": "Table citoyenne Littoral Est",
    "type": "organization",
@@ -10314,6 +10747,36 @@
      "date": "2026-11-01",
      "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
      "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
+    }
+   ]
+  },
+  {
+   "id": "unifor",
+   "name": "Unifor",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "id": "uqam",
+   "name": "Université du Québec à Montréal",
+   "type": "organization",
+   "aliases": [
+    "UQAM"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     }
    ]
   },
@@ -10745,7 +11208,7 @@
   {
    "source": "mark-carney",
    "target": "pspp",
-   "weight": 12,
+   "weight": 13,
    "stories": [
     {
      "date": "2026-10-27",
@@ -10806,6 +11269,11 @@
      "date": "2026-11-06",
      "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
      "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa"
     }
    ]
   },
@@ -11129,6 +11597,48 @@
    ]
   },
   {
+   "source": "pspp",
+   "target": "stephane-paquet",
+   "weight": 7,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
    "source": "marie-karlynn-laflamme",
    "target": "sante-quebec",
    "weight": 6,
@@ -11199,43 +11709,6 @@
      "date": "2026-11-09",
      "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
      "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
-   "target": "stephane-paquet",
-   "weight": 6,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
-     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
     }
    ]
   },
@@ -11847,6 +12320,60 @@
    ]
   },
   {
+   "source": "nemaska-lithium",
+   "target": "rio-tinto",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
+   "source": "nemaska-lithium",
+   "target": "stephane-paquet",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
    "source": "nicolas-marceau",
    "target": "pq",
    "weight": 4,
@@ -12092,6 +12619,28 @@
    ]
   },
   {
+   "source": "bruno-marchand",
+   "target": "mark-carney",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa"
+    }
+   ]
+  },
+  {
    "source": "caq",
    "target": "conseil-tresor",
    "weight": 3,
@@ -12308,6 +12857,28 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "greta-bedard",
+   "target": "stq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
     }
    ]
   },
@@ -12554,50 +13125,6 @@
    ]
   },
   {
-   "source": "nemaska-lithium",
-   "target": "rio-tinto",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
-    }
-   ]
-  },
-  {
-   "source": "nemaska-lithium",
-   "target": "stephane-paquet",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-11-07",
-     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
-     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
-    }
-   ]
-  },
-  {
    "source": "nicolas-girard",
    "target": "pq",
    "weight": 3,
@@ -12682,6 +13209,28 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "rio-tinto",
+   "target": "stephane-paquet",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
     }
    ]
   },
@@ -13173,7 +13722,7 @@
   },
   {
    "source": "bruno-marchand",
-   "target": "mark-carney",
+   "target": "pspp",
    "weight": 2,
    "stories": [
     {
@@ -13182,9 +13731,9 @@
      "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
     },
     {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+     "date": "2026-11-11",
+     "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa"
     }
    ]
   },
@@ -14226,23 +14775,6 @@
    ]
   },
   {
-   "source": "greta-bedard",
-   "target": "stq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-11-09",
-     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
-     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
-    }
-   ]
-  },
-  {
    "source": "guy-cormier",
    "target": "pspp",
    "weight": 2,
@@ -14634,6 +15166,23 @@
    ]
   },
   {
+   "source": "melanie-joly",
+   "target": "rio-tinto",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
    "source": "mii",
    "target": "upac",
    "weight": 2,
@@ -14907,6 +15456,23 @@
   },
   {
    "source": "pspp",
+   "target": "soraya-martinez-ferrada",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "spgq",
    "weight": 2,
    "stories": [
@@ -14923,19 +15489,36 @@
    ]
   },
   {
-   "source": "rio-tinto",
+   "source": "rtc",
+   "target": "stm",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
    "target": "stephane-paquet",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
     },
     {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
     }
    ]
   },
@@ -16409,6 +16992,78 @@
    ]
   },
   {
+   "source": "amazon-web-services",
+   "target": "attac-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "amazon-web-services",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "amazon-web-services",
+   "target": "mrnf",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "amazon-web-services",
+   "target": "msi",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "amazon-web-services",
+   "target": "uqam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "amazon-web-services",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
    "source": "amf",
    "target": "degna-jean-marcel-sian",
    "weight": 1,
@@ -17309,6 +17964,66 @@
    ]
   },
   {
+   "source": "attac-quebec",
+   "target": "mcn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "attac-quebec",
+   "target": "mrnf",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "attac-quebec",
+   "target": "msi",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "attac-quebec",
+   "target": "uqam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "attac-quebec",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
    "source": "aviseo-conseil",
    "target": "caq",
    "weight": 1,
@@ -17406,6 +18121,30 @@
   },
   {
    "source": "bape",
+   "target": "jean-pellerin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "melccfp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    }
+   ]
+  },
+  {
+   "source": "bape",
    "target": "mrc-coaticook",
    "weight": 1,
    "stories": [
@@ -17461,6 +18200,18 @@
      "date": "2026-10-29",
      "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
      "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "tes-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
     }
    ]
   },
@@ -17851,18 +18602,6 @@
   {
    "source": "bruno-marchand",
    "target": "pierre-paul-hus",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "Rencontre avec PSPP : pas possible à Québec avant décembre, répond Carney",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297572/pspp-carney-premiere-rencontre-quebec"
-    }
-   ]
-  },
-  {
-   "source": "bruno-marchand",
-   "target": "pspp",
    "weight": 1,
    "stories": [
     {
@@ -18498,6 +19237,18 @@
   },
   {
    "source": "caq",
+   "target": "nicolas-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "nicolas-marceau",
    "weight": 1,
    "stories": [
@@ -18594,6 +19345,18 @@
   },
   {
    "source": "caq",
+   "target": "rtc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "schl",
    "weight": 1,
    "stories": [
@@ -18673,6 +19436,18 @@
      "date": "2026-11-10",
      "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
      "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "stm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
     }
    ]
   },
@@ -18997,6 +19772,30 @@
      "date": "2026-11-08",
      "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
      "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
+    }
+   ]
+  },
+  {
+   "source": "ccm",
+   "target": "claude-villeneuve",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
+    }
+   ]
+  },
+  {
+   "source": "ccm",
+   "target": "cour-superieure",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
   },
@@ -19333,6 +20132,54 @@
      "date": "2026-11-04",
      "headline": "L’élargissement de la consigne pourrait encore être reporté",
      "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    }
+   ]
+  },
+  {
+   "source": "cf-montreal",
+   "target": "joey-saputo",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
+   "source": "cf-montreal",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
+   "source": "cf-montreal",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
+   "source": "cf-montreal",
+   "target": "stephane-paquet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
     }
    ]
   },
@@ -19837,6 +20684,18 @@
      "date": "2026-10-21",
      "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    }
+   ]
+  },
+  {
+   "source": "claude-villeneuve",
+   "target": "cour-superieure",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
   },
@@ -21209,6 +22068,78 @@
    ]
   },
   {
+   "source": "csn",
+   "target": "domtar",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "csn",
+   "target": "jimmy-bouchard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "csn",
+   "target": "luc-boivin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "csn",
+   "target": "unifor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "cssdm",
+   "target": "fppe",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
+     "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
+    }
+   ]
+  },
+  {
+   "source": "cssdm",
+   "target": "fpss-csq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
+     "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
+    }
+   ]
+  },
+  {
    "source": "cusm",
    "target": "hopital-general-montreal",
    "weight": 1,
@@ -21841,6 +22772,42 @@
      "date": "2026-11-06",
      "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
      "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    }
+   ]
+  },
+  {
+   "source": "domtar",
+   "target": "jimmy-bouchard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "domtar",
+   "target": "luc-boivin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "domtar",
+   "target": "unifor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
     }
    ]
   },
@@ -23345,6 +24312,18 @@
    ]
   },
   {
+   "source": "fppe",
+   "target": "fpss-csq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
+     "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
+    }
+   ]
+  },
+  {
    "source": "fpss-csq",
    "target": "fqde",
    "weight": 1,
@@ -24301,6 +25280,18 @@
      "date": "2026-10-21",
      "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
+    }
+   ]
+  },
+  {
+   "source": "greta-bedard",
+   "target": "nicolas-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
     }
    ]
   },
@@ -25793,6 +26784,30 @@
    ]
   },
   {
+   "source": "jean-pellerin",
+   "target": "melccfp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    }
+   ]
+  },
+  {
+   "source": "jean-pellerin",
+   "target": "tes-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    }
+   ]
+  },
+  {
    "source": "jean-simard",
    "target": "melanie-joly",
    "weight": 1,
@@ -25949,6 +26964,30 @@
    ]
   },
   {
+   "source": "jimmy-bouchard",
+   "target": "luc-boivin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "jimmy-bouchard",
+   "target": "unifor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
    "source": "jodie-ashini",
    "target": "mark-carney",
    "weight": 1,
@@ -26053,6 +27092,42 @@
      "date": "2026-10-21",
      "headline": "Conseil des ministres : de l’expérience aux postes clés",
      "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    }
+   ]
+  },
+  {
+   "source": "joey-saputo",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
+   "source": "joey-saputo",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    }
+   ]
+  },
+  {
+   "source": "joey-saputo",
+   "target": "stephane-paquet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
     }
    ]
   },
@@ -26785,6 +27860,18 @@
      "date": "2026-11-06",
      "headline": "Fermé depuis 2020: des fenêtres mal conçues ont retardé les travaux de l'observatoire du stade olympique",
      "url": "https://www.journaldemontreal.com/2026/11/06/ferme-depuis-2020-des-fenetres-mal-concues-ont-retarde-les-travaux-de-lobservatoire-du-stade-olympique"
+    }
+   ]
+  },
+  {
+   "source": "luc-boivin",
+   "target": "unifor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
     }
    ]
   },
@@ -27594,6 +28681,30 @@
   },
   {
    "source": "mcn",
+   "target": "mrnf",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "mcn",
+   "target": "msi",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "mcn",
    "target": "patrick-dube",
    "weight": 1,
    "stories": [
@@ -27653,14 +28764,38 @@
    ]
   },
   {
-   "source": "melanie-joly",
-   "target": "rio-tinto",
+   "source": "mcn",
+   "target": "uqam",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "mcn",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "melanie-joly",
+   "target": "nemaska-lithium",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
     }
    ]
   },
@@ -27673,6 +28808,30 @@
      "date": "2026-10-24",
      "headline": "Ottawa prête 193 millions à deux géants de l’aluminium",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-24/ottawa-prete-193-millions-a-deux-geants-de-l-aluminium.php"
+    }
+   ]
+  },
+  {
+   "source": "melanie-joly",
+   "target": "stephane-paquet",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
+   "source": "melccfp",
+   "target": "tes-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
     }
    ]
   },
@@ -27917,6 +29076,42 @@
    ]
   },
   {
+   "source": "mrnf",
+   "target": "msi",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "mrnf",
+   "target": "uqam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "mrnf",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
    "source": "msi",
    "target": "mtmd",
    "weight": 1,
@@ -27925,6 +29120,30 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "source": "msi",
+   "target": "uqam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    }
+   ]
+  },
+  {
+   "source": "msi",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     }
    ]
   },
@@ -28158,6 +29377,18 @@
   },
   {
    "source": "nicolas-girard",
+   "target": "rtc",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-girard",
    "target": "sante-quebec",
    "weight": 1,
    "stories": [
@@ -28189,6 +29420,30 @@
      "date": "2026-11-10",
      "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
      "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-girard",
+   "target": "stm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-girard",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
     }
    ]
   },
@@ -29190,18 +30445,6 @@
   },
   {
    "source": "pspp",
-   "target": "soraya-martinez-ferrada",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
    "target": "stephanie-martin",
    "weight": 1,
    "stories": [
@@ -29525,18 +30768,6 @@
    ]
   },
   {
-   "source": "rtc",
-   "target": "stm",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Retards, annulations et bogues : explosion des plaintes au RTC à la rentrée 2026",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296254/nomade-retard-annulation-autobus-transport"
-    }
-   ]
-  },
-  {
    "source": "ruba-ghazal",
    "target": "sebastien-dastous",
    "weight": 1,
@@ -29838,18 +31069,6 @@
   },
   {
    "source": "soraya-martinez-ferrada",
-   "target": "stephane-paquet",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    }
-   ]
-  },
-  {
-   "source": "soraya-martinez-ferrada",
    "target": "ville-quebec",
    "weight": 1,
    "stories": [
@@ -30025,6 +31244,18 @@
      "date": "2026-10-26",
      "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
      "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
+    }
+   ]
+  },
+  {
+   "source": "uqam",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     }
    ]
   },

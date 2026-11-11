@@ -2603,6 +2603,98 @@
    "name": "Pulsar",
    "type": "organization",
    "aliases": []
+  },
+  "amazon-web-services": {
+   "name": "Amazon Web Services",
+   "type": "organization",
+   "aliases": [
+    "AWS"
+   ]
+  },
+  "attac-quebec": {
+   "name": "Attac Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "mrnf": {
+   "name": "Ministère des Ressources naturelles et des Forêts",
+   "type": "organization",
+   "aliases": [
+    "MRNF"
+   ]
+  },
+  "uqam": {
+   "name": "Université du Québec à Montréal",
+   "type": "organization",
+   "aliases": [
+    "UQAM"
+   ]
+  },
+  "cssdm": {
+   "name": "Centre de services scolaire de Montréal",
+   "type": "organization",
+   "aliases": [
+    "CSSDM",
+    "CSS de Montréal"
+   ]
+  },
+  "fppe": {
+   "name": "Fédération du personnel professionnel de l’éducation du Québec",
+   "type": "organization",
+   "aliases": [
+    "FPPE-CSQ"
+   ]
+  },
+  "domtar": {
+   "name": "Domtar",
+   "type": "organization",
+   "aliases": []
+  },
+  "jimmy-bouchard": {
+   "name": "Jimmy Bouchard",
+   "type": "person",
+   "aliases": []
+  },
+  "luc-boivin": {
+   "name": "Luc Boivin",
+   "type": "person",
+   "aliases": []
+  },
+  "unifor": {
+   "name": "Unifor",
+   "type": "organization",
+   "aliases": []
+  },
+  "csn": {
+   "name": "Confédération des syndicats nationaux",
+   "type": "organization",
+   "aliases": [
+    "CSN"
+   ]
+  },
+  "cf-montreal": {
+   "name": "CF Montréal",
+   "type": "organization",
+   "aliases": [
+    "CF Montreal"
+   ]
+  },
+  "joey-saputo": {
+   "name": "Joey Saputo",
+   "type": "person",
+   "aliases": []
+  },
+  "claude-villeneuve": {
+   "name": "Claude Villeneuve",
+   "type": "person",
+   "aliases": []
+  },
+  "ccm": {
+   "name": "Conseil canadien de la magistrature",
+   "type": "organization",
+   "aliases": [
+    "Canadian Judicial Council"
+   ]
   }
  },
  "stories": [
@@ -5106,6 +5198,116 @@
     "julie-kim-godin",
     "rem",
     "pulsar"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec",
+   "entities": [
+    "amazon-web-services",
+    "attac-quebec",
+    "msi",
+    "mrnf",
+    "mcn",
+    "uqam",
+    "ville-montreal"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "it-procurement"
+   ]
+  },
+  {
+   "match": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude",
+   "entities": [
+    "cssdm",
+    "fpss-csq",
+    "fppe"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine",
+   "entities": [
+    "nemaska-lithium",
+    "rio-tinto",
+    "stephane-paquet",
+    "melanie-joly"
+   ],
+   "dossiers": [
+    "nemaska-lithium"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape",
+   "entities": [
+    "tes-canada",
+    "bape",
+    "jean-pellerin",
+    "melccfp"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales",
+   "entities": [
+    "domtar",
+    "jimmy-bouchard",
+    "luc-boivin",
+    "unifor",
+    "csn"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif",
+   "entities": [
+    "nicolas-girard",
+    "rtc",
+    "stm",
+    "caq"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard",
+   "entities": [
+    "nicolas-girard",
+    "stq",
+    "greta-bedard"
+   ],
+   "dossiers": [
+    "stq-isle-aux-coudres"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal",
+   "entities": [
+    "pspp",
+    "stephane-paquet",
+    "cf-montreal",
+    "joey-saputo",
+    "soraya-martinez-ferrada"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa",
+   "entities": [
+    "pspp",
+    "mark-carney",
+    "bruno-marchand"
+   ],
+   "dossiers": [
+    "homelessness"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration",
+   "entities": [
+    "claude-villeneuve",
+    "ccm",
+    "cour-superieure"
    ],
    "dossiers": []
   }

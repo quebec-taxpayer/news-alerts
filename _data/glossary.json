@@ -396,6 +396,24 @@
    "match_fr": [
     "SEAO"
    ]
+  },
+  {
+   "id": "bape",
+   "term_en": "BAPE (Bureau d’audiences publiques sur l’environnement)",
+   "term_fr": "BAPE (Bureau d’audiences publiques sur l’environnement)",
+   "def_en": "A Quebec public body that informs and consults citizens, investigates, then advises the Environment minister on the files the minister gives it. Its reports are among the things the minister considers before the government decides.",
+   "def_fr": "Organisme québécois qui informe et consulte les citoyens, enquête, puis avise le ou la ministre de l’Environnement sur les dossiers qu’il lui confie. Ses rapports font partie des éléments pris en compte avant la décision du gouvernement.",
+   "source_en": "https://www.bape.gouv.qc.ca/fr/bape/",
+   "source_fr": "https://www.bape.gouv.qc.ca/fr/bape/",
+   "source_label": "BAPE – Le Bureau d’audiences publiques sur l’environnement (rôles du BAPE)",
+   "match_en": [
+    "BAPE",
+    "Bureau d’audiences publiques sur l’environnement"
+   ],
+   "match_fr": [
+    "BAPE",
+    "Bureau d’audiences publiques sur l’environnement"
+   ]
   }
  ]
 }

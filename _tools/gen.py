@@ -56,7 +56,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-07": ["crown-corporations", "procurement"],
         "2026-11-08": [],
         "2026-11-09": ["crown-corporations"],
-        "2026-11-10": ["crown-corporations", "procurement"]}
+        "2026-11-10": ["crown-corporations", "procurement"],
+        "2026-11-11": ["it-digital", "crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -101,6 +102,8 @@ SUMMARY = {
                 "Quebec ends forgivable loans; the Liberals contest the Vachon result in court; Consignaction relies on unreturned containers; a ferry withdrawn as a precaution at L’Isle-aux-Coudres; La Fontaine tunnel; academic freedom; arson fires in Ormstown; protest outside Station 39; medical helicopter transport; a coroner’s recommendations in Verdun."),
  "2026-11-10": ("Près d’une centaine de mises à pied chez Nemaska Lithium; Hydro-Québec remplacera des thermostats Hilo; soumissions trop élevées pour l’urgence de l’hôpital de Jonquière; François Legault défend les prêts pardonnables; appels à encadrer les centres de données; une conseillère spéciale pour la Capitale-Nationale; traversiers de L’Isle-aux-Coudres; grève étudiante; coûts en hausse à Lévis; rapport de coroner sur une gare du REM.",
                 "Nearly a hundred layoffs at Nemaska Lithium; Hydro-Québec to replace Hilo thermostats; bids too high for the Jonquière hospital emergency department; François Legault defends forgivable loans; calls to regulate data centres; a special adviser for the Capitale-Nationale; L’Isle-aux-Coudres ferries; student strike; rising costs in Lévis; coroner’s report on a REM station."),
+ "2026-11-11": ("Plus de 40 M$ en contrats publics à Amazon Web Services; des écoles recourent à des chasseurs de têtes et à des agences; l’électrification des autobus n’est plus une priorité; ralentissement confirmé chez Nemaska Lithium; audiences du BAPE sur TES Canada; Domtar et les centrales de la Shipshaw; le ministre Girard et les ratés de la STQ; CF Montréal; itinérance et conditions fédérales; le juge Villeneuve demande sa réintégration.",
+                "More than $40M in public contracts to Amazon Web Services; schools turn to headhunters and agencies; bus electrification no longer a priority; Nemaska Lithium slowdown confirmed; BAPE hearings on TES Canada; Domtar and the Shipshaw power plants; Minister Girard on STQ breakdowns; CF Montréal; homelessness and federal conditions; Judge Villeneuve seeks reinstatement."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

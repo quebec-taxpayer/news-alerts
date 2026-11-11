@@ -480,7 +480,9 @@
     "anne-nguyen",
     "conseil-tresor",
     "marie-karlynn-laflamme",
-    "cegerco"
+    "cegerco",
+    "amazon-web-services",
+    "attac-quebec"
    ],
    "events": [
     {
@@ -559,6 +561,17 @@
      "source_type": "media",
      "post": "2026-11-10",
      "background": false
+    },
+    {
+     "date": "2026-11-10",
+     "en": "Le Journal de Montréal reports that, according to a compilation of public contracts by the activist group Attac Québec, the Quebec government has awarded more than $40 million to Amazon Web Services since January 2025, despite directives adopted in early 2025 to reduce purchases on Amazon.",
+     "fr": "Le Journal de Montréal rapporte que, selon une compilation de contrats publics par l’organisme militant Attac Québec, le gouvernement du Québec a octroyé plus de 40 millions $ à Amazon Web Services depuis janvier 2025, malgré des directives adoptées début 2025 pour réduire les achats sur Amazon.",
+     "source_title": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec",
+     "source_type": "media",
+     "post": "2026-11-11",
+     "background": false
     }
    ],
    "tldr": {
@@ -571,8 +584,8 @@
      "fr": "Les contrats sans concurrence ouverte sont payés avec des fonds publics. SAAQclic a montré comment les coûts peuvent grimper."
     },
     "now": {
-     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board; the Treasury Board president says a bill will follow once the new structure is in place. No chief information officer has been designated. In Jonquière, bids for the hospital emergency expansion came in above Quebec’s planned amount, and Treasury Board approval is now being sought.",
-     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor; le président du Conseil du trésor dit qu’un projet de loi suivra une fois la nouvelle structure en place. Aucun dirigeant principal de l’information n’a été désigné. À Jonquière, les soumissions pour l’agrandissement de l’urgence ont dépassé le montant prévu par Québec, et l’approbation du Conseil du trésor est maintenant demandée."
+     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board; the Treasury Board president says a bill will follow once the new structure is in place. No chief information officer has been designated. In Jonquière, bids for the hospital emergency expansion came in above Quebec’s planned amount, and Treasury Board approval is now being sought. A compilation by the group Attac Québec says Quebec has kept paying Amazon Web Services for IT services since early 2025.",
+     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor; le président du Conseil du trésor dit qu’un projet de loi suivra une fois la nouvelle structure en place. Aucun dirigeant principal de l’information n’a été désigné. À Jonquière, les soumissions pour l’agrandissement de l’urgence ont dépassé le montant prévu par Québec, et l’approbation du Conseil du trésor est maintenant demandée. Une compilation de l’organisme Attac Québec indique que Québec a continué de payer Amazon Web Services pour des services informatiques depuis le début de 2025."
     }
    }
   },
@@ -1642,7 +1655,9 @@
     "ville-montreal",
     "soraya-martinez-ferrada",
     "accueil-bonneau",
-    "jean-charles-boily"
+    "jean-charles-boily",
+    "mark-carney",
+    "bruno-marchand"
    ],
    "events": [
     {
@@ -1699,6 +1714,17 @@
      "source_type": "media",
      "post": "2026-11-06",
      "background": false
+    },
+    {
+     "date": "2026-11-10",
+     "en": "Premier Paul St-Pierre Plamondon says he opposes any conditions on the $2 billion Ottawa is to pay Quebec for homelessness and plans to raise it with Prime Minister Mark Carney; Quebec City Mayor Bruno Marchand warns politicians against seeking political gains on the issue.",
+     "fr": "Le premier ministre Paul St-Pierre Plamondon s’oppose à toute condition sur les 2 milliards $ qu’Ottawa doit verser à Québec pour l’itinérance et compte en parler au premier ministre Mark Carney; le maire de Québec, Bruno Marchand, met en garde les politiciens contre la recherche de gains politiques.",
+     "source_title": "PSPP ne veut pas de conditions du fédéral en itinérance",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa",
+     "source_type": "media",
+     "post": "2026-11-11",
+     "background": false
     }
    ],
    "tldr": {
@@ -1711,8 +1737,8 @@
      "fr": "L’argent paie de l’hébergement et de l’aide aux personnes sans logis pendant les mois froids."
     },
     "now": {
-     "en": "Mayors in Montreal, Laval and Quebec City welcomed an $11.2-billion, four-year federal package against homelessness. Quebec says it takes note of the funding and wants it paid quickly, without conditions and with respect for its jurisdictions.",
-     "fr": "Les maires de Montréal, Laval et Québec ont salué une enveloppe fédérale de 11,2 milliards sur quatre ans contre l’itinérance. Québec dit prendre note de ces sommes et veut qu’elles soient versées rapidement, sans condition et dans le respect de ses compétences."
+     "en": "Ottawa has announced new money against homelessness. Quebec wants its share paid quickly and without conditions, and the premier plans to raise it with the prime minister. Mayors want the money to reach people fast.",
+     "fr": "Ottawa a annoncé de nouvelles sommes contre l’itinérance. Québec veut recevoir sa part rapidement et sans condition, et le premier ministre compte en parler au premier ministre canadien. Les maires veulent que l’argent arrive vite."
     }
    }
   },
@@ -2764,7 +2790,8 @@
     "investissement-quebec",
     "stephane-paquet",
     "pspp",
-    "rio-tinto"
+    "rio-tinto",
+    "melanie-joly"
    ],
    "events": [
     {
@@ -2810,6 +2837,17 @@
      "source_type": "media",
      "post": "2026-11-10",
      "background": false
+    },
+    {
+     "date": "2026-11-10",
+     "en": "The Quebec government confirms that 68 workers are affected by the slowdown of the Bécancour construction site; Rio Tinto says Nemaska Lithium informed staff of the workforce reduction, and federal Industry Minister Mélanie Joly says federal support depends on production.",
+     "fr": "Le gouvernement du Québec confirme que 68 travailleurs sont touchés par le ralentissement du chantier de Bécancour; Rio Tinto indique que Nemaska Lithium a informé son personnel de la réduction des effectifs, et la ministre fédérale de l’Industrie, Mélanie Joly, affirme que le soutien fédéral dépend de la production.",
+     "source_title": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine",
+     "source_type": "media",
+     "post": "2026-11-11",
+     "background": false
     }
    ],
    "tldr": {
@@ -2822,8 +2860,8 @@
      "fr": "Le Journal de Montréal rapporte un risque de financement pour l’usine de Bécancour, selon des sources anonymes."
     },
     "now": {
-     "en": "The new government says it will put no more money into the project. Layoffs have started at the Bécancour plant, and TVA reports that Investissement Québec is thinking about selling its shares.",
-     "fr": "Le nouveau gouvernement affirme qu’il ne versera plus d’argent dans le projet. Des mises à pied commencent à l’usine de Bécancour, et TVA rapporte qu’Investissement Québec songe à vendre ses actions."
+     "en": "Quebec says it will put no more money into the project, and Ottawa says it will help only once production starts. Layoffs have begun at the Bécancour plant while Rio Tinto reviews the project.",
+     "fr": "Québec affirme qu’il ne versera plus d’argent dans le projet, et Ottawa dit qu’il n’aidera qu’une fois la production lancée. Des mises à pied commencent à l’usine de Bécancour pendant que Rio Tinto réévalue le projet."
     }
    }
   },
@@ -2838,7 +2876,8 @@
     "christyan-dufour",
     "caroline-simard",
     "noelle-ange-harvey",
-    "greta-bedard"
+    "greta-bedard",
+    "nicolas-girard"
    ],
    "events": [
     {
@@ -2884,6 +2923,17 @@
      "source_type": "media",
      "post": "2026-11-09",
      "background": false
+    },
+    {
+     "date": "2026-11-10",
+     "en": "Transport Minister Nicolas Girard calls the situation “completely unacceptable” and says he will soon meet STQ CEO Greta Bédard; he will not yet say whether Quebec will invest in more ferries.",
+     "fr": "Le ministre des Transports, Nicolas Girard, juge la situation « complètement inacceptable » et annonce qu’il rencontrera sous peu la PDG de la STQ, Greta Bédard; il refuse pour l’instant de dire si Québec investira dans d’autres traversiers.",
+     "source_title": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard",
+     "source_type": "media",
+     "post": "2026-11-11",
+     "background": false
     }
    ],
    "tldr": {
@@ -2896,8 +2946,8 @@
      "fr": "Les insulaires dépendent du traversier pour le travail, la nourriture et les soins. La députée locale dit que la panne a révélé des failles du plan d’urgence."
     },
     "now": {
-     "en": "A replacement ferry is running. The Joseph-Savard was kept at the dock again as a precaution. The mayor wants new docks closer to Baie-Saint-Paul.",
-     "fr": "Un traversier de remplacement assure le service. Le Joseph-Savard est de nouveau resté à quai par prévention. Le maire réclame de nouveaux quais plus près de Baie-Saint-Paul."
+     "en": "A replacement ferry is running, but breakdowns continue. The transport minister calls the situation unacceptable and will meet the STQ’s CEO. The mayor wants new docks closer to Baie-Saint-Paul.",
+     "fr": "Un traversier de remplacement assure le service, mais les bris se poursuivent. Le ministre des Transports juge la situation inacceptable et rencontrera la PDG de la STQ. Le maire réclame de nouveaux quais plus près de Baie-Saint-Paul."
     }
    }
   },

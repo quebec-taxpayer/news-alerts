@@ -1013,6 +1013,56 @@
    "category": "other",
    "importance": 2,
    "title_fr": "Après la mort de deux frères, une coroner du Québec demande des améliorations à la clôture d’une gare du REM"
+  },
+  "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "More than $40M in public contracts to Amazon since it closed its Quebec warehouses"
+  },
+  "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Schools’ use of headhunters and agencies raises concern"
+  },
+  "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Quebec confirms the slowdown of the Nemaska Lithium construction site"
+  },
+  "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "BAPE hearings on TES Canada’s project to begin in December"
+  },
+  "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Domtar wants to separate its hydroelectric plants from the future of the Kénogami mill"
+  },
+  "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Bus electrification is no longer a priority for the Quebec government"
+  },
+  "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "STQ breakdowns: “It is a priority file,” warns Nicolas Girard"
+  },
+  "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Quebec does not rule out public participation to save CF Montréal"
+  },
+  "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "PSPP wants no federal conditions on homelessness"
+  },
+  "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration": {
+   "category": "justice",
+   "importance": 2,
+   "title_en": "Judge Claude Villeneuve asks to be reinstated"
   }
  }
 }
