@@ -2695,6 +2695,88 @@
    "aliases": [
     "Canadian Judicial Council"
    ]
+  },
+  "asfc": {
+   "name": "Agence des services frontaliers du Canada",
+   "type": "organization",
+   "aliases": [
+    "ASFC",
+    "Canada Border Services Agency",
+    "CBSA"
+   ]
+  },
+  "croisieres-aml": {
+   "name": "Croisières AML",
+   "type": "organization",
+   "aliases": [
+    "Croisière AML"
+   ]
+  },
+  "edf-solutions": {
+   "name": "EDF Solutions électriques",
+   "type": "organization",
+   "aliases": []
+  },
+  "alliance-energie-est": {
+   "name": "Alliance de l’énergie de l’Est",
+   "type": "organization",
+   "aliases": [
+    "Alliance de l'énergie de l'Est"
+   ]
+  },
+  "falco": {
+   "name": "Ressources Falco",
+   "type": "organization",
+   "aliases": [
+    "Falco",
+    "Falco Resources"
+   ]
+  },
+  "flo": {
+   "name": "Flo",
+   "type": "organization",
+   "aliases": [
+    "FLO"
+   ]
+  },
+  "louis-tremblay-flo": {
+   "name": "Louis Tremblay",
+   "type": "person",
+   "aliases": []
+  },
+  "mario-leblanc-flo": {
+   "name": "Mario Leblanc",
+   "type": "person",
+   "aliases": []
+  },
+  "ville-saguenay": {
+   "name": "Ville de Saguenay",
+   "type": "organization",
+   "aliases": [
+    "Saguenay"
+   ]
+  },
+  "jean-francois-boivin": {
+   "name": "Jean-François Boivin",
+   "type": "person",
+   "aliases": []
+  },
+  "claude-lemieux": {
+   "name": "Claude Lemieux",
+   "type": "person",
+   "aliases": []
+  },
+  "madwa-nika-cadet": {
+   "name": "Madwa-Nika Cadet",
+   "type": "person",
+   "aliases": []
+  },
+  "ramq": {
+   "name": "Régie de l’assurance maladie du Québec",
+   "type": "organization",
+   "aliases": [
+    "RAMQ"
+   ]
   }
  },
  "stories": [
@@ -4878,7 +4960,9 @@
     "bruno-marchand",
     "table-littoral-est"
    ],
-   "dossiers": []
+   "dossiers": [
+    "garage-canardiere"
+   ]
   },
   {
    "match": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification",
@@ -5308,6 +5392,117 @@
     "claude-villeneuve",
     "ccm",
     "cour-superieure"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.noovo.info/nouvelles/justice/article/une-ex-employee-et-deux-complices-accuses-de-vol-de-donnees-de-la-saaq/",
+   "entities": [
+    "saaq",
+    "clcc",
+    "asfc"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois",
+   "entities": [
+    "stq",
+    "christyan-dufour",
+    "croisieres-aml",
+    "msi"
+   ],
+   "dossiers": [
+    "stq-isle-aux-coudres"
+   ]
+  },
+  {
+   "match": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu",
+   "entities": [
+    "hydro-quebec",
+    "edf-solutions",
+    "alliance-energie-est"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299975/mine-rouyn-noranda-falco-horne5",
+   "entities": [
+    "falco",
+    "melccfp",
+    "bape"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/12/filiere-batterie-le-fondateur-de-flo-et-ex-dragon-invite-quitte-le-navire",
+   "entities": [
+    "flo",
+    "louis-tremblay-flo",
+    "mario-leblanc-flo"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition",
+   "entities": [
+    "marie-karlynn-laflamme",
+    "sante-quebec",
+    "pq",
+    "pspp",
+    "charles-milliard",
+    "ruba-ghazal",
+    "eric-duhaime",
+    "qs"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques",
+   "entities": [
+    "sante-quebec",
+    "christian-dube",
+    "ramq"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299824/requalification-garage-canardiere-couts-152-millions",
+   "entities": [
+    "ville-quebec",
+    "bruno-marchand",
+    "table-littoral-est"
+   ],
+   "dossiers": [
+    "garage-canardiere"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin",
+   "entities": [
+    "ville-saguenay",
+    "luc-boivin",
+    "jean-francois-boivin",
+    "claude-lemieux"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373",
+   "entities": [
+    "pascal-berube",
+    "pq",
+    "pspp",
+    "eric-duhaime",
+    "madwa-nika-cadet",
+    "qs"
    ],
    "dossiers": []
   }

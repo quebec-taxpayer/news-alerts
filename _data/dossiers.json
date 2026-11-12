@@ -123,7 +123,9 @@
     "mrc-coaticook",
     "equiterre",
     "stephane-paquet",
-    "fqm"
+    "fqm",
+    "edf-solutions",
+    "alliance-energie-est"
    ],
    "events": [
     {
@@ -355,6 +357,17 @@
      "source_type": "media",
      "post": "2026-11-10",
      "background": false
+    },
+    {
+     "date": "2026-11-12",
+     "en": "Le Devoir reports that four new wind farms totalling 700 MW, due to go into service by December 1, will not be ready this winter; their developers expect start-ups between April and December 2027. Hydro-Québec says the adjustments are built into its planning.",
+     "fr": "Le Devoir rapporte que quatre nouveaux parcs éoliens totalisant 700 MW, qui devaient entrer en service au plus tard le 1er décembre, ne seront pas prêts cet hiver; leurs promoteurs prévoient des démarrages entre avril et décembre 2027. Hydro-Québec dit que ces ajustements sont intégrés à sa planification.",
+     "source_title": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
+     "source_outlet": "Le Devoir",
+     "source_url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu",
+     "source_type": "media",
+     "post": "2026-11-12",
+     "background": false
     }
    ],
    "tldr": {
@@ -367,8 +380,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval. It will also replace some Hilo thermostats for free. Groups want clear rules for data centres; the economy minister’s office says it needs time.",
-     "fr": "Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal. Elle remplacera aussi sans frais certains thermostats Hilo. Des groupes réclament des règles claires pour les centres de données; le cabinet du ministre de l’Économie dit avoir besoin de temps."
+     "en": "Four new wind farms will not be ready this winter as planned, Le Devoir reports. Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval, and will replace some Hilo thermostats for free.",
+     "fr": "Quatre nouveaux parcs éoliens ne seront pas prêts cet hiver comme prévu, rapporte Le Devoir. Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal, et remplacera sans frais certains thermostats Hilo."
     }
    }
   },
@@ -932,7 +945,8 @@
     "marie-karlynn-laflamme",
     "genevieve-biron",
     "christian-dube",
-    "monsef-derraji"
+    "monsef-derraji",
+    "ramq"
    ],
    "events": [
     {
@@ -1065,6 +1079,28 @@
      "source_url": "https://ici.radio-canada.ca/nouvelle/2298373/ia-sante-quebec-appels-info-sante",
      "background": true,
      "source_type": "media"
+    },
+    {
+     "date": "2026-11-11",
+     "en": "Health Minister Marie-Karlynn Laflamme speaks of a “transformation” of Santé Québec at a press scrum, then writes on X that there was never any question of backing down on the PQ promise to abolish it.",
+     "fr": "La ministre de la Santé, Marie-Karlynn Laflamme, parle d’une « transformation » de Santé Québec lors d’une mêlée de presse, puis écrit sur X qu’il n’a jamais été question de reculer sur la promesse péquiste de l’abolir.",
+     "source_title": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition",
+     "source_type": "media",
+     "post": "2026-11-12",
+     "background": false
+    },
+    {
+     "date": "2026-11-11",
+     "en": "Santé Québec tells Radio-Canada it is cancelling a tender seeking private clinics to operate, at public expense, on patients waiting more than a year for orthopedic or plastic surgery; it says the tender did not attract enough clinics.",
+     "fr": "Santé Québec indique à Radio-Canada qu’elle annule un appel d’offres visant des cliniques privées pour opérer, aux frais de l’État, des patients attendant depuis plus d’un an une chirurgie orthopédique ou plastique; selon elle, l’appel d’offres n’a pas attiré assez de cliniques.",
+     "source_title": "Santé Québec annule un projet pilote de chirurgies au privé",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques",
+     "source_type": "media",
+     "post": "2026-11-12",
+     "background": false
     }
    ],
    "tldr": {
@@ -1077,8 +1113,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "The health minister promises a gradual abolition. In Chaudière-Appalaches, Santé Québec is cutting 44 care positions to curb a budget overrun; in Victoriaville, doctors blame workloads and the Digital Health Record rollout for departures.",
-     "fr": "La ministre de la Santé promet une abolition graduelle. En Chaudière-Appalaches, Santé Québec abolit 44 postes en soins pour limiter un dépassement budgétaire; à Victoriaville, des médecins attribuent des départs à la surcharge et à l’implantation du Dossier santé numérique."
+     "en": "The health minister spoke of a “transformation”, then said the promise to abolish Santé Québec stands. Santé Québec has cancelled a tender to have private clinics operate on patients who have waited more than a year.",
+     "fr": "La ministre de la Santé a parlé d’une « transformation », puis assuré que la promesse d’abolir Santé Québec tient toujours. Santé Québec a annulé un appel d’offres pour faire opérer en clinique privée des patients qui attendent depuis plus d’un an."
     }
    }
   },
@@ -2877,7 +2913,8 @@
     "caroline-simard",
     "noelle-ange-harvey",
     "greta-bedard",
-    "nicolas-girard"
+    "nicolas-girard",
+    "croisieres-aml"
    ],
    "events": [
     {
@@ -2934,6 +2971,28 @@
      "source_type": "media",
      "post": "2026-11-11",
      "background": false
+    },
+    {
+     "date": "2026-11-11",
+     "en": "The STQ puts the MV Joseph-Savard back in service on the L’Isle-aux-Coudres crossing in the afternoon; the MV Radisson, which had been filling in, can return to Quebec City.",
+     "fr": "La STQ remet le NM Joseph-Savard en service à la traverse de L’Isle-aux-Coudres en après-midi; le NM Radisson, qui assurait la relève, peut revenir à Québec.",
+     "source_title": "Le NM Joseph-Savard reprend du service",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299990/traversier-isle-aux-coudres-traverse",
+     "source_type": "media",
+     "post": null,
+     "background": false
+    },
+    {
+     "date": "2026-11-12",
+     "en": "Radio-Canada reports that a maritime transport expert urges the STQ to quickly rent an under-used ferry, ideally in Canada; the municipality has asked the Public Security ministry to extend its state of emergency until Nov. 21.",
+     "fr": "Radio-Canada rapporte qu’un spécialiste du transport maritime presse la STQ de louer rapidement un traversier sous-utilisé, idéalement au Canada; la municipalité a demandé au ministère de la Sécurité intérieure de prolonger l’état d’urgence jusqu’au 21 novembre.",
+     "source_title": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois",
+     "source_type": "media",
+     "post": "2026-11-12",
+     "background": false
     }
    ],
    "tldr": {
@@ -2946,8 +3005,8 @@
      "fr": "Les insulaires dépendent du traversier pour le travail, la nourriture et les soins. La députée locale dit que la panne a révélé des failles du plan d’urgence."
     },
     "now": {
-     "en": "A replacement ferry is running, but breakdowns continue. The transport minister calls the situation unacceptable and will meet the STQ’s CEO. The mayor wants new docks closer to Baie-Saint-Paul.",
-     "fr": "Un traversier de remplacement assure le service, mais les bris se poursuivent. Le ministre des Transports juge la situation inacceptable et rencontrera la PDG de la STQ. Le maire réclame de nouveaux quais plus près de Baie-Saint-Paul."
+     "en": "The MV Joseph-Savard is back in service after repeated breakdowns. An expert urges the STQ to rent a back-up ferry, and the municipality wants its state of emergency extended. The transport minister calls the situation unacceptable.",
+     "fr": "Le NM Joseph-Savard est de retour en service après des bris répétés. Un spécialiste presse la STQ de louer un traversier de relève, et la municipalité veut prolonger l’état d’urgence. Le ministre des Transports juge la situation inacceptable."
     }
    }
   },
@@ -3084,6 +3143,78 @@
     "now": {
      "en": "The new government has ended the program, but signed contracts will be honoured. Former premier François Legault defends it.",
      "fr": "Le nouveau gouvernement a mis fin au programme, mais les contrats signés seront respectés. L’ex-premier ministre François Legault le défend."
+    }
+   }
+  },
+  {
+   "id": "garage-canardiere",
+   "name_en": "Canardière garage (Quebec City)",
+   "name_fr": "Garage de la Canardière (Québec)",
+   "desc_en": "Quebec City’s promise to convert its Canardière municipal garage into a community and social-economy centre, and its reversal over costs.",
+   "desc_fr": "La promesse de la Ville de Québec de convertir son garage municipal de la Canardière en centre communautaire et d’économie sociale, et son recul en raison des coûts.",
+   "entities": [
+    "ville-quebec",
+    "bruno-marchand",
+    "table-littoral-est"
+   ],
+   "events": [
+    {
+     "date": "2025-03",
+     "en": "Quebec City reiterates its commitment to convert the Canardière garage into a multi-purpose social-economy and community centre, and announces a technical study of the building.",
+     "fr": "La Ville de Québec réitère son engagement de convertir le garage de la Canardière en centre multifonctionnel à vocation d’économie sociale et communautaire, et annonce une étude technique du bâtiment.",
+     "source_title": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec",
+     "source_type": "media",
+     "post": "2026-11-07",
+     "background": false
+    },
+    {
+     "date": "2026-09-25",
+     "en": "According to the City, cost information is shared with the groups involved in the garage project at a meeting.",
+     "fr": "Selon la Ville, l’information sur les coûts est partagée aux acteurs impliqués dans le projet du garage lors d’une rencontre.",
+     "source_title": "Garage de la Canardière : une promesse à 152 M$",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299824/requalification-garage-canardiere-couts-152-millions",
+     "source_type": "media",
+     "post": "2026-11-12",
+     "background": false
+    },
+    {
+     "date": "2026-11-07",
+     "en": "Radio-Canada reports that Quebec City is abandoning its promise to convert the garage, citing the building’s condition, the costs and the relocation of its employees.",
+     "fr": "Radio-Canada rapporte que la Ville de Québec renonce à sa promesse de convertir le garage, invoquant l’état du bâtiment, les coûts et le déménagement des employés.",
+     "source_title": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec",
+     "source_type": "media",
+     "post": "2026-11-07",
+     "background": false
+    },
+    {
+     "date": "2026-11-11",
+     "en": "Study results provided by the City show that converting the garage and relocating its employees would cost at least $152 million; the City will keep the garage in use and plans repairs.",
+     "fr": "Les résultats d’une étude fournis par la Ville montrent que convertir le garage et déménager ses employés coûterait au bas mot 152 millions $; la Ville maintiendra le garage en service et prévoit des travaux.",
+     "source_title": "Garage de la Canardière : une promesse à 152 M$",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299824/requalification-garage-canardiere-couts-152-millions",
+     "source_type": "media",
+     "post": "2026-11-12",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "Quebec City promised to turn its old Canardière garage into a community centre. A study then looked at the building.",
+     "fr": "La Ville de Québec avait promis de transformer son vieux garage de la Canardière en centre communautaire. Une étude a ensuite examiné le bâtiment."
+    },
+    "why": {
+     "en": "It is a city promise to residents, and the bill for keeping it would be paid with public money.",
+     "fr": "C’est une promesse de la Ville aux citoyens, et la facture pour la tenir serait payée avec des fonds publics."
+    },
+    "now": {
+     "en": "The City has dropped the plan because it would cost at least $152 million. It will keep the garage in use, and a citizens’ group is not reassured.",
+     "fr": "La Ville a abandonné le projet, qui coûterait au bas mot 152 millions $. Elle garde le garage en service, et un groupe citoyen n’est pas rassuré."
     }
    }
   }

@@ -414,6 +414,22 @@
     "BAPE",
     "Bureau d’audiences publiques sur l’environnement"
    ]
+  },
+  {
+   "id": "notwithstanding",
+   "term_en": "Notwithstanding clause",
+   "term_fr": "Disposition de dérogation",
+   "def_en": "Section 33 of the Canadian Charter of Rights and Freedoms. It lets Parliament or a provincial legislature declare that a law applies despite certain Charter rights; the declaration ends after five years unless it is adopted again.",
+   "def_fr": "L’article 33 de la Charte canadienne des droits et libertés. Il permet au Parlement ou à une législature provinciale de déclarer qu’une loi s’applique malgré certains droits de la Charte; la déclaration cesse d’avoir effet après cinq ans, sauf si elle est adoptée de nouveau.",
+   "source_en": "https://www.justice.gc.ca/eng/csj-sjc/rfc-dlc/ccrf-ccdl/check/art33.html",
+   "source_fr": "https://www.justice.gc.ca/fra/sjc-csj/dlc-rfc/ccdl-ccrf/check/art33.html",
+   "source_label": "Justice Canada – Charterpedia, Section 33 / Chartepédia, article 33",
+   "match_en": [
+    "notwithstanding clause"
+   ],
+   "match_fr": [
+    "disposition de dérogation"
+   ]
   }
  ]
 }

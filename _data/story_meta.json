@@ -1063,6 +1063,56 @@
    "category": "justice",
    "importance": 2,
    "title_en": "Judge Claude Villeneuve asks to be reinstated"
+  },
+  "https://www.noovo.info/nouvelles/justice/article/une-ex-employee-et-deux-complices-accuses-de-vol-de-donnees-de-la-saaq/": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "A former employee and two accomplices charged with theft of SAAQ data"
+  },
+  "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "A ferry to rent in Canada for L’Isle-aux-Coudres?"
+  },
+  "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu": {
+   "category": "energy",
+   "importance": 4,
+   "title_en": "Four wind farms will not go into service on December 1 as planned"
+  },
+  "https://ici.radio-canada.ca/article/info/2299975/mine-rouyn-noranda-falco-horne5": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Toward a decree for Falco’s Horne 5 project?"
+  },
+  "https://www.tvanouvelles.ca/2026/11/12/filiere-batterie-le-fondateur-de-flo-et-ex-dragon-invite-quitte-le-navire": {
+   "category": "energy",
+   "importance": 2,
+   "title_en": "Battery sector: Flo’s founder and former guest dragon leaves the ship"
+  },
+  "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "“Transformation” or “abolition”: confusion over the fate of Santé Québec"
+  },
+  "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques": {
+   "category": "health",
+   "importance": 4,
+   "title_en": "Santé Québec cancels a pilot project for surgeries in the private sector"
+  },
+  "https://ici.radio-canada.ca/article/info/2299824/requalification-garage-canardiere-couts-152-millions": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Canardière garage: a $152M promise"
+  },
+  "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Contracts renewed in the Saguenay mayor’s office"
+  },
+  "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373": {
+   "category": "government",
+   "importance": 3,
+   "title_fr": "Le gouvernement péquiste déposera un projet de loi restreignant l’accès aux cégeps anglophones — mais sera-t-il adopté?"
   }
  }
 }
