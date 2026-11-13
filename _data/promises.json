@@ -226,6 +226,34 @@
    "status_source_outlet": "La Presse",
    "status_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php",
    "status_source_date": "2026-11-03"
+  },
+  {
+   "id": "pq-paid-internships",
+   "dossier": "pq-transition",
+   "type": "outcome",
+   "status": "promised",
+   "item_en": "Paid mandatory internships",
+   "item_fr": "Rémunération des stages obligatoires",
+   "announced_en": "Pay for mandatory internships in public-sector fields, notably health, early childhood and education, promised by the PQ",
+   "announced_fr": "La rémunération des stages obligatoires dans des secteurs publics, notamment la santé, la petite enfance et l’éducation, promise par le PQ",
+   "announced_source_title": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+   "announced_source_outlet": "Le Journal de Québec",
+   "announced_source_url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur",
+   "actual_en": "Higher Education Minister Elsie Lefebvre says the PQ will keep this commitment despite the state of public finances, but cannot say whether it will come before the next semester",
+   "actual_fr": "La ministre de l’Enseignement supérieur, Elsie Lefebvre, assure que le PQ respectera cet engagement malgré l’état des finances publiques, sans pouvoir dire si ce sera avant la prochaine session",
+   "actual_source_title": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+   "actual_source_outlet": "Le Journal de Québec",
+   "actual_source_url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur",
+   "actual_date": "2026-11-12",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-11-12",
+   "status_evidence_en": "The minister reaffirms the commitment but gives no timeline; the cited source reports no bill, budget line or contract for it yet.",
+   "status_evidence_fr": "La ministre réaffirme l’engagement sans donner d’échéance; la source citée ne fait encore état d’aucun projet de loi, crédit budgétaire ou contrat.",
+   "status_source_title": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+   "status_source_outlet": "Le Journal de Québec",
+   "status_source_url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur",
+   "status_source_date": "2026-11-12"
   }
  ]
 }

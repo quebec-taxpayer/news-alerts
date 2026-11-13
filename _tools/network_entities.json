@@ -2777,6 +2777,78 @@
    "aliases": [
     "RAMQ"
    ]
+  },
+  "daniele-cantin": {
+   "name": "Danièle Cantin",
+   "type": "person",
+   "aliases": []
+  },
+  "julie-gingras": {
+   "name": "Julie Gingras",
+   "type": "person",
+   "aliases": []
+  },
+  "juliette-champagne": {
+   "name": "Juliette Champagne",
+   "type": "person",
+   "aliases": []
+  },
+  "sea-quebec": {
+   "name": "Secrétariat aux emplois supérieurs",
+   "type": "organization",
+   "aliases": []
+  },
+  "municipalite-sainte-flavie": {
+   "name": "Municipalité de Sainte-Flavie",
+   "type": "organization",
+   "aliases": [
+    "Sainte-Flavie"
+   ]
+  },
+  "jean-francois-fortin": {
+   "name": "Jean-François Fortin",
+   "type": "person",
+   "aliases": []
+  },
+  "mrc-la-mitis": {
+   "name": "MRC de La Mitis",
+   "type": "organization",
+   "aliases": []
+  },
+  "michel-lagace": {
+   "name": "Michel Lagacé",
+   "type": "person",
+   "aliases": []
+  },
+  "groupe-action-logement-quebec": {
+   "name": "Groupe action logement Québec",
+   "type": "organization",
+   "aliases": []
+  },
+  "ville-amos": {
+   "name": "Ville d’Amos",
+   "type": "organization",
+   "aliases": [
+    "Amos",
+    "Ville d'Amos"
+   ]
+  },
+  "hotel-dieu-levis": {
+   "name": "Hôtel-Dieu de Lévis",
+   "type": "organization",
+   "aliases": []
+  },
+  "placements-rejean-boivin": {
+   "name": "Les Placements Réjean Boivin inc.",
+   "type": "organization",
+   "aliases": [
+    "Placements Réjean Boivin"
+   ]
+  },
+  "revenu-quebec": {
+   "name": "Revenu Québec",
+   "type": "organization",
+   "aliases": []
   }
  },
  "stories": [
@@ -4056,7 +4128,9 @@
     "cdpq-infra"
    ],
    "checked_by_hand": true,
-   "dossiers": []
+   "dossiers": [
+    "tramway-quebec"
+   ]
   },
   {
    "match": "2296992/jacinthe-eve-arel",
@@ -5274,7 +5348,9 @@
     "ville-levis",
     "steven-blaney"
    ],
-   "dossiers": []
+   "dossiers": [
+    "levis-wastewater"
+   ]
   },
   {
    "match": "https://www.cbc.ca/news/canada/montreal/quebec-coroner-report-death-brochu-brothers-rem-brossard-9.7415319",
@@ -5504,6 +5580,116 @@
     "madwa-nika-cadet",
     "qs"
    ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu",
+   "entities": [
+    "conseil-executif",
+    "julie-blackburn",
+    "nicolas-paradis",
+    "daniele-cantin",
+    "julie-gingras",
+    "juliette-champagne",
+    "conseil-tresor",
+    "sea-quebec",
+    "pspp"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php",
+   "entities": [
+    "municipalite-sainte-flavie",
+    "jean-francois-fortin",
+    "melccfp",
+    "mrc-la-mitis"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur",
+   "entities": [
+    "elsie-lefebvre",
+    "pq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien",
+   "entities": [
+    "alliance-energie-est",
+    "michel-lagace",
+    "hydro-quebec",
+    "melccfp"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
+   "entities": [
+    "hydro-quebec",
+    "groupe-action-logement-quebec",
+    "ville-amos"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres",
+   "entities": [
+    "sante-quebec",
+    "hotel-dieu-levis",
+    "fiq-spsca"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget",
+   "entities": [
+    "ville-levis",
+    "steven-blaney"
+   ],
+   "dossiers": [
+    "levis-wastewater"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay",
+   "entities": [
+    "ville-saguenay",
+    "luc-boivin",
+    "placements-rejean-boivin",
+    "melccfp"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec",
+   "entities": [
+    "ville-quebec",
+    "cdpq-infra"
+   ],
+   "dossiers": [
+    "tramway-quebec"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/13/pres-de-800-000-en-remboursements-de-taxes-frauduleux-quatre-ans-de-prison-pour-un-resident-de-saint-hyacinthe",
+   "entities": [
+    "revenu-quebec"
+   ],
+   "checked_by_hand": true,
    "dossiers": []
   }
  ]

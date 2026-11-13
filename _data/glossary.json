@@ -430,6 +430,25 @@
    "match_fr": [
     "disposition de dérogation"
    ]
+  },
+  {
+   "id": "decret",
+   "term_en": "Order in council (décret)",
+   "term_fr": "Décret",
+   "def_en": "A written decision of Quebec’s executive power, the Conseil exécutif (cabinet). Since 1980, all its decisions have been called décrets; they were once called orders in council.",
+   "def_fr": "Décision écrite du pouvoir exécutif du Québec, le Conseil exécutif (Conseil des ministres). Depuis 1980, toutes ses décisions portent ce nom; on parlait autrefois d’« arrêtés en conseil ».",
+   "source_en": "https://www.assnat.qc.ca/en/patrimoine/lexique/decret.html",
+   "source_fr": "https://www.assnat.qc.ca/fr/patrimoine/lexique/decret.html",
+   "source_label": "Assemblée nationale – Encyclopédie du parlementarisme québécois, « Décret »",
+   "match_en": [
+    "order in council",
+    "orders in council"
+   ],
+   "match_fr": [
+    "décrets administratifs",
+    "décret",
+    "décrets"
+   ]
   }
  ]
 }

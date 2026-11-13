@@ -125,7 +125,10 @@
     "stephane-paquet",
     "fqm",
     "edf-solutions",
-    "alliance-energie-est"
+    "alliance-energie-est",
+    "michel-lagace",
+    "groupe-action-logement-quebec",
+    "ville-amos"
    ],
    "events": [
     {
@@ -368,6 +371,28 @@
      "source_type": "media",
      "post": "2026-11-12",
      "background": false
+    },
+    {
+     "date": "2026-11-12",
+     "en": "Michel Lagacé, president of the Alliance de l’énergie de l’Est, tells Radio-Canada that approval delays, which he links to lost expertise in ministries, are the main reason some wind farms will miss Hydro-Québec’s schedules; the Madawaska project will not produce power before summer 2027.",
+     "fr": "Michel Lagacé, président de l’Alliance de l’énergie de l’Est, affirme à Radio-Canada que les délais d’autorisation, qu’il attribue à une perte d’expertise dans des ministères, sont la principale raison pour laquelle certains parcs éoliens ne respecteront pas les échéanciers d’Hydro-Québec; le projet Madawaska ne produira pas avant l’été 2027.",
+     "source_title": "Le développement éolien retardé par des délais jugés trop longs",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien",
+     "source_type": "media",
+     "post": "2026-11-13",
+     "background": false
+    },
+    {
+     "date": "2026-11-13",
+     "en": "Radio-Canada reports that an affordable housing building in Amos is still waiting for its grid connection; Hydro-Québec says this type of grid extension can take up to 18 months and gives January 4 as its planned date.",
+     "fr": "Radio-Canada rapporte qu’un immeuble de logements abordables à Amos attend toujours son raccordement au réseau; Hydro-Québec dit que ce type de prolongement peut prendre jusqu’à 18 mois et donne le 4 janvier comme date prévue.",
+     "source_title": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
+     "source_type": "media",
+     "post": "2026-11-13",
+     "background": false
     }
    ],
    "tldr": {
@@ -380,8 +405,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Four new wind farms will not be ready this winter as planned, Le Devoir reports. Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval, and will replace some Hilo thermostats for free.",
-     "fr": "Quatre nouveaux parcs éoliens ne seront pas prêts cet hiver comme prévu, rapporte Le Devoir. Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal, et remplacera sans frais certains thermostats Hilo."
+     "en": "Four new wind farms will not be ready this winter as planned; a regional developers’ alliance blames slow government approvals. In Amos, an affordable housing building is still waiting for its grid connection. Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval.",
+     "fr": "Quatre nouveaux parcs éoliens ne seront pas prêts cet hiver comme prévu; une alliance régionale de promoteurs blâme la lenteur des autorisations gouvernementales. À Amos, un immeuble de logements abordables attend toujours son raccordement. Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal."
     }
    }
   },
@@ -946,7 +971,9 @@
     "genevieve-biron",
     "christian-dube",
     "monsef-derraji",
-    "ramq"
+    "ramq",
+    "hotel-dieu-levis",
+    "fiq-spsca"
    ],
    "events": [
     {
@@ -1101,6 +1128,17 @@
      "source_type": "media",
      "post": "2026-11-12",
      "background": false
+    },
+    {
+     "date": "2026-11-13",
+     "en": "Radio-Canada reports that Santé Québec is cutting five nursing positions at the Hôtel-Dieu de Lévis palliative care unit as part of budget measures; the agency says patient services are maintained and that it is still reviewing the decision.",
+     "fr": "Radio-Canada rapporte que Santé Québec supprime cinq postes d’infirmière à l’unité de soins palliatifs de l’Hôtel-Dieu de Lévis dans le cadre de mesures budgétaires; l’agence assure que les services aux patients sont maintenus et qu’elle continue d’analyser la décision.",
+     "source_title": "Quand Santé Québec coupe dans les soins palliatifs",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres",
+     "source_type": "media",
+     "post": "2026-11-13",
+     "background": false
     }
    ],
    "tldr": {
@@ -1113,8 +1151,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "The health minister spoke of a “transformation”, then said the promise to abolish Santé Québec stands. Santé Québec has cancelled a tender to have private clinics operate on patients who have waited more than a year.",
-     "fr": "La ministre de la Santé a parlé d’une « transformation », puis assuré que la promesse d’abolir Santé Québec tient toujours. Santé Québec a annulé un appel d’offres pour faire opérer en clinique privée des patients qui attendent depuis plus d’un an."
+     "en": "The health minister says the promise to abolish Santé Québec stands. Santé Québec has cancelled a private-clinic surgery tender and is cutting nursing positions in a Lévis palliative care unit, a decision it says it is still reviewing.",
+     "fr": "La ministre de la Santé assure que la promesse d’abolir Santé Québec tient toujours. Santé Québec a annulé un appel d’offres de chirurgies en clinique privée et supprime des postes d’infirmière dans une unité de soins palliatifs de Lévis, une décision qu’elle dit continuer d’analyser."
     }
    }
   },
@@ -1344,7 +1382,9 @@
     "nicolas-paradis",
     "marie-claude-sarrazin",
     "anne-nguyen",
-    "stephanie-martin"
+    "stephanie-martin",
+    "conseil-executif",
+    "elsie-lefebvre"
    ],
    "events": [
     {
@@ -1663,6 +1703,28 @@
      "source_type": "media",
      "post": "2026-11-10",
      "background": false
+    },
+    {
+     "date": "2026-11-11",
+     "en": "Administrative decrees published this day allow five senior public servants, including Treasury Board secretary Julie Blackburn, to earn 5% to 10% above the maximum set for their positions, Le Devoir reports; the Executive Council cites added responsibilities.",
+     "fr": "Des décrets administratifs publiés ce jour-là permettent à cinq hauts fonctionnaires, dont la secrétaire du Conseil du trésor, Julie Blackburn, de toucher de 5 % à 10 % de plus que le maximum prévu, rapporte Le Devoir; le Conseil exécutif invoque des responsabilités accrues.",
+     "source_title": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "source_outlet": "Le Devoir",
+     "source_url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu",
+     "source_type": "media",
+     "post": "2026-11-13",
+     "background": false
+    },
+    {
+     "date": "2026-11-12",
+     "en": "Higher Education Minister Elsie Lefebvre says the PQ will keep its promise to pay for mandatory internships in public-sector fields, but cannot say whether it will happen before the next semester.",
+     "fr": "La ministre de l’Enseignement supérieur, Elsie Lefebvre, assure que le PQ tiendra sa promesse de rémunérer les stages obligatoires dans des secteurs publics, sans pouvoir dire si ce sera avant la prochaine session.",
+     "source_title": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur",
+     "source_type": "media",
+     "post": "2026-11-13",
+     "background": false
     }
    ],
    "tldr": {
@@ -1675,8 +1737,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Finance Minister Marceau says the federal budget “does not meet expectations.” The premier will meet Doug Ford in Toronto on Nov. 6 and Mark Carney in Cambodia later this month, with a possible later meeting in Quebec City. The Ministry of Cybersecurity and Digital Affairs’ staff have been moved to the Treasury Board before an Assembly vote; a bill is to follow. Defeated PQ candidate Stéphanie Martin becomes special adviser for the Capitale-Nationale in Minister Nicolas Girard’s office.",
-     "fr": "Le ministre des Finances Marceau affirme que le budget fédéral « ne répond pas aux attentes ». Le premier ministre rencontrera Doug Ford à Toronto le 6 novembre et Mark Carney au Cambodge plus tard ce mois-ci, avec une possible rencontre ultérieure à Québec. Les employés du ministère de la Cybersécurité et du Numérique ont été transférés au Conseil du trésor avant un vote à l’Assemblée; un projet de loi doit suivre. La candidate péquiste défaite Stéphanie Martin devient conseillère spéciale pour la Capitale-Nationale au cabinet du ministre Nicolas Girard."
+     "en": "Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports, after the PQ promised a pay freeze for elected officials and Crown corporation CEOs. The Ministry of Cybersecurity and Digital Affairs’ staff have been moved to the Treasury Board; a bill is to follow. The premier is to meet Mark Carney in Cambodia.",
+     "fr": "Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir, alors que le PQ avait promis de geler le salaire des élus et des p.-d.g. de sociétés d’État. Le personnel du ministère de la Cybersécurité et du Numérique a été transféré au Conseil du trésor; un projet de loi doit suivre. Le premier ministre doit rencontrer Mark Carney au Cambodge."
     }
    }
   },
@@ -3215,6 +3277,105 @@
     "now": {
      "en": "The City has dropped the plan because it would cost at least $152 million. It will keep the garage in use, and a citizens’ group is not reassured.",
      "fr": "La Ville a abandonné le projet, qui coûterait au bas mot 152 millions $. Elle garde le garage en service, et un groupe citoyen n’est pas rassuré."
+    }
+   }
+  },
+  {
+   "id": "levis-wastewater",
+   "name_en": "Lévis wastewater plants and building moratorium",
+   "name_fr": "Usines d’eaux usées de Lévis et moratoire de construction",
+   "desc_en": "The cost and schedule of rebuilding and expanding Lévis’s Desjardins and Saint-Nicolas wastewater treatment plants, which a moratorium on new construction depends on.",
+   "desc_fr": "Le coût et l’échéancier de la réfection et de l’agrandissement des stations d’épuration Desjardins et Saint-Nicolas, à Lévis, dont dépend la levée d’un moratoire sur les nouvelles constructions.",
+   "entities": [
+    "ville-levis",
+    "steven-blaney"
+   ],
+   "events": [
+    {
+     "date": "2026-11-09",
+     "en": "At a public information session, the City of Lévis says the planned cost of the work at its two wastewater plants under the moratorium has risen by $22 million, to $177.2 million; delivery at Saint-Nicolas slips by another three months.",
+     "fr": "Lors d’une séance d’information publique, la Ville de Lévis annonce que le coût prévu des travaux à ses deux stations d’épuration sous moratoire augmente de 22 millions $, à 177,2 millions $; la livraison à Saint-Nicolas est retardée de trois autres mois.",
+     "source_title": "Hausse de coûts pour les stations de traitement des eaux usées sous moratoire à Lévis",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction",
+     "source_type": "media",
+     "post": "2026-11-10",
+     "background": false
+    },
+    {
+     "date": "2026-11-10",
+     "en": "At a city council meeting, Mayor Steven Blaney says the project is on schedule, but he does not rule out new cost overruns when upcoming tenders are issued.",
+     "fr": "En marge du conseil municipal, le maire Steven Blaney assure que le projet respecte les délais, mais il n’écarte pas de nouveaux dépassements de coûts lors des appels d’offres à venir.",
+     "source_title": "Eaux usées : quelle facture pour les nouvelles usines de Lévis?",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget",
+     "source_type": "media",
+     "post": "2026-11-13",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "Lévis is rebuilding and enlarging two wastewater treatment plants, in Desjardins and Saint-Nicolas.",
+     "fr": "Lévis refait et agrandit deux stations de traitement des eaux usées, à Desjardins et à Saint-Nicolas."
+    },
+    "why": {
+     "en": "Until the plants can handle more, a moratorium blocks new construction in much of the city, and the bill is paid with public money.",
+     "fr": "Tant que les usines ne peuvent pas traiter plus d’eaux usées, un moratoire bloque les nouvelles constructions dans une grande partie de la ville, et la facture est payée avec des fonds publics."
+    },
+    "now": {
+     "en": "The bill now tops $177 million, up about 90% since February 2025. The mayor says the project is on schedule but does not rule out more overruns.",
+     "fr": "La facture dépasse maintenant 177 millions $, en hausse d’environ 90 % depuis février 2025. Le maire assure que le projet respecte les délais, sans écarter d’autres dépassements."
+    }
+   }
+  },
+  {
+   "id": "tramway-quebec",
+   "name_en": "Quebec City tramway (TramCité)",
+   "name_fr": "Tramway de Québec (TramCité)",
+   "desc_en": "Quebec City’s tramway project, its preparatory work, costs and property acquisitions; CDPQ Infra is the project manager.",
+   "desc_fr": "Le projet de tramway de Québec, ses travaux préparatoires, ses coûts et ses acquisitions d’immeubles; CDPQ Infra en est le maître d’œuvre.",
+   "entities": [
+    "ville-quebec",
+    "cdpq-infra",
+    "daniel-genest"
+   ],
+   "events": [
+    {
+     "date": "2026-10-29",
+     "en": "During a media tour, the head of the City’s tramway office says the preparatory work is on time and that its $115 million budget will be respected.",
+     "fr": "Lors d’une visite de presse, le directeur du Bureau pivot du tramway affirme que les travaux préparatoires sont dans les temps et que leur budget de 115 M$ sera respecté.",
+     "source_title": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec",
+     "source_type": "media",
+     "post": "2026-10-30",
+     "background": false
+    },
+    {
+     "date": "2026-11-12",
+     "en": "Radio-Canada reports that the agglomeration council has authorized proceedings to acquire, by agreement or expropriation, another downtown building on Saint-Jean Street for the D’Youville station; the acquisition was not planned at the outset.",
+     "fr": "Radio-Canada rapporte que le conseil d’agglomération a autorisé des procédures pour acquérir, de gré à gré ou par expropriation, un autre immeuble du centre-ville, rue Saint-Jean, pour la station D’Youville; cette acquisition n’était pas prévue au départ.",
+     "source_title": "Un autre bâtiment commercial du centre-ville réquisitionné pour le tramway",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec",
+     "source_type": "media",
+     "post": "2026-11-13",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "Quebec City is building a tramway called TramCité, with CDPQ Infra as project manager.",
+     "fr": "La Ville de Québec construit un tramway appelé TramCité, avec CDPQ Infra comme maître d’œuvre."
+    },
+    "why": {
+     "en": "It is a major transit project paid with public money, and it requires buying private buildings along the route.",
+     "fr": "C’est un grand projet de transport payé avec des fonds publics, et il exige d’acheter des immeubles privés le long du tracé."
+    },
+    "now": {
+     "en": "The City says the preparatory work is on time and on budget. It must now acquire another downtown building that was not planned at the outset.",
+     "fr": "La Ville affirme que les travaux préparatoires respectent les délais et le budget. Elle doit maintenant acquérir un autre immeuble du centre-ville qui n’était pas prévu au départ."
     }
    }
   }

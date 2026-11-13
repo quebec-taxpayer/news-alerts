@@ -705,5 +705,128 @@
     "summary_en": "The PQ government will table a bill in 2027, fifty years after the adoption of the Charter of the French Language, to further protect French, minister Pascal Bérubé reiterated, according to CBC News. It would include “strong” measures, such as restricting English-language CEGEPs to students legally eligible to study in English. As a minority government, it will need the support of at least one opposition party. Yet the Conservatives, the Liberals and Québec solidaire oppose the measure, notably citing adults’ freedom of choice.",
     "summary_fr": "Le gouvernement péquiste déposera en 2027, cinquante ans après l’adoption de la Charte de la langue française, un projet de loi pour mieux protéger le français, a rappelé le ministre Pascal Bérubé, selon CBC News. Il comprendrait des mesures « fortes », comme réserver les cégeps anglophones aux étudiants légalement admissibles à l’enseignement en anglais. Minoritaire, le gouvernement aura besoin de l’appui d’au moins un parti d’opposition. Or, les conservateurs, les libéraux et Québec solidaire s’opposent à cette mesure, en invoquant notamment le libre choix des adultes.",
     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+  },
+  "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu": {
+    "author_type": "person",
+    "authors": [
+      "Sébastien Tanguay"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "Le Devoir",
+    "summary_en": "Administrative decrees published Wednesday allow three deputy ministers, an associate secretary general and an associate deputy minister to earn 5% to 10% more than the maximum set for their positions, Le Devoir reports. The new secretary of the Treasury Board, Julie Blackburn, and Nicolas Paradis, at the Executive Council, each receive $355,713 a year. The Executive Council says each now combines duties once held by more than one person. The PQ had promised to freeze the pay of elected officials and Crown corporation CEOs.",
+    "summary_fr": "Selon des décrets publiés mercredi, trois sous-ministres, une secrétaire générale associée et une sous-ministre associée ont droit à un salaire de 5 % à 10 % supérieur au maximum prévu, rapporte Le Devoir. La nouvelle secrétaire du Conseil du trésor, Julie Blackburn, et Nicolas Paradis, au Conseil exécutif, reçoivent chacun 355 713 $ par année. Le Conseil exécutif dit que chacun cumule des fonctions autrefois confiées à plus d’une personne. Le PQ avait promis de geler le salaire des élus et des p.-d.g. de sociétés d’État.",
+    "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php": {
+    "author_type": "person",
+    "authors": [
+      "Charles Lecavalier"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "La Presse",
+    "summary_en": "Sainte-Flavie, in the Lower St. Lawrence, has waited 447 days for the Environment ministry to authorize new streets, La Presse reports. The request, filed on August 21, 2025, covers an area where builders wanted to put up six rental buildings and single-family homes, while the local rental vacancy rate is 0%. The ministry asked for an additional opinion on a small wetland, then for details on the water-related aspects. Mayor Jean-François Fortin calls the delays unreasonable.",
+    "summary_fr": "Sainte-Flavie, dans le Bas-Saint-Laurent, attend depuis 447 jours que le ministère de l’Environnement l’autorise à ouvrir de nouvelles rues, rapporte La Presse. La demande, déposée le 21 août 2025, vise un secteur où des entrepreneurs voulaient construire six immeubles locatifs et des maisons unifamiliales, alors que le taux d’inoccupation des logements y est de 0 %. Le Ministère a réclamé un avis complémentaire sur une petite zone humide, puis des précisions sur le volet hydrique. Le maire, Jean-François Fortin, dénonce des délais déraisonnables.",
+    "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+  },
+  "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur": {
+    "author_type": "person",
+    "authors": [
+      "Pierre-Antoine Gosselin"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "Le Journal de Québec",
+    "summary_en": "Higher Education Minister Elsie Lefebvre says the Parti Québécois will keep its promise to pay for mandatory internships, notably in health, early childhood and education, despite the state of public finances, Le Journal de Québec reports. She was responding to thousands of striking CEGEP and university students. She also wants to review the student financial aid program and meet student associations. She could not say whether the measure will arrive before the next semester.",
+    "summary_fr": "La ministre de l’Enseignement supérieur, Elsie Lefebvre, affirme que le Parti québécois tiendra sa promesse de rémunérer les stages obligatoires, notamment en santé, en petite enfance et en éducation, malgré l’état des finances publiques, rapporte Le Journal de Québec. Elle répondait aux milliers d’étudiants des cégeps et des universités en grève. Elle veut aussi revoir le programme d’aide financière aux études et rencontrer des associations étudiantes. Elle n’a pas pu dire si la mesure arrivera avant la prochaine session.",
+    "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
+  },
+  "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien": {
+    "author_type": "person",
+    "authors": [
+      "Patrick Bergeron"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "Radio-Canada",
+    "summary_en": "The president of the Alliance de l’énergie de l’Est, Michel Lagacé, criticizes the Quebec government’s delays in authorizing the construction of wind farms, Radio-Canada reports. He attributes them to a loss of expertise in several ministries, particularly Environment. In his view, this is the main reason some farms will miss Hydro-Québec’s schedules: the Madawaska project, planned for December, will not produce power before summer 2027. Radio-Canada had not obtained comment from the Environment ministry.",
+    "summary_fr": "Le président de l’Alliance de l’énergie de l’Est, Michel Lagacé, dénonce les délais du gouvernement du Québec pour autoriser la construction de parcs éoliens, rapporte Radio-Canada. Il les attribue à une perte d’expertise dans plusieurs ministères, en particulier à l’Environnement. Selon lui, c’est la principale raison pour laquelle certains parcs ne respecteront pas les échéanciers d’Hydro-Québec : le projet Madawaska, prévu pour décembre, ne produira pas avant l’été 2027. Radio-Canada n’avait pas obtenu de commentaire du ministère de l’Environnement.",
+    "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+  },
+  "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement": {
+    "author_type": "person",
+    "authors": [
+      "Martin Guindon"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "Radio-Canada",
+    "summary_en": "In Amos, 36 low-income households have been selected for a 40-unit affordable housing building, but the building is still not connected to Hydro-Québec’s grid, Radio-Canada reports. At least eight future tenants say they have no other option for December 1. The Groupe action logement Québec says the building is complete. Hydro-Québec replies that this type of grid extension can take up to 18 months, that its planned date is January 4 and that it is awaiting a declaration of work.",
+    "summary_fr": "À Amos, 36 ménages à faibles revenus ont été choisis pour un immeuble de 40 logements abordables, mais le bâtiment n’est toujours pas raccordé au réseau d’Hydro-Québec, rapporte Radio-Canada. Au moins huit futurs locataires disent n’avoir aucune autre option pour le 1er décembre. Le Groupe action logement Québec affirme que l’immeuble est terminé. Hydro-Québec répond que ce type de prolongement de réseau peut prendre jusqu’à 18 mois, que sa date prévue est le 4 janvier et qu’elle attend une déclaration de travaux.",
+    "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
+  },
+  "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres": {
+    "author_type": "person",
+    "authors": [
+      "Pierre-Alexandre Bolduc"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "Radio-Canada",
+    "summary_en": "Santé Québec is cutting four evening and night licensed practical nurse positions and one clinical nurse position at the Hôtel-Dieu de Lévis palliative care unit, Radio-Canada reports. The head of the 12-bed unit, Dr. Frédérique Bissonnette, says it is almost constantly over capacity and is trying to have the decision reversed. Families, doctors and the FIQ-SPSCA union also oppose it. Santé Québec Chaudière-Appalaches cites efforts to improve its budget performance and says patient services are maintained.",
+    "summary_fr": "Santé Québec supprime quatre postes d’infirmière auxiliaire de soir et de nuit et un poste d’infirmière clinicienne à l’unité de soins palliatifs de l’Hôtel-Dieu de Lévis, rapporte Radio-Canada. La cheffe de cette unité de 12 lits, la Dre Frédérique Bissonnette, dit qu’elle déborde presque constamment et tente de faire annuler la décision. Des familles, des médecins et le syndicat FIQ-SPSCA s’y opposent aussi. Santé Québec Chaudière-Appalaches invoque l’amélioration de sa performance budgétaire et assure que les services aux patients sont maintenus.",
+    "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
+  },
+  "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget": {
+    "author_type": "person",
+    "authors": [
+      "Olivier Lemieux"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "Radio-Canada",
+    "summary_en": "The bill for work at the Desjardins and Saint-Nicolas wastewater treatment plants in Lévis now exceeds $177 million after a second increase in less than a year, Radio-Canada reports. The budget has jumped about 90% since February 2025. Mayor Steven Blaney nonetheless says the project is on schedule, even though work at Saint-Nicolas has been extended to the end of 2029. He does not rule out new cost overruns when upcoming tenders are issued.",
+    "summary_fr": "La facture des chantiers aux stations de traitement des eaux usées Desjardins et Saint-Nicolas, à Lévis, dépasse maintenant 177 millions $ après une deuxième hausse en moins d’un an, rapporte Radio-Canada. Le budget a bondi d’environ 90 % depuis février 2025. Le maire Steven Blaney assure pourtant que le projet respecte les délais, alors que les travaux à Saint-Nicolas sont prolongés jusqu’à la fin de 2029. Il n’écarte pas de nouveaux dépassements de coûts lors des appels d’offres à venir.",
+    "url": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget"
+  },
+  "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay": {
+    "author_type": "person",
+    "authors": [
+      "Michel Gaudreau",
+      "Pascal Girard"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "Radio-Canada",
+    "summary_en": "Saguenay’s executive committee agreed on September 2 to let Les Placements Réjean Boivin transfer Alfred Boivin Street in Chicoutimi to the City, with its retention pond and water and sewer networks, Radio-Canada reports. According to the resolution, work was done without the required authorizations, and the engineering department refused to recommend the transaction. The Environment ministry imposed a $5,000 fine; another aspect is under penal investigation. The company acknowledges unintentional shortcomings.",
+    "summary_fr": "Le comité exécutif de Saguenay a accepté le 2 septembre que Les Placements Réjean Boivin lui cèdent la rue Alfred Boivin, à Chicoutimi, avec son bassin de rétention et ses réseaux d’aqueduc et d’égout, rapporte Radio-Canada. Selon la résolution, des travaux ont été faits sans les autorisations requises, et le Service du génie a refusé de recommander la transaction. Le ministère de l’Environnement a imposé une amende de 5000 $; un autre volet fait l’objet d’une enquête pénale. L’entreprise reconnaît des manquements involontaires.",
+    "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+  },
+  "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec": {
+    "author_type": "person",
+    "authors": [
+      "Louis Gagné"
+    ],
+    "contributors": [
+      "Louise Boisvert"
+    ],
+    "date": "2026-11-13",
+    "outlet": "Radio-Canada",
+    "summary_en": "Quebec City’s agglomeration council has authorized proceedings to acquire, by agreement or expropriation, the building at the corner of Saint-Jean Street and Honoré-Mercier Avenue, Radio-Canada reports. The building, listed at $1,480,000 on the assessment roll, houses two businesses and apartments. Three neighbouring buildings had already been acquired for TramCité’s D’Youville station; this one was not planned at the outset. The City says detailed design confirmed the need.",
+    "summary_fr": "Le conseil d’agglomération de Québec a autorisé des procédures pour acquérir, de gré à gré ou par expropriation, l’immeuble situé à l’angle de la rue Saint-Jean et de l’avenue Honoré-Mercier, rapporte Radio-Canada. Le bâtiment, inscrit à 1 480 000 $ au rôle d’évaluation, abrite deux commerces et des logements. Trois immeubles voisins avaient déjà été acquis pour la station D’Youville de TramCité; celui-ci n’était pas prévu au départ. La Ville dit que la conception détaillée a confirmé ce besoin.",
+    "url": "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec"
+  },
+  "https://www.tvanouvelles.ca/2026/11/13/pres-de-800-000-en-remboursements-de-taxes-frauduleux-quatre-ans-de-prison-pour-un-resident-de-saint-hyacinthe": {
+    "author_type": "agency",
+    "authors": [
+      "Agence QMI"
+    ],
+    "contributors": [],
+    "date": "2026-11-13",
+    "outlet": "TVA Nouvelles (Agence QMI)",
+    "summary_en": "A Saint-Hyacinthe resident has been sentenced to 48 months in prison and fines of more than $925,000 for obtaining or trying to obtain GST and QST refunds he knew he was not entitled to, according to a Revenu Québec news release reported by Agence QMI. The scheme relied on 78 numbered companies with no business activity. In less than ten months, he cashed 191 cheques totalling nearly $800,000 at a Drummondville butcher shop.",
+    "summary_fr": "Un résident de Saint-Hyacinthe a été condamné à 48 mois de prison et à des amendes de plus de 925 000 $ pour avoir obtenu ou tenté d’obtenir des remboursements de TPS et de TVQ auxquels il savait ne pas avoir droit, selon un communiqué de Revenu Québec rapporté par l’Agence QMI. Le stratagème reposait sur 78 sociétés à numéro sans activité commerciale. En moins de dix mois, il a encaissé 191 chèques totalisant près de 800 000 $ dans une boucherie de Drummondville.",
+    "url": "https://www.tvanouvelles.ca/2026/11/13/pres-de-800-000-en-remboursements-de-taxes-frauduleux-quatre-ans-de-prison-pour-un-resident-de-saint-hyacinthe"
   }
 }

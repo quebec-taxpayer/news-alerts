@@ -58,7 +58,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-09": ["crown-corporations"],
         "2026-11-10": ["crown-corporations", "procurement"],
         "2026-11-11": ["it-digital", "crown-corporations", "procurement"],
-        "2026-11-12": ["crown-corporations", "procurement"]}
+        "2026-11-12": ["crown-corporations", "procurement"],
+ "2026-11-13": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -107,6 +108,8 @@ SUMMARY = {
                 "More than $40M in public contracts to Amazon Web Services; schools turn to headhunters and agencies; bus electrification no longer a priority; Nemaska Lithium slowdown confirmed; BAPE hearings on TES Canada; Domtar and the Shipshaw power plants; Minister Girard on STQ breakdowns; CF Montréal; homelessness and federal conditions; Judge Villeneuve seeks reinstatement."),
  "2026-11-12": ("Accusations de vol de données à la SAAQ; quatre parcs éoliens en retard pour Hydro-Québec; confusion sur l’abolition de Santé Québec; fin d’un projet pilote de chirurgies au privé; un traversier à louer pour L’Isle-aux-Coudres?; vers un décret pour Horne 5; départ du fondateur de Flo; le coût du garage de la Canardière; contrats au cabinet du maire de Saguenay; projet de loi sur les cégeps anglophones.",
                 "Charges over SAAQ data theft; four wind farms late for Hydro-Québec; confusion over abolishing Santé Québec; private-surgery pilot cancelled; a ferry to rent for L’Isle-aux-Coudres?; toward a decree for Horne 5; Flo’s founder leaves; the cost of the Canardière garage; contracts in the Saguenay mayor’s office; bill on English-language CEGEPs."),
+ "2026-11-13": ("Hausse de salaire pour cinq hauts fonctionnaires; parcs éoliens freinés par les délais d’autorisation; Sainte-Flavie attend depuis 447 jours; logements abordables en attente d’Hydro-Québec à Amos; coupes en soins palliatifs à Lévis; la facture des usines d’eaux usées de Lévis; Saguenay acquiert une rue sans l’avis de ses ingénieurs; un autre immeuble pour le tramway; stages rémunérés; prison pour une fraude aux remboursements de taxes.",
+                "Salary premium for five senior public servants; wind farms held back by approval delays; Sainte-Flavie has waited 447 days; affordable housing waiting on Hydro-Québec in Amos; palliative care cuts in Lévis; the bill for Lévis’s wastewater plants; Saguenay acquires a street without its engineers’ backing; another building for the tramway; paid internships; prison for tax-refund fraud."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

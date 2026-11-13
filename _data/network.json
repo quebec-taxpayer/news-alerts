@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-12T15:36:58Z",
+ "generated": "2026-11-13T15:33:36Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 225,
+ "story_count": 235,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -2393,6 +2393,105 @@
      ]
     }
    ]
+  },
+  "2026-11-13": {
+   "post": "/2026/11/13/digest/",
+   "stories": [
+    {
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu",
+     "entities": [
+      "conseil-executif",
+      "conseil-tresor",
+      "daniele-cantin",
+      "julie-blackburn",
+      "julie-gingras",
+      "juliette-champagne",
+      "nicolas-paradis",
+      "pspp",
+      "sea-quebec"
+     ]
+    },
+    {
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php",
+     "entities": [
+      "jean-francois-fortin",
+      "melccfp",
+      "mrc-la-mitis",
+      "municipalite-sainte-flavie"
+     ]
+    },
+    {
+     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur",
+     "entities": [
+      "elsie-lefebvre",
+      "pq"
+     ]
+    },
+    {
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien",
+     "entities": [
+      "alliance-energie-est",
+      "hydro-quebec",
+      "melccfp",
+      "michel-lagace"
+     ]
+    },
+    {
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
+     "entities": [
+      "groupe-action-logement-quebec",
+      "hydro-quebec",
+      "ville-amos"
+     ]
+    },
+    {
+     "headline": "Quand Santé Québec coupe dans les soins palliatifs",
+     "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres",
+     "entities": [
+      "fiq-spsca",
+      "hotel-dieu-levis",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Eaux usées : quelle facture pour les nouvelles usines de Lévis?",
+     "url": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget",
+     "entities": [
+      "steven-blaney",
+      "ville-levis"
+     ]
+    },
+    {
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay",
+     "entities": [
+      "luc-boivin",
+      "melccfp",
+      "placements-rejean-boivin",
+      "ville-saguenay"
+     ]
+    },
+    {
+     "headline": "Un autre bâtiment commercial du centre-ville réquisitionné pour le tramway",
+     "url": "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec",
+     "entities": [
+      "cdpq-infra",
+      "ville-quebec"
+     ]
+    },
+    {
+     "headline": "Près de 800 000$ en remboursements de taxes frauduleux: quatre ans de prison pour un résident de Saint-Hyacinthe",
+     "url": "https://www.tvanouvelles.ca/2026/11/13/pres-de-800-000-en-remboursements-de-taxes-frauduleux-quatre-ans-de-prison-pour-un-resident-de-saint-hyacinthe",
+     "entities": [
+      "revenu-quebec"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -2404,7 +2503,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 55,
+   "mentions": 56,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2680,6 +2779,11 @@
      "date": "2026-11-12",
      "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
      "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -2692,7 +2796,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 29,
+   "mentions": 30,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2838,6 +2942,11 @@
      "date": "2026-11-12",
      "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
      "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
     }
    ]
   },
@@ -2848,7 +2957,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 21,
+   "mentions": 23,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2954,6 +3063,16 @@
      "date": "2026-11-12",
      "headline": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
      "url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
     }
    ]
   },
@@ -2962,7 +3081,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 21,
+   "mentions": 22,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3068,6 +3187,11 @@
      "date": "2026-11-12",
      "headline": "Santé Québec annule un projet pilote de chirurgies au privé",
      "url": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Quand Santé Québec coupe dans les soins palliatifs",
+     "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
     }
    ]
   },
@@ -3322,7 +3446,7 @@
    "aliases": [
     "Treasury Board"
    ],
-   "mentions": 11,
+   "mentions": 12,
    "stories": [
     {
      "date": "2026-10-22",
@@ -3378,6 +3502,11 @@
      "date": "2026-11-10",
      "headline": "Retard des travaux à l’hôpital de Jonquière en raison de soumissions trop élevées",
      "url": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -3637,6 +3766,67 @@
    ]
   },
   {
+   "id": "ville-quebec",
+   "name": "Ville de Québec",
+   "type": "organization",
+   "aliases": [
+    "Quebec City"
+   ],
+   "mentions": 10,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Garage de la Canardière : une promesse à 152 M$",
+     "url": "https://ici.radio-canada.ca/article/info/2299824/requalification-garage-canardiere-couts-152-millions"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Un autre bâtiment commercial du centre-ville réquisitionné pour le tramway",
+     "url": "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec"
+    }
+   ]
+  },
+  {
    "id": "ville-montreal",
    "name": "Ville de Montréal",
    "type": "organization",
@@ -3689,62 +3879,6 @@
      "date": "2026-11-11",
      "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
      "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
-    }
-   ]
-  },
-  {
-   "id": "ville-quebec",
-   "name": "Ville de Québec",
-   "type": "organization",
-   "aliases": [
-    "Quebec City"
-   ],
-   "mentions": 9,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
-     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "La Ville de Québec retranche 100 logements d’un projet immobilier",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298563/projet-immobilier-haute-saint-charles-cimes"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Achat de maison : un projet pilote de la Ville de Québec ne lève pas",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298625/programme-acheteur-maison-acces-famille"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "La Ville recule sur sa promesse de convertir le garage municipal de la Canardière",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298933/recul-promesse-conversion-garage-canardiere-quebec"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "La Ville de Québec lance les démarches pour la déconstruction du Colisée",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298665/deconstruction-colisee-quebec-appel-qualification"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Une hausse salariale de 23,5 % sur 5 ans pour les policiers du SPVQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298972/svpq-conflit-convention-collective"
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Garage de la Canardière : une promesse à 152 M$",
-     "url": "https://ici.radio-canada.ca/article/info/2299824/requalification-garage-canardiere-couts-152-millions"
     }
    ]
   },
@@ -4261,6 +4395,48 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    }
+   ]
+  },
+  {
+   "id": "melccfp",
+   "name": "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs",
+   "type": "organization",
+   "aliases": [
+    "ministère de l’Environnement",
+    "Environment ministry"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
+     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Vers un décret pour le projet Horne 5 de Falco?",
+     "url": "https://ici.radio-canada.ca/article/info/2299975/mine-rouyn-noranda-falco-horne5"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
     }
    ]
   },
@@ -5391,6 +5567,30 @@
    ]
   },
   {
+   "id": "elsie-lefebvre",
+   "name": "Elsie Lefebvre",
+   "type": "person",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
+    }
+   ]
+  },
+  {
    "id": "greta-bedard",
    "name": "Greta Bédard",
    "type": "person",
@@ -5517,6 +5717,30 @@
    ]
   },
   {
+   "id": "luc-boivin",
+   "name": "Luc Boivin",
+   "type": "person",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
+     "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
    "id": "marie-claude-bibeau",
    "name": "Marie-Claude Bibeau",
    "type": "person",
@@ -5565,33 +5789,6 @@
      "date": "2026-10-29",
      "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    }
-   ]
-  },
-  {
-   "id": "melccfp",
-   "name": "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs",
-   "type": "organization",
-   "aliases": [
-    "ministère de l’Environnement",
-    "Environment ministry"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Gisement d’or Windfall | Feu vert à un projet de 3 milliards",
-     "url": "https://www.lapresse.ca/affaires/2026-11-02/gisement-d-or-windfall/feu-vert-a-un-projet-de-3-milliards.php"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
-     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Vers un décret pour le projet Horne 5 de Falco?",
-     "url": "https://ici.radio-canada.ca/article/info/2299975/mine-rouyn-noranda-falco-horne5"
     }
    ]
   },
@@ -5764,6 +5961,27 @@
    ]
   },
   {
+   "id": "alliance-energie-est",
+   "name": "Alliance de l’énergie de l’Est",
+   "type": "organization",
+   "aliases": [
+    "Alliance de l'énergie de l'Est"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-12",
+     "headline": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
+     "url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    }
+   ]
+  },
+  {
    "id": "anne-nguyen",
    "name": "Anne Nguyen",
    "type": "person",
@@ -5885,6 +6103,25 @@
      "date": "2026-10-28",
      "headline": "Quebec coroner's office lays out changes following death of Chloé Bélanger",
      "url": "https://www.cbc.ca/news/canada/ottawa/chloe-belanger-quebec-coroners-report-asthma-death-9.7398703"
+    }
+   ]
+  },
+  {
+   "id": "cdpq-infra",
+   "name": "CDPQ Infra",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Un autre bâtiment commercial du centre-ville réquisitionné pour le tramway",
+     "url": "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec"
     }
    ]
   },
@@ -6072,25 +6309,6 @@
      "date": "2026-11-07",
      "headline": "PSPP confirme une «excellente rencontre» avec son homologue ontarien Doug Ford",
      "url": "https://www.tvanouvelles.ca/2026/11/06/pspp-confirme-une-excellente-rencontre-avec-son-homologue-ontarien-doug-ford"
-    }
-   ]
-  },
-  {
-   "id": "elsie-lefebvre",
-   "name": "Elsie Lefebvre",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
-     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
     }
    ]
   },
@@ -6299,6 +6517,25 @@
    ]
   },
   {
+   "id": "julie-blackburn",
+   "name": "Julie Blackburn",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
    "id": "lawrence-david",
    "name": "Lawrence David",
    "type": "person",
@@ -6316,25 +6553,6 @@
      "date": "2026-10-24",
      "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
      "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    }
-   ]
-  },
-  {
-   "id": "luc-boivin",
-   "name": "Luc Boivin",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
-     "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
     }
    ]
   },
@@ -6424,6 +6642,27 @@
    ]
   },
   {
+   "id": "conseil-executif",
+   "name": "Ministère du Conseil exécutif",
+   "type": "organization",
+   "aliases": [
+    "Conseil exécutif"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
    "id": "melanie-joly",
    "name": "Mélanie Joly",
    "type": "person",
@@ -6439,6 +6678,25 @@
      "date": "2026-11-11",
      "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
      "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
+   "id": "nicolas-paradis",
+   "name": "Nicolas Paradis",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -6667,6 +6925,25 @@
    ]
   },
   {
+   "id": "steven-blaney",
+   "name": "Steven Blaney",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "Hausse de coûts pour les stations de traitement des eaux usées sous moratoire à Lévis",
+     "url": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Eaux usées : quelle facture pour les nouvelles usines de Lévis?",
+     "url": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget"
+    }
+   ]
+  },
+  {
    "id": "stephane-le-bouyonnec",
    "name": "Stéphane Le Bouyonnec",
    "type": "person",
@@ -6705,6 +6982,27 @@
      "date": "2026-11-07",
      "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
      "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
+    }
+   ]
+  },
+  {
+   "id": "fiq-spsca",
+   "name": "Syndicat des professionnelles en soins de Chaudière-Appalaches",
+   "type": "organization",
+   "aliases": [
+    "FIQ-SPSCA"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Quand Santé Québec coupe dans les soins palliatifs",
+     "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
     }
    ]
   },
@@ -6786,6 +7084,48 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "ville-levis",
+   "name": "Ville de Lévis",
+   "type": "organization",
+   "aliases": [
+    "City of Lévis"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "Hausse de coûts pour les stations de traitement des eaux usées sous moratoire à Lévis",
+     "url": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Eaux usées : quelle facture pour les nouvelles usines de Lévis?",
+     "url": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget"
+    }
+   ]
+  },
+  {
+   "id": "ville-saguenay",
+   "name": "Ville de Saguenay",
+   "type": "organization",
+   "aliases": [
+    "Saguenay"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-12",
+     "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
+     "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
     }
    ]
   },
@@ -7018,22 +7358,6 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
-    }
-   ]
-  },
-  {
-   "id": "alliance-energie-est",
-   "name": "Alliance de l’énergie de l’Est",
-   "type": "organization",
-   "aliases": [
-    "Alliance de l'énergie de l'Est"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-12",
-     "headline": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
-     "url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu"
     }
    ]
   },
@@ -7475,20 +7799,6 @@
      "date": "2026-11-08",
      "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
-    }
-   ]
-  },
-  {
-   "id": "cdpq-infra",
-   "name": "CDPQ Infra",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
-     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
     }
    ]
   },
@@ -7980,6 +8290,20 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "id": "daniele-cantin",
+   "name": "Danièle Cantin",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -8682,6 +9006,20 @@
    ]
   },
   {
+   "id": "groupe-action-logement-quebec",
+   "name": "Groupe action logement Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
+    }
+   ]
+  },
+  {
    "id": "guillaume-bouvrette",
    "name": "Guillaume Bouvrette",
    "type": "person",
@@ -8812,6 +9150,20 @@
      "date": "2026-11-08",
      "headline": "Urgences débordées : deux hôpitaux de Montréal à éviter",
      "url": "https://ici.radio-canada.ca/nouvelle/2299081/hopitaux-urgence-deborde-civieres"
+    }
+   ]
+  },
+  {
+   "id": "hotel-dieu-levis",
+   "name": "Hôtel-Dieu de Lévis",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Quand Santé Québec coupe dans les soins palliatifs",
+     "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
     }
    ]
   },
@@ -9089,6 +9441,20 @@
    ]
   },
   {
+   "id": "jean-francois-fortin",
+   "name": "Jean-François Fortin",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+    }
+   ]
+  },
+  {
    "id": "jean-francois-lefort",
    "name": "Jean-François Lefort",
    "type": "person",
@@ -9249,16 +9615,16 @@
    ]
   },
   {
-   "id": "julie-blackburn",
-   "name": "Julie Blackburn",
+   "id": "julie-gingras",
+   "name": "Julie Gingras",
    "type": "person",
    "aliases": [],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -9287,6 +9653,20 @@
      "date": "2026-11-10",
      "headline": "After deaths of 2 brothers, Quebec coroner calls for improvements to REM station fence",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-coroner-report-death-brochu-brothers-rem-brossard-9.7415319"
+    }
+   ]
+  },
+  {
+   "id": "juliette-champagne",
+   "name": "Juliette Champagne",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -9457,6 +9837,22 @@
    ]
   },
   {
+   "id": "placements-rejean-boivin",
+   "name": "Les Placements Réjean Boivin inc.",
+   "type": "organization",
+   "aliases": [
+    "Placements Réjean Boivin"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
    "id": "laneq",
    "name": "Les avocats et notaires de l’État québécois",
    "type": "organization",
@@ -9588,6 +9984,20 @@
      "date": "2026-10-24",
      "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
      "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    }
+   ]
+  },
+  {
+   "id": "mrc-la-mitis",
+   "name": "MRC de La Mitis",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
     }
    ]
   },
@@ -9884,6 +10294,20 @@
    ]
   },
   {
+   "id": "michel-lagace",
+   "name": "Michel Lagacé",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    }
+   ]
+  },
+  {
    "id": "michele-chappaz",
    "name": "Michèle Chappaz",
    "type": "person",
@@ -9966,22 +10390,6 @@
    ]
   },
   {
-   "id": "conseil-executif",
-   "name": "Ministère du Conseil exécutif",
-   "type": "organization",
-   "aliases": [
-    "Conseil exécutif"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
-    }
-   ]
-  },
-  {
    "id": "mohawk-council-kahnawake",
    "name": "Mohawk Council of Kahnawà:ke",
    "type": "organization",
@@ -10026,6 +10434,22 @@
      "date": "2026-10-28",
      "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "id": "municipalite-sainte-flavie",
+   "name": "Municipalité de Sainte-Flavie",
+   "type": "organization",
+   "aliases": [
+    "Sainte-Flavie"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
     }
    ]
   },
@@ -10135,20 +10559,6 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
-    }
-   ]
-  },
-  {
-   "id": "nicolas-paradis",
-   "name": "Nicolas Paradis",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
     }
    ]
   },
@@ -10565,6 +10975,20 @@
    ]
   },
   {
+   "id": "revenu-quebec",
+   "name": "Revenu Québec",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Près de 800 000$ en remboursements de taxes frauduleux: quatre ans de prison pour un résident de Saint-Hyacinthe",
+     "url": "https://www.tvanouvelles.ca/2026/11/13/pres-de-800-000-en-remboursements-de-taxes-frauduleux-quatre-ans-de-prison-pour-un-resident-de-saint-hyacinthe"
+    }
+   ]
+  },
+  {
    "id": "roynat",
    "name": "Roynat",
    "type": "organization",
@@ -10716,6 +11140,20 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    }
+   ]
+  },
+  {
+   "id": "sea-quebec",
+   "name": "Secrétariat aux emplois supérieurs",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -10904,20 +11342,6 @@
    ]
   },
   {
-   "id": "steven-blaney",
-   "name": "Steven Blaney",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "Hausse de coûts pour les stations de traitement des eaux usées sous moratoire à Lévis",
-     "url": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction"
-    }
-   ]
-  },
-  {
    "id": "steven-guilbeault",
    "name": "Steven Guilbeault",
    "type": "person",
@@ -11080,22 +11504,6 @@
      "date": "2026-10-23",
      "headline": "Vente d’alcool aux mineurs: le contrôle ferait défaut dans les Zones SAQ",
      "url": "https://www.journaldemontreal.com/2026/10/22/vente-dalcool-aux-mineurs-le-controle-fait-defaut-dans-les-zones-saq"
-    }
-   ]
-  },
-  {
-   "id": "fiq-spsca",
-   "name": "Syndicat des professionnelles en soins de Chaudière-Appalaches",
-   "type": "organization",
-   "aliases": [
-    "FIQ-SPSCA"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
     }
    ]
   },
@@ -11264,22 +11672,6 @@
    ]
   },
   {
-   "id": "ville-levis",
-   "name": "Ville de Lévis",
-   "type": "organization",
-   "aliases": [
-    "City of Lévis"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "Hausse de coûts pour les stations de traitement des eaux usées sous moratoire à Lévis",
-     "url": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction"
-    }
-   ]
-  },
-  {
    "id": "ville-rigaud",
    "name": "Ville de Rigaud",
    "type": "organization",
@@ -11312,18 +11704,19 @@
    ]
   },
   {
-   "id": "ville-saguenay",
-   "name": "Ville de Saguenay",
+   "id": "ville-amos",
+   "name": "Ville d’Amos",
    "type": "organization",
    "aliases": [
-    "Saguenay"
+    "Amos",
+    "Ville d'Amos"
    ],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-11-12",
-     "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
-     "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
+     "date": "2026-11-13",
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
     }
    ]
   },
@@ -12172,6 +12565,43 @@
    ]
   },
   {
+   "source": "conseil-tresor",
+   "target": "pspp",
+   "weight": 6,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Fonctionnaires au bureau 3 jours par semaine: PSPP «empire la congestion routière», dénonce QS",
+     "url": "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
    "source": "plq",
    "target": "pq",
    "weight": 6,
@@ -12338,38 +12768,6 @@
      "date": "2026-11-02",
      "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
      "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    }
-   ]
-  },
-  {
-   "source": "conseil-tresor",
-   "target": "pspp",
-   "weight": 5,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Fonctionnaires au bureau 3 jours par semaine: PSPP «empire la congestion routière», dénonce QS",
-     "url": "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
-     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
     },
     {
      "date": "2026-11-04",
@@ -14119,6 +14517,23 @@
    ]
   },
   {
+   "source": "alliance-energie-est",
+   "target": "hydro-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-12",
+     "headline": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
+     "url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    }
+   ]
+  },
+  {
    "source": "amf",
    "target": "bertin-castonguay",
    "weight": 2,
@@ -14506,6 +14921,23 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "cdpq-infra",
+   "target": "ville-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
+     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Un autre bâtiment commercial du centre-ville réquisitionné pour le tramway",
+     "url": "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec"
     }
    ]
   },
@@ -14919,6 +15351,23 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "julie-blackburn",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "mcn",
    "weight": 2,
    "stories": [
@@ -14931,6 +15380,23 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "nicolas-paradis",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -15225,6 +15691,23 @@
   },
   {
    "source": "elsie-lefebvre",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
+    }
+   ]
+  },
+  {
+   "source": "elsie-lefebvre",
    "target": "pspp",
    "weight": 2,
    "stories": [
@@ -15407,6 +15890,23 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "fiq-spsca",
+   "target": "sante-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Quand Santé Québec coupe dans les soins palliatifs",
+     "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
     }
    ]
   },
@@ -15615,6 +16115,23 @@
    ]
   },
   {
+   "source": "julie-blackburn",
+   "target": "nicolas-paradis",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
    "source": "keel",
    "target": "marie-claude-bibeau",
    "weight": 2,
@@ -15679,6 +16196,23 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
+    }
+   ]
+  },
+  {
+   "source": "luc-boivin",
+   "target": "ville-saguenay",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-12",
+     "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
+     "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
     }
    ]
   },
@@ -16291,6 +16825,23 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "steven-blaney",
+   "target": "ville-levis",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "Hausse de coûts pour les stations de traitement des eaux usées sous moratoire à Lévis",
+     "url": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Eaux usées : quelle facture pour les nouvelles usines de Lévis?",
+     "url": "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget"
     }
    ]
   },
@@ -17609,13 +18160,25 @@
   },
   {
    "source": "alliance-energie-est",
-   "target": "hydro-quebec",
+   "target": "melccfp",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-12",
-     "headline": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
-     "url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu"
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    }
+   ]
+  },
+  {
+   "source": "alliance-energie-est",
+   "target": "michel-lagace",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
     }
    ]
   },
@@ -20680,18 +21243,6 @@
    ]
   },
   {
-   "source": "cdpq-infra",
-   "target": "ville-quebec",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Travaux préparatoires du tramway: «Dans les temps et dans les budgets», assure la Ville de Québec",
-     "url": "https://www.journaldequebec.com/2026/10/29/travaux-preparatoires-du-tramway-dans-les-temps-et-dans-les-budgets-assure-la-ville-de-quebec"
-    }
-   ]
-  },
-  {
    "source": "cedric-essiminy",
    "target": "lemay-co",
    "weight": 1,
@@ -21809,6 +22360,18 @@
   },
   {
    "source": "conseil-executif",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
    "target": "daniel-pare",
    "weight": 1,
    "stories": [
@@ -21816,6 +22379,18 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
+   "target": "daniele-cantin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -21845,6 +22420,42 @@
   },
   {
    "source": "conseil-executif",
+   "target": "julie-blackburn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
+   "target": "julie-gingras",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
+   "target": "juliette-champagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
    "target": "mcn",
    "weight": 1,
    "stories": [
@@ -21852,6 +22463,18 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
+   "target": "nicolas-paradis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -21893,6 +22516,18 @@
   },
   {
    "source": "conseil-executif",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
    "target": "sante-quebec",
    "weight": 1,
    "stories": [
@@ -21900,6 +22535,18 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "conseil-executif",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -21948,6 +22595,18 @@
      "date": "2026-11-10",
      "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "daniele-cantin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -22085,13 +22744,25 @@
   },
   {
    "source": "conseil-tresor",
-   "target": "julie-blackburn",
+   "target": "julie-gingras",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "juliette-champagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -22169,18 +22840,6 @@
   },
   {
    "source": "conseil-tresor",
-   "target": "nicolas-paradis",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
-    }
-   ]
-  },
-  {
-   "source": "conseil-tresor",
    "target": "parc-olympique",
    "weight": 1,
    "stories": [
@@ -22236,6 +22895,18 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -23296,6 +23967,78 @@
    ]
   },
   {
+   "source": "daniele-cantin",
+   "target": "julie-blackburn",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "daniele-cantin",
+   "target": "julie-gingras",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "daniele-cantin",
+   "target": "juliette-champagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "daniele-cantin",
+   "target": "nicolas-paradis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "daniele-cantin",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "daniele-cantin",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
    "source": "dave-kimpton",
    "target": "saaq",
    "weight": 1,
@@ -24126,18 +24869,6 @@
   {
    "source": "elsie-lefebvre",
    "target": "nicolas-marceau",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "elsie-lefebvre",
-   "target": "pq",
    "weight": 1,
    "stories": [
     {
@@ -25145,13 +25876,13 @@
   },
   {
    "source": "fiq-spsca",
-   "target": "sante-quebec",
+   "target": "hotel-dieu-levis",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-31",
-     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+     "date": "2026-11-13",
+     "headline": "Quand Santé Québec coupe dans les soins palliatifs",
+     "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
     }
    ]
   },
@@ -26260,6 +26991,30 @@
    ]
   },
   {
+   "source": "groupe-action-logement-quebec",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
+    }
+   ]
+  },
+  {
+   "source": "groupe-action-logement-quebec",
+   "target": "ville-amos",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
+    }
+   ]
+  },
+  {
    "source": "guillaume-bouvrette",
    "target": "patrick-audy",
    "weight": 1,
@@ -26656,6 +27411,18 @@
    ]
   },
   {
+   "source": "hotel-dieu-levis",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Quand Santé Québec coupe dans les soins palliatifs",
+     "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
+    }
+   ]
+  },
+  {
    "source": "hugues-mousseau",
    "target": "sante-quebec",
    "weight": 1,
@@ -26748,6 +27515,30 @@
      "date": "2026-10-25",
      "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
      "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "melccfp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "michel-lagace",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
     }
    ]
   },
@@ -26916,6 +27707,18 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "ville-amos",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
     }
    ]
   },
@@ -27712,6 +28515,42 @@
    ]
   },
   {
+   "source": "jean-francois-fortin",
+   "target": "melccfp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+    }
+   ]
+  },
+  {
+   "source": "jean-francois-fortin",
+   "target": "mrc-la-mitis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+    }
+   ]
+  },
+  {
+   "source": "jean-francois-fortin",
+   "target": "municipalite-sainte-flavie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+    }
+   ]
+  },
+  {
    "source": "jean-francois-lefort",
    "target": "saq",
    "weight": 1,
@@ -28109,13 +28948,97 @@
   },
   {
    "source": "julie-blackburn",
+   "target": "julie-gingras",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "julie-blackburn",
+   "target": "juliette-champagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "julie-blackburn",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "julie-blackburn",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "julie-gingras",
+   "target": "juliette-champagne",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "julie-gingras",
    "target": "nicolas-paradis",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "julie-gingras",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "julie-gingras",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -28200,6 +29123,42 @@
      "date": "2026-10-23",
      "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
      "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    }
+   ]
+  },
+  {
+   "source": "juliette-champagne",
+   "target": "nicolas-paradis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "juliette-champagne",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "juliette-champagne",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -28853,6 +29812,30 @@
   },
   {
    "source": "luc-boivin",
+   "target": "melccfp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
+   "source": "luc-boivin",
+   "target": "placements-rejean-boivin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
+   "source": "luc-boivin",
    "target": "unifor",
    "weight": 1,
    "stories": [
@@ -28860,18 +29843,6 @@
      "date": "2026-11-11",
      "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
      "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
-    }
-   ]
-  },
-  {
-   "source": "luc-boivin",
-   "target": "ville-saguenay",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-12",
-     "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
-     "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
     }
    ]
   },
@@ -29897,6 +30868,54 @@
   },
   {
    "source": "melccfp",
+   "target": "michel-lagace",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    }
+   ]
+  },
+  {
+   "source": "melccfp",
+   "target": "mrc-la-mitis",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+    }
+   ]
+  },
+  {
+   "source": "melccfp",
+   "target": "municipalite-sainte-flavie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
+    }
+   ]
+  },
+  {
+   "source": "melccfp",
+   "target": "placements-rejean-boivin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
+   "source": "melccfp",
    "target": "tes-canada",
    "weight": 1,
    "stories": [
@@ -29904,6 +30923,18 @@
      "date": "2026-11-11",
      "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
      "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    }
+   ]
+  },
+  {
+   "source": "melccfp",
+   "target": "ville-saguenay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
     }
    ]
   },
@@ -30144,6 +31175,18 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "source": "mrc-la-mitis",
+   "target": "municipalite-sainte-flavie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Sainte-Flavie – Une autorisation qui se fait attendre depuis 447 jours",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php"
     }
    ]
   },
@@ -30588,6 +31631,30 @@
      "date": "2026-11-06",
      "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-paradis",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-paradis",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -31168,6 +32235,18 @@
    ]
   },
   {
+   "source": "placements-rejean-boivin",
+   "target": "ville-saguenay",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
+     "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
    "source": "plc",
    "target": "pspp",
    "weight": 1,
@@ -31488,6 +32567,18 @@
      "date": "2026-10-23",
      "headline": "L’abolition du ministère du Tourisme au Québec inquiète l’industrie",
      "url": "https://ici.radio-canada.ca/nouvelle/2295001/absence-ministere-tourisme-quebec-inquiete-industrie"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "sea-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
     }
    ]
   },
@@ -32268,18 +33359,6 @@
      "date": "2026-10-22",
      "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    }
-   ]
-  },
-  {
-   "source": "steven-blaney",
-   "target": "ville-levis",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "Hausse de coûts pour les stations de traitement des eaux usées sous moratoire à Lévis",
-     "url": "https://ici.radio-canada.ca/article/info/2299533/levis-moratoire-consultation-eaux-construction"
     }
    ]
   },

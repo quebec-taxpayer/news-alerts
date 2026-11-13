@@ -1113,6 +1113,56 @@
    "category": "government",
    "importance": 3,
    "title_fr": "Le gouvernement péquiste déposera un projet de loi restreignant l’accès aux cégeps anglophones — mais sera-t-il adopté?"
+  },
+  "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu": {
+   "category": "government",
+   "importance": 5,
+   "title_en": "The PQ grants a salary premium to five senior public servants"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-13/sainte-flavie/une-autorisation-qui-se-fait-attendre-depuis-447-jours.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Sainte-Flavie – An authorization that has been pending for 447 days"
+  },
+  "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Paid mandatory internships: the PQ will keep its commitment, promises the Higher Education minister"
+  },
+  "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien": {
+   "category": "energy",
+   "importance": 4,
+   "title_en": "Wind development delayed by approval times deemed too long"
+  },
+  "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Hydro-Québec delays: tenants fear ending up without a home"
+  },
+  "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "When Santé Québec cuts palliative care"
+  },
+  "https://ici.radio-canada.ca/article/info/2300249/station-traitement-eaux-usees-levis-budget": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Wastewater: what bill for Lévis’s new plants?"
+  },
+  "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Saguenay acquires an industrial park street without analysis by its engineers"
+  },
+  "https://ici.radio-canada.ca/article/info/2300196/expropriation-batiment-tramway-rue-saint-jean-quebec": {
+   "category": "finances",
+   "importance": 2,
+   "title_en": "Another downtown commercial building requisitioned for the tramway"
+  },
+  "https://www.tvanouvelles.ca/2026/11/13/pres-de-800-000-en-remboursements-de-taxes-frauduleux-quatre-ans-de-prison-pour-un-resident-de-saint-hyacinthe": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "Nearly $800,000 in fraudulent tax refunds: four years in prison for a Saint-Hyacinthe resident"
   }
  }
 }
