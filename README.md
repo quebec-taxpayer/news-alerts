@@ -128,6 +128,9 @@ There is no weekly roundup section.
    advisory, not a reason to pad). Verify author bylines and outlet against the original article, retain its URL,
    and retain evidence externally. Use `python3 _tools/homepage_news.py --editorial /path/editorial.json
    --post _posts/YYYY-MM-DD-digest.md --output _data/homepage_news.json` to validate/import a reviewed package.
+   The import **merges**: entries from earlier days already in the file are kept, the day's entries are replaced
+   by the package, and the merged file is re-validated (`--replace` restores the old overwrite-only behaviour;
+   do not use it for daily runs). Regression test: `python3 _tools/test_homepage_news.py`.
    Then run `python3 _tools/homepage_news.py --data _data/homepage_news.json --post _posts/YYYY-MM-DD-digest.md`.
    Check the homepage Why-it-matters lines still add a sourced fact rather than repeat the expanded summary;
    warnings require editorial review, not automatic paraphrasing. `gen.py` never writes this separate data file,

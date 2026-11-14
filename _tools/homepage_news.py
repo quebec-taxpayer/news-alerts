@@ -4,6 +4,8 @@ Editorial input: list of entries, {"stories": [...]}, or URL-keyed entries.
 Public output: exact source URL -> {url,date,summary_fr,summary_en,authors,contributors,author_type,outlet}.
 Evidence/status/notes are validated where supplied, but never copied into public data.
 Word counts and why-overlap are advisory; factual/source/byline audit remains editorial work.
+Import with --output MERGES: earlier days already in the output file are kept, the current day is replaced
+by the imported package, and the merged file is re-validated. --replace restores overwrite-only behaviour.
 """
 from pathlib import Path
 import argparse,datetime,json,re,sys
@@ -85,10 +87,24 @@ def validate(raw,day,stories,public_input=False):
  if missing:errors.append('Missing current-day expansions: '+', '.join(sorted(missing)))
  return output,errors,warnings,counts
 
+def merge(existing,imported,day):
+ """Keep earlier days' public entries; the imported package replaces the current day."""
+ merged={url:e for url,e in existing.items() if not (isinstance(e,dict) and e.get('date')==day) and url not in imported}
+ merged.update(imported)
+ return merged
+
 def main():
- ap=argparse.ArgumentParser(description=__doc__);ap.add_argument('--data');ap.add_argument('--editorial');ap.add_argument('--post',required=True);ap.add_argument('--output');ap.add_argument('--report');a=ap.parse_args()
+ ap=argparse.ArgumentParser(description=__doc__);ap.add_argument('--data');ap.add_argument('--editorial');ap.add_argument('--post',required=True);ap.add_argument('--output');ap.add_argument('--report')
+ ap.add_argument('--replace',action='store_true',help='Overwrite --output with only the imported entries (default: merge, keeping earlier days)');a=ap.parse_args()
  if bool(a.data)==bool(a.editorial):ap.error('Provide exactly one of --data or --editorial')
- day,stories=post(a.post);data,errors,warnings,counts=validate(json.loads(Path(a.editorial or a.data).read_text()),day,stories,public_input=bool(a.data));result={'result':'ERROR' if errors else 'PASS','date':day,'current_story_count':len(stories),'current_language_summary_count':len(counts),'errors':errors,'warnings':warnings,'word_counts':counts,'editorial_approval_required':'Validation does not establish factual accuracy or approve publication'}
+ day,stories=post(a.post);data,errors,warnings,counts=validate(json.loads(Path(a.editorial or a.data).read_text()),day,stories,public_input=bool(a.data))
+ merged_count=None
+ if not errors and a.output and not a.replace and Path(a.output).exists():
+  # Default import merges into existing public data, then re-checks the whole output contract.
+  data=merge(json.loads(Path(a.output).read_text()),data,day)
+  _,merge_errors,_,_=validate(data,day,stories,public_input=True);errors+=['merged output: '+x for x in merge_errors];merged_count=len(data)
+ result={'result':'ERROR' if errors else 'PASS','date':day,'current_story_count':len(stories),'current_language_summary_count':len(counts),'errors':errors,'warnings':warnings,'word_counts':counts,'editorial_approval_required':'Validation does not establish factual accuracy or approve publication'}
+ if merged_count is not None:result['merged_output_entry_count']=merged_count
  if a.report:Path(a.report).write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
  print(json.dumps(result,ensure_ascii=False,indent=2))
  if errors:return 1
