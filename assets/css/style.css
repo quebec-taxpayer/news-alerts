@@ -997,7 +997,7 @@ h3 { margin: 22px 0 8px; }
 /* ===== Special-reports ticker (very top of every page; _includes/report-ticker.html) =====
    Black bar, white text, scrolls right to left at about 70 px/s (duration set per language in the include).
    Pauses on hover and keyboard focus; no motion with prefers-reduced-motion (swipeable list instead). */
-.report-ticker { display: flex; align-items: stretch; background: #000; color: #fff; font-size: 15px; font-weight: 600; line-height: 1.3; min-height: 44px; overflow: hidden; }
+.report-ticker { display: flex; align-items: stretch; background: #333; color: #fff; font-size: 15px; font-weight: 600; line-height: 1.3; min-height: 44px; overflow: hidden; }
 .report-ticker a { color: #fff; text-decoration: none; }
 .report-ticker a:hover { text-decoration: underline; text-underline-offset: 3px; }
 .report-ticker a:focus-visible { outline: 3px solid var(--yellow); outline-offset: -3px; }

@@ -5,6 +5,8 @@ pages and ticker:false; it deduplicates canonical URLs before the four-item cap.
 First publication, never ticker_order or later updates, determines chronology.
 The second animation track is intentionally hidden and not keyboard-focusable.
 Character-based speed, markup, bilingual spans and shared CSS remain unchanged.
+Labels: short ticker_label_fr / ticker_label_en from the report's front matter (ticker only;
+full titles everywhere else), falling back to title_fr / title when missing.
 {%- endcomment -%}
 {%- capture tk_serialized -%}{% include report-order.html ticker=true %}{%- endcapture -%}
 {%- assign tk_rows = tk_serialized | split: "~" | sort -%}
@@ -16,9 +18,9 @@ Character-based speed, markup, bilingual spans and shared CSS remain unchanged.
 {%- assign tk_parts = tk_row | split: "|" -%}
 {%- assign p = site.pages | where: "url", tk_parts[2] | first -%}
 {%- assign tk_n = tk_n | plus: 1 -%}
-{%- assign f = p.title_fr | default: p.title -%}
-{%- assign tk_fr = tk_fr | plus: f.size | plus: 4 -%}{%- assign tk_en = tk_en | plus: p.title.size | plus: 4 -%}
-<li><a href="{{ p.url | relative_url }}"><span class="l-fr" lang="fr">{{ f | escape }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ p.title | escape }}</span></a></li>
+{%- assign f = p.ticker_label_fr | default: p.title_fr | default: p.title -%}{%- assign e = p.ticker_label_en | default: p.title -%}
+{%- assign tk_fr = tk_fr | plus: f.size | plus: 4 -%}{%- assign tk_en = tk_en | plus: e.size | plus: 4 -%}
+<li><a href="{{ p.url | relative_url }}"><span class="l-fr" lang="fr">{{ f | escape }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ e | escape }}</span></a></li>
 {%- endfor -%}
 {%- endcapture -%}
 {%- if tk_n > 0 -%}
