@@ -31,6 +31,7 @@ if(l!=="en")l="fr";var h=document.documentElement;h.className=(h.className.repla
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}">
 {% if page.reports_library %}<link rel="stylesheet" href="{{ '/assets/css/reports-library.css' | relative_url }}?v={{ site.time | date: '%s' }}">{% endif %}
 {% if page.report_ai_overview %}<link rel="stylesheet" href="{{ '/assets/css/report-ai-overview.css' | relative_url }}?v={{ site.time | date: '%s' }}">{% endif %}
+{% if page.reports_map %}<link rel="stylesheet" href="{{ '/assets/css/reports-map.css' | relative_url }}?v={{ site.time | date: '%s' }}"><script src="{{ '/assets/js/reports-map.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>{% endif %}
 {% if page.megaprojects_visuals %}<link rel="stylesheet" href="{{ '/assets/css/megaprojects-visuals.css' | relative_url }}?v={{ site.time | date: '%s' }}"><script src="{{ '/assets/js/megaprojects-visuals.js' | relative_url }}?v={{ site.time | date: '%s' }}" defer></script>{% endif %}
 </head>
 <body{% if page.layout == "dossier-print" %} class="print-page"{% endif %}>

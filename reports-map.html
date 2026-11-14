@@ -1,0 +1,117 @@
+---
+layout: page
+title: "Map of our reports"
+title_fr: "Carte de nos rapports"
+permalink: /reports-map/
+section: special-reports
+reports_map: true
+summary: "How our special reports fit together: themes, the four-part series, and the links each report makes to the others."
+summary_fr: "Comment nos rapports spéciaux s’articulent : thèmes, série en quatre volets et liens que chaque rapport fait avec les autres."
+---
+{%- comment -%}
+Nodes: every published special report, from the same ordering include as the Special Reports index (new reports
+appear automatically). Theme, short label, series and links come from _data/report_map.json; a report missing there
+goes to default_theme with its full title. Links are drawn by assets/js/reports-map.js; without JS the board is a
+grouped list and every link is written out in the cards below.
+{%- endcomment -%}
+{%- assign rm = site.data.report_map -%}
+{%- capture rm_serialized -%}{% include report-order.html %}{%- endcapture -%}
+{%- assign rm_rows = rm_serialized | split: "~" | sort -%}
+{%- assign rm_theme_ids = "" -%}{%- for t in rm.themes -%}{%- assign rm_theme_ids = rm_theme_ids | append: "|" | append: t.id | append: "|" -%}{%- endfor -%}
+{%- capture rm_all -%}
+{%- for row in rm_rows -%}{%- if row == empty -%}{%- continue -%}{%- endif -%}
+{%- assign parts = row | split: "|" -%}{%- assign rurl = parts[2] -%}{%- assign rmm = rm.reports[rurl] -%}
+{%- assign th = rmm.theme | default: rm.default_theme -%}{%- capture thk -%}|{{ th }}|{%- endcapture -%}
+{%- unless rm_theme_ids contains thk -%}{%- assign th = rm.default_theme -%}{%- endunless -%}
+{%- assign pos = rmm.pos | default: 9 -%}
+{{ th }}^{{ pos }}^{{ parts[0] }}^{{ parts[1] }}^{{ rurl }}~
+{%- endfor -%}
+{%- endcapture -%}
+{%- assign rm_items = rm_all | split: "~" | sort -%}
+{%- assign rm_cols = 0 -%}
+{%- for t in rm.themes -%}{%- capture tk -%}{{ t.id }}^{%- endcapture -%}{%- for it in rm_items -%}{%- assign s = it | slice: 0, tk.size -%}{%- if s == tk -%}{%- assign rm_cols = rm_cols | plus: 1 -%}{%- break -%}{%- endif -%}{%- endfor -%}{%- endfor -%}
+
+<p class="rmap-back"><a href="{{ '/special-reports/' | relative_url }}"><span aria-hidden="true">← </span><span class="l-fr" lang="fr">Retour aux rapports spéciaux</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Back to Special Reports</span></a></p>
+<p class="dek"><span class="l-fr" lang="fr">Nos <a href="{{ '/special-reports/' | relative_url }}">rapports spéciaux</a>, regroupés par thème. Chaque lien que les rapports font eux-mêmes entre eux est expliqué plus bas; sur grand écran, des lignes les relient.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Our <a href="{{ '/special-reports/' | relative_url }}">special reports</a>, grouped by theme. Every connection the reports themselves make is explained below; on wider screens, lines join them.</span></p>
+
+<ul class="rmap-legend">
+  <li><svg width="34" height="10" aria-hidden="true" focusable="false"><line x1="1" y1="5" x2="33" y2="5" class="rmap-k-link"/></svg><span class="l-fr" lang="fr">Le rapport renvoie à l’autre</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">The report refers to the other</span></li>
+  <li><svg width="34" height="10" aria-hidden="true" focusable="false"><line x1="1" y1="5" x2="33" y2="5" class="rmap-k-subject"/></svg><span class="l-fr" lang="fr">Le rapport traite aussi du sujet de l’autre</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">The report also covers the other’s subject</span></li>
+</ul>
+
+<div class="rmap-board" data-rmap style="--rmap-cols: {{ rm_cols | at_least: 1 }}">
+<svg class="rmap-lines" aria-hidden="true" focusable="false"></svg>
+{%- for t in rm.themes -%}
+{%- capture tk -%}{{ t.id }}^{%- endcapture -%}
+{%- assign tnodes = "" | split: "" -%}
+{%- for it in rm_items -%}{%- assign s = it | slice: 0, tk.size -%}{%- if s == tk -%}{%- assign tnodes = tnodes | push: it -%}{%- endif -%}{%- endfor -%}
+{%- if tnodes.size == 0 -%}{%- continue -%}{%- endif %}
+<section class="rmap-col rmap-t-{{ t.id }}" aria-labelledby="rmap-h-{{ t.id }}">
+  <h2 class="rmap-theme" id="rmap-h-{{ t.id }}"><span class="l-fr" lang="fr">{{ t.fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ t.en }}</span></h2>
+  {%- if t.desc_fr != "" %}<p class="rmap-tdesc"><span class="l-fr" lang="fr">{{ t.desc_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ t.desc_en }}</span></p>{% endif %}
+  <ol class="rmap-nodes">
+  {%- for it in tnodes -%}
+  {%- assign f = it | split: "^" -%}{%- assign rpg = site.pages | where: "url", f[4] | first -%}{%- assign rmm = rm.reports[rpg.url] -%}{%- assign slug = rpg.url | split: "/" | last -%}
+  {%- assign nlinks = 0 -%}{%- for l in rm.links -%}{%- if l.from == rpg.url or l.to == rpg.url -%}{%- assign nlinks = nlinks | plus: 1 -%}{%- endif -%}{%- endfor %}
+    <li><a class="rmap-node" href="#r-{{ slug }}" id="n-{{ slug }}" data-node="{{ rpg.url }}">
+      {%- if rmm.series and rmm.part -%}{%- assign se = rm.series[rmm.series] -%}<span class="rmap-part"><span class="l-fr" lang="fr">Volet {{ rmm.part }}/{{ se.parts }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Part {{ rmm.part }}/{{ se.parts }}</span></span>{%- endif -%}
+      <span class="rmap-name"><span class="l-fr" lang="fr">{{ rmm.short_fr | default: rpg.title_fr | default: rpg.title }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ rmm.short_en | default: rpg.title }}</span></span>
+      <span class="rmap-meta">{%- assign fday = f[3] -%}{% if fday != "-" %}<time datetime="{{ fday }}">{% include edate.html date=fday %}</time>{% endif %}<span class="rmap-count"> · {{ nlinks }} <span class="l-fr" lang="fr">lien{% if nlinks > 1 %}s{% endif %}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">link{% if nlinks != 1 %}s{% endif %}</span></span></span>
+    </a></li>
+  {%- endfor %}
+  </ol>
+</section>
+{%- endfor %}
+</div>
+
+{%- for sk in rm.series -%}{%- assign sid = sk[0] -%}{%- assign se = sk[1] -%}
+{%- capture srows -%}{%- for it in rm_items -%}{%- assign f = it | split: "^" -%}{%- assign rurl = f[4] -%}{%- assign rmm = rm.reports[rurl] -%}{%- if rmm.series == sid -%}{{ rmm.part }}^{{ f[4] }}~{%- endif -%}{%- endfor -%}{%- endcapture -%}
+{%- assign srows = srows | split: "~" | sort -%}
+{%- if srows.size > 0 %}
+<section class="rmap-series" aria-labelledby="rmap-s-{{ sid }}">
+  <h2 class="rmap-sh" id="rmap-s-{{ sid }}"><span class="l-fr" lang="fr">La série <em>{{ se.fr }}</em>, dans l’ordre</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">The <em>{{ se.en }}</em> series, in order</span></h2>
+  <ol class="rmap-steps">
+  {%- for r in srows -%}{%- if r == empty -%}{%- continue -%}{%- endif -%}{%- assign f = r | split: "^" -%}{%- assign rpg = site.pages | where: "url", f[1] | first -%}{%- assign rmm = rm.reports[rpg.url] %}
+    <li><a href="{{ rpg.url | relative_url }}"><span class="rmap-step-n">{{ f[0] }}</span><span class="l-fr" lang="fr">{{ rmm.short_fr | default: rpg.title_fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ rmm.short_en | default: rpg.title }}</span></a></li>
+  {%- endfor %}
+  </ol>
+</section>
+{%- endif -%}
+{%- endfor %}
+
+<h2 id="details"><span class="l-fr" lang="fr">Les rapports et leurs liens</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">The reports and how they connect</span></h2>
+{%- for t in rm.themes -%}
+{%- capture tk -%}{{ t.id }}^{%- endcapture -%}
+{%- assign tnodes = "" | split: "" -%}
+{%- for it in rm_items -%}{%- assign s = it | slice: 0, tk.size -%}{%- if s == tk -%}{%- assign tnodes = tnodes | push: it -%}{%- endif -%}{%- endfor -%}
+{%- if tnodes.size == 0 -%}{%- continue -%}{%- endif %}
+<h3 class="rmap-dtheme"><span class="l-fr" lang="fr">{{ t.fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ t.en }}</span></h3>
+<div class="rmap-cards">
+{%- for it in tnodes -%}
+{%- assign f = it | split: "^" -%}{%- assign rpg = site.pages | where: "url", f[4] | first -%}{%- assign rmm = rm.reports[rpg.url] -%}{%- assign slug = rpg.url | split: "/" | last -%}{%- assign ov = site.data.report_overviews[rpg.url] %}
+<article class="rmap-card" id="r-{{ slug }}">
+  {%- if rmm.series and rmm.part -%}{%- assign se = rm.series[rmm.series] -%}<p class="rmap-part"><span class="l-fr" lang="fr">Volet {{ rmm.part }} de {{ se.parts }} · <em>{{ se.fr }}</em></span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Part {{ rmm.part }} of {{ se.parts }} · <em>{{ se.en }}</em></span></p>{%- endif %}
+  <h4><a href="{{ rpg.url | relative_url }}">{% include ptitle.html p=rpg %}</a></h4>
+  {%- assign fday = f[3] -%}{% if fday != "-" %}<p class="rmap-date"><span class="l-fr" lang="fr">Publié le </span><span class="l-en" lang="en">Published </span><time datetime="{{ fday }}">{% include edate.html date=fday %}</time></p>{% endif %}
+  <p class="rmap-take"><span class="l-fr" lang="fr">{{ ov.lead.fr | default: rpg.summary_fr | default: rpg.summary | escape }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ ov.lead.en | default: rpg.summary | escape }}</span></p>
+  {%- assign shown = 0 %}
+  <ul class="rmap-rel">
+  {%- for l in rm.links -%}
+  {%- if l.from == rpg.url or l.to == rpg.url -%}
+  {%- if l.from == rpg.url -%}{%- assign other = l.to -%}{%- else -%}{%- assign other = l.from -%}{%- endif -%}
+  {%- assign op = site.pages | where: "url", other | first -%}{%- unless op -%}{%- continue -%}{%- endunless -%}
+  {%- assign om = rm.reports[other] -%}{%- assign oslug = other | split: "/" | last -%}{%- assign shown = shown | plus: 1 %}
+    <li class="rmap-rel-{{ l.kind }}"><a href="#r-{{ oslug }}"><span aria-hidden="true">{% if l.both %}↔{% elsif l.from == rpg.url %}→{% else %}←{% endif %} </span><span class="l-fr" lang="fr">{{ om.short_fr | default: op.title_fr | default: op.title }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ om.short_en | default: op.title }}</span></a> — <span class="l-fr" lang="fr">{{ l.fr }}</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">{{ l.en }}</span></li>
+  {%- endif -%}
+  {%- endfor %}
+  {%- if shown == 0 %}<li class="rmap-none"><span class="l-fr" lang="fr">Pas de lien direct avec les autres rapports pour l’instant.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">No direct link to the other reports yet.</span></li>{% endif %}
+  </ul>
+  <p class="rmap-read"><a href="{{ rpg.url | relative_url }}"><span class="l-fr" lang="fr">Lire le rapport</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Read the report</span><span aria-hidden="true"> →</span></a></p>
+</article>
+{%- endfor %}
+</div>
+{%- endfor %}
+
+<p class="rmap-note"><span class="l-fr" lang="fr">Chaque lien repose sur le texte publié des rapports : un renvoi explicite, ou un passage où un rapport traite du sujet d’un autre. Un lien ne suggère aucune faute ni aucun lien entre les personnes ou les organismes mentionnés.</span><span class="l-sep" aria-hidden="true"> / </span><span class="l-en" lang="en">Every link rests on the published text of the reports: an explicit cross-reference, or a passage where one report covers another’s subject. A link implies no wrongdoing and no relationship between the people or bodies mentioned.</span></p>
+
+<script type="application/json" id="rmap-links">{{ rm.links | jsonify }}</script>

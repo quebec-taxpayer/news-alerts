@@ -1,7 +1,8 @@
 {%- assign rlc_report = include.report -%}
 {%- assign rlc_art = site.data.report_artwork[rlc_report.url] -%}
 {%- assign rlc_image = rlc_art.image | default: "/assets/img/reports/fallback.svg" -%}
-<article class="report-card {% if include.featured %}featured{% else %}card{% endif %}" data-report="{{ rlc_report.url | split: '/' | last | escape }}">
+{%- assign rlc_map = site.data.report_map.reports[rlc_report.url] -%}{%- assign rlc_theme = rlc_map.theme | default: site.data.report_map.default_theme -%}
+<article class="report-card {% if include.featured %}featured{% else %}card{% endif %}" data-report="{{ rlc_report.url | split: '/' | last | escape }}" data-url="{{ rlc_report.url | relative_url }}" data-date="{% if include.day != '-' %}{{ include.day }}{% endif %}" data-theme="{{ rlc_theme | escape }}" data-title-fr="{{ rlc_report.title_fr | default: rlc_report.title | escape }}" data-title-en="{{ rlc_report.title | escape }}">
 {% if include.featured %}<div class="featured-main"><div class="featured-copy"><p class="eyebrow"><span class="l-fr" lang="fr">À la une · Le plus récent</span><span class="l-en" lang="en">Featured · Latest report</span></p>{% else %}
 <figure class="artwork"><img src="{{ rlc_image | relative_url }}" alt="{{ rlc_art.alt_fr | default: 'Illustration éditoriale : rapport' | escape }} / {{ rlc_art.alt_en | default: 'Editorial illustration: report' | escape }}" width="640" height="320" loading="lazy" decoding="async"></figure><div class="card-body"><p class="topic"><span class="l-fr" lang="fr">{{ rlc_art.topic_fr | default: 'Rapport spécial' | escape }}</span><span class="l-en" lang="en">{{ rlc_art.topic_en | default: 'Special report' | escape }}</span></p>
 {% endif %}

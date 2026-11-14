@@ -71,3 +71,15 @@
   .reports-library .featured, .reports-library .card {break-inside:avoid;}
   .reports-library .cards {grid-template-columns:1fr;}
 }
+/* Map entry point and "Sort by" control (assets/js/reports-sort.js; hidden without JS). */
+.reports-library .intro .map-link{display:inline-flex;min-height:44px;align-items:center;gap:4px;font-weight:700;margin-left:22px;padding:4px 14px;border:2px solid var(--blue);border-radius:3px;text-decoration:none}.reports-library .intro .map-link:hover{background:var(--plain);text-decoration:underline}
+.reports-library .report-sort{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin-top:14px}
+.reports-library .report-sort[hidden]{display:none}
+.reports-library .report-sort label{font-weight:750;font-size:16px}
+.reports-library .report-sort select{font:600 16px/1.3 var(--font);color:#000;background:#fff;border:2px solid var(--blue);border-radius:3px;min-height:44px;padding:6px 36px 6px 10px;max-width:100%}
+.reports-library .report-sort select:focus-visible{outline:3px solid var(--blue);outline-offset:2px}
+.reports-library .sort-group{grid-column:1/-1;font-size:20px;font-weight:750;color:var(--blue);border-bottom:2px solid var(--blue);padding-bottom:6px;margin-top:8px}
+.reports-library .sort-group:first-child{margin-top:0}
+.reports-library .sort-featured-note{grid-column:1/-1;margin:-10px 0 0;padding:10px 14px;background:var(--plain);border-left:4px solid var(--blue);font-size:16px}
+@media(max-width:620px){.reports-library .intro .map-link{margin:8px 0 0;display:inline-flex}.reports-library .sort-featured-note{font-size:16px}}
+@media(prefers-reduced-motion:no-preference){.reports-library .cards.sort-anim .report-card{animation:rs-in .35s ease-out both}@keyframes rs-in{from{opacity:.25;transform:translateY(4px)}to{opacity:1;transform:none}}}

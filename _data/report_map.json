@@ -1,0 +1,51 @@
+{
+ "_comment": "Map of our reports (/reports-map/). Nodes come automatically from every published special report (same rules as the Special Reports index); this file only adds a theme, a short label, series info and the links between reports. A report missing here appears under default_theme with its full title. Every link must be traceable to text in the published reports: 'from' is the report whose text makes the connection, kind 'link' = it links or refers the reader to the other report, kind 'subject' = it covers the other report's subject in its own text. Keep the evidence list up to date outside the site.",
+ "default_theme": "other",
+ "themes": [
+  {"id": "oversight", "fr": "Chiens de garde et reddition de comptes", "en": "Watchdogs and accountability",
+   "desc_fr": "Les organismes qui surveillent l’État : Vérificateur général, commissaire au lobbyisme, Protecteur du citoyen.",
+   "desc_en": "The bodies that watch over government: the Auditor General, the lobbying commissioner, the Protecteur du citoyen."},
+  {"id": "contracts", "fr": "Contrats publics et grands projets", "en": "Public contracts and major projects",
+   "desc_fr": "Comment l’État achète, construit et informatise, et ce que les enquêtes en ont dit.",
+   "desc_en": "How government buys, builds and digitizes, and what inquiries found."},
+  {"id": "state", "fr": "Taille de l’État et finances publiques", "en": "Size of the state and public finances",
+   "desc_fr": "Combien de personnes l’État emploie et ce que les partis promettent d’y changer.",
+   "desc_en": "How many people government employs and what the parties promise to change."},
+  {"id": "other", "fr": "Autres rapports", "en": "Other reports", "desc_fr": "", "desc_en": ""}
+ ],
+ "series": {
+  "irs": {"fr": "Enquêté, rapporté, ignoré", "en": "Investigated, Reported, Ignored", "parts": 4}
+ },
+ "reports": {
+  "/special-reports/lobbying/": {"theme": "oversight", "pos": 1, "short_fr": "Loi sur le lobbyisme", "short_en": "Lobbying law", "series": "irs", "part": 1},
+  "/special-reports/auditor-general/": {"theme": "oversight", "pos": 2, "short_fr": "Suivis du Vérificateur général", "short_en": "Auditor General follow-ups", "series": "irs", "part": 2},
+  "/special-reports/whistleblowers/": {"theme": "oversight", "pos": 3, "short_fr": "Lanceurs d’alerte", "short_en": "Whistleblowers"},
+  "/special-reports/charbonneau/": {"theme": "contracts", "pos": 1, "short_fr": "Charbonneau, dix ans plus tard", "short_en": "Charbonneau, ten years on", "series": "irs", "part": 3},
+  "/special-reports/saaqclic/": {"theme": "contracts", "pos": 2, "short_fr": "SAAQclic", "short_en": "SAAQclic", "series": "irs", "part": 4},
+  "/special-reports/governance-across-decades/": {"theme": "contracts", "pos": 3, "short_fr": "Mégaprojets, 1977–2026", "short_en": "Megaprojects, 1977–2026"},
+  "/special-reports/smaller-government/": {"theme": "state", "pos": 1, "short_fr": "« Moins d’État » en 2026", "short_en": "“Less government” in 2026"}
+ },
+ "links": [
+  {"id": "lobbying-saaqclic", "from": "/special-reports/lobbying/", "to": "/special-reports/saaqclic/", "kind": "link", "both": true,
+   "fr": "Le commissaire au lobbyisme a dit à la commission Gallant qu’il était impossible de savoir s’il y avait eu du lobbyisme autour de SAAQclic; le rapport Gallant recommande de refondre la loi (recommandation 25).",
+   "en": "The lobbying commissioner told the Gallant commission it was impossible to know whether lobbying took place around SAAQclic; the Gallant report recommends overhauling the law (recommendation 25)."},
+  {"id": "ag-saaqclic", "from": "/special-reports/auditor-general/", "to": "/special-reports/saaqclic/", "kind": "link",
+   "fr": "Le volet 2 renvoie au volet 4 au sujet des mesures de gouvernance numérique citées par le gouvernement en réponse au rapport Gallant sur SAAQclic.",
+   "en": "Part 2 refers to part 4 about the digital-governance measures the government cited in response to the Gallant report on SAAQclic."},
+  {"id": "charbonneau-lobbying", "from": "/special-reports/charbonneau/", "to": "/special-reports/lobbying/", "kind": "link",
+   "fr": "Une motion unanime après un grand rapport n’est pas nouvelle : c’est arrivé après Charbonneau en 2015, puis pour la loi sur le lobbyisme en février 2026.",
+   "en": "A unanimous motion after a major report is not new: it happened after Charbonneau in 2015, then with the lobbying law in February 2026."},
+  {"id": "charbonneau-saaqclic", "from": "/special-reports/charbonneau/", "to": "/special-reports/saaqclic/", "kind": "subject",
+   "fr": "En février 2026, la commission Gallant sur SAAQclic recommande de donner plus de pouvoirs à l’Autorité des marchés publics (AMP), l’une des réformes issues de Charbonneau.",
+   "en": "In February 2026, the Gallant commission on SAAQclic recommends giving more powers to the Autorité des marchés publics (AMP), one of the reforms that followed Charbonneau."},
+  {"id": "whistleblowers-charbonneau", "from": "/special-reports/whistleblowers/", "to": "/special-reports/charbonneau/", "kind": "link",
+   "fr": "La loi de 2016 sur les lanceurs d’alerte, déposée une semaine après le rapport Charbonneau, n’en reprenait qu’une partie : la commission recommandait un régime général, public et privé.",
+   "en": "The 2016 whistleblower law, tabled a week after the Charbonneau report, answered it only in part: the commission had recommended a general regime for the public and private sectors."},
+  {"id": "megaprojects-charbonneau", "from": "/special-reports/governance-across-decades/", "to": "/special-reports/charbonneau/", "kind": "subject",
+   "fr": "Cas 3 du rapport sur les mégaprojets : Charbonneau et l’AMP, une vraie réforme dont l’effet reste à mesurer.",
+   "en": "Case 3 of the megaprojects report: Charbonneau and the AMP, a real reform whose effect remains to be measured."},
+  {"id": "megaprojects-saaqclic", "from": "/special-reports/governance-across-decades/", "to": "/special-reports/saaqclic/", "kind": "subject",
+   "fr": "Cas 5 du rapport sur les mégaprojets : SAAQclic, des lacunes de préparation et de reddition de comptes documentées par le Vérificateur général.",
+   "en": "Case 5 of the megaprojects report: SAAQclic, with preparation and reporting weaknesses documented by the Auditor General."}
+ ]
+}

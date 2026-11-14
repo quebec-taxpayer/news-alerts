@@ -1,0 +1,74 @@
+/* Map of our reports (/reports-map/). Shared palette: white, near-black text, deep blue, sparing red, #fff8d6 callouts.
+   Mobile first: one column, no lines. From 640px the themes sit side by side and reports-map.js draws the links. */
+.rmap-legend { list-style: none; margin: 4px 0 14px; padding: 0; display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 14px; color: var(--muted); }
+.rmap-legend li { display: flex; align-items: center; gap: 8px; }
+.rmap-k-link, .rmap-k-subject { stroke: var(--blue); stroke-width: 2.5; }
+.rmap-k-subject { stroke-dasharray: 5 4; }
+.rmap-board { position: relative; display: grid; grid-template-columns: 1fr; gap: 18px; margin: 0 0 26px; padding: 14px; border: 1px solid var(--rule); border-radius: 4px; background: var(--tint); }
+.rmap-lines { display: none; }
+.rmap-col { position: relative; z-index: 1; min-width: 0; }
+.report .rmap-theme, .rmap-theme { font-size: 15px; line-height: 1.3; margin: 0 0 4px; padding: 0 0 4px; border-bottom: 2px solid var(--blue); text-transform: none; }
+.rmap-tdesc { font-size: 13px; line-height: 1.45; color: var(--muted); margin: 0 0 10px; }
+.rmap-nodes { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.rmap-node { display: block; padding: 9px 11px; background: var(--white); border: 2px solid var(--blue); border-radius: 4px; color: var(--black); text-decoration: none; box-shadow: var(--shadow); transition: border-color .15s, box-shadow .15s, opacity .15s; }
+.rmap-node:hover, .rmap-node:focus { color: var(--black); border-color: var(--red); text-decoration: none; }
+.rmap-node:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; }
+.rmap-part { display: inline-block; font-size: 12px; font-weight: 700; color: var(--blue); text-transform: uppercase; letter-spacing: .03em; margin: 0 0 2px; }
+.rmap-name { display: block; font-weight: 700; font-size: 16px; line-height: 1.25; }
+.rmap-meta { display: block; font-size: 13px; color: var(--muted); margin-top: 2px; }
+.rmap-board.is-focus .rmap-node { opacity: .38; }
+.rmap-board.is-focus .rmap-node.on { opacity: 1; }
+.rmap-board.is-focus .rmap-node.cur { border-color: var(--red); }
+
+/* Series strip: a numbered flow, vertical on mobile */
+.rmap-series { margin: 0 0 26px; padding: 12px 14px; background: var(--plain); border-left: 4px solid var(--blue); }
+.report .rmap-sh, .rmap-sh { font-size: 16px; border: 0; margin: 0 0 8px; padding: 0; }
+.rmap-steps { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 6px; }
+.rmap-steps li { display: flex; align-items: center; }
+.rmap-steps li + li::before { content: "↓"; color: var(--blue); font-weight: 700; margin: 0 8px 0 6px; }
+.rmap-steps a { display: inline-flex; align-items: center; gap: 8px; font-weight: 600; min-height: 32px; }
+.rmap-step-n { display: inline-flex; align-items: center; justify-content: center; width: 24px; height: 24px; border-radius: 50%; background: var(--blue); color: var(--white); font-size: 13px; font-weight: 700; flex: 0 0 auto; }
+
+/* Detail cards */
+.report .rmap-dtheme, .rmap-dtheme { font-size: 17px; margin: 22px 0 8px; color: var(--blue); }
+.rmap-cards { display: grid; gap: 14px; }
+.rmap-card { border: 1px solid var(--rule); border-top: 3px solid var(--blue); border-radius: 3px; padding: 12px 14px; background: var(--white); scroll-margin-top: 16px; }
+.rmap-card:target { border-top-color: var(--red); box-shadow: 0 0 0 3px var(--plain); }
+.rmap-card h4 { font-size: 17px; line-height: 1.3; margin: 2px 0 4px; }
+.rmap-date { font-size: 13px; color: var(--muted); margin: 0 0 6px; }
+.rmap-take { font-size: 15px; margin: 0 0 8px; }
+.rmap-rel { list-style: none; margin: 0 0 8px; padding: 0; font-size: 14px; line-height: 1.5; }
+.rmap-rel li { padding: 6px 0 6px 10px; border-left: 3px solid var(--blue); margin: 0 0 6px; }
+.rmap-rel li.rmap-rel-subject { border-left-style: dashed; }
+.rmap-rel a { font-weight: 700; }
+.rmap-rel li.rmap-none { border-left-color: var(--rule); color: var(--muted); }
+.rmap-read { margin: 0; font-size: 14px; font-weight: 600; }
+.rmap-note { font-size: 13px; color: var(--muted); border-top: 1px solid var(--rule); padding-top: 10px; margin-top: 22px; }
+
+@media (min-width: 640px) {
+  .rmap-board { grid-template-columns: repeat(var(--rmap-cols, 3), minmax(0, 1fr)); gap: 18px 46px; padding: 18px 16px; }
+  .rmap-board.has-lines .rmap-lines { display: block; position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; overflow: visible; pointer-events: none; }
+  .rmap-steps { flex-direction: row; flex-wrap: wrap; gap: 6px 0; }
+  .rmap-steps li + li::before { content: "→"; margin: 0 10px; }
+  .rmap-cards { grid-template-columns: 1fr 1fr; }
+}
+.rmap-lines path { fill: none; stroke: var(--blue); stroke-width: 2; opacity: .55; transition: opacity .15s, stroke .15s; }
+.rmap-lines path.subject { stroke-dasharray: 6 5; }
+.rmap-lines path.on { opacity: 1; stroke: var(--red); stroke-width: 2.5; }
+.rmap-board.is-focus .rmap-lines path:not(.on) { opacity: .12; }
+@media (prefers-reduced-motion: no-preference) {
+  .rmap-board.has-lines .rmap-lines path.draw { stroke-dasharray: var(--len) var(--len); stroke-dashoffset: var(--len); animation: rmap-draw .9s ease-out forwards; }
+  .rmap-board.has-lines .rmap-lines path.subject.draw { animation-name: rmap-draw-dash; }
+  .rmap-node { animation: rmap-pop .4s ease-out both; }
+}
+@keyframes rmap-draw { to { stroke-dashoffset: 0; } }
+@keyframes rmap-draw-dash { from { opacity: 0; } to { opacity: .55; } }
+@keyframes rmap-pop { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media print { .rmap-board { display: block; } .rmap-lines { display: none !important; } .rmap-card { break-inside: avoid; } }
+/* Specificity guards against shared .report rules */
+.report .rmap-board a.rmap-node, .report .rmap-board a.rmap-node:hover, .report .rmap-board a.rmap-node:focus { text-decoration: none; color: var(--black); }
+.report .rmap-board p.rmap-tdesc { font-size: 13px; line-height: 1.45; }
+.report .rmap-card p.rmap-take { font-size: 15px; }
+.report .rmap-card p.rmap-date, .report .rmap-card p.rmap-part { font-size: 13px; }
+.report .rmap-card ul.rmap-rel li { font-size: 14px; line-height: 1.5; }
+.rmap-back { margin: 0 0 6px; font-size: 14px; font-weight: 600; }

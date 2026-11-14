@@ -90,7 +90,7 @@ page (`topics:` in `_config.yml`) are two different lists.
 Old URLs are kept as plain redirect pages (meta refresh + link, no plugin, not in the menu):
 `/archive/` → `/past-news/` (`archive-redirect.html`, the Archive), `/sources/` → `/about/#sources` (`sources-redirect.html`) and
 `/glossary/` → `/` (`glossary-redirect.html`; the glossary page was replaced by pop-up definitions, see below) and
-`/network/` → `/special-reports/` (`network-redirect.html`; the *Who's named* map was retired on 2026-11-14).
+`/network/` → `/reports-map/` (`network-redirect.html`; the *Who's named* map was retired on 2026-11-14).
 There is no weekly roundup section.
 
 ## Add a day
@@ -144,7 +144,7 @@ keeping the `l-en` / `l-fr` markup for summaries and section headings.
 ## Story index (`_data/network.json`, internal; the *Who's named* page is retired)
 
 The public *Who's named* bubble map (`/network/`) was removed on 2026-11-14: it did not add value for readers.
-`/network/` now redirects to `/special-reports/`. The data and code stay in the repo, **unpublished**, so the map
+`/network/` now redirects to `/reports-map/`. The data and code stay in the repo, **unpublished**, so the map
 can be rebuilt later; `_config.yml` excludes `assets/data/network.json`, `assets/js/network.js` and the vendored D3
 files from the build, and no page links to them.
 
@@ -198,6 +198,22 @@ Daily routine, after the digest and the story-index update:
    (`--type primary` for government, VGQ, court, company releases). If unsure, leave it out.
 4. `python3 _tools/chrono.py --strict` must exit 0 (validates fields, dates, entity ids, digest dates, sorts events,
    creates stubs, and fails if a tagged story has no event or a story has no `dossiers` field).
+
+## Map of our reports (`/reports-map/`)
+
+`reports-map.html` + `_data/report_map.json` + `assets/css/reports-map.css` + `assets/js/reports-map.js`. Linked from the
+top of `/special-reports/` (not in the menu). Nodes are every published special report (same ordering include as the
+index), so a new report appears automatically under `default_theme`; add it to `reports` (theme, short labels, series,
+`pos`) and add links only when the published report text supports them: `from` = the report whose text makes the
+connection; `kind: link` = it refers the reader to the other report, `kind: subject` = it covers the other report's
+subject. Keep a note of the quote behind every link. Without JS the board is a grouped list and every link is spelled
+out in the cards; from 640px the JS draws the lines.
+
+**Sort control on `/special-reports/`** (`assets/js/reports-sort.js`): *Trier par / Sort by* — newest (default), oldest,
+title A–Z, theme (themes from `_data/report_map.json`). Server order stays newest first; the control is hidden without JS.
+It re-orders the "More to explore" grid only; the featured newest report stays in its block (noted in theme mode).
+Choice kept for the tab only (sessionStorage). Cards carry `data-date`, `data-theme`, `data-title-fr/en`
+(`_includes/report-library-card.html`).
 
 ## Special Reports (`/special-reports/`)
 
