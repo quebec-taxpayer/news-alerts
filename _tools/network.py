@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build _data/network.json (people/organizations named in the published stories) for the Network page.
+"""Build _data/network.json (people/organizations named in the published stories) (internal story index used by chrono.py; the public Network page was retired 2026-11-14).
 
 Usage: python3 _tools/network.py [--strict]
 - Reads every SRC/YYYY-MM-DD.txt that has a post in _posts/ (SRC = env DIGEST_SRC, default /workspace/governance-digest),

@@ -27,3 +27,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - vendor
+  # Who's named map retired 2026-11-14: keep the sources in the repo, stop publishing them.
+  - assets/data/network.json
+  - assets/js/network.js
+  - assets/js/d3.v7.min.js
+  - assets/js/d3.LICENSE.txt
