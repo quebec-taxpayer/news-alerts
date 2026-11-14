@@ -9,20 +9,8 @@
     "St-Pierre Plamondon"
    ]
   },
-  "bertin-castonguay": {
-   "name": "Bertin Castonguay",
-   "type": "person",
-   "aliases": [
-    "Castonguay"
-   ]
-  },
   "claude-roy": {
    "name": "Claude Roy",
-   "type": "person",
-   "aliases": []
-  },
-  "marc-bedard": {
-   "name": "Marc Bédard",
    "type": "person",
    "aliases": []
   },
@@ -2684,11 +2672,6 @@
    "type": "person",
    "aliases": []
   },
-  "claude-villeneuve": {
-   "name": "Claude Villeneuve",
-   "type": "person",
-   "aliases": []
-  },
   "ccm": {
    "name": "Conseil canadien de la magistrature",
    "type": "organization",
@@ -2883,8 +2866,6 @@
     "lion",
     "grc",
     "amf",
-    "marc-bedard",
-    "bertin-castonguay",
     "claude-roy"
    ],
    "checked_by_hand": false,
@@ -2897,7 +2878,6 @@
    "entities": [
     "lion",
     "amf",
-    "bertin-castonguay",
     "claude-roy"
    ],
    "checked_by_hand": true,
@@ -2909,8 +2889,7 @@
    "match": "une-amende-salee-pour-un-ex-investisseur",
    "entities": [
     "lion",
-    "claude-roy",
-    "marc-bedard"
+    "claude-roy"
    ],
    "checked_by_hand": false,
    "dossiers": [
@@ -5490,7 +5469,6 @@
   {
    "match": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration",
    "entities": [
-    "claude-villeneuve",
     "ccm",
     "cour-superieure"
    ],

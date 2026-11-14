@@ -896,9 +896,7 @@
     "lion",
     "grc",
     "amf",
-    "claude-roy",
-    "bertin-castonguay",
-    "marc-bedard"
+    "claude-roy"
    ],
    "events": [
     {
@@ -947,8 +945,8 @@
     },
     {
      "date": "2026-10-20",
-     "en": "TVA Nouvelles reports that, according to an AMF affidavit, Bertin Castonguay allegedly sold his Lion shares just before the insolvency, avoiding at least $870,000 in losses; the allegations are unproven.",
-     "fr": "TVA Nouvelles rapporte que, selon un affidavit de l’AMF, Bertin Castonguay aurait vendu ses actions de Lion juste avant l’insolvabilité, évitant au moins 870 000 $ de pertes; allégations non prouvées.",
+     "en": "TVA Nouvelles reports that, according to an AMF affidavit, a major shareholder allegedly sold his Lion shares just before the insolvency, avoiding at least $870,000 in losses; the allegations are unproven.",
+     "fr": "TVA Nouvelles rapporte que, selon un affidavit de l’AMF, un important actionnaire aurait vendu ses actions de Lion juste avant l’insolvabilité, évitant au moins 870 000 $ de pertes; allégations non prouvées.",
      "source_title": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
      "source_outlet": "TVA Nouvelles",
      "source_url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps",

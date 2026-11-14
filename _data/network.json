@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:30:21Z",
+ "generated": "2026-11-14T16:18:30Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
  "story_count": 245,
  "days": {
@@ -11,11 +11,9 @@
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php",
      "entities": [
       "amf",
-      "bertin-castonguay",
       "claude-roy",
       "grc",
-      "lion",
-      "marc-bedard"
+      "lion"
      ]
     },
     {
@@ -23,7 +21,6 @@
      "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps",
      "entities": [
       "amf",
-      "bertin-castonguay",
       "claude-roy",
       "lion"
      ]
@@ -33,8 +30,7 @@
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php",
      "entities": [
       "claude-roy",
-      "lion",
-      "marc-bedard"
+      "lion"
      ]
     },
     {
@@ -2279,11 +2275,10 @@
      ]
     },
     {
-     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "headline": "Un juge de la Cour supérieure demande sa réintégration",
      "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration",
      "entities": [
       "ccm",
-      "claude-villeneuve",
       "cour-superieure"
      ]
     }
@@ -4051,7 +4046,7 @@
     },
     {
      "date": "2026-11-11",
-     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "headline": "Un juge de la Cour supérieure demande sa réintégration",
      "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     },
     {
@@ -6387,27 +6382,6 @@
    ]
   },
   {
-   "id": "bertin-castonguay",
-   "name": "Bertin Castonguay",
-   "type": "person",
-   "aliases": [
-    "Castonguay"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
-     "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
-    }
-   ]
-  },
-  {
    "id": "bloc-quebecois",
    "name": "Bloc Québécois",
    "type": "organization",
@@ -6897,25 +6871,6 @@
      "date": "2026-10-24",
      "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
      "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    }
-   ]
-  },
-  {
-   "id": "marc-bedard",
-   "name": "Marc Bédard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
     }
    ]
   },
@@ -8377,20 +8332,6 @@
    ]
   },
   {
-   "id": "claude-villeneuve",
-   "name": "Claude Villeneuve",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Le juge Claude Villeneuve demande sa réintégration",
-     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
-    }
-   ]
-  },
-  {
    "id": "claudine-bouchard",
    "name": "Claudine Bouchard",
    "type": "person",
@@ -8514,7 +8455,7 @@
    "stories": [
     {
      "date": "2026-11-11",
-     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "headline": "Un juge de la Cour supérieure demande sa réintégration",
      "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
@@ -15139,23 +15080,6 @@
   },
   {
    "source": "amf",
-   "target": "bertin-castonguay",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
-     "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
-    }
-   ]
-  },
-  {
-   "source": "amf",
    "target": "claude-roy",
    "weight": 2,
    "stories": [
@@ -15321,40 +15245,6 @@
      "date": "2026-11-12",
      "headline": "Vers un décret pour le projet Horne 5 de Falco?",
      "url": "https://ici.radio-canada.ca/article/info/2299975/mine-rouyn-noranda-falco-horne5"
-    }
-   ]
-  },
-  {
-   "source": "bertin-castonguay",
-   "target": "claude-roy",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
-     "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
-    }
-   ]
-  },
-  {
-   "source": "bertin-castonguay",
-   "target": "lion",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Lion Électrique: un autre gros actionnaire aurait vendu juste à temps",
-     "url": "https://www.tvanouvelles.ca/2026/10/20/lion-electrique-un-autre-gros-actionnaire-aurait-vendu-juste-a-temps"
     }
    ]
   },
@@ -15780,23 +15670,6 @@
      "date": "2026-11-10",
      "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
      "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
-    }
-   ]
-  },
-  {
-   "source": "claude-roy",
-   "target": "marc-bedard",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
     }
    ]
   },
@@ -16919,23 +16792,6 @@
      "date": "2026-10-24",
      "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
      "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    }
-   ]
-  },
-  {
-   "source": "lion",
-   "target": "marc-bedard",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
     }
    ]
   },
@@ -19415,18 +19271,6 @@
   },
   {
    "source": "amf",
-   "target": "marc-bedard",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    }
-   ]
-  },
-  {
-   "source": "amf",
    "target": "marie-josee-tremblay",
    "weight": 1,
    "stories": [
@@ -20854,30 +20698,6 @@
    ]
   },
   {
-   "source": "bertin-castonguay",
-   "target": "grc",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    }
-   ]
-  },
-  {
-   "source": "bertin-castonguay",
-   "target": "marc-bedard",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    }
-   ]
-  },
-  {
    "source": "bloc-quebecois",
    "target": "guy-cormier",
    "weight": 1,
@@ -22127,24 +21947,12 @@
   },
   {
    "source": "ccm",
-   "target": "claude-villeneuve",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Le juge Claude Villeneuve demande sa réintégration",
-     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
-    }
-   ]
-  },
-  {
-   "source": "ccm",
    "target": "cour-superieure",
    "weight": 1,
    "stories": [
     {
      "date": "2026-11-11",
-     "headline": "Le juge Claude Villeneuve demande sa réintégration",
+     "headline": "Un juge de la Cour supérieure demande sa réintégration",
      "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
@@ -23118,18 +22926,6 @@
      "date": "2026-10-21",
      "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
-    }
-   ]
-  },
-  {
-   "source": "claude-villeneuve",
-   "target": "cour-superieure",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Le juge Claude Villeneuve demande sa réintégration",
-     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
     }
    ]
   },
@@ -27990,18 +27786,6 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
-   "source": "grc",
-   "target": "marc-bedard",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Allégations de fraude à l’investissement | Lion Électrique dans la ligne de mire de la GRC",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-21/allegations-de-fraude-a-l-investissement/lion-electrique-dans-la-ligne-de-mire-de-la-grc.php"
     }
    ]
   },
