@@ -128,7 +128,10 @@
     "alliance-energie-est",
     "michel-lagace",
     "groupe-action-logement-quebec",
-    "ville-amos"
+    "ville-amos",
+    "maxime-aucoin",
+    "mohawk-council-kahnawake",
+    "northvolt"
    ],
    "events": [
     {
@@ -384,6 +387,17 @@
      "background": false
     },
     {
+     "date": "2026-11-12",
+     "en": "A Trois-Rivières customer tells Le Journal de Québec that a Hilo thermostat installed in June overheated after a brief power outage; newer devices are not covered by Hydro-Québec’s preventive replacement, and Hydro-Québec says it is too early to conclude on the cause.",
+     "fr": "Une cliente de Trois-Rivières raconte au Journal de Québec qu’un thermostat Hilo installé en juin a surchauffé après une brève panne; les appareils récents ne sont pas visés par le remplacement préventif, et Hydro-Québec dit qu’il est trop tôt pour conclure sur la cause.",
+     "source_title": "«Je n’ai plus confiance»: son thermostat Hilo surchauffe",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/13/je-nai-plus-confiance-son-thermostat-hilo-surchauffe-et-ne-sera-pas-remplace-par-hydro-quebec",
+     "source_type": "media",
+     "post": "2026-11-14",
+     "background": false
+    },
+    {
      "date": "2026-11-13",
      "en": "Radio-Canada reports that an affordable housing building in Amos is still waiting for its grid connection; Hydro-Québec says this type of grid extension can take up to 18 months and gives January 4 as its planned date.",
      "fr": "Radio-Canada rapporte qu’un immeuble de logements abordables à Amos attend toujours son raccordement au réseau; Hydro-Québec dit que ce type de prolongement peut prendre jusqu’à 18 mois et donne le 4 janvier comme date prévue.",
@@ -392,6 +406,39 @@
      "source_url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement",
      "source_type": "media",
      "post": "2026-11-13",
+     "background": false
+    },
+    {
+     "date": "2026-11-13",
+     "en": "Hydro-Québec’s third-quarter results show it spent $312 million more than a year earlier on electricity purchases to keep water in its reservoirs after four record dry years; since 2025 it has bought more electricity than it exports.",
+     "fr": "Les résultats du troisième trimestre d’Hydro-Québec montrent qu’elle a dépensé 312 millions $ de plus qu’un an plus tôt en achats d’électricité pour garder l’eau dans ses réservoirs après quatre années record de sécheresse; depuis 2025, elle achète plus d’électricité qu’elle n’en exporte.",
+     "source_title": "Sécheresse record : Hydro-Québec réduit ses exportations pour garder l’eau",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300437/secheresse-hydro-quebec-eau-electricite",
+     "source_type": "media",
+     "post": "2026-11-14",
+     "background": false
+    },
+    {
+     "date": "2026-11-13",
+     "en": "Quebec Superior Court gives the green light to the sale of Northvolt’s former land to Hydro-Québec; according to the controller’s lawyer, the environmental compensation obligations imposed on Northvolt would not be directly transferred, La Presse reports.",
+     "fr": "La Cour supérieure du Québec donne son feu vert à la vente de l’ancien terrain de Northvolt à Hydro-Québec; selon l’avocat du contrôleur, les obligations de compensation environnementale imposées à Northvolt ne seraient pas directement transférées, rapporte La Presse.",
+     "source_title": "Ancien terrain de Northvolt – Un plan de compensation différent pour Hydro",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php",
+     "source_type": "media",
+     "post": "2026-11-14",
+     "background": false
+    },
+    {
+     "date": "2026-11-13",
+     "en": "Energy minister Stéphane Paquet says Quebec disagrees with some elements of the Churchill Falls framework agreement and wants to rework certain clauses with Newfoundland and Labrador; the final agreement is due before December 31.",
+     "fr": "Le ministre de l’Énergie, Stéphane Paquet, affirme que Québec n’est pas d’accord avec certains éléments de l’entente-cadre sur Churchill Falls et veut retravailler certaines clauses avec Terre-Neuve-et-Labrador; l’entente définitive doit être conclue avant le 31 décembre.",
+     "source_title": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php",
+     "source_type": "media",
+     "post": "2026-11-14",
      "background": false
     }
    ],
@@ -405,8 +452,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Four new wind farms will not be ready this winter as planned; a regional developers’ alliance blames slow government approvals. In Amos, an affordable housing building is still waiting for its grid connection. Hydro-Québec has agreed to buy Northvolt’s former land, subject to court approval.",
-     "fr": "Quatre nouveaux parcs éoliens ne seront pas prêts cet hiver comme prévu; une alliance régionale de promoteurs blâme la lenteur des autorisations gouvernementales. À Amos, un immeuble de logements abordables attend toujours son raccordement. Hydro-Québec a conclu une entente pour acheter l’ancien terrain de Northvolt, sous réserve de l’approbation du tribunal."
+     "en": "A court has approved Hydro-Québec’s purchase of Northvolt’s former land. After four record dry years, Hydro-Québec now buys more electricity than it exports. The energy minister wants to rework some clauses of the Churchill Falls deal before the final agreement, due by December 31.",
+     "fr": "Le tribunal a approuvé l’achat de l’ancien terrain de Northvolt par Hydro-Québec. Après quatre années record de sécheresse, Hydro-Québec achète maintenant plus d’électricité qu’elle n’en exporte. Le ministre de l’Énergie veut retravailler certaines clauses de l’entente sur Churchill Falls avant l’entente définitive, attendue d’ici le 31 décembre."
     }
    }
   },
@@ -1139,6 +1186,17 @@
      "source_type": "media",
      "post": "2026-11-13",
      "background": false
+    },
+    {
+     "date": "2026-11-13",
+     "en": "Santé Québec Chaudière-Appalaches suspends the abolition of a clinical nurse position in the Hôtel-Dieu de Lévis palliative care unit; Health Minister Marie-Karlynn Laflamme says she has asked Santé Québec for the facts and reasons behind the cuts.",
+     "fr": "Santé Québec Chaudière-Appalaches suspend l’abolition d’un poste d’infirmière clinicienne à l’unité de soins palliatifs de l’Hôtel-Dieu de Lévis; la ministre de la Santé, Marie-Karlynn Laflamme, dit avoir demandé à Santé Québec les faits et les raisons de ces coupes.",
+     "source_title": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous",
+     "source_type": "media",
+     "post": "2026-11-14",
+     "background": false
     }
    ],
    "tldr": {
@@ -1151,8 +1209,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "The health minister says the promise to abolish Santé Québec stands. Santé Québec has cancelled a private-clinic surgery tender and is cutting nursing positions in a Lévis palliative care unit, a decision it says it is still reviewing.",
-     "fr": "La ministre de la Santé assure que la promesse d’abolir Santé Québec tient toujours. Santé Québec a annulé un appel d’offres de chirurgies en clinique privée et supprime des postes d’infirmière dans une unité de soins palliatifs de Lévis, une décision qu’elle dit continuer d’analyser."
+     "en": "The health minister says the promise to abolish Santé Québec stands. In Lévis, Santé Québec has cut palliative care nursing positions but suspended one of the cuts, and the minister has asked it to explain the decision.",
+     "fr": "La ministre de la Santé assure que la promesse d’abolir Santé Québec tient toujours. À Lévis, Santé Québec a supprimé des postes d’infirmière aux soins palliatifs, mais a suspendu l’une de ces abolitions, et la ministre lui a demandé d’expliquer sa décision."
     }
    }
   },
@@ -1384,7 +1442,8 @@
     "anne-nguyen",
     "stephanie-martin",
     "conseil-executif",
-    "elsie-lefebvre"
+    "elsie-lefebvre",
+    "charles-milliard"
    ],
    "events": [
     {
@@ -1725,6 +1784,17 @@
      "source_type": "media",
      "post": "2026-11-13",
      "background": false
+    },
+    {
+     "date": "2026-11-13",
+     "en": "After a three-day pre-sessional caucus, Liberal leader Charles Milliard criticizes the PQ government’s start and says the Liberals plan to table a bill creating a parliamentary budget officer position.",
+     "fr": "Au terme d’un caucus présessionnel de trois jours, le chef libéral Charles Milliard critique le début de mandat du gouvernement péquiste et annonce que les libéraux prévoient déposer un projet de loi pour créer un poste de directeur parlementaire du budget.",
+     "source_title": "Caucus présessionnel du Parti libéral – Milliard critique les premières semaines au pouvoir du PQ",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-13/caucus-presessionnel-du-parti-liberal/milliard-critique-les-premieres-semaines-au-pouvoir-du-pq.php",
+     "source_type": "media",
+     "post": "2026-11-14",
+     "background": false
     }
    ],
    "tldr": {
@@ -1737,8 +1807,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports, after the PQ promised a pay freeze for elected officials and Crown corporation CEOs. The Ministry of Cybersecurity and Digital Affairs’ staff have been moved to the Treasury Board; a bill is to follow. The premier is to meet Mark Carney in Cambodia.",
-     "fr": "Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir, alors que le PQ avait promis de geler le salaire des élus et des p.-d.g. de sociétés d’État. Le personnel du ministère de la Cybersécurité et du Numérique a été transféré au Conseil du trésor; un projet de loi doit suivre. Le premier ministre doit rencontrer Mark Carney au Cambodge."
+     "en": "Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports, after the PQ promised a pay freeze for elected officials and Crown corporation CEOs. Liberal leader Charles Milliard criticizes the government’s start and plans a bill to create a parliamentary budget officer.",
+     "fr": "Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir, alors que le PQ avait promis de geler le salaire des élus et des p.-d.g. de sociétés d’État. Le chef libéral Charles Milliard critique le début de mandat et prévoit un projet de loi pour créer un poste de directeur parlementaire du budget."
     }
    }
   },

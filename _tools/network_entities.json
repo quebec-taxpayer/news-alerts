@@ -2849,6 +2849,31 @@
    "name": "Revenu Québec",
    "type": "organization",
    "aliases": []
+  },
+  "alexandre-leduc": {
+   "name": "Alexandre Leduc",
+   "type": "person",
+   "aliases": []
+  },
+  "maxime-aucoin": {
+   "name": "Maxime Aucoin",
+   "type": "person",
+   "aliases": []
+  },
+  "chambre-commerce-memphremagog": {
+   "name": "Chambre de commerce Memphrémagog",
+   "type": "organization",
+   "aliases": []
+  },
+  "valerie-plante": {
+   "name": "Valérie Plante",
+   "type": "person",
+   "aliases": []
+  },
+  "serge-joyal": {
+   "name": "Serge Joyal",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -5690,6 +5715,120 @@
     "revenu-quebec"
    ],
    "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-13/caucus-presessionnel-du-parti-liberal/milliard-critique-les-premieres-semaines-au-pouvoir-du-pq.php",
+   "entities": [
+    "charles-milliard",
+    "plq",
+    "pspp",
+    "eric-duhaime"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement",
+   "entities": [
+    "qs",
+    "pq",
+    "alexandre-leduc",
+    "catherine-gentilcore",
+    "andre-fortin",
+    "plq",
+    "pcq",
+    "assemblee-nationale"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php",
+   "entities": [
+    "hydro-quebec",
+    "northvolt",
+    "cour-superieure",
+    "mohawk-council-kahnawake"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php",
+   "entities": [
+    "stephane-paquet",
+    "hydro-quebec",
+    "christine-frechette",
+    "pspp",
+    "caq"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300437/secheresse-hydro-quebec-eau-electricite",
+   "entities": [
+    "hydro-quebec",
+    "maxime-aucoin"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/13/je-nai-plus-confiance-son-thermostat-hilo-surchauffe-et-ne-sera-pas-remplace-par-hydro-quebec",
+   "entities": [
+    "hydro-quebec"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/11/13/il-aurait-fraude-des-clients-de-la-saaq-pour-des-dizaines-de-milliers-de-dollars-7OWCZITUD5DKNB5IYUVBHKA64Q/",
+   "entities": [
+    "saaq",
+    "clcc",
+    "upac",
+    "chambre-commerce-memphremagog"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous",
+   "entities": [
+    "sante-quebec",
+    "marie-karlynn-laflamme",
+    "hotel-dieu-levis",
+    "monsef-derraji",
+    "plq"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667",
+   "entities": [
+    "ericka-alneus",
+    "soraya-martinez-ferrada",
+    "projet-montreal",
+    "ville-montreal",
+    "valerie-plante"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-14/quebec-et-ottawa-ne-veulent-pas-devoir-traduire-la-constitution.php",
+   "entities": [
+    "serge-joyal",
+    "cour-superieure",
+    "mark-carney"
+   ],
    "dossiers": []
   }
  ]

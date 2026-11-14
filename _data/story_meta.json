@@ -1163,6 +1163,56 @@
    "category": "justice",
    "importance": 3,
    "title_en": "Nearly $800,000 in fraudulent tax refunds: four years in prison for a Saint-Hyacinthe resident"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-13/caucus-presessionnel-du-parti-liberal/milliard-critique-les-premieres-semaines-au-pouvoir-du-pq.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Liberal pre-sessional caucus – Milliard criticizes the PQ’s first weeks in power"
+  },
+  "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Recognition of Québec solidaire: nothing has been decided, says the PQ"
+  },
+  "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "Former Northvolt land – A different compensation plan for Hydro"
+  },
+  "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php": {
+   "category": "energy",
+   "importance": 4,
+   "title_en": "Churchill Falls agreement – The contract is not “set in stone,” says Minister Paquet"
+  },
+  "https://ici.radio-canada.ca/article/info/2300437/secheresse-hydro-quebec-eau-electricite": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "Record drought: Hydro-Québec cuts its exports to keep water"
+  },
+  "https://www.journaldequebec.com/2026/11/13/je-nai-plus-confiance-son-thermostat-hilo-surchauffe-et-ne-sera-pas-remplace-par-hydro-quebec": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "“I no longer trust it”: her Hilo thermostat overheats"
+  },
+  "https://www.lesoleil.com/actualites/justice-et-faits-divers/2026/11/13/il-aurait-fraude-des-clients-de-la-saaq-pour-des-dizaines-de-milliers-de-dollars-7OWCZITUD5DKNB5IYUVBHKA64Q/": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "He allegedly defrauded SAAQ customers of tens of thousands of dollars"
+  },
+  "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Hôtel-Dieu de Lévis: cutting palliative care positions causes a stir"
+  },
+  "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667": {
+   "category": "finances",
+   "importance": 3,
+   "title_fr": "Projet Montréal réclame des taxes sous l’inflation et plus d’aide au loyer dans le nouveau budget de la Ville"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-14/quebec-et-ottawa-ne-veulent-pas-devoir-traduire-la-constitution.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Quebec and Ottawa do not want to be required to translate the Constitution"
   }
  }
 }
