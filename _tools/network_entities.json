@@ -2857,6 +2857,11 @@
    "name": "Serge Joyal",
    "type": "person",
    "aliases": []
+  },
+  "lime-sante": {
+   "name": "Lime Santé",
+   "type": "organization",
+   "aliases": []
   }
  },
  "stories": [
@@ -5807,6 +5812,78 @@
     "cour-superieure",
     "mark-carney"
    ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours",
+   "entities": [
+    "pspp",
+    "pq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp",
+   "entities": [
+    "mark-carney",
+    "pspp",
+    "oif"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp",
+   "entities": [
+    "pspp",
+    "oif",
+    "mark-carney"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes",
+   "entities": [
+    "domtar",
+    "mrnf",
+    "natalie-bisaillon",
+    "unifor"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante",
+   "entities": [
+    "sante-quebec",
+    "lime-sante"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise",
+   "entities": [
+    "surete-quebec",
+    "sfpq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117",
+   "entities": [
+    "elsie-lefebvre"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/dieppe-park-montreal-9.7415951",
+   "entities": [],
    "dossiers": []
   }
  ]

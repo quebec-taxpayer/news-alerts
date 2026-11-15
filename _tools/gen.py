@@ -60,7 +60,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
         "2026-11-11": ["it-digital", "crown-corporations", "procurement"],
         "2026-11-12": ["crown-corporations", "procurement"],
  "2026-11-13": ["crown-corporations", "procurement"],
- "2026-11-14": ["crown-corporations"]}
+ "2026-11-14": ["crown-corporations"],
+ "2026-11-15": ["procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -113,6 +114,8 @@ SUMMARY = {
                 "Salary premium for five senior public servants; wind farms held back by approval delays; Sainte-Flavie has waited 447 days; affordable housing waiting on Hydro-Québec in Amos; palliative care cuts in Lévis; the bill for Lévis’s wastewater plants; Saguenay acquires a street without its engineers’ backing; another building for the tramway; paid internships; prison for tax-refund fraud."),
  "2026-11-14": ("Le tribunal approuve la vente de l’ancien terrain de Northvolt à Hydro-Québec; sécheresse record et achats d’électricité chez Hydro-Québec; Québec veut retravailler l’entente sur Churchill Falls; fraude alléguée chez un mandataire de la SAAQ; thermostat Hilo récent qui surchauffe; recul partiel aux soins palliatifs de Lévis; Milliard critique le début de mandat du PQ; la reconnaissance de Québec solidaire en négociation; taxes et aide au loyer à Montréal; la Constitution en français devant les tribunaux.",
                 "Court approves the sale of Northvolt’s former land to Hydro-Québec; record drought and electricity purchases at Hydro-Québec; Quebec wants to rework the Churchill Falls agreement; alleged fraud at an SAAQ agent; a recent Hilo thermostat overheats; partial reversal on palliative care in Lévis; Milliard criticizes the PQ’s start; Québec solidaire’s recognition under negotiation; taxes and rent aid in Montreal; the French Constitution before the courts."),
+ "2026-11-15": ("PSPP demande à être jugé sur ses 100 premiers jours; première rencontre Carney-PSPP; le Québec pourrait voter autrement que le Canada à la Francophonie; fermeture de la scierie Outardes de Domtar; contrat de gré à gré pour des sondages par texto à Santé Québec; congédiement confirmé d’un employé civil de la SQ; des étudiants réclament une réforme de l’aide financière; réfection du parc Dieppe à Montréal.",
+                "PSPP asks to be judged on his first 100 days; first Carney–PSPP meeting; Quebec could vote differently from Canada at the Francophonie; Domtar’s Outardes sawmill closes; untendered contract for text-message surveys at Santé Québec; SQ civilian employee’s firing upheld; students call for financial aid reform; Dieppe Park rehabilitation in Montreal.")
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

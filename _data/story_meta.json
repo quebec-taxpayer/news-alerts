@@ -1213,6 +1213,46 @@
    "category": "government",
    "importance": 3,
    "title_en": "Quebec and Ottawa do not want to be required to translate the Constitution"
+  },
+  "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Dissatisfaction with his government: PSPP wants to be judged on his 100-day commitments"
+  },
+  "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Carney–PSPP meeting in Cambodia: “It went well, it was friendly”"
+  },
+  "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Francophonie secretary general: Quebec ready to vote independently of Ottawa"
+  },
+  "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes": {
+   "category": "energy",
+   "importance": 4,
+   "title_en": "Outardes sawmill closure: “differences remain,” the ministry explains"
+  },
+  "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Satisfied with your care? Santé Québec Bas-Saint-Laurent wants to survey you by text"
+  },
+  "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "SQ civilian employee fired over friendship with man linked to organized crime"
+  },
+  "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117": {
+   "category": "government",
+   "importance": 2,
+   "title_fr": "Québec présume que les parents aident à payer les études postsecondaires. Des étudiants disent que beaucoup ne le peuvent pas"
+  },
+  "https://www.cbc.ca/news/canada/montreal/dieppe-park-montreal-9.7415951": {
+   "category": "government",
+   "importance": 2,
+   "title_fr": "Le parc Dieppe de Montréal, qui se détériore, aura droit à une réfection de 35 M$ — mais pas de sitôt"
   }
  }
 }

@@ -1018,7 +1018,8 @@
     "monsef-derraji",
     "ramq",
     "hotel-dieu-levis",
-    "fiq-spsca"
+    "fiq-spsca",
+    "lime-sante"
    ],
    "events": [
     {
@@ -1151,6 +1152,17 @@
      "source_url": "https://ici.radio-canada.ca/nouvelle/2298373/ia-sante-quebec-appels-info-sante",
      "background": true,
      "source_type": "media"
+    },
+    {
+     "date": "2026-11-05",
+     "en": "Santé Québec Bas-Saint-Laurent awards Lime Santé a two-year untendered contract, listed on SEAO, for a system that sends patient satisfaction surveys by text message, Radio-Canada reports.",
+     "fr": "Santé Québec Bas-Saint-Laurent accorde à Lime Santé un contrat de gré à gré de deux ans, inscrit au SEAO, pour un système d’envoi de sondages de satisfaction par texto aux usagers, rapporte Radio-Canada.",
+     "source_title": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante",
+     "source_type": "media",
+     "post": "2026-11-15",
+     "background": false
     },
     {
      "date": "2026-11-11",
@@ -1441,7 +1453,8 @@
     "stephanie-martin",
     "conseil-executif",
     "elsie-lefebvre",
-    "charles-milliard"
+    "charles-milliard",
+    "mark-carney"
    ],
    "events": [
     {
@@ -1793,6 +1806,28 @@
      "source_type": "media",
      "post": "2026-11-14",
      "background": false
+    },
+    {
+     "date": "2026-11-14",
+     "en": "Asked about a poll showing low satisfaction with his government, Premier Paul St-Pierre Plamondon asks to be judged on his 100-day commitments; those due before the holiday adjournment include launching an audit of all the state’s IT projects, Le Journal de Montréal reports.",
+     "fr": "Interrogé sur un sondage montrant une faible satisfaction envers son gouvernement, le premier ministre Paul St-Pierre Plamondon demande à être jugé sur ses engagements des 100 premiers jours; ceux prévus avant l’ajournement des fêtes comprennent le lancement d’un audit de l’ensemble des projets informatiques de l’État, rapporte Le Journal de Montréal.",
+     "source_title": "Insatisfaction envers son gouvernement: PSPP veut être jugé sur ses engagements des 100 premiers jours",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours",
+     "source_type": "media",
+     "post": "2026-11-15",
+     "background": false
+    },
+    {
+     "date": "2026-11-15",
+     "en": "Prime Minister Mark Carney and Premier Paul St-Pierre Plamondon hold their first meeting in their official roles, in Phnom Penh; they note common ground on homelessness, a 2027 Francophonie economic summit in Quebec and more frequent talks on U.S. tariff disputes.",
+     "fr": "Le premier ministre Mark Carney et le premier ministre Paul St-Pierre Plamondon tiennent leur première rencontre dans le cadre de leurs fonctions, à Phnom Penh; ils relèvent des points communs sur l’itinérance, un sommet économique de la francophonie au Québec en 2027 et des discussions plus fréquentes sur les litiges tarifaires avec les États-Unis.",
+     "source_title": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp",
+     "source_type": "media",
+     "post": "2026-11-15",
+     "background": false
     }
    ],
    "tldr": {
@@ -1805,8 +1840,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports, after the PQ promised a pay freeze for elected officials and Crown corporation CEOs. Liberal leader Charles Milliard criticizes the government’s start and plans a bill to create a parliamentary budget officer.",
-     "fr": "Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir, alors que le PQ avait promis de geler le salaire des élus et des p.-d.g. de sociétés d’État. Le chef libéral Charles Milliard critique le début de mandat et prévoit un projet de loi pour créer un poste de directeur parlementaire du budget."
+     "en": "Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports, after the PQ promised a pay freeze for elected officials and Crown corporation CEOs. Facing a poor satisfaction poll, the premier asks to be judged on his 100-day commitments, including an audit of all state IT projects. He held a first, cordial meeting with Prime Minister Mark Carney.",
+     "fr": "Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir, alors que le PQ avait promis de geler le salaire des élus et des p.-d.g. de sociétés d’État. Devant un sondage de satisfaction défavorable, le premier ministre demande à être jugé sur ses engagements des 100 premiers jours, dont un audit de tous les projets informatiques de l’État. Il a tenu une première rencontre cordiale avec le premier ministre Mark Carney."
     }
    }
   },

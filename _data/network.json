@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-14T16:18:30Z",
+ "generated": "2026-11-15T15:29:42Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 245,
+ "story_count": 253,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -2593,6 +2593,75 @@
      ]
     }
    ]
+  },
+  "2026-11-15": {
+   "post": "/2026/11/15/digest/",
+   "stories": [
+    {
+     "headline": "Insatisfaction envers son gouvernement: PSPP veut être jugé sur ses engagements des 100 premiers jours",
+     "url": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours",
+     "entities": [
+      "pq",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp",
+     "entities": [
+      "mark-carney",
+      "oif",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp",
+     "entities": [
+      "mark-carney",
+      "oif",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117",
+     "entities": [
+      "elsie-lefebvre"
+     ]
+    },
+    {
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes",
+     "entities": [
+      "domtar",
+      "mrnf",
+      "natalie-bisaillon",
+      "unifor"
+     ]
+    },
+    {
+     "headline": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
+     "url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante",
+     "entities": [
+      "lime-sante",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
+     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise",
+     "entities": [
+      "sfpq",
+      "surete-quebec"
+     ]
+    },
+    {
+     "headline": "Montreal's deteriorating Dieppe Park to get $35M makeover — but not any time soon",
+     "url": "https://www.cbc.ca/news/canada/montreal/dieppe-park-montreal-9.7415951",
+     "entities": []
+    }
+   ]
   }
  },
  "nodes": [
@@ -2604,7 +2673,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 58,
+   "mentions": 61,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2895,6 +2964,21 @@
      "date": "2026-11-14",
      "headline": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
      "url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Insatisfaction envers son gouvernement: PSPP veut être jugé sur ses engagements des 100 premiers jours",
+     "url": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
     }
    ]
   },
@@ -2907,7 +2991,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 31,
+   "mentions": 32,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3063,6 +3147,11 @@
      "date": "2026-11-14",
      "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
      "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Insatisfaction envers son gouvernement: PSPP veut être jugé sur ses engagements des 100 premiers jours",
+     "url": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours"
     }
    ]
   },
@@ -3217,7 +3306,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 23,
+   "mentions": 24,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3333,6 +3422,11 @@
      "date": "2026-11-14",
      "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
      "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
+     "url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante"
     }
    ]
   },
@@ -3343,7 +3437,7 @@
    "aliases": [
     "Carney"
    ],
-   "mentions": 18,
+   "mentions": 20,
    "stories": [
     {
      "date": "2026-10-26",
@@ -3434,6 +3528,16 @@
      "date": "2026-11-14",
      "headline": "Québec et Ottawa ne veulent pas devoir traduire la Constitution",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-14/quebec-et-ottawa-ne-veulent-pas-devoir-traduire-la-constitution.php"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
     }
    ]
   },
@@ -5456,6 +5560,35 @@
    ]
   },
   {
+   "id": "elsie-lefebvre",
+   "name": "Elsie Lefebvre",
+   "type": "person",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117"
+    }
+   ]
+  },
+  {
    "id": "grc",
    "name": "Gendarmerie royale du Canada",
    "type": "organization",
@@ -5839,30 +5972,6 @@
    ]
   },
   {
-   "id": "elsie-lefebvre",
-   "name": "Elsie Lefebvre",
-   "type": "person",
-   "aliases": [],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
-     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
-     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
-    }
-   ]
-  },
-  {
    "id": "ericka-alneus",
    "name": "Ericka Alneus",
    "type": "person",
@@ -6113,6 +6222,33 @@
    ]
   },
   {
+   "id": "oif",
+   "name": "Organisation internationale de la Francophonie",
+   "type": "organization",
+   "aliases": [
+    "OIF",
+    "Francophonie"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
+    }
+   ]
+  },
+  {
    "id": "projet-montreal",
    "name": "Projet Montréal",
    "type": "organization",
@@ -6211,6 +6347,33 @@
      "date": "2026-11-11",
      "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
      "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "id": "surete-quebec",
+   "name": "Sûreté du Québec",
+   "type": "organization",
+   "aliases": [
+    "SQ",
+    "Quebec provincial police"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
+     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
     }
    ]
   },
@@ -6610,6 +6773,25 @@
    ]
   },
   {
+   "id": "domtar",
+   "name": "Domtar",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    }
+   ]
+  },
+  {
    "id": "doug-ford",
    "name": "Doug Ford",
    "type": "person",
@@ -6941,6 +7123,27 @@
    ]
   },
   {
+   "id": "mrnf",
+   "name": "Ministère des Ressources naturelles et des Forêts",
+   "type": "organization",
+   "aliases": [
+    "MRNF"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    }
+   ]
+  },
+  {
    "id": "conseil-executif",
    "name": "Ministère du Conseil exécutif",
    "type": "organization",
@@ -7019,6 +7222,25 @@
      "date": "2026-11-11",
      "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
      "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
+   "id": "natalie-bisaillon",
+   "name": "Natalie Bisaillon",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -7268,6 +7490,27 @@
    ]
   },
   {
+   "id": "sfpq",
+   "name": "Syndicat de la fonction publique et parapublique du Québec",
+   "type": "organization",
+   "aliases": [
+    "SFPQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
+     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
+    }
+   ]
+  },
+  {
    "id": "spgq",
    "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
    "type": "organization",
@@ -7306,28 +7549,6 @@
      "date": "2026-11-13",
      "headline": "Quand Santé Québec coupe dans les soins palliatifs",
      "url": "https://ici.radio-canada.ca/article/info/2300182/sante-quebec-soins-palliatifs-hotel-dieu-levis-coupes-postes-infirmieres"
-    }
-   ]
-  },
-  {
-   "id": "surete-quebec",
-   "name": "Sûreté du Québec",
-   "type": "organization",
-   "aliases": [
-    "SQ",
-    "Quebec provincial police"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
     }
    ]
   },
@@ -7387,6 +7608,25 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
+    }
+   ]
+  },
+  {
+   "id": "unifor",
+   "name": "Unifor",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -8711,20 +8951,6 @@
      "date": "2026-11-06",
      "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
      "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
-    }
-   ]
-  },
-  {
-   "id": "domtar",
-   "name": "Domtar",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
     }
    ]
   },
@@ -10172,6 +10398,20 @@
    ]
   },
   {
+   "id": "lime-sante",
+   "name": "Lime Santé",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
+     "url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante"
+    }
+   ]
+  },
+  {
    "id": "loto-quebec",
    "name": "Loto-Québec",
    "type": "organization",
@@ -10675,22 +10915,6 @@
    ]
   },
   {
-   "id": "mrnf",
-   "name": "Ministère des Ressources naturelles et des Forêts",
-   "type": "organization",
-   "aliases": [
-    "MRNF"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
-    }
-   ]
-  },
-  {
    "id": "mmfim",
    "name": "Mouvement pour mettre fin à l’itinérance à Montréal",
    "type": "organization",
@@ -10767,20 +10991,6 @@
      "date": "2026-11-08",
      "headline": "Des assureurs québécois réintègrent le marché de l’assurance de biens patrimoniaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2298851/assurance-maison-patrimoniale-quebec"
-    }
-   ]
-  },
-  {
-   "id": "natalie-bisaillon",
-   "name": "Natalie Bisaillon",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     }
    ]
   },
@@ -10917,23 +11127,6 @@
      "date": "2026-10-24",
      "headline": "Hampstead, Que., mayor pleads guilty, faces $30K fine after anti-Palestine posts",
      "url": "https://www.cbc.ca/news/canada/montreal/hampstead-mayor-jeremy-levi-fined-anti-palestine-posts-9.7394105"
-    }
-   ]
-  },
-  {
-   "id": "oif",
-   "name": "Organisation internationale de la Francophonie",
-   "type": "organization",
-   "aliases": [
-    "OIF",
-    "Francophonie"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -11743,22 +11936,6 @@
    ]
   },
   {
-   "id": "sfpq",
-   "name": "Syndicat de la fonction publique et parapublique du Québec",
-   "type": "organization",
-   "aliases": [
-    "SFPQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    }
-   ]
-  },
-  {
    "id": "sapscq",
    "name": "Syndicat des agents de la paix en services correctionnels du Québec",
    "type": "organization",
@@ -11861,20 +12038,6 @@
      "date": "2026-11-01",
      "headline": "Décès au travail: cinq morts en cinq ans chez le recycleur AIM",
      "url": "https://www.journaldemontreal.com/2026/12/25/deces-au-travail-5-mort-en-5-ans-chez-le-recycleur-aim"
-    }
-   ]
-  },
-  {
-   "id": "unifor",
-   "name": "Unifor",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
     }
    ]
   },
@@ -12250,7 +12413,7 @@
   {
    "source": "pq",
    "target": "pspp",
-   "weight": 18,
+   "weight": 19,
    "stories": [
     {
      "date": "2026-10-21",
@@ -12341,13 +12504,18 @@
      "date": "2026-11-12",
      "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
      "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Insatisfaction envers son gouvernement: PSPP veut être jugé sur ses engagements des 100 premiers jours",
+     "url": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours"
     }
    ]
   },
   {
    "source": "mark-carney",
    "target": "pspp",
-   "weight": 13,
+   "weight": 15,
    "stories": [
     {
      "date": "2026-10-27",
@@ -12413,6 +12581,16 @@
      "date": "2026-11-11",
      "headline": "PSPP ne veut pas de conditions du fédéral en itinérance",
      "url": "https://ici.radio-canada.ca/article/info/2299710/itinerance-pspp-marchand-quebec-ottawa"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
     }
    ]
   },
@@ -14688,6 +14866,28 @@
   },
   {
    "source": "mark-carney",
+   "target": "oif",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
    "target": "pq",
    "weight": 3,
    "stories": [
@@ -14749,6 +14949,28 @@
      "date": "2026-11-10",
      "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
      "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    }
+   ]
+  },
+  {
+   "source": "oif",
+   "target": "pspp",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
     }
    ]
   },
@@ -16112,6 +16334,23 @@
      "date": "2026-11-04",
      "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
      "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
+    }
+   ]
+  },
+  {
+   "source": "domtar",
+   "target": "unifor",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -25283,13 +25522,25 @@
   },
   {
    "source": "domtar",
-   "target": "unifor",
+   "target": "mrnf",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    }
+   ]
+  },
+  {
+   "source": "domtar",
+   "target": "natalie-bisaillon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -30478,6 +30729,18 @@
    ]
   },
   {
+   "source": "lime-sante",
+   "target": "sante-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
+     "url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante"
+    }
+   ]
+  },
+  {
    "source": "loto-quebec",
    "target": "sylvain-leduc",
    "weight": 1,
@@ -31271,18 +31534,6 @@
   },
   {
    "source": "mark-carney",
-   "target": "oif",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
-    }
-   ]
-  },
-  {
-   "source": "mark-carney",
    "target": "pauline-marois",
    "weight": 1,
    "stories": [
@@ -32015,6 +32266,30 @@
   },
   {
    "source": "mrnf",
+   "target": "natalie-bisaillon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    }
+   ]
+  },
+  {
+   "source": "mrnf",
+   "target": "unifor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    }
+   ]
+  },
+  {
+   "source": "mrnf",
    "target": "uqam",
    "weight": 1,
    "stories": [
@@ -32226,6 +32501,18 @@
      "date": "2026-10-24",
      "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
      "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    }
+   ]
+  },
+  {
+   "source": "natalie-bisaillon",
+   "target": "unifor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -32574,18 +32861,6 @@
      "date": "2026-11-10",
      "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
      "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
-    }
-   ]
-  },
-  {
-   "source": "oif",
-   "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
     }
    ]
   },
@@ -33966,6 +34241,18 @@
      "date": "2026-11-02",
      "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
      "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    }
+   ]
+  },
+  {
+   "source": "sfpq",
+   "target": "surete-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
+     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
     }
    ]
   },
