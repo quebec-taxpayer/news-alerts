@@ -698,6 +698,17 @@
      "background": true
     },
     {
+     "date": "2026-09",
+     "en": "Tired of waiting for Highway 20 to be extended, Saint-Simon-de-Rimouski’s council sends the Transport ministry a resolution asking it to reroute Route 132 around the village, Radio-Canada reports.",
+     "fr": "Lassé d’attendre le prolongement de l’autoroute 20, le conseil de Saint-Simon-de-Rimouski achemine au ministère des Transports une résolution lui demandant de dévier la route 132 hors du village, rapporte Radio-Canada.",
+     "source_title": "Exaspérée d’attendre l’A-20, Saint-Simon réclame une voie de contournement",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300181/route-132-st-simon-autoroute-20-voie-contournement",
+     "source_type": "media",
+     "post": "2026-11-16",
+     "background": false
+    },
+    {
      "date": "2026-10-14",
      "en": "Closing the left lane of the Honoré-Mercier bridge toward Montreal causes major traffic jams.",
      "fr": "La fermeture de la voie de gauche du pont Honoré-Mercier en direction de Montréal provoque d’importants embouteillages.",
@@ -1019,7 +1030,8 @@
     "ramq",
     "hotel-dieu-levis",
     "fiq-spsca",
-    "lime-sante"
+    "lime-sante",
+    "pspp"
    ],
    "events": [
     {
@@ -1207,6 +1219,17 @@
      "source_type": "media",
      "post": "2026-11-14",
      "background": false
+    },
+    {
+     "date": "2026-11-16",
+     "en": "Health Minister Marie-Karlynn Laflamme tells La Presse the government will abolish Santé Québec’s senior management and that it will no longer be a Crown corporation; she gives herself six months to propose a new model and plans consultations before a bill. Radio-Canada confirms the information.",
+     "fr": "La ministre de la Santé, Marie-Karlynn Laflamme, indique à La Presse que le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État; elle se donne six mois pour proposer une nouvelle formule et prévoit des consultations avant un projet de loi. Radio-Canada confirme l’information.",
+     "source_title": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php",
+     "source_type": "media",
+     "post": "2026-11-16",
+     "background": false
     }
    ],
    "tldr": {
@@ -1219,8 +1242,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "The health minister says the promise to abolish Santé Québec stands. In Lévis, Santé Québec has cut palliative care nursing positions but suspended one of the cuts, and the minister has asked it to explain the decision.",
-     "fr": "La ministre de la Santé assure que la promesse d’abolir Santé Québec tient toujours. À Lévis, Santé Québec a supprimé des postes d’infirmière aux soins palliatifs, mais a suspendu l’une de ces abolitions, et la ministre lui a demandé d’expliquer sa décision."
+     "en": "The government will abolish Santé Québec’s senior management, and the organization will no longer be a Crown corporation, the health minister told La Presse. She is giving herself six months to choose a new model and wants consultations before any bill. In Lévis, Santé Québec has cut palliative care nursing positions but suspended one of the cuts.",
+     "fr": "Le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État, a indiqué la ministre de la Santé à La Presse. Elle se donne six mois pour choisir une nouvelle formule et veut des consultations avant tout projet de loi. À Lévis, Santé Québec a supprimé des postes d’infirmières en soins palliatifs, mais a suspendu l’une des coupes."
     }
    }
   },
@@ -2884,7 +2907,9 @@
     "fady-dagher",
     "soraya-martinez-ferrada",
     "guy-lapointe-fils",
-    "dpcp"
+    "dpcp",
+    "projet-montreal",
+    "ericka-alneus"
    ],
    "tldr": {
     "what": {
@@ -2976,6 +3001,17 @@
      "source_url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant",
      "source_type": "media",
      "post": "2026-11-09",
+     "background": false
+    },
+    {
+     "date": "2026-11-16",
+     "en": "Projet Montréal says it will ask city council to have the mayor designate an executive committee member responsible for fighting racism, two weeks after seven SPVM officers were fired following allegations of racism and misconduct, The Canadian Press reports.",
+     "fr": "Projet Montréal annonce qu’il demandera au conseil municipal que la mairesse désigne au comité exécutif un responsable de la lutte contre le racisme, deux semaines après le congédiement de sept policiers du SPVM à la suite d’allégations de racisme et de fautes professionnelles, rapporte La Presse Canadienne.",
+     "source_title": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php",
+     "source_type": "media",
+     "post": "2026-11-16",
      "background": false
     }
    ]

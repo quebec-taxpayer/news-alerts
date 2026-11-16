@@ -1253,6 +1253,56 @@
    "category": "government",
    "importance": 2,
    "title_fr": "Le parc Dieppe de Montréal, qui se détériore, aura droit à une réfection de 35 M$ — mais pas de sitôt"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php": {
+   "category": "health",
+   "importance": 5,
+   "title_en": "Interview with the health minister – Santé Québec’s senior management will be abolished"
+  },
+  "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Ever more open-plan offices in the public service, despite noise issues"
+  },
+  "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Election of the OIF secretary general postponed by 12 months"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Éric Duhaime announces three appointments before the return of the legislature"
+  },
+  "https://ici.radio-canada.ca/article/info/2300564/mines-quebec-profits-actionnaires-etrangers-iris-emplois": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Quebec’s mines mostly enrich foreign shareholders, according to IRIS"
+  },
+  "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299": {
+   "category": "energy",
+   "importance": 2,
+   "title_fr": "Québecor fait une offre de 31 G$ pour acquérir Telus"
+  },
+  "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935": {
+   "category": "justice",
+   "importance": 3,
+   "title_fr": "La Cour autorise une action collective alléguant de la discrimination de la SQ envers des Autochtones à Val-d’Or (Qc)"
+  },
+  "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991": {
+   "category": "justice",
+   "importance": 2,
+   "title_fr": "Des étudiants montréalais ébranlés par la violence policière lors de la manifestation du 13 novembre contre l’austérité en éducation"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Projet Montréal wants an official in charge of fighting racism"
+  },
+  "https://ici.radio-canada.ca/article/info/2300181/route-132-st-simon-autoroute-20-voie-contournement": {
+   "category": "finances",
+   "importance": 2,
+   "title_en": "Tired of waiting for the A-20, Saint-Simon calls for a bypass"
   }
  }
 }

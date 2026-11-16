@@ -2862,6 +2862,53 @@
    "name": "Lime Santé",
    "type": "organization",
    "aliases": []
+  },
+  "louise-mushikiwabo": {
+   "name": "Louise Mushikiwabo",
+   "type": "person",
+   "aliases": [
+    "Mushikiwabo"
+   ]
+  },
+  "caroline-st-hilaire": {
+   "name": "Caroline St-Hilaire",
+   "type": "person",
+   "aliases": []
+  },
+  "gilles-lehouillier": {
+   "name": "Gilles Lehouillier",
+   "type": "person",
+   "aliases": [
+    "Lehouillier"
+   ]
+  },
+  "iris": {
+   "name": "Institut de recherche et d’informations socioéconomiques",
+   "type": "organization",
+   "aliases": [
+    "IRIS"
+   ]
+  },
+  "quebecor": {
+   "name": "Quebecor",
+   "type": "organization",
+   "aliases": [
+    "Québecor"
+   ]
+  },
+  "telus": {
+   "name": "Telus",
+   "type": "organization",
+   "aliases": [
+    "TELUS"
+   ]
+  },
+  "centre-amitie-autochtone-val-dor": {
+   "name": "Centre d’amitié autochtone de Val-d’Or",
+   "type": "organization",
+   "aliases": [
+    "Val-d’Or Indigenous Friendship Centre"
+   ]
   }
  },
  "stories": [
@@ -5885,6 +5932,102 @@
    "match": "https://www.cbc.ca/news/canada/montreal/dieppe-park-montreal-9.7415951",
    "entities": [],
    "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php",
+   "entities": [
+    "marie-karlynn-laflamme",
+    "sante-quebec",
+    "genevieve-biron",
+    "christian-dube",
+    "pspp",
+    "pq"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart",
+   "entities": [
+    "sqi",
+    "spgq",
+    "alain-therrien"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/",
+   "entities": [
+    "oif",
+    "louise-mushikiwabo",
+    "caroline-st-hilaire",
+    "mark-carney"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php",
+   "entities": [
+    "eric-duhaime",
+    "pcq",
+    "gilles-lehouillier"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300564/mines-quebec-profits-actionnaires-etrangers-iris-emplois",
+   "entities": [
+    "iris"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299",
+   "entities": [
+    "quebecor",
+    "telus"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935",
+   "entities": [
+    "surete-quebec",
+    "centre-amitie-autochtone-val-dor"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991",
+   "entities": [
+    "spvm",
+    "crues",
+    "elsie-lefebvre"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php",
+   "entities": [
+    "projet-montreal",
+    "soraya-martinez-ferrada",
+    "ericka-alneus",
+    "spvm",
+    "fady-dagher"
+   ],
+   "dossiers": [
+    "spvm-pdq39"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300181/route-132-st-simon-autoroute-20-voie-contournement",
+   "entities": [
+    "mtmd"
+   ],
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
   }
  ]
 }

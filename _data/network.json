@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-15T15:29:42Z",
+ "generated": "2026-11-16T15:24:34Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 253,
+ "story_count": 263,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -2662,6 +2662,101 @@
      "entities": []
     }
    ]
+  },
+  "2026-11-16": {
+   "post": "/2026/11/16/digest/",
+   "stories": [
+    {
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php",
+     "entities": [
+      "christian-dube",
+      "genevieve-biron",
+      "marie-karlynn-laflamme",
+      "pq",
+      "pspp",
+      "sante-quebec"
+     ]
+    },
+    {
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart",
+     "entities": [
+      "alain-therrien",
+      "spgq",
+      "sqi"
+     ]
+    },
+    {
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/",
+     "entities": [
+      "caroline-st-hilaire",
+      "louise-mushikiwabo",
+      "mark-carney",
+      "oif"
+     ]
+    },
+    {
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php",
+     "entities": [
+      "eric-duhaime",
+      "gilles-lehouillier",
+      "pcq"
+     ]
+    },
+    {
+     "headline": "Les mines du Québec enrichissent surtout des actionnaires étrangers, selon l’IRIS",
+     "url": "https://ici.radio-canada.ca/article/info/2300564/mines-quebec-profits-actionnaires-etrangers-iris-emplois",
+     "entities": [
+      "iris"
+     ]
+    },
+    {
+     "headline": "Quebecor makes $31B offer to acquire Telus",
+     "url": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299",
+     "entities": [
+      "quebecor",
+      "telus"
+     ]
+    },
+    {
+     "headline": "Court OKs class action alleging SQ discrimination against Indigenous people in Val-d’Or, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935",
+     "entities": [
+      "centre-amitie-autochtone-val-dor",
+      "surete-quebec"
+     ]
+    },
+    {
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991",
+     "entities": [
+      "crues",
+      "elsie-lefebvre",
+      "spvm"
+     ]
+    },
+    {
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php",
+     "entities": [
+      "ericka-alneus",
+      "fady-dagher",
+      "projet-montreal",
+      "soraya-martinez-ferrada",
+      "spvm"
+     ]
+    },
+    {
+     "headline": "Exaspérée d’attendre l’A-20, Saint-Simon réclame une voie de contournement",
+     "url": "https://ici.radio-canada.ca/article/info/2300181/route-132-st-simon-autoroute-20-voie-contournement",
+     "entities": [
+      "mtmd"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -2673,7 +2768,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 61,
+   "mentions": 62,
    "stories": [
     {
      "date": "2026-10-21",
@@ -2979,6 +3074,11 @@
      "date": "2026-11-15",
      "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
      "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -2991,7 +3091,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 32,
+   "mentions": 33,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3152,6 +3252,11 @@
      "date": "2026-11-15",
      "headline": "Insatisfaction envers son gouvernement: PSPP veut être jugé sur ses engagements des 100 premiers jours",
      "url": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -3306,7 +3411,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 24,
+   "mentions": 25,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3427,6 +3532,11 @@
      "date": "2026-11-15",
      "headline": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
      "url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -3437,7 +3547,7 @@
    "aliases": [
     "Carney"
    ],
-   "mentions": 20,
+   "mentions": 21,
    "stories": [
     {
      "date": "2026-10-26",
@@ -3538,6 +3648,11 @@
      "date": "2026-11-15",
      "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
      "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
     }
    ]
   },
@@ -3630,7 +3745,7 @@
    "aliases": [
     "Therrien"
    ],
-   "mentions": 12,
+   "mentions": 13,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3691,6 +3806,161 @@
      "date": "2026-11-10",
      "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
+    }
+   ]
+  },
+  {
+   "id": "spvm",
+   "name": "Service de police de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "SPVM"
+   ],
+   "mentions": 13,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
+     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Manifestation contre le SPVM: les congédiements ne sont «absolument pas suffisants», dit un participant",
+     "url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
+   "id": "soraya-martinez-ferrada",
+   "name": "Soraya Martinez Ferrada",
+   "type": "person",
+   "aliases": [],
+   "mentions": 13,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
+     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
     }
    ]
   },
@@ -3766,71 +4036,73 @@
    ]
   },
   {
-   "id": "soraya-martinez-ferrada",
-   "name": "Soraya Martinez Ferrada",
+   "id": "marie-karlynn-laflamme",
+   "name": "Marie-Karlynn Laflamme",
    "type": "person",
-   "aliases": [],
+   "aliases": [
+    "Laflamme"
+   ],
    "mentions": 12,
    "stories": [
     {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
      "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+     "date": "2026-10-22",
+     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
     },
     {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
     },
     {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+     "date": "2026-10-24",
+     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
     },
     {
-     "date": "2026-10-29",
-     "headline": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres"
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
     },
     {
      "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
     },
     {
      "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
     },
     {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+     "date": "2026-11-10",
+     "headline": "Retard des travaux à l’hôpital de Jonquière en raison de soumissions trop élevées",
+     "url": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor"
     },
     {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Québec ne ferme pas la porte à une participation publique pour sauver le CF Montréal",
-     "url": "https://ici.radio-canada.ca/article/info/2299701/aide-quebec-pspp-cf-montreal"
+     "date": "2026-11-12",
+     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
     },
     {
      "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+     "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
+     "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -3904,72 +4176,6 @@
    ]
   },
   {
-   "id": "marie-karlynn-laflamme",
-   "name": "Marie-Karlynn Laflamme",
-   "type": "person",
-   "aliases": [
-    "Laflamme"
-   ],
-   "mentions": 11,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
-     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
-     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Mobilisation à Victoriaville pour le maintien des services en santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296929/victoriaville-medecin-hotel-dieu-mobilisation"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Retard des travaux à l’hôpital de Jonquière en raison de soumissions trop élevées",
-     "url": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
-     "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
-    }
-   ]
-  },
-  {
    "id": "plq",
    "name": "Parti libéral du Québec",
    "type": "organization",
@@ -4034,72 +4240,6 @@
      "date": "2026-11-14",
      "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
      "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
-    }
-   ]
-  },
-  {
-   "id": "spvm",
-   "name": "Service de police de la Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "SPVM"
-   ],
-   "mentions": 11,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Les pompiers de Montréal mettent de plus en plus de temps pour répondre aux appels",
-     "url": "https://www.journaldemontreal.com/2026/11/02/les-pompiers-de-montreal-mettent-de-plus-en-plus-de-temps-pour-repondre-aux-appels"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Manifestation contre le SPVM: les congédiements ne sont «absolument pas suffisants», dit un participant",
-     "url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant"
     }
    ]
   },
@@ -4288,6 +4428,62 @@
    ]
   },
   {
+   "id": "fady-dagher",
+   "name": "Fady Dagher",
+   "type": "person",
+   "aliases": [
+    "Dagher"
+   ],
+   "mentions": 9,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Manifestation contre le SPVM: les congédiements ne sont «absolument pas suffisants», dit un participant",
+     "url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
    "id": "qs",
    "name": "Québec solidaire",
    "type": "organization",
@@ -4344,53 +4540,51 @@
    ]
   },
   {
-   "id": "fady-dagher",
-   "name": "Fady Dagher",
+   "id": "eric-duhaime",
+   "name": "Éric Duhaime",
    "type": "person",
-   "aliases": [
-    "Dagher"
-   ],
+   "aliases": [],
    "mentions": 8,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
     },
     {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
     },
     {
      "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     },
     {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+     "date": "2026-11-01",
+     "headline": "Non, Jacinthe-Eve Arel n’a pas dit vouloir céder son droit de vote à Éric Duhaime",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux"
     },
     {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+     "date": "2026-11-12",
+     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
     },
     {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+     "date": "2026-11-12",
+     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
+     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
     },
     {
-     "date": "2026-11-08",
-     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+     "date": "2026-11-14",
+     "headline": "Caucus présessionnel du Parti libéral – Milliard critique les premières semaines au pouvoir du PQ",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/caucus-presessionnel-du-parti-liberal/milliard-critique-les-premieres-semaines-au-pouvoir-du-pq.php"
     },
     {
-     "date": "2026-11-09",
-     "headline": "Manifestation contre le SPVM: les congédiements ne sont «absolument pas suffisants», dit un participant",
-     "url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant"
+     "date": "2026-11-16",
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
     }
    ]
   },
@@ -4580,6 +4774,55 @@
    ]
   },
   {
+   "id": "pcq",
+   "name": "Parti conservateur du Québec",
+   "type": "organization",
+   "aliases": [
+    "PCQ",
+    "Conservative Party",
+    "conservateurs",
+    "conservatrice"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
+    }
+   ]
+  },
+  {
    "id": "stq",
    "name": "Société des traversiers du Québec",
    "type": "organization",
@@ -4622,50 +4865,6 @@
      "date": "2026-11-12",
      "headline": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
      "url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois"
-    }
-   ]
-  },
-  {
-   "id": "eric-duhaime",
-   "name": "Éric Duhaime",
-   "type": "person",
-   "aliases": [],
-   "mentions": 7,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Non, Jacinthe-Eve Arel n’a pas dit vouloir céder son droit de vote à Éric Duhaime",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297244/jacinthe-eve-arel-duhaime-vote-femmes-faux"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
-     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Caucus présessionnel du Parti libéral – Milliard critique les premières semaines au pouvoir du PQ",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/caucus-presessionnel-du-parti-liberal/milliard-critique-les-premieres-semaines-au-pouvoir-du-pq.php"
     }
    ]
   },
@@ -4834,46 +5033,45 @@
    ]
   },
   {
-   "id": "pcq",
-   "name": "Parti conservateur du Québec",
+   "id": "mtmd",
+   "name": "Ministère des Transports et de la Mobilité durable",
    "type": "organization",
    "aliases": [
-    "PCQ",
-    "Conservative Party",
-    "conservateurs",
-    "conservatrice"
+    "MTMD",
+    "MTQ",
+    "ministère des Transports"
    ],
    "mentions": 6,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
     },
     {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+     "date": "2026-10-24",
+     "headline": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie"
     },
     {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+     "date": "2026-10-24",
+     "headline": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
+     "url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     },
     {
-     "date": "2026-11-10",
-     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+     "date": "2026-11-09",
+     "headline": "De la lumière au bout du tunnel Louis-H.-La Fontaine? Quatre voies bientôt ouvertes à la circulation",
+     "url": "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation"
     },
     {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+     "date": "2026-11-16",
+     "headline": "Exaspérée d’attendre l’A-20, Saint-Simon réclame une voie de contournement",
+     "url": "https://ici.radio-canada.ca/article/info/2300181/route-132-st-simon-autoroute-20-voie-contournement"
     }
    ]
   },
@@ -4956,6 +5154,40 @@
    ]
   },
   {
+   "id": "elsie-lefebvre",
+   "name": "Elsie Lefebvre",
+   "type": "person",
+   "aliases": [],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    }
+   ]
+  },
+  {
    "id": "guy-lapointe-fils",
    "name": "Guy Lapointe fils",
    "type": "person",
@@ -5027,44 +5259,6 @@
      "date": "2026-11-10",
      "headline": "Retard des travaux à l’hôpital de Jonquière en raison de soumissions trop élevées",
      "url": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor"
-    }
-   ]
-  },
-  {
-   "id": "mtmd",
-   "name": "Ministère des Transports et de la Mobilité durable",
-   "type": "organization",
-   "aliases": [
-    "MTMD",
-    "MTQ",
-    "ministère des Transports"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
-     "url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "De la lumière au bout du tunnel Louis-H.-La Fontaine? Quatre voies bientôt ouvertes à la circulation",
-     "url": "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation"
     }
    ]
   },
@@ -5435,6 +5629,35 @@
    ]
   },
   {
+   "id": "christian-dube",
+   "name": "Christian Dubé",
+   "type": "person",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Santé Québec annule un projet pilote de chirurgies au privé",
+     "url": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
    "id": "christine-frechette",
    "name": "Christine Fréchette",
    "type": "person",
@@ -5560,31 +5783,31 @@
    ]
   },
   {
-   "id": "elsie-lefebvre",
-   "name": "Elsie Lefebvre",
+   "id": "ericka-alneus",
+   "name": "Ericka Alneus",
    "type": "person",
    "aliases": [],
    "mentions": 4,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     },
     {
-     "date": "2026-11-09",
-     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
-     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     },
     {
-     "date": "2026-11-13",
-     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
-     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
     },
     {
-     "date": "2026-11-15",
-     "headline": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117"
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
     }
    ]
   },
@@ -5747,6 +5970,67 @@
    ]
   },
   {
+   "id": "oif",
+   "name": "Organisation internationale de la Francophonie",
+   "type": "organization",
+   "aliases": [
+    "OIF",
+    "Francophonie"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
+    }
+   ]
+  },
+  {
+   "id": "projet-montreal",
+   "name": "Projet Montréal",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
    "id": "stephan-fogaing",
    "name": "Stephan Fogaing",
    "type": "person",
@@ -5772,6 +6056,38 @@
      "date": "2026-11-09",
      "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
      "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    }
+   ]
+  },
+  {
+   "id": "surete-quebec",
+   "name": "Sûreté du Québec",
+   "type": "organization",
+   "aliases": [
+    "SQ",
+    "Quebec provincial police"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
+     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Court OKs class action alleging SQ discrimination against Indigenous people in Val-d’Or, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935"
     }
    ]
   },
@@ -5900,30 +6216,6 @@
    ]
   },
   {
-   "id": "christian-dube",
-   "name": "Christian Dubé",
-   "type": "person",
-   "aliases": [],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
-     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Santé Québec annule un projet pilote de chirurgies au privé",
-     "url": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques"
-    }
-   ]
-  },
-  {
    "id": "claude-roy",
    "name": "Claude Roy",
    "type": "person",
@@ -5972,26 +6264,26 @@
    ]
   },
   {
-   "id": "ericka-alneus",
-   "name": "Ericka Alneus",
+   "id": "genevieve-biron",
+   "name": "Geneviève Biron",
    "type": "person",
    "aliases": [],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
     },
     {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
     },
     {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -6222,57 +6514,6 @@
    ]
   },
   {
-   "id": "oif",
-   "name": "Organisation internationale de la Francophonie",
-   "type": "organization",
-   "aliases": [
-    "OIF",
-    "Francophonie"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
-     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
-     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
-    }
-   ]
-  },
-  {
-   "id": "projet-montreal",
-   "name": "Projet Montréal",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
-    }
-   ]
-  },
-  {
    "id": "mpo",
    "name": "Pêches et Océans Canada",
    "type": "organization",
@@ -6351,29 +6592,28 @@
    ]
   },
   {
-   "id": "surete-quebec",
-   "name": "Sûreté du Québec",
+   "id": "spgq",
+   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
    "type": "organization",
    "aliases": [
-    "SQ",
-    "Quebec provincial police"
+    "SPGQ"
    ],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-27",
-     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     },
     {
-     "date": "2026-11-09",
-     "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
     },
     {
-     "date": "2026-11-15",
-     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
-     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
+     "date": "2026-11-16",
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
     }
    ]
   },
@@ -6645,6 +6885,27 @@
    ]
   },
   {
+   "id": "crues",
+   "name": "Coalition de résistance pour l’unité étudiante syndicale",
+   "type": "organization",
+   "aliases": [
+    "CRUES"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "Thousands of Quebec students expected to strike against austerity, precarity this week",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-strike-quebec-9.7415018"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    }
+   ]
+  },
+  {
    "id": "collectif-nrs",
    "name": "Collectif numérique responsable et soutenable",
    "type": "organization",
@@ -6891,25 +7152,6 @@
      "date": "2026-11-11",
      "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
      "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
-    }
-   ]
-  },
-  {
-   "id": "genevieve-biron",
-   "name": "Geneviève Biron",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
     }
    ]
   },
@@ -7450,6 +7692,27 @@
    ]
   },
   {
+   "id": "sqi",
+   "name": "Société québécoise des infrastructures",
+   "type": "organization",
+   "aliases": [
+    "SQI"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé",
+     "url": "https://www.newswire.ca/news-releases/l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi-a-ete-annule-836839883.html"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
+    }
+   ]
+  },
+  {
    "id": "steven-blaney",
    "name": "Steven Blaney",
    "type": "person",
@@ -7507,27 +7770,6 @@
      "date": "2026-11-15",
      "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
      "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
-    }
-   ]
-  },
-  {
-   "id": "spgq",
-   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
-   "type": "organization",
-   "aliases": [
-    "SPGQ"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
     }
    ]
   },
@@ -8430,6 +8672,20 @@
    ]
   },
   {
+   "id": "caroline-st-hilaire",
+   "name": "Caroline St-Hilaire",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
+    }
+   ]
+  },
+  {
    "id": "catherine-dupont-gagnon",
    "name": "Catherine Dupont-Gagnon",
    "type": "person",
@@ -8459,6 +8715,22 @@
      "date": "2026-11-11",
      "headline": "Le recours des écoles aux chasseurs de têtes et aux agences sème l’inquiétude",
      "url": "https://www.ledevoir.com/actualites/education/1023944/recours-ecoles-chasseurs-tetes-agences-seme-inquietude"
+    }
+   ]
+  },
+  {
+   "id": "centre-amitie-autochtone-val-dor",
+   "name": "Centre d’amitié autochtone de Val-d’Or",
+   "type": "organization",
+   "aliases": [
+    "Val-d’Or Indigenous Friendship Centre"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Court OKs class action alleging SQ discrimination against Indigenous people in Val-d’Or, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935"
     }
    ]
   },
@@ -8582,22 +8854,6 @@
      "date": "2026-10-21",
      "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
      "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    }
-   ]
-  },
-  {
-   "id": "crues",
-   "name": "Coalition de résistance pour l’unité étudiante syndicale",
-   "type": "organization",
-   "aliases": [
-    "CRUES"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "Thousands of Quebec students expected to strike against austerity, precarity this week",
-     "url": "https://www.cbc.ca/news/canada/montreal/student-strike-quebec-9.7415018"
     }
    ]
   },
@@ -9505,6 +9761,22 @@
    ]
   },
   {
+   "id": "gilles-lehouillier",
+   "name": "Gilles Lehouillier",
+   "type": "person",
+   "aliases": [
+    "Lehouillier"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
+    }
+   ]
+  },
+  {
    "id": "gold-fields",
    "name": "Gold Fields",
    "type": "organization",
@@ -9801,6 +10073,22 @@
      "date": "2026-10-28",
      "headline": "L'argent public ne devrait pas financer le militantisme politique",
      "url": "https://www.cardus.ca/news/news-releases/argent-public-ne-devrait-pas-financer-le-militantisme-politique/"
+    }
+   ]
+  },
+  {
+   "id": "iris",
+   "name": "Institut de recherche et d’informations socioéconomiques",
+   "type": "organization",
+   "aliases": [
+    "IRIS"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Les mines du Québec enrichissent surtout des actionnaires étrangers, selon l’IRIS",
+     "url": "https://ici.radio-canada.ca/article/info/2300564/mines-quebec-profits-actionnaires-etrangers-iris-emplois"
     }
    ]
   },
@@ -10480,6 +10768,22 @@
      "date": "2026-11-12",
      "headline": "Filière batterie: le fondateur de Flo et ex-dragon invité quitte le navire",
      "url": "https://www.tvanouvelles.ca/2026/11/12/filiere-batterie-le-fondateur-de-flo-et-ex-dragon-invite-quitte-le-navire"
+    }
+   ]
+  },
+  {
+   "id": "louise-mushikiwabo",
+   "name": "Louise Mushikiwabo",
+   "type": "person",
+   "aliases": [
+    "Mushikiwabo"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
     }
    ]
   },
@@ -11390,6 +11694,22 @@
    ]
   },
   {
+   "id": "quebecor",
+   "name": "Quebecor",
+   "type": "organization",
+   "aliases": [
+    "Québecor"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Quebecor makes $31B offer to acquire Telus",
+     "url": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299"
+    }
+   ]
+  },
+  {
    "id": "rafael-primeau-ferraro",
    "name": "Rafael Primeau-Ferraro",
    "type": "person",
@@ -11742,22 +12062,6 @@
    ]
   },
   {
-   "id": "sqi",
-   "name": "Société québécoise des infrastructures",
-   "type": "organization",
-   "aliases": [
-    "SQI"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "L'avis de grève émis par LANEQ auprès de la SQI a été annulé",
-     "url": "https://www.newswire.ca/news-releases/l-avis-de-greve-emis-par-laneq-aupres-de-la-sqi-a-ete-annule-836839883.html"
-    }
-   ]
-  },
-  {
    "id": "sol-zanetti",
    "name": "Sol Zanetti",
    "type": "person",
@@ -11992,6 +12296,22 @@
      "date": "2026-10-30",
      "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
      "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    }
+   ]
+  },
+  {
+   "id": "telus",
+   "name": "Telus",
+   "type": "organization",
+   "aliases": [
+    "TELUS"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Quebecor makes $31B offer to acquire Telus",
+     "url": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299"
     }
    ]
   },
@@ -12413,7 +12733,7 @@
   {
    "source": "pq",
    "target": "pspp",
-   "weight": 19,
+   "weight": 20,
    "stories": [
     {
      "date": "2026-10-21",
@@ -12509,6 +12829,11 @@
      "date": "2026-11-15",
      "headline": "Insatisfaction envers son gouvernement: PSPP veut être jugé sur ses engagements des 100 premiers jours",
      "url": "https://www.journaldemontreal.com/2026/11/14/insatisfaction-envers-son-gouvernement--pspp-veut-etre-juge-sur-ses-engagements-des-100-premiers-jours"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -12643,6 +12968,110 @@
      "date": "2026-11-04",
      "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
+   "target": "spvm",
+   "weight": 9,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Manifestation contre le SPVM: les congédiements ne sont «absolument pas suffisants», dit un participant",
+     "url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
+   "source": "marie-karlynn-laflamme",
+   "target": "sante-quebec",
+   "weight": 9,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
+     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
+     "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -12784,100 +13213,6 @@
      "date": "2026-11-14",
      "headline": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
      "url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php"
-    }
-   ]
-  },
-  {
-   "source": "fady-dagher",
-   "target": "spvm",
-   "weight": 8,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Manifestation contre le SPVM: les congédiements ne sont «absolument pas suffisants», dit un participant",
-     "url": "https://www.tvanouvelles.ca/2026/11/08/manifestation-contre-le-spvm-les-congediements-ne-sont-absolument-pas-suffisants-dit-un-participant"
-    }
-   ]
-  },
-  {
-   "source": "marie-karlynn-laflamme",
-   "target": "sante-quebec",
-   "weight": 8,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "La ministre Marie-Karlynn Laflamme veut décentraliser le réseau de la santé",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294891/ministre-sante-marie-karlynn-laflamme-decentralisation"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "«Santé Québec ne fait plus partie des cartons», assure la nouvelle ministre de la Santé",
-     "url": "https://www.noovo.info/nouvelles/sante/article/sante-quebec-ne-fait-plus-partie-des-cartons-assure-la-nouvelle-ministre-de-la-sante/"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
-     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
-     "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
     }
    ]
   },
@@ -13055,6 +13390,48 @@
    ]
   },
   {
+   "source": "pq",
+   "target": "sante-quebec",
+   "weight": 7,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
+     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
    "source": "pspp",
    "target": "qs",
    "weight": 7,
@@ -13093,6 +13470,48 @@
      "date": "2026-11-12",
      "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
      "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    }
+   ]
+  },
+  {
+   "source": "soraya-martinez-ferrada",
+   "target": "spvm",
+   "weight": 7,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
+     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
     }
    ]
   },
@@ -13167,80 +13586,6 @@
      "date": "2026-11-14",
      "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
      "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    }
-   ]
-  },
-  {
-   "source": "pq",
-   "target": "sante-quebec",
-   "weight": 6,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Salles d’opération inoccupées: 20 % des chirurgies maintenant effectuées au privé",
-     "url": "https://www.journaldequebec.com/2026/10/29/salles-doperation-inoccupees-20--des-chirurgies-maintenant-effectuees-au-prive"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    }
-   ]
-  },
-  {
-   "source": "soraya-martinez-ferrada",
-   "target": "spvm",
-   "weight": 6,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "Montrealers rally against alleged humiliation of unhoused, racialized citizens by police officers",
-     "url": "https://www.cbc.ca/news/canada/montreal/montrealers-outrage-alleged-act-of-humiliation-police-9.7394794"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Le Commissaire à la déontologie et le BEI enquêtent sur un policier du SPVM",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295729/commissaire-deontologie-bei-enquete-policier-spvm"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
     }
    ]
   },
@@ -13341,6 +13686,38 @@
    ]
   },
   {
+   "source": "fady-dagher",
+   "target": "soraya-martinez-ferrada",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-08",
+     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
    "source": "hydro-quebec",
    "target": "regie-energie",
    "weight": 5,
@@ -13369,6 +13746,38 @@
      "date": "2026-11-06",
      "headline": "Équiterre exige un moratoire sur les centres de données",
      "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    }
+   ]
+  },
+  {
+   "source": "marie-karlynn-laflamme",
+   "target": "pspp",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -13433,6 +13842,38 @@
      "date": "2026-11-14",
      "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
      "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "sante-quebec",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -13595,6 +14036,33 @@
      "date": "2026-11-02",
      "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
      "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    }
+   ]
+  },
+  {
+   "source": "christian-dube",
+   "target": "sante-quebec",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Santé Québec annule un projet pilote de chirurgies au privé",
+     "url": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -13788,33 +14256,6 @@
    ]
   },
   {
-   "source": "fady-dagher",
-   "target": "soraya-martinez-ferrada",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Un policier du SPVM aurait effacé la preuve fournie par une victime de violence conjugale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296894/policier-spvm-destruction-preuve-violence-conjugale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-08",
-     "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
-    }
-   ]
-  },
-  {
    "source": "grc",
    "target": "lion",
    "weight": 4,
@@ -13870,7 +14311,7 @@
   },
   {
    "source": "marie-karlynn-laflamme",
-   "target": "pspp",
+   "target": "pq",
    "weight": 4,
    "stories": [
     {
@@ -13884,14 +14325,41 @@
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Gouvernement St-Pierre Plamondon – Les chefs de cabinet commencent à être nommés",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-24/gouvernement-st-pierre-plamondon/les-chefs-de-cabinet-commencent-a-etre-nommes.php"
-    },
-    {
      "date": "2026-11-12",
      "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
      "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
+   "source": "mark-carney",
+   "target": "oif",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-06",
+     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
+     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
+     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
     }
    ]
   },
@@ -14054,33 +14522,6 @@
      "date": "2026-11-09",
      "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
      "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
-   "target": "sante-quebec",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
     }
    ]
   },
@@ -14403,28 +14844,6 @@
    ]
   },
   {
-   "source": "christian-dube",
-   "target": "sante-quebec",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
-     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Santé Québec annule un projet pilote de chirurgies au privé",
-     "url": "https://ici.radio-canada.ca/article/info/2299993/sante-quebec-cms-prive-chirurgies-oerthopediques"
-    }
-   ]
-  },
-  {
    "source": "christine-frechette",
    "target": "pspp",
    "weight": 3,
@@ -14580,6 +14999,28 @@
   },
   {
    "source": "eric-duhaime",
+   "target": "pcq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
    "target": "qs",
    "weight": 3,
    "stories": [
@@ -14597,6 +15038,94 @@
      "date": "2026-11-12",
      "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
      "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "fady-dagher",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "projet-montreal",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "soraya-martinez-ferrada",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
+    }
+   ]
+  },
+  {
+   "source": "ericka-alneus",
+   "target": "spvm",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
     }
    ]
   },
@@ -14619,6 +15148,50 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-biron",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-biron",
+   "target": "sante-quebec",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -14843,50 +15416,6 @@
    ]
   },
   {
-   "source": "marie-karlynn-laflamme",
-   "target": "pq",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    }
-   ]
-  },
-  {
-   "source": "mark-carney",
-   "target": "oif",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-11-06",
-     "headline": "Mark Carney et PSPP prennent rendez-vous à Phnom Penh",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298553/premiere-rencontre-mark-carney-pspp"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Rencontre Carney-PSPP au Cambodge : « Ça s’est bien passé, c’était sympathique »",
-     "url": "https://ici.radio-canada.ca/article/info/2300781/rencontre-quebec-ottawa-cambodge-carney-pspp"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Secrétariat général de la Francophonie : Québec prêt à voter indépendamment d’Ottawa",
-     "url": "https://ici.radio-canada.ca/article/info/2300697/oif-secretariat-general-francophonie-quebec-vote-pspp"
-    }
-   ]
-  },
-  {
    "source": "mark-carney",
    "target": "pq",
    "weight": 3,
@@ -15015,6 +15544,28 @@
      "date": "2026-11-14",
      "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
      "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    }
+   ]
+  },
+  {
+   "source": "projet-montreal",
+   "target": "soraya-martinez-ferrada",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
     }
    ]
   },
@@ -15280,6 +15831,23 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    }
+   ]
+  },
+  {
+   "source": "alain-therrien",
+   "target": "spgq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
     }
    ]
   },
@@ -15841,6 +16409,74 @@
      "date": "2026-11-12",
      "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
      "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
+    }
+   ]
+  },
+  {
+   "source": "christian-dube",
+   "target": "genevieve-biron",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
+   "source": "christian-dube",
+   "target": "marie-karlynn-laflamme",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
+     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
+   "source": "christian-dube",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
+   "source": "christian-dube",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -16543,23 +17179,6 @@
   },
   {
    "source": "eric-duhaime",
-   "target": "pcq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    }
-   ]
-  },
-  {
-   "source": "eric-duhaime",
    "target": "plq",
    "weight": 2,
    "stories": [
@@ -16589,74 +17208,6 @@
      "date": "2026-11-12",
      "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
      "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    }
-   ]
-  },
-  {
-   "source": "ericka-alneus",
-   "target": "fady-dagher",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    }
-   ]
-  },
-  {
-   "source": "ericka-alneus",
-   "target": "projet-montreal",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
-    }
-   ]
-  },
-  {
-   "source": "ericka-alneus",
-   "target": "soraya-martinez-ferrada",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
-    }
-   ]
-  },
-  {
-   "source": "ericka-alneus",
-   "target": "spvm",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "Montreal police chief defends push to change SPVM culture, weed out bad apples",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-police-chief-spvm-9.7403416"
     }
    ]
   },
@@ -16691,6 +17242,23 @@
      "date": "2026-11-08",
      "headline": "Fady Dagher visé par des plaintes internes, le ministre de la Sécurité intérieure réagit",
      "url": "https://ici.radio-canada.ca/nouvelle/2298956/fady-dagher-plaintes-spvm"
+    }
+   ]
+  },
+  {
+   "source": "fady-dagher",
+   "target": "projet-montreal",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
     }
    ]
   },
@@ -16764,7 +17332,7 @@
   },
   {
    "source": "genevieve-biron",
-   "target": "pq",
+   "target": "pspp",
    "weight": 2,
    "stories": [
     {
@@ -16773,26 +17341,9 @@
      "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
     },
     {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
-    }
-   ]
-  },
-  {
-   "source": "genevieve-biron",
-   "target": "sante-quebec",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
     }
    ]
   },
@@ -17614,18 +18165,18 @@
   },
   {
    "source": "projet-montreal",
-   "target": "soraya-martinez-ferrada",
+   "target": "spvm",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+     "date": "2026-10-29",
+     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     },
     {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+     "date": "2026-11-16",
+     "headline": "Projet Montréal veut un responsable chargé de la lutte contre le racisme",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php"
     }
    ]
   },
@@ -18898,13 +19449,13 @@
   },
   {
    "source": "alain-therrien",
-   "target": "spgq",
+   "target": "sqi",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+     "date": "2026-11-16",
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
     }
    ]
   },
@@ -21957,6 +22508,42 @@
    ]
   },
   {
+   "source": "caroline-st-hilaire",
+   "target": "louise-mushikiwabo",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
+    }
+   ]
+  },
+  {
+   "source": "caroline-st-hilaire",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
+    }
+   ]
+  },
+  {
+   "source": "caroline-st-hilaire",
+   "target": "oif",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
+    }
+   ]
+  },
+  {
    "source": "catherine-dupont-gagnon",
    "target": "cyber-citoyen",
    "weight": 1,
@@ -22461,6 +23048,18 @@
    ]
   },
   {
+   "source": "centre-amitie-autochtone-val-dor",
+   "target": "surete-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Court OKs class action alleging SQ discrimination against Indigenous people in Val-d’Or, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935"
+    }
+   ]
+  },
+  {
    "source": "ceteq",
    "target": "consignaction",
    "weight": 1,
@@ -22834,55 +23433,7 @@
   },
   {
    "source": "christian-dube",
-   "target": "genevieve-biron",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    }
-   ]
-  },
-  {
-   "source": "christian-dube",
-   "target": "marie-karlynn-laflamme",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Avenir de Santé Québec – L’ex-ministre Dubé veut un groupe d’experts indépendants",
-     "url": "https://www.lapresse.ca/actualites/sante/2026-10-30/avenir-de-sante-quebec/l-ex-ministre-dube-veut-un-groupe-d-experts-independants.php"
-    }
-   ]
-  },
-  {
-   "source": "christian-dube",
    "target": "msss",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    }
-   ]
-  },
-  {
-   "source": "christian-dube",
-   "target": "pq",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    }
-   ]
-  },
-  {
-   "source": "christian-dube",
-   "target": "pspp",
    "weight": 1,
    "stories": [
     {
@@ -24717,6 +25268,30 @@
    ]
   },
   {
+   "source": "crues",
+   "target": "elsie-lefebvre",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    }
+   ]
+  },
+  {
+   "source": "crues",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    }
+   ]
+  },
+  {
    "source": "csn",
    "target": "domtar",
    "weight": 1,
@@ -26001,6 +26576,18 @@
    ]
   },
   {
+   "source": "elsie-lefebvre",
+   "target": "spvm",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    }
+   ]
+  },
+  {
    "source": "elvira-carhuallanqui",
    "target": "projet-montreal",
    "weight": 1,
@@ -26374,6 +26961,18 @@
   },
   {
    "source": "eric-duhaime",
+   "target": "gilles-lehouillier",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
+    }
+   ]
+  },
+  {
+   "source": "eric-duhaime",
    "target": "madwa-nika-cadet",
    "weight": 1,
    "stories": [
@@ -26729,18 +27328,6 @@
      "date": "2026-11-04",
      "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
      "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    }
-   ]
-  },
-  {
-   "source": "fady-dagher",
-   "target": "projet-montreal",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
     }
    ]
   },
@@ -27718,6 +28305,18 @@
   },
   {
    "source": "genevieve-biron",
+   "target": "marie-karlynn-laflamme",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-biron",
    "target": "mcn",
    "weight": 1,
    "stories": [
@@ -27761,18 +28360,6 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
-    }
-   ]
-  },
-  {
-   "source": "genevieve-biron",
-   "target": "pspp",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
     }
    ]
   },
@@ -27893,6 +28480,18 @@
      "date": "2026-11-02",
      "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
      "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "gilles-lehouillier",
+   "target": "pcq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
     }
    ]
   },
@@ -30909,6 +31508,30 @@
    ]
   },
   {
+   "source": "louise-mushikiwabo",
+   "target": "mark-carney",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
+    }
+   ]
+  },
+  {
+   "source": "louise-mushikiwabo",
+   "target": "oif",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
+     "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
+    }
+   ]
+  },
+  {
    "source": "luc-boivin",
    "target": "melccfp",
    "weight": 1,
@@ -33526,18 +34149,6 @@
   },
   {
    "source": "projet-montreal",
-   "target": "spvm",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-29",
-     "headline": "Le SPVM précise pourquoi il a fallu une journée pour démanteler une unité du poste 39",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296791/svpm-demantelement-racisme-poste-39"
-    }
-   ]
-  },
-  {
-   "source": "projet-montreal",
    "target": "valerie-plante",
    "weight": 1,
    "stories": [
@@ -33809,6 +34420,18 @@
      "date": "2026-11-01",
      "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
      "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
+    }
+   ]
+  },
+  {
+   "source": "quebecor",
+   "target": "telus",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Quebecor makes $31B offer to acquire Telus",
+     "url": "https://www.cbc.ca/news/business/quebecor-telus-acquisition-offer-9.7423299"
     }
    ]
   },
@@ -34373,6 +34996,18 @@
      "date": "2026-11-06",
      "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    }
+   ]
+  },
+  {
+   "source": "spgq",
+   "target": "sqi",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
     }
    ]
   },
