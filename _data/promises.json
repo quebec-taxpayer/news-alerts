@@ -254,6 +254,34 @@
    "status_source_outlet": "Le Journal de Québec",
    "status_source_url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur",
    "status_source_date": "2026-11-12"
+  },
+  {
+   "id": "pq-revisit-bill-14",
+   "dossier": "pq-transition",
+   "type": "outcome",
+   "status": "promised",
+   "item_en": "Revisit the CAQ’s Bill 14 on strikes",
+   "item_fr": "Revoir la loi 14 de la CAQ sur la grève",
+   "announced_en": "During the campaign, PQ leader Paul St-Pierre Plamondon promised to “revisit” Bill 14, which added a regime of services to maintain during strikes",
+   "announced_fr": "En campagne, le chef péquiste Paul St-Pierre Plamondon a promis de « revisiter » la loi 14, qui a ajouté un régime de services à maintenir en cas de grève",
+   "announced_source_title": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
+   "announced_source_outlet": "La Presse",
+   "announced_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php",
+   "actual_en": "The government did not seek judicial review of the labour tribunal ruling that found the regime inoperative, and plans to ask the labour advisory committee (CCTM) for an opinion on the law",
+   "actual_fr": "Le gouvernement n’a pas demandé la révision judiciaire de la décision du Tribunal administratif du travail qui juge le régime inopérant, et compte demander un avis sur la loi au Comité consultatif du travail et de la main-d’œuvre (CCTM)",
+   "actual_source_title": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
+   "actual_source_outlet": "La Presse",
+   "actual_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php",
+   "actual_date": "2026-11-17",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-11-17",
+   "status_evidence_en": "The labour minister’s office says details of the CCTM mandate will be announced soon; no bill amending Bill 14 has been tabled, so there is no concrete step yet.",
+   "status_evidence_fr": "Le cabinet du ministre du Travail indique que les détails du mandat du CCTM seront communiqués prochainement; aucun projet de loi modifiant la loi 14 n’a été déposé, donc aucune étape concrète pour l’instant.",
+   "status_source_title": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
+   "status_source_outlet": "La Presse",
+   "status_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php",
+   "status_source_date": "2026-11-17"
   }
  ]
 }

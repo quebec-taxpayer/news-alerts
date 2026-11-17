@@ -13,7 +13,8 @@
     "commission-gallant",
     "marie-claude-sarrazin",
     "monsef-derraji",
-    "plq"
+    "plq",
+    "amp"
    ],
    "events": [
     {
@@ -92,6 +93,17 @@
      "source_type": "media",
      "post": "2026-10-24",
      "background": false
+    },
+    {
+     "date": "2026-11-17",
+     "en": "The public-contracts watchdog (AMP) has blacklisted for five years the firm of an IT consultant who advised the SAAQ and testified at the Gallant commission, the Bureau d’enquête reports; the AMP says the firm failed to implement imposed corrective measures.",
+     "fr": "L’Autorité des marchés publics (AMP) a inscrit sur sa liste noire, pour cinq ans, la firme d’une consultante en informatique qui a conseillé la SAAQ et témoigné à la commission Gallant, rapporte le Bureau d’enquête; selon l’AMP, l’entreprise n’a pas mis en œuvre les mesures correctrices imposées.",
+     "source_title": "Fiasco SAAQclic: «Loulou» bannie des contrats publics pour cinq ans",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/17/fiasco-saaqclic--loulou--bannie-des-contrats-publics-pour-cinq-ans",
+     "source_type": "media",
+     "post": "2026-11-17",
+     "background": false
     }
    ],
    "tldr": {
@@ -104,8 +116,8 @@
      "fr": "Des fonds publics ont payé un système plus cher que prévu. Le service au comptoir a aussi pris plus de temps qu’avant, selon le Vérificateur général."
     },
     "now": {
-     "en": "A public inquiry (the Gallant commission) published its report in Feb. 2026. A former commission lawyer is now Justice minister.",
-     "fr": "Une commission d’enquête (commission Gallant) a publié son rapport en février 2026. Une ex-avocate de la commission est maintenant ministre de la Justice."
+     "en": "A public inquiry (the Gallant commission) published its report in Feb. 2026. A former commission lawyer is now Justice minister. The public-contracts watchdog has barred the firm of a consultant who advised the SAAQ from public contracts for five years.",
+     "fr": "Une commission d’enquête (commission Gallant) a publié son rapport en février 2026. Une ex-avocate de la commission est maintenant ministre de la Justice. L’Autorité des marchés publics a exclu pour cinq ans des contrats publics la firme d’une consultante qui conseillait la SAAQ."
     }
    }
   },
@@ -131,7 +143,10 @@
     "ville-amos",
     "maxime-aucoin",
     "mohawk-council-kahnawake",
-    "northvolt"
+    "northvolt",
+    "tony-wakeham",
+    "john-hogan",
+    "bell-canada"
    ],
    "events": [
     {
@@ -440,6 +455,28 @@
      "source_type": "media",
      "post": "2026-11-14",
      "background": false
+    },
+    {
+     "date": "2026-11-16",
+     "en": "Newfoundland and Labrador Premier Tony Wakeham tells his legislature Quebec has given “no indication” it wants to renegotiate the Churchill Falls framework agreement and that he will not renegotiate it, Radio-Canada reports.",
+     "fr": "Le premier ministre de Terre-Neuve-et-Labrador, Tony Wakeham, affirme devant la Chambre d’assemblée que Québec ne lui a donné « aucune indication » d’une volonté de renégocier l’entente-cadre sur Churchill Falls et qu’il ne la renégociera pas, rapporte Radio-Canada.",
+     "source_title": "Churchil Falls : Québec n’a pas demandé de renégocier l’accord, dit Wakeham",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham",
+     "source_type": "media",
+     "post": "2026-11-17",
+     "background": false
+    },
+    {
+     "date": "2026-11-17",
+     "en": "Le Journal de Montréal reports a Mascouche family must use a neighbour’s electricity because Hydro-Québec plans to connect its new house only between late November and mid-April 2027; Hydro-Québec says there is no delay in the file.",
+     "fr": "Le Journal de Montréal rapporte qu’une famille de Mascouche doit utiliser l’électricité d’un voisin parce qu’Hydro-Québec prévoit raccorder sa maison neuve seulement entre la fin novembre et la mi-avril 2027; Hydro-Québec affirme qu’il n’y a pas de retard.",
+     "source_title": "Obligés de se brancher chez le voisin en attendant Hydro",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/17/obliges-de-se-brancher-chez-le-voisin-en-attendant-hydro",
+     "source_type": "media",
+     "post": "2026-11-17",
+     "background": false
     }
    ],
    "tldr": {
@@ -452,8 +489,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "A court has approved Hydro-Québec’s purchase of Northvolt’s former land. After four record dry years, Hydro-Québec now buys more electricity than it exports. The energy minister wants to rework some clauses of the Churchill Falls deal before the final agreement, due by December 31.",
-     "fr": "Le tribunal a approuvé l’achat de l’ancien terrain de Northvolt par Hydro-Québec. Après quatre années record de sécheresse, Hydro-Québec achète maintenant plus d’électricité qu’elle n’en exporte. Le ministre de l’Énergie veut retravailler certaines clauses de l’entente sur Churchill Falls avant l’entente définitive, attendue d’ici le 31 décembre."
+     "en": "A court has approved Hydro-Québec’s purchase of Northvolt’s former land. After four record dry years, Hydro-Québec now buys more electricity than it exports. Quebec’s energy minister wants to rework some clauses of the Churchill Falls deal, but Newfoundland and Labrador’s premier says Quebec has not asked to renegotiate and he will not.",
+     "fr": "Un tribunal a approuvé l’achat par Hydro-Québec de l’ancien terrain de Northvolt. Après quatre années de sécheresse record, Hydro-Québec achète maintenant plus d’électricité qu’elle n’en exporte. Le ministre québécois de l’Énergie veut retravailler certaines clauses de l’entente sur Churchill Falls, mais le premier ministre de Terre-Neuve-et-Labrador dit que Québec ne lui a pas demandé de renégocier et qu’il ne le fera pas."
     }
    }
   },
@@ -1477,7 +1514,10 @@
     "conseil-executif",
     "elsie-lefebvre",
     "charles-milliard",
-    "mark-carney"
+    "mark-carney",
+    "tat",
+    "csn",
+    "mathieu-lebrun"
    ],
    "events": [
     {
@@ -1851,6 +1891,17 @@
      "source_type": "media",
      "post": "2026-11-15",
      "background": false
+    },
+    {
+     "date": "2026-11-17",
+     "en": "The PQ government decides not to seek judicial review of the Oct. 9 TAT ruling against the CAQ’s Bill 14 strike-limiting regime and plans to ask the labour advisory committee (CCTM) for an opinion on the law, La Presse reports.",
+     "fr": "Le gouvernement péquiste décide de ne pas demander la révision judiciaire de la décision du TAT du 9 octobre contre le régime de la loi 14 de la CAQ limitant la grève, et compte demander un avis au Comité consultatif du travail et de la main-d’œuvre (CCTM), rapporte La Presse.",
+     "source_title": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php",
+     "source_type": "media",
+     "post": "2026-11-17",
+     "background": false
     }
    ],
    "tldr": {
@@ -1863,8 +1914,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports, after the PQ promised a pay freeze for elected officials and Crown corporation CEOs. Facing a poor satisfaction poll, the premier asks to be judged on his 100-day commitments, including an audit of all state IT projects. He held a first, cordial meeting with Prime Minister Mark Carney.",
-     "fr": "Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir, alors que le PQ avait promis de geler le salaire des élus et des p.-d.g. de sociétés d’État. Devant un sondage de satisfaction défavorable, le premier ministre demande à être jugé sur ses engagements des 100 premiers jours, dont un audit de tous les projets informatiques de l’État. Il a tenu une première rencontre cordiale avec le premier ministre Mark Carney."
+     "en": "The government will not defend in court the CAQ’s Bill 14 regime limiting strikes, which a labour tribunal found inoperative in a dispute it heard, and plans a review. Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports. Facing a poor satisfaction poll, the premier asks to be judged on his 100-day commitments, including an audit of all state IT projects.",
+     "fr": "Le gouvernement ne défendra pas devant les tribunaux le régime de la loi 14 de la CAQ limitant la grève, jugé inopérant par le Tribunal administratif du travail dans un litige, et prévoit une révision. Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir. Devant un sondage de satisfaction défavorable, le premier ministre demande à être jugé sur ses engagements des 100 premiers jours, dont un audit de tous les projets informatiques de l’État."
     }
    }
   },
@@ -3427,7 +3478,9 @@
    "desc_fr": "Le coût et l’échéancier de la réfection et de l’agrandissement des stations d’épuration Desjardins et Saint-Nicolas, à Lévis, dont dépend la levée d’un moratoire sur les nouvelles constructions.",
    "entities": [
     "ville-levis",
-    "steven-blaney"
+    "steven-blaney",
+    "groupe-csb",
+    "gilles-lehouillier"
    ],
    "events": [
     {
@@ -3451,6 +3504,17 @@
      "source_type": "media",
      "post": "2026-11-13",
      "background": false
+    },
+    {
+     "date": "2026-11-17",
+     "en": "Radio-Canada reports Groupe CSB has added more than $21 million to its lawsuit against Lévis; claims by four developers tied to the construction moratorium now exceed $53 million.",
+     "fr": "Radio-Canada rapporte que Groupe CSB a ajouté plus de 21 millions $ à sa poursuite contre Lévis; les recours de quatre promoteurs liés au moratoire sur la construction dépassent 53 millions $.",
+     "source_title": "Moratoire sur la construction : une entreprise réclame 21 M$ de plus à la Ville de Lévis",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301110/moratoire-logement-poursuite-levis",
+     "source_type": "media",
+     "post": "2026-11-17",
+     "background": false
     }
    ],
    "tldr": {
@@ -3463,8 +3527,8 @@
      "fr": "Tant que les usines ne peuvent pas traiter plus d’eaux usées, un moratoire bloque les nouvelles constructions dans une grande partie de la ville, et la facture est payée avec des fonds publics."
     },
     "now": {
-     "en": "The bill now tops $177 million, up about 90% since February 2025. The mayor says the project is on schedule but does not rule out more overruns.",
-     "fr": "La facture dépasse maintenant 177 millions $, en hausse d’environ 90 % depuis février 2025. Le maire assure que le projet respecte les délais, sans écarter d’autres dépassements."
+     "en": "The bill now tops $177 million, up about 90% since February 2025. The mayor says the project is on schedule but does not rule out more overruns. Developers’ lawsuits over the construction moratorium now exceed $53 million.",
+     "fr": "La facture dépasse maintenant 177 millions $, en hausse d’environ 90 % depuis février 2025. Le maire assure que le projet respecte les délais, sans écarter d’autres dépassements. Les poursuites de promoteurs liées au moratoire sur la construction dépassent maintenant 53 millions $."
     }
    }
   },

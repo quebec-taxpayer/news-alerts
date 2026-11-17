@@ -2909,6 +2909,62 @@
    "aliases": [
     "Val-d’Or Indigenous Friendship Centre"
    ]
+  },
+  "mathieu-levesque": {
+   "name": "Mathieu Lévesque",
+   "type": "person",
+   "aliases": []
+  },
+  "john-hogan": {
+   "name": "John Hogan",
+   "type": "person",
+   "aliases": [
+    "Hogan"
+   ]
+  },
+  "serge-allard": {
+   "name": "Serge Allard",
+   "type": "person",
+   "aliases": []
+  },
+  "agnico-eagle": {
+   "name": "Agnico Eagle",
+   "type": "organization",
+   "aliases": []
+  },
+  "amuq": {
+   "name": "Association des médecins d’urgence du Québec",
+   "type": "organization",
+   "aliases": [
+    "AMUQ"
+   ]
+  },
+  "marie-maud-couture": {
+   "name": "Marie-Maud Couture",
+   "type": "person",
+   "aliases": []
+  },
+  "groupe-csb": {
+   "name": "Groupe CSB",
+   "type": "organization",
+   "aliases": []
+  },
+  "ville-trois-rivieres": {
+   "name": "Ville de Trois-Rivières",
+   "type": "organization",
+   "aliases": [
+    "Trois-Rivières"
+   ]
+  },
+  "jacques-bergeron": {
+   "name": "Jacques Bergeron",
+   "type": "person",
+   "aliases": []
+  },
+  "jean-francois-aubin": {
+   "name": "Jean-François Aubin",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -6028,6 +6084,117 @@
    "dossiers": [
     "mtq-infrastructure"
    ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/17/fiasco-saaqclic--loulou--bannie-des-contrats-publics-pour-cinq-ans",
+   "entities": [
+    "amp",
+    "saaq",
+    "commission-gallant",
+    "lgs"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "saaqclic"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php",
+   "entities": [
+    "pq",
+    "pspp",
+    "tat",
+    "csn",
+    "mathieu-lebrun",
+    "caq"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique",
+   "entities": [
+    "caq",
+    "qs",
+    "pq",
+    "plq",
+    "pcq",
+    "assemblee-nationale",
+    "mathieu-levesque"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham",
+   "entities": [
+    "tony-wakeham",
+    "stephane-paquet",
+    "john-hogan",
+    "pspp",
+    "hydro-quebec"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301177/energir-gaz-naturel-pipeline-mines",
+   "entities": [
+    "energir",
+    "serge-allard",
+    "agnico-eagle",
+    "regie-energie"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/17/obliges-de-se-brancher-chez-le-voisin-en-attendant-hydro",
+   "entities": [
+    "hydro-quebec",
+    "bell-canada"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/17/une-dizaine-de-patients-liberes-trop-vites-par-lhopital-sont-decedes",
+   "entities": [
+    "amuq",
+    "marie-maud-couture"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301126/incendie-prison-trois-rivieres-drone",
+   "entities": [
+    "msi"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301110/moratoire-logement-poursuite-levis",
+   "entities": [
+    "ville-levis",
+    "groupe-csb",
+    "gilles-lehouillier",
+    "steven-blaney"
+   ],
+   "dossiers": [
+    "levis-wastewater"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301137/verificateur-general-60-mille-conseil-trois-rivieres",
+   "entities": [
+    "ville-trois-rivieres",
+    "jacques-bergeron",
+    "jean-francois-aubin"
+   ],
+   "dossiers": []
   }
  ]
 }

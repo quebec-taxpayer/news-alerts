@@ -1303,6 +1303,56 @@
    "category": "finances",
    "importance": 2,
    "title_en": "Tired of waiting for the A-20, Saint-Simon calls for a bypass"
+  },
+  "https://www.tvanouvelles.ca/2026/11/17/fiasco-saaqclic--loulou--bannie-des-contrats-publics-pour-cinq-ans": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "SAAQclic fiasco: “Loulou” banned from public contracts for five years"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Limited right to strike – St-Pierre Plamondon questions a CAQ law"
+  },
+  "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "The CAQ backs QS’s request to be recognized as a parliamentary group"
+  },
+  "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham": {
+   "category": "energy",
+   "importance": 4,
+   "title_en": "Churchill Falls: Quebec has not asked to renegotiate the agreement, says Wakeham"
+  },
+  "https://ici.radio-canada.ca/article/info/2301177/energir-gaz-naturel-pipeline-mines": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Énergir pauses all new natural gas connections in Abitibi"
+  },
+  "https://www.tvanouvelles.ca/2026/11/17/obliges-de-se-brancher-chez-le-voisin-en-attendant-hydro": {
+   "category": "energy",
+   "importance": 2,
+   "title_en": "Forced to plug into the neighbour’s power while waiting for Hydro"
+  },
+  "https://www.tvanouvelles.ca/2026/11/17/une-dizaine-de-patients-liberes-trop-vites-par-lhopital-sont-decedes": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "About ten patients released too soon by hospitals have died"
+  },
+  "https://ici.radio-canada.ca/article/info/2301126/incendie-prison-trois-rivieres-drone": {
+   "category": "justice",
+   "importance": 2,
+   "title_en": "Nearly a thousand drone deliveries into prisons in five years"
+  },
+  "https://ici.radio-canada.ca/article/info/2301110/moratoire-logement-poursuite-levis": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Construction moratorium: a company claims $21M more from the City of Lévis"
+  },
+  "https://ici.radio-canada.ca/article/info/2301137/verificateur-general-60-mille-conseil-trois-rivieres": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "The auditor general asks the City of Trois-Rivières for $60,000"
   }
  }
 }
