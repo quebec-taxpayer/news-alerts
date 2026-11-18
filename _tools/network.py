@@ -22,6 +22,21 @@ ART = os.environ.get("ARTICLES_DIR", os.path.join(SRC, "articles"))
 SPEC = json.load(open(os.path.join(HERE, "network_entities.json"), encoding="utf-8"))
 ENT = SPEC["entities"]
 
+def published_headlines():
+    """Editorial headline from the published digest post, keyed by story URL.
+
+    network.py otherwise takes the headline from SRC/YYYY-MM-DD.txt (the "as published"
+    line). After a later editorial paraphrase, the post is the source of truth for the
+    internal index, so a nickname removed from the post is not re-pulled from SRC.
+    """
+    out = {}
+    for path in glob.glob(os.path.join(ROOT, "_posts", "*-digest.md")):
+        text = open(path, encoding="utf-8").read()
+        fm = text.split("---", 2)[1] if text.startswith("---") and text.count("---") >= 2 else text
+        for m in re.finditer(r'"url": "(https?://[^"]+)", "headline": "((?:\\.|[^"\\])*)"', fm):
+            out[m.group(1)] = m.group(2)
+    return out
+
 def norm(s):
     s = s.replace("’", "'").replace("\u00a0", " ")
     return " ".join(s.split())
@@ -40,12 +55,16 @@ def main():
     days = sorted(os.path.basename(p)[:10] for p in glob.glob(os.path.join(ROOT, "_posts", "*-digest.md")))
     days = [d for d in days if os.path.exists(f"{SRC}/{d}.txt")]
     arts = article_texts(); warnings = []; stories = []; used_matches = set()
+    post_headlines = published_headlines()
     for day in days:
         issues = []; _, sections = gen.parse(day, issues)
         y, m, dd = day.split("-"); post = f"/{y}/{m}/{dd}/digest/"
         for sec in sections:
             for st in sec["stories"]:
-                url = st["url"] or ""; own = norm(" ".join([st["headline"], st["fr"] or "", st["en"] or ""]))
+                url = st["url"] or ""
+                if url in post_headlines:
+                    st["headline"] = post_headlines[url]
+                own = norm(" ".join([st["headline"], st["fr"] or "", st["en"] or ""]))
                 cur = [s for s in SPEC["stories"] if s["match"] in url]
                 if len(cur) > 1: warnings.append(f"AMBIGUOUS match for {url}")
                 if cur:
