@@ -1353,6 +1353,56 @@
    "category": "government",
    "importance": 3,
    "title_en": "The auditor general asks the City of Trois-Rivières for $60,000"
+  },
+  "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "The Quebec Infrastructure Plan is short $65 billion, says minister Nicolas Marceau"
+  },
+  "https://ici.radio-canada.ca/article/info/2301416/tramway-gatineau-rapport-infra-mobilite-quebec": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Gatineau tramway: publication of the MIQ report may have to wait"
+  },
+  "https://www.journaldemontreal.com/2026/12/25/une-fontaine-historique-du-parc-olympique-enterree-apres-800-000-de-travaux": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Historic Olympic Park fountain buried after $800,000 in work"
+  },
+  "https://www.tvanouvelles.ca/2026/11/18/plus-de-la-moitie-des-clients-dhydro-doivent-changer-leur-mot-de-passe": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "More than 60% of Hydro customers must change their password"
+  },
+  "https://ici.radio-canada.ca/article/info/2301345/chu-quebec-reduction-imagerie-medicale": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "CHU de Québec cuts its medical imaging exams by half"
+  },
+  "https://ici.radio-canada.ca/article/info/2301427/sante-quebec-change-vocabulaire-plaire-pq": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Threatened by the PQ, Santé Québec adopts more nationalist vocabulary"
+  },
+  "https://ici.radio-canada.ca/article/info/2301257/hopital-chandler-sante-quebec-procedures-judiciaires": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "All of the Chandler hospital’s cladding will be replaced"
+  },
+  "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382": {
+   "category": "government",
+   "importance": 2,
+   "title_fr": "Québec solidaire affirme que les autres partis veulent l’« annuler » et jouent dur sur son statut officiel"
+  },
+  "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Bill 21 challenge: Ottawa spent about $3.45 million in legal costs"
+  },
+  "https://ici.radio-canada.ca/article/autochtones/2301385/intervention-mortelle-salluit-aucune-accusation-police-nunavik": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "Fatal intervention in Salluit: no charges against the officers involved"
   }
  }
 }

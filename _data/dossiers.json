@@ -477,6 +477,17 @@
      "source_type": "media",
      "post": "2026-11-17",
      "background": false
+    },
+    {
+     "date": "2026-11-18",
+     "en": "Le Journal de Montréal reports that more than 2,500 Customer Space accounts were accessed without authorization on Oct. 20 and that 1.7 million of Hydro-Québec’s 2.8 million customers must now adopt a stronger password; Hydro-Québec says its internal systems were not compromised.",
+     "fr": "Le Journal de Montréal rapporte que plus de 2500 Espaces clients ont fait l’objet d’un accès non autorisé le 20 octobre et que 1,7 million des 2,8 millions de clients d’Hydro-Québec doivent maintenant adopter un mot de passe plus robuste; Hydro-Québec affirme que ses systèmes internes n’ont pas été compromis.",
+     "source_title": "Plus de 60% des clients d'Hydro doivent changer leur mot de passe",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/18/plus-de-la-moitie-des-clients-dhydro-doivent-changer-leur-mot-de-passe",
+     "source_type": "media",
+     "post": "2026-11-18",
+     "background": false
     }
    ],
    "tldr": {
@@ -489,8 +500,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "A court has approved Hydro-Québec’s purchase of Northvolt’s former land. After four record dry years, Hydro-Québec now buys more electricity than it exports. Quebec’s energy minister wants to rework some clauses of the Churchill Falls deal, but Newfoundland and Labrador’s premier says Quebec has not asked to renegotiate and he will not.",
-     "fr": "Un tribunal a approuvé l’achat par Hydro-Québec de l’ancien terrain de Northvolt. Après quatre années de sécheresse record, Hydro-Québec achète maintenant plus d’électricité qu’elle n’en exporte. Le ministre québécois de l’Énergie veut retravailler certaines clauses de l’entente sur Churchill Falls, mais le premier ministre de Terre-Neuve-et-Labrador dit que Québec ne lui a pas demandé de renégocier et qu’il ne le fera pas."
+     "en": "A court has approved Hydro-Québec’s purchase of Northvolt’s former land. Newfoundland and Labrador’s premier says Quebec has not asked to renegotiate the Churchill Falls deal and he will not. After unauthorized access to customer accounts in October, 1.7 million customers must change their password.",
+     "fr": "Un tribunal a approuvé l’achat par Hydro-Québec de l’ancien terrain de Northvolt. Le premier ministre de Terre-Neuve-et-Labrador dit que Québec ne lui a pas demandé de renégocier l’entente sur Churchill Falls et qu’il ne le fera pas. Après des accès non autorisés à des comptes clients en octobre, 1,7 million de clients doivent changer leur mot de passe."
     }
    }
   },
@@ -1068,7 +1079,8 @@
     "hotel-dieu-levis",
     "fiq-spsca",
     "lime-sante",
-    "pspp"
+    "pspp",
+    "chu-de-quebec"
    ],
    "events": [
     {
@@ -1258,6 +1270,17 @@
      "background": false
     },
     {
+     "date": "2026-11-15",
+     "en": "The CHU de Québec deploys the VIM-VNA digital imaging system and cuts its imaging exams by half during the transition, lengthening appointment waits, Radio-Canada reports; Santé Québec says about 21% of establishments have migrated.",
+     "fr": "Le CHU de Québec déploie le système numérique d’imagerie VIM-VNA et réduit de moitié ses examens d’imagerie pendant la transition, ce qui allonge les délais de rendez-vous, rapporte Radio-Canada; selon Santé Québec, environ 21 % des établissements ont migré.",
+     "source_title": "Le CHU de Québec réduit de moitié ses examens d’imagerie médicale",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301345/chu-quebec-reduction-imagerie-medicale",
+     "source_type": "media",
+     "post": "2026-11-18",
+     "background": false
+    },
+    {
      "date": "2026-11-16",
      "en": "Health Minister Marie-Karlynn Laflamme tells La Presse the government will abolish Santé Québec’s senior management and that it will no longer be a Crown corporation; she gives herself six months to propose a new model and plans consultations before a bill. Radio-Canada confirms the information.",
      "fr": "La ministre de la Santé, Marie-Karlynn Laflamme, indique à La Presse que le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État; elle se donne six mois pour proposer une nouvelle formule et prévoit des consultations avant un projet de loi. Radio-Canada confirme l’information.",
@@ -1266,6 +1289,17 @@
      "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php",
      "source_type": "media",
      "post": "2026-11-16",
+     "background": false
+    },
+    {
+     "date": "2026-11-18",
+     "en": "Radio-Canada reports that an internal memo from Santé Québec’s senior management asks staff to avoid the terms “province” and “provincial”; Santé Québec says it is a suggestion, not an instruction.",
+     "fr": "Radio-Canada rapporte qu’une note interne de la haute direction de Santé Québec demande aux équipes d’éviter les termes « province » et « provincial »; Santé Québec affirme qu’il s’agit d’une proposition et non d’une consigne.",
+     "source_title": "Menacée par le PQ, Santé Québec adopte un vocabulaire plus nationaliste",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301427/sante-quebec-change-vocabulaire-plaire-pq",
+     "source_type": "media",
+     "post": "2026-11-18",
      "background": false
     }
    ],
@@ -1279,8 +1313,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "The government will abolish Santé Québec’s senior management, and the organization will no longer be a Crown corporation, the health minister told La Presse. She is giving herself six months to choose a new model and wants consultations before any bill. In Lévis, Santé Québec has cut palliative care nursing positions but suspended one of the cuts.",
-     "fr": "Le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État, a indiqué la ministre de la Santé à La Presse. Elle se donne six mois pour choisir une nouvelle formule et veut des consultations avant tout projet de loi. À Lévis, Santé Québec a supprimé des postes d’infirmières en soins palliatifs, mais a suspendu l’une des coupes."
+     "en": "The government will abolish Santé Québec’s senior management, and the organization will no longer be a Crown corporation, the health minister told La Presse. Meanwhile, a memo from that management asks staff to avoid the word “province.” In Quebec City, the rollout of a new digital imaging system has cut exams at the CHU de Québec by half.",
+     "fr": "Le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État, a indiqué la ministre de la Santé à La Presse. Entre-temps, une note de cette direction demande aux équipes d’éviter le mot « province ». À Québec, le déploiement d’un nouveau système numérique d’imagerie a réduit de moitié les examens au CHU de Québec."
     }
    }
   },
@@ -1517,7 +1551,8 @@
     "mark-carney",
     "tat",
     "csn",
-    "mathieu-lebrun"
+    "mathieu-lebrun",
+    "vgq"
    ],
    "events": [
     {
@@ -1902,6 +1937,17 @@
      "source_type": "media",
      "post": "2026-11-17",
      "background": false
+    },
+    {
+     "date": "2026-11-17",
+     "en": "Finance Minister Nicolas Marceau says the Quebec Infrastructure Plan (PQI) is $65 billion short and that some projects may be rescheduled or reassessed; he says the PQ’s firm election commitments will not be affected.",
+     "fr": "Le ministre des Finances, Nicolas Marceau, affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures (PQI) et que certains projets pourraient être déplacés dans le temps ou réévalués; il assure que les engagements électoraux fermes du PQ ne seront pas touchés.",
+     "source_title": "Il manque 65 milliards de dollars au PQI, selon le ministre Nicolas Marceau",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau",
+     "source_type": "media",
+     "post": "2026-11-18",
+     "background": false
     }
    ],
    "tldr": {
@@ -1914,8 +1960,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "The government will not defend in court the CAQ’s Bill 14 regime limiting strikes, which a labour tribunal found inoperative in a dispute it heard, and plans a review. Decrees allow five senior public servants to earn above the set salary maximum, Le Devoir reports. Facing a poor satisfaction poll, the premier asks to be judged on his 100-day commitments, including an audit of all state IT projects.",
-     "fr": "Le gouvernement ne défendra pas devant les tribunaux le régime de la loi 14 de la CAQ limitant la grève, jugé inopérant par le Tribunal administratif du travail dans un litige, et prévoit une révision. Des décrets permettent à cinq hauts fonctionnaires de toucher plus que le salaire maximal prévu, rapporte Le Devoir. Devant un sondage de satisfaction défavorable, le premier ministre demande à être jugé sur ses engagements des 100 premiers jours, dont un audit de tous les projets informatiques de l’État."
+     "en": "The finance minister says the Quebec Infrastructure Plan is $65 billion short, so some projects may be delayed or reassessed. The government will not defend in court the CAQ’s Bill 14 regime limiting strikes and plans a review. The premier asks to be judged on his 100-day commitments, including an audit of all state IT projects.",
+     "fr": "Le ministre des Finances affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures; certains projets pourraient donc être retardés ou réévalués. Le gouvernement ne défendra pas devant les tribunaux le régime de la loi 14 de la CAQ limitant la grève et prévoit une révision. Le premier ministre demande à être jugé sur ses engagements des 100 premiers jours, dont un audit de tous les projets informatiques de l’État."
     }
    }
   },
@@ -3579,6 +3625,76 @@
     "now": {
      "en": "The City says the preparatory work is on time and on budget. It must now acquire another downtown building that was not planned at the outset.",
      "fr": "La Ville affirme que les travaux préparatoires respectent les délais et le budget. Elle doit maintenant acquérir un autre immeuble du centre-ville qui n’était pas prévu au départ."
+    }
+   }
+  },
+  {
+   "id": "qs-recognition",
+   "name_en": "Québec solidaire’s recognition in the National Assembly",
+   "name_fr": "Reconnaissance de Québec solidaire à l’Assemblée nationale",
+   "desc_en": "Negotiations on whether Québec solidaire, which does not meet the criteria, will be recognized as a parliamentary group in the National Assembly after the Oct. 5, 2026 election.",
+   "desc_fr": "Les négociations sur la reconnaissance de Québec solidaire, qui ne remplit pas les critères, comme groupe parlementaire à l’Assemblée nationale après l’élection du 5 octobre 2026.",
+   "entities": [
+    "qs",
+    "pq",
+    "plq",
+    "pcq",
+    "caq",
+    "assemblee-nationale",
+    "alexandre-leduc",
+    "catherine-gentilcore",
+    "andre-fortin",
+    "mathieu-levesque",
+    "ruba-ghazal",
+    "eric-duhaime"
+   ],
+   "events": [
+    {
+     "date": "2026-11-13",
+     "en": "Québec solidaire publicly accuses the PQ government of being reluctant to recognize it as a parliamentary group; the government invites it to continue negotiating, The Canadian Press reports.",
+     "fr": "Québec solidaire reproche publiquement au gouvernement péquiste d’être réticent à le reconnaître comme groupe parlementaire; le gouvernement l’invite à poursuivre les négociations, rapporte La Presse canadienne.",
+     "source_title": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement",
+     "source_type": "media",
+     "post": "2026-11-14",
+     "background": false
+    },
+    {
+     "date": "2026-11-16",
+     "en": "The CAQ backs Québec solidaire’s request, citing the PQ’s recognition in 2022 with three members, The Canadian Press reports.",
+     "fr": "La CAQ appuie la demande de Québec solidaire en rappelant la reconnaissance du PQ en 2022 avec trois députés, rapporte La Presse canadienne.",
+     "source_title": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique",
+     "source_type": "media",
+     "post": "2026-11-17",
+     "background": false
+    },
+    {
+     "date": "2026-11-17",
+     "en": "After a second meeting with the other parties, QS parliamentary leader Alexandre Leduc says the offer on the table would cut the party’s operating budget by at least 55% in exchange for recognition, The Canadian Press reports.",
+     "fr": "Après une deuxième rencontre avec les autres partis, le leader parlementaire de QS, Alexandre Leduc, affirme que l’offre sur la table réduirait d’au moins 55 % le budget de fonctionnement du parti en échange de sa reconnaissance, rapporte La Presse canadienne.",
+     "source_title": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382",
+     "source_type": "media",
+     "post": "2026-11-18",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "Québec solidaire won nine seats in the October 2026 election. That is not enough to be recognized as a parliamentary group, which requires 12 members or 20% of the vote.",
+     "fr": "Québec solidaire a fait élire neuf députés à l’élection d’octobre 2026. C’est trop peu pour être reconnu comme groupe parlementaire, ce qui exige 12 élus ou 20 % du vote."
+    },
+    "why": {
+     "en": "Recognition brings more speaking time and research budgets, so it shapes how well a party can do its work in the National Assembly.",
+     "fr": "La reconnaissance donne plus de temps de parole et des budgets de recherche; elle influence donc la capacité d’un parti à faire son travail à l’Assemblée nationale."
+    },
+    "now": {
+     "en": "The parties are negotiating. Québec solidaire says the offer on the table would cut its operating budget by at least 55%, which it rejects. Another meeting is scheduled.",
+     "fr": "Les partis négocient. Québec solidaire affirme que l’offre sur la table réduirait d’au moins 55 % son budget de fonctionnement, ce qu’il refuse. Une autre rencontre est prévue."
     }
    }
   }

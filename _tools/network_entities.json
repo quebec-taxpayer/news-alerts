@@ -2965,6 +2965,89 @@
    "name": "Jean-François Aubin",
    "type": "person",
    "aliases": []
+  },
+  "vgq": {
+   "name": "Vérificateur général du Québec",
+   "type": "organization",
+   "aliases": [
+    "Vérificateur général",
+    "Auditor General"
+   ]
+  },
+  "mobilite-infra-quebec": {
+   "name": "Mobilité Infra Québec",
+   "type": "organization",
+   "aliases": [
+    "MIQ"
+   ]
+  },
+  "renee-amilcar": {
+   "name": "Renée Amilcar",
+   "type": "person",
+   "aliases": [
+    "Amilcar"
+   ]
+  },
+  "maude-marquis-bissonnette": {
+   "name": "Maude Marquis-Bissonnette",
+   "type": "person",
+   "aliases": []
+  },
+  "ville-de-gatineau": {
+   "name": "Ville de Gatineau",
+   "type": "organization",
+   "aliases": [
+    "City of Gatineau"
+   ]
+  },
+  "heritage-montreal": {
+   "name": "Héritage Montréal",
+   "type": "organization",
+   "aliases": []
+  },
+  "sante-quebec-gaspesie": {
+   "name": "Santé Québec Gaspésie",
+   "type": "organization",
+   "aliases": [
+    "CISSS de la Gaspésie"
+   ]
+  },
+  "justice-canada": {
+   "name": "Ministère de la Justice du Canada",
+   "type": "organization",
+   "aliases": [
+    "Justice Department"
+   ]
+  },
+  "rheal-fortin": {
+   "name": "Rhéal Fortin",
+   "type": "person",
+   "aliases": []
+  },
+  "sean-fraser": {
+   "name": "Sean Fraser",
+   "type": "person",
+   "aliases": []
+  },
+  "cour-supreme-canada": {
+   "name": "Cour suprême du Canada",
+   "type": "organization",
+   "aliases": [
+    "Cour suprême",
+    "Supreme Court"
+   ]
+  },
+  "makivvik": {
+   "name": "Makivvik",
+   "type": "organization",
+   "aliases": []
+  },
+  "service-police-nunavik": {
+   "name": "Service de police du Nunavik",
+   "type": "organization",
+   "aliases": [
+    "Nunavik Police Service"
+   ]
   }
  },
  "stories": [
@@ -5827,7 +5910,9 @@
     "pcq",
     "assemblee-nationale"
    ],
-   "dossiers": []
+   "dossiers": [
+    "qs-recognition"
+   ]
   },
   {
    "match": "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php",
@@ -6123,7 +6208,9 @@
     "assemblee-nationale",
     "mathieu-levesque"
    ],
-   "dossiers": []
+   "dossiers": [
+    "qs-recognition"
+   ]
   },
   {
    "match": "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham",
@@ -6193,6 +6280,121 @@
     "ville-trois-rivieres",
     "jacques-bergeron",
     "jean-francois-aubin"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau",
+   "entities": [
+    "nicolas-marceau",
+    "pq",
+    "vgq",
+    "pspp",
+    "caq"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301416/tramway-gatineau-rapport-infra-mobilite-quebec",
+   "entities": [
+    "mobilite-infra-quebec",
+    "renee-amilcar",
+    "maude-marquis-bissonnette",
+    "ville-de-gatineau",
+    "caq",
+    "mark-carney"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/12/25/une-fontaine-historique-du-parc-olympique-enterree-apres-800-000-de-travaux",
+   "entities": [
+    "parc-olympique",
+    "heritage-montreal"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/18/plus-de-la-moitie-des-clients-dhydro-doivent-changer-leur-mot-de-passe",
+   "entities": [
+    "hydro-quebec"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301345/chu-quebec-reduction-imagerie-medicale",
+   "entities": [
+    "chu-de-quebec",
+    "sante-quebec"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301427/sante-quebec-change-vocabulaire-plaire-pq",
+   "entities": [
+    "sante-quebec",
+    "pq",
+    "genevieve-biron",
+    "pspp"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301257/hopital-chandler-sante-quebec-procedures-judiciaires",
+   "entities": [
+    "sante-quebec-gaspesie"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382",
+   "entities": [
+    "qs",
+    "pq",
+    "plq",
+    "pcq",
+    "caq",
+    "alexandre-leduc",
+    "ruba-ghazal",
+    "catherine-gentilcore",
+    "andre-fortin",
+    "eric-duhaime",
+    "assemblee-nationale"
+   ],
+   "dossiers": [
+    "qs-recognition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada",
+   "entities": [
+    "justice-canada",
+    "bloc-quebecois",
+    "rheal-fortin",
+    "yves-francois-blanchet",
+    "sean-fraser",
+    "cour-supreme-canada",
+    "francois-legault"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/autochtones/2301385/intervention-mortelle-salluit-aucune-accusation-police-nunavik",
+   "entities": [
+    "dpcp",
+    "bei",
+    "service-police-nunavik",
+    "makivvik"
    ],
    "dossiers": []
   }

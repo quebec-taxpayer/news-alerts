@@ -63,7 +63,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-14": ["crown-corporations"],
  "2026-11-15": ["procurement"],
  "2026-11-16": ["crown-corporations", "procurement"],
- "2026-11-17": ["crown-corporations", "procurement"]}
+ "2026-11-17": ["crown-corporations", "procurement"],
+ "2026-11-18": ["it-digital", "crown-corporations"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -121,7 +122,9 @@ SUMMARY = {
  "2026-11-16": ("La haute direction de Santé Québec sera abolie; la SQI lance un appel d’offres pour réaménager l’édifice Marie-Guyart; l’élection à la tête de l’OIF reportée d’un an; trois nominations au PCQ; les mines profitent surtout à des actionnaires étrangers, selon l’IRIS; Québecor veut acheter Telus; action collective autorisée contre la SQ à Val-d’Or; des étudiants dénoncent la violence policière; Projet Montréal veut un élu responsable de la lutte contre le racisme; Saint-Simon réclame une voie de contournement.",
                 "Santé Québec’s senior management will be abolished; the SQI tenders a redesign of the Marie-Guyart building; the OIF leadership election is postponed by a year; three PCQ appointments; mines mostly benefit foreign shareholders, says IRIS; Quebecor wants to buy Telus; class action authorized against the SQ in Val-d’Or; students denounce police violence; Projet Montréal wants an elected official responsible for fighting racism; Saint-Simon calls for a bypass."),
  "2026-11-17": ("L’AMP exclut des contrats publics la firme d’une consultante liée à SAAQclic; le PQ ne défendra pas le régime de la loi 14 limitant la grève; la CAQ appuie la reconnaissance de QS; Terre-Neuve dit que Québec n’a pas demandé de renégocier Churchill Falls; Énergir suspend les nouveaux branchements au gaz en Abitibi; une famille de Mascouche attend son raccordement à Hydro-Québec; des patients renvoyés trop vite de l’hôpital sont morts; près de mille livraisons par drone en prison; un promoteur réclame 21 M$ de plus à Lévis; le vérificateur municipal de Trois-Rivières demande 60 000 $.",
-                "The AMP bars the firm of a SAAQclic-linked consultant from public contracts; the PQ will not defend Bill 14’s strike-limiting regime; the CAQ backs recognition for QS; Newfoundland says Quebec has not asked to renegotiate Churchill Falls; Énergir pauses new gas connections in Abitibi; a Mascouche family waits for its Hydro-Québec connection; patients sent home too soon from hospital have died; nearly a thousand drone deliveries into prisons; a developer claims $21M more from Lévis; Trois-Rivières’ municipal auditor asks for $60,000.")
+                "The AMP bars the firm of a SAAQclic-linked consultant from public contracts; the PQ will not defend Bill 14’s strike-limiting regime; the CAQ backs recognition for QS; Newfoundland says Quebec has not asked to renegotiate Churchill Falls; Énergir pauses new gas connections in Abitibi; a Mascouche family waits for its Hydro-Québec connection; patients sent home too soon from hospital have died; nearly a thousand drone deliveries into prisons; a developer claims $21M more from Lévis; Trois-Rivières’ municipal auditor asks for $60,000."),
+ "2026-11-18": ("Il manque 65 milliards $ au Plan québécois des infrastructures, selon le ministre Marceau; le Parc olympique a remblayé une fontaine réparée pour 810 000 $; le CHU de Québec réduit de moitié ses examens d’imagerie pour un nouveau système numérique; 1,7 million de clients d’Hydro-Québec doivent changer leur mot de passe.",
+                "The Quebec Infrastructure Plan is $65 billion short, says minister Marceau; the Olympic Park filled in a fountain repaired for $810,000; the CHU de Québec halves imaging exams for a new digital system; 1.7 million Hydro-Québec customers must change their password."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {
