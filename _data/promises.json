@@ -282,6 +282,32 @@
    "status_source_outlet": "La Presse",
    "status_source_url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php",
    "status_source_date": "2026-11-17"
+  },
+  {
+   "id": "pq-limit-daycare-fees",
+   "dossier": "pq-transition",
+   "type": "outcome",
+   "status": "promised",
+   "item_en": "Limit the subsidized daycare fee increase set for Jan. 1, 2027",
+   "item_fr": "Limiter la hausse des tarifs des garderies subventionnées prévue le 1er janvier 2027",
+   "announced_en": "Family Minister Méganne Perry Mélançon says the government will be able to “greatly limit” the increase from $9.65 to $10.60 a day; the premier says it was not an election promise",
+   "announced_fr": "La ministre de la Famille, Méganne Perry Mélançon, affirme que le gouvernement pourra « limiter grandement » la hausse de 9,65 $ à 10,60 $ par jour; le premier ministre précise que ce n’était pas une promesse électorale",
+   "announced_source_title": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+   "announced_source_outlet": "Radio-Canada",
+   "announced_source_url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse",
+   "actual_en": "No cap or method announced yet; the minister says the formula will be revealed in the coming days, once it is official",
+   "actual_fr": "Aucun plafond ni moyen annoncé pour l’instant; la ministre dit que la formule sera révélée dans les prochains jours, une fois officialisée",
+   "actual_source_title": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+   "actual_source_outlet": "Radio-Canada",
+   "actual_source_url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse",
+   "actual_date": "2026-11-18",
+   "updated": "2026-11-18",
+   "status_evidence_en": "The government has announced its intention, but the minister would not say how much the increase will be capped or how; no regulation or other concrete step has been made public yet.",
+   "status_evidence_fr": "Le gouvernement a annoncé son intention, mais la ministre n’a pas voulu dire à combien la hausse sera plafonnée ni comment; aucun règlement ni autre étape concrète n’a encore été rendu public.",
+   "status_source_title": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+   "status_source_outlet": "Radio-Canada",
+   "status_source_url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse",
+   "status_source_date": "2026-11-18"
   }
  ]
 }

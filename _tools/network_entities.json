@@ -3048,6 +3048,63 @@
    "aliases": [
     "Nunavik Police Service"
    ]
+  },
+  "meganne-perry-melancon": {
+   "name": "Méganne Perry Mélançon",
+   "type": "person",
+   "aliases": [
+    "Perry Mélançon"
+   ]
+  },
+  "csq": {
+   "name": "Centrale des syndicats du Québec",
+   "type": "organization",
+   "aliases": [
+    "CSQ"
+   ]
+  },
+  "ville-de-dorval": {
+   "name": "Cité de Dorval",
+   "type": "organization",
+   "aliases": [
+    "Ville de Dorval",
+    "Dorval"
+   ]
+  },
+  "cqde": {
+   "name": "Centre québécois du droit de l’environnement",
+   "type": "organization",
+   "aliases": [
+    "CQDE"
+   ]
+  },
+  "boisaco": {
+   "name": "Boisaco",
+   "type": "organization",
+   "aliases": []
+  },
+  "dna-capital": {
+   "name": "DNA Capital",
+   "type": "organization",
+   "aliases": [
+    "Partenaires DNA",
+    "Conseillers DNA"
+   ]
+  },
+  "big-montreal": {
+   "name": "Bureau de l’inspecteur général de la Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "inspector general",
+    "inspecteur général"
+   ]
+  },
+  "ftq": {
+   "name": "Fédération des travailleurs et travailleuses du Québec",
+   "type": "organization",
+   "aliases": [
+    "FTQ"
+   ]
   }
  },
  "stories": [
@@ -3749,7 +3806,9 @@
     "tat"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "controle-routier"
+   ]
   },
   {
    "match": "la-saq-annonce-une-vente-exceptionnelle-de-vins-americains",
@@ -6041,7 +6100,9 @@
     "natalie-bisaillon",
     "unifor"
    ],
-   "dossiers": []
+   "dossiers": [
+    "domtar-outardes"
+   ]
   },
   {
    "match": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante",
@@ -6397,6 +6458,129 @@
     "makivvik"
    ],
    "dossiers": []
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon",
+   "entities": [
+    "hydro-quebec",
+    "david-bahan",
+    "pierre-fitzgibbon",
+    "stephane-paquet"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-18/monteregie/les-controleurs-routiers-commencent-a-patrouiller-armes-sur-les-routes.php",
+   "entities": [
+    "saaq",
+    "fccrq",
+    "cnesst",
+    "tat"
+   ],
+   "dossiers": [
+    "controle-routier"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php",
+   "entities": [
+    "joel-arseneau",
+    "francois-legault",
+    "nicolas-marceau",
+    "pq"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse",
+   "entities": [
+    "meganne-perry-melancon",
+    "pspp",
+    "pq",
+    "caq",
+    "qs",
+    "csq",
+    "eric-girard",
+    "nicolas-marceau"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php",
+   "entities": [
+    "mtmd",
+    "ville-de-dorval",
+    "ville-montreal"
+   ],
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/complexe-sportif-claude-robillard-locker-room-issues-9.7427080",
+   "entities": [
+    "ville-montreal",
+    "big-montreal"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots",
+   "entities": [
+    "pierre-fitzgibbon",
+    "dna-capital",
+    "investissement-quebec",
+    "francois-legault"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement",
+   "entities": [
+    "cqde",
+    "jean-pellerin",
+    "pq",
+    "pspp",
+    "cour-superieure"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur",
+   "entities": [
+    "eric-duhaime",
+    "pcq",
+    "qs",
+    "pq",
+    "caq",
+    "alexandre-leduc",
+    "catherine-gentilcore",
+    "ftq",
+    "assemblee-nationale"
+   ],
+   "dossiers": [
+    "qs-recognition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere",
+   "entities": [
+    "domtar",
+    "boisaco",
+    "natalie-bisaillon",
+    "unifor"
+   ],
+   "dossiers": [
+    "domtar-outardes"
+   ]
   }
  ]
 }

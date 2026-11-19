@@ -1403,6 +1403,56 @@
    "category": "justice",
    "importance": 3,
    "title_en": "Fatal intervention in Salluit: no charges against the officers involved"
+  },
+  "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "Hydro-Québec creates a tailor-made position for Fitzgibbon’s former deputy minister"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-18/monteregie/les-controleurs-routiers-commencent-a-patrouiller-armes-sur-les-routes.php": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Montérégie – Road controllers begin patrolling the roads armed"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "$65-billion infrastructure gap – Quebec announces the end of Legault’s “beautiful schools”"
+  },
+  "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Quebec will limit the planned fee increase in subsidized daycares"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Repair of a Highway 520 bridge – Quebec claims seven million from Dorval"
+  },
+  "https://www.cbc.ca/news/canada/montreal/complexe-sportif-claude-robillard-locker-room-issues-9.7427080": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_fr": "Le vestiaire du complexe sportif olympique de Montréal « tombe en ruine » quelques mois après sa rénovation"
+  },
+  "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "What did this taxpayer-funded fund invest in?"
+  },
+  "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Citizens challenge the rollback of Quebec’s climate target in court"
+  },
+  "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Éric Duhaime accuses QS of shedding “crocodile tears”"
+  },
+  "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "The Outardes sawmill faces a deadlock"
   }
  }
 }
