@@ -3105,6 +3105,90 @@
    "aliases": [
     "FTQ"
    ]
+  },
+  "genevieve-guilbault": {
+   "name": "Geneviève Guilbault",
+   "type": "person",
+   "aliases": [
+    "Guilbault"
+   ]
+  },
+  "jean-francois-bergeron-lq": {
+   "name": "Jean-François Bergeron",
+   "type": "person",
+   "aliases": []
+  },
+  "scf-gaspesie": {
+   "name": "Société du chemin de fer de la Gaspésie",
+   "type": "organization",
+   "aliases": [
+    "Société de chemin de fer de la Gaspésie"
+   ]
+  },
+  "eric-dube-scfg": {
+   "name": "Éric Dubé",
+   "type": "person",
+   "aliases": []
+  },
+  "daniel-cote": {
+   "name": "Daniel Côté",
+   "type": "person",
+   "aliases": []
+  },
+  "pier-luc-bujold": {
+   "name": "Pier-Luc Bujold",
+   "type": "person",
+   "aliases": []
+  },
+  "scfp": {
+   "name": "Syndicat canadien de la fonction publique",
+   "type": "organization",
+   "aliases": [
+    "SCFP",
+    "CUPE"
+   ]
+  },
+  "caroline-senneville": {
+   "name": "Caroline Senneville",
+   "type": "person",
+   "aliases": []
+  },
+  "marc-alexandre-brousseau": {
+   "name": "Marc-Alexandre Brousseau",
+   "type": "person",
+   "aliases": []
+  },
+  "renaud-labrecque": {
+   "name": "Renaud Labrecque",
+   "type": "person",
+   "aliases": []
+  },
+  "commissaire-ethique-an": {
+   "name": "Commissaire à l’éthique et à la déontologie de l’Assemblée nationale",
+   "type": "organization",
+   "aliases": [
+    "Commissaire à l’éthique"
+   ]
+  },
+  "chantal-gagnon": {
+   "name": "Chantal Gagnon",
+   "type": "person",
+   "aliases": []
+  },
+  "isabelle-lefebvre-levis": {
+   "name": "Isabelle Lefebvre",
+   "type": "person",
+   "aliases": []
+  },
+  "repensons-levis": {
+   "name": "Repensons Lévis",
+   "type": "organization",
+   "aliases": []
+  },
+  "steeve-st-gelais": {
+   "name": "Steeve St-Gelais",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -6577,6 +6661,121 @@
     "boisaco",
     "natalie-bisaillon",
     "unifor"
+   ],
+   "dossiers": [
+    "domtar-outardes"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+   "entities": [
+    "stq",
+    "bruno-verreault",
+    "genevieve-guilbault"
+   ],
+   "dossiers": [
+    "stq-isle-aux-coudres"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027",
+   "entities": [
+    "loto-quebec",
+    "jean-francois-bergeron-lq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq",
+   "entities": [
+    "mtmd",
+    "scf-gaspesie",
+    "eric-dube-scfg",
+    "daniel-cote",
+    "pier-luc-bujold",
+    "meganne-perry-melancon",
+    "nicolas-marceau"
+   ],
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/19/une-centaine-de-postes-sera-abolie-a-la-stm",
+   "entities": [
+    "stm",
+    "scfp"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec",
+   "entities": [
+    "sante-quebec",
+    "scfp",
+    "csn",
+    "caroline-senneville",
+    "apts",
+    "spgq"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301671/psychiatrie-hopital-thetford-mines-fermeture",
+   "entities": [
+    "sante-quebec",
+    "marc-alexandre-brousseau",
+    "renaud-labrecque",
+    "pcq"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php",
+   "entities": [
+    "commissaire-ethique-an",
+    "ariane-mignolet",
+    "charles-milliard",
+    "assemblee-nationale",
+    "pq",
+    "pcq",
+    "qs"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/hausse-importante-de-taxes-denoncee/une-mairesse-d-arrondissement-quitte-le-caucus-de-soraya-martinez-ferrada.php",
+   "entities": [
+    "chantal-gagnon",
+    "ensemble-montreal",
+    "soraya-martinez-ferrada"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301928/poursuites-promoteurs-elus-ville-levis",
+   "entities": [
+    "ville-levis",
+    "steven-blaney",
+    "isabelle-lefebvre-levis",
+    "repensons-levis"
+   ],
+   "dossiers": [
+    "levis-wastewater"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture",
+   "entities": [
+    "boisaco",
+    "domtar",
+    "steeve-st-gelais"
    ],
    "dossiers": [
     "domtar-outardes"

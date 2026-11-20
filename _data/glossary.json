@@ -449,6 +449,24 @@
     "décret",
     "décrets"
    ]
+  },
+  {
+   "id": "pqi",
+   "term_en": "Quebec Infrastructure Plan (PQI)",
+   "term_fr": "Plan québécois des infrastructures (PQI)",
+   "def_en": "The Quebec government’s 10-year plan for public investment in infrastructure. It is meant to ensure public money is invested in line with the priorities and investment limits set by the government.",
+   "def_fr": "L’outil du gouvernement du Québec pour planifier sur 10 ans les investissements publics en infrastructures. Il vise à investir les fonds publics conformément aux priorités et aux limites d’investissement fixées par le gouvernement.",
+   "source_en": "https://www.quebec.ca/gouvernement/infrastructures-publiques/a-propos",
+   "source_fr": "https://www.quebec.ca/gouvernement/infrastructures-publiques/a-propos",
+   "source_label": "Gouvernement du Québec – À propos des infrastructures publiques",
+   "match_en": [
+    "Quebec Infrastructure Plan",
+    "PQI"
+   ],
+   "match_fr": [
+    "Plan québécois des infrastructures",
+    "PQI"
+   ]
   }
  ]
 }

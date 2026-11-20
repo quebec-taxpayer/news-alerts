@@ -65,7 +65,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-16": ["crown-corporations", "procurement"],
  "2026-11-17": ["crown-corporations", "procurement"],
  "2026-11-18": ["it-digital", "crown-corporations"],
- "2026-11-19": ["crown-corporations", "procurement"]}
+ "2026-11-19": ["crown-corporations", "procurement"],
+ "2026-11-20": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -128,6 +129,8 @@ SUMMARY = {
                 "The Quebec Infrastructure Plan is $65 billion short, says minister Marceau; the Olympic Park filled in a fountain repaired for $810,000; the CHU de Québec halves imaging exams for a new digital system; 1.7 million Hydro-Québec customers must change their password."),
  "2026-11-19": ("Hydro-Québec crée une vice-présidence pour l’ancien secrétaire général du gouvernement David Bahan; un vestiaire rénové du Complexe Claude-Robillard se dégrade déjà; Québec construira des écoles « à la hauteur de nos moyens »; le gouvernement promet de limiter la hausse des tarifs de garderie.",
                 "Hydro-Québec creates a vice-presidency for former government secretary general David Bahan; a renovated Claude-Robillard locker room is already deteriorating; Quebec will build schools “in line with our means”; the government promises to limit the daycare fee increase."),
+ "2026-11-20": ("Le remplacement de trois traversiers de la STQ coûtera près du double; Loto-Québec prépare deux « minicasinos »; la Gaspésie craint pour son chemin de fer après le trou de 65 milliards $ au PQI; des employés du siège social de Santé Québec veulent se syndiquer; une mairesse d’arrondissement quitte le parti de Soraya Martinez Ferrada.",
+                "Replacing three STQ ferries will cost nearly double; Loto-Québec prepares two “mini-casinos”; the Gaspé region fears for its railway after the $65-billion PQI gap; Santé Québec head-office staff seek to unionize; a borough mayor leaves Soraya Martinez Ferrada’s party."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

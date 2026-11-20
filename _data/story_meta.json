@@ -1453,6 +1453,56 @@
    "category": "energy",
    "importance": 3,
    "title_en": "The Outardes sawmill faces a deadlock"
+  },
+  "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "Replacing three STQ ferries will cost twice as much as planned"
+  },
+  "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Loto-Québec prepares to open “mini-casinos” next year"
+  },
+  "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Will the PQ prioritize repairing the Gaspé railway?"
+  },
+  "https://www.tvanouvelles.ca/2026/11/19/une-centaine-de-postes-sera-abolie-a-la-stm": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "About a hundred positions will be cut at the STM"
+  },
+  "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Hundreds of Santé Québec head-office employees are trying to unionize"
+  },
+  "https://ici.radio-canada.ca/article/info/2301671/psychiatrie-hopital-thetford-mines-fermeture": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "“We are emptying our hospital,” says the mayor of Thetford Mines"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "National Assembly – Not all newly elected MNAs have taken the ethics training"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/hausse-importante-de-taxes-denoncee/une-mairesse-d-arrondissement-quitte-le-caucus-de-soraya-martinez-ferrada.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "“Significant tax increase” denounced – A borough mayor leaves Soraya Martinez Ferrada’s caucus"
+  },
+  "https://ici.radio-canada.ca/article/info/2301928/poursuites-promoteurs-elus-ville-levis": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Developers’ lawsuits: the City of Lévis calls its elected officials to order"
+  },
+  "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "A glimmer of hope for the Outardes sawmill in Baie-Comeau"
   }
  }
 }

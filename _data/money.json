@@ -209,6 +209,27 @@
    "per_fr": "Environ 110 $ par personne au Québec par année",
    "calc_en": "$1 billion ÷ 9,067,114 people = $110.29 each per year",
    "calc_fr": "1 milliard $ ÷ 9 067 114 personnes = 110,29 $ chacun par année"
+  },
+  {
+   "id": "stq-ferries-400m",
+   "dossier": "stq-isle-aux-coudres",
+   "story_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+   "amount": 400000000,
+   "qualifier": "about",
+   "per_year": false,
+   "label_en": "Latest STQ estimate for replacing three ferries (“close to $400 million”), nearly double the $191.5 million announced in 2023",
+   "label_fr": "Dernière estimation de la STQ pour remplacer trois traversiers (« frôlant les 400 millions $ »), près du double des 191,5 M$ annoncés en 2023",
+   "source_title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+   "source_outlet": "Radio-Canada",
+   "source_date": "2026-11-20",
+   "source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+   "per_person_value": 44.1155,
+   "amount_en": "$400 million",
+   "amount_fr": "400 millions $",
+   "per_en": "About $44.12 per person in Quebec",
+   "per_fr": "Environ 44,12 $ par personne au Québec",
+   "calc_en": "$400 million ÷ 9,067,114 people = $44.12 each",
+   "calc_fr": "400 millions $ ÷ 9 067 114 personnes = 44,12 $ chacun"
   }
  ]
 }

@@ -308,6 +308,32 @@
    "status_source_outlet": "Radio-Canada",
    "status_source_url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse",
    "status_source_date": "2026-11-18"
+  },
+  {
+   "id": "stq-ferries-cost",
+   "dossier": "stq-isle-aux-coudres",
+   "type": "cost",
+   "status": "in_progress",
+   "item_en": "STQ: three replacement ferries, announced cost vs latest estimate",
+   "item_fr": "STQ : trois traversiers de remplacement, coût annoncé vs dernière estimation",
+   "announced_en": "$191.5 million for three ferries (two for Sorel-Tracy–Saint-Ignace-de-Loyola, one for L’Isle-aux-Coudres), announced in 2023 by then-transport minister Geneviève Guilbault",
+   "announced_fr": "191,5 M$ pour trois traversiers (deux pour Sorel-Tracy–Saint-Ignace-de-Loyola, un pour L’Isle-aux-Coudres), annoncés en 2023 par l’ex-ministre des Transports Geneviève Guilbault",
+   "announced_source_title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+   "announced_source_outlet": "Radio-Canada",
+   "announced_source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+   "actual_en": "Nearly double, close to $400 million, according to the STQ’s latest estimates; the STQ says the cost could still change",
+   "actual_fr": "Près du double, frôlant les 400 M$, selon les dernières estimations de la STQ, qui prévient que le coût pourrait encore changer",
+   "actual_source_title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+   "actual_source_outlet": "Radio-Canada",
+   "actual_source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+   "actual_date": "2026-11-20",
+   "updated": "2026-11-20",
+   "status_evidence_en": "Money is set aside in the Quebec Infrastructure Plan and the STQ is preparing the business case; the design tender is to be launched in 2027 and no in-service date has been set.",
+   "status_evidence_fr": "Une somme est réservée au Plan québécois des infrastructures et la STQ prépare le dossier d’affaires; l’appel d’offres pour la conception doit être lancé en 2027 et aucune date de mise en service n’est fixée.",
+   "status_source_title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+   "status_source_outlet": "Radio-Canada",
+   "status_source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+   "status_source_date": "2026-11-20"
   }
  ]
 }

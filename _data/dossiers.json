@@ -742,9 +742,21 @@
    "entities": [
     "mtmd",
     "pspp",
-    "caq"
+    "caq",
+    "scf-gaspesie"
    ],
    "events": [
+    {
+     "date": "2025",
+     "en": "The CAQ government moves the rebuilding of the 127 km of railway between Port-Daniel–Gascons and Gaspé back to the planning stage of the PQI, citing large gaps between its cost estimates and the bids received, Radio-Canada reports.",
+     "fr": "Le gouvernement caquiste ramène au stade de planification du PQI la réfection des 127 kilomètres de chemin de fer entre Port-Daniel–Gascons et Gaspé, invoquant d’importants écarts entre ses estimations et les soumissions reçues, rapporte Radio-Canada.",
+     "source_title": "Le PQ priorisera-t-il la réfection du rail gaspésien?",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
+    },
     {
      "date": "2026-03",
      "en": "The asset-maintenance deficit of public bodies’ infrastructure in poor or very poor condition is estimated at $44.8B (figure reported by Radio-Canada).",
@@ -821,6 +833,17 @@
      "source_type": "media",
      "post": "2026-11-19",
      "background": false
+    },
+    {
+     "date": "2026-11-19",
+     "en": "Radio-Canada reports that Gaspé region stakeholders fear the railway repairs to Gaspé will be postponed after the $65-billion PQI shortfall; the transport minister’s office says the projects in the latest PQI are being assessed.",
+     "fr": "Radio-Canada rapporte que des acteurs gaspésiens craignent un report de la réfection du chemin de fer jusqu’à Gaspé après l’annonce du manque de 65 milliards $ au PQI; le cabinet du ministre des Transports dit évaluer les projets du dernier PQI.",
+     "source_title": "Le PQ priorisera-t-il la réfection du rail gaspésien?",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
     }
    ],
    "tldr": {
@@ -833,8 +856,8 @@
      "fr": "Les automobilistes et les usagers du transport en commun dépendent de ces routes et ponts, et les réparations sont payées par les contribuables."
     },
     "now": {
-     "en": "The premier says projects that are not essential will wait. The Louis-H.-La Fontaine tunnel’s bill now nears $2.8 billion, TVA reports. The Transport Ministry is suing Dorval for more than $7 million, a third of the cost of rebuilding a Highway 520 overpass, La Presse reports.",
-     "fr": "Le premier ministre dit que les projets non essentiels attendront. La facture du tunnel Louis-H.-La Fontaine approche maintenant 2,8 milliards $, selon TVA. Le ministère des Transports poursuit Dorval pour plus de 7 millions $, le tiers du coût de reconstruction d’un pont d’étagement de l’autoroute 520, selon La Presse."
+     "en": "The premier says projects that are not essential will wait, and the Transport Ministry is reviewing the projects in the latest PQI. Gaspé region leaders fear the railway repairs to Gaspé will be put off again. The Transport Ministry is also suing Dorval for more than $7 million over a Highway 520 overpass, La Presse reports.",
+     "fr": "Le premier ministre dit que les projets non essentiels attendront, et le ministère des Transports réévalue les projets du dernier PQI. Des acteurs gaspésiens craignent un nouveau report de la réfection du chemin de fer jusqu’à Gaspé. Le ministère poursuit aussi Dorval pour plus de 7 millions $ pour un pont d’étagement de l’autoroute 520, selon La Presse."
     }
    }
   },
@@ -1323,6 +1346,28 @@
      "source_type": "media",
      "post": "2026-11-18",
      "background": false
+    },
+    {
+     "date": "2026-11-19",
+     "en": "Elected officials and doctors in Thetford Mines denounce Santé Québec’s plan to convert the hospital’s psychiatric unit into a mental-health residence on Dec. 18, citing a shortage of psychiatrists, Radio-Canada reports.",
+     "fr": "Des élus et des médecins de Thetford Mines dénoncent le projet de Santé Québec de convertir le 18 décembre l’unité de psychiatrie de l’hôpital en résidence en santé mentale, faute de psychiatres, rapporte Radio-Canada.",
+     "source_title": "« On est en train de vider notre hôpital », dénonce le maire de Thetford Mines",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301671/psychiatrie-hopital-thetford-mines-fermeture",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "Radio-Canada reports that hundreds of Santé Québec head-office employees are trying to unionize, fearing cuts or the abolition promised by the PQ government.",
+     "fr": "Radio-Canada rapporte que des centaines d’employés du siège social de Santé Québec tentent de se syndiquer, par crainte de compressions ou de l’abolition promise par le gouvernement péquiste.",
+     "source_title": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
     }
    ],
    "tldr": {
@@ -1335,8 +1380,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "The government will abolish Santé Québec’s senior management, and the organization will no longer be a Crown corporation, the health minister told La Presse. Meanwhile, a memo from that management asks staff to avoid the word “province.” In Quebec City, the rollout of a new digital imaging system has cut exams at the CHU de Québec by half.",
-     "fr": "Le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État, a indiqué la ministre de la Santé à La Presse. Entre-temps, une note de cette direction demande aux équipes d’éviter le mot « province ». À Québec, le déploiement d’un nouveau système numérique d’imagerie a réduit de moitié les examens au CHU de Québec."
+     "en": "The government will abolish Santé Québec’s senior management, and the organization will no longer be a Crown corporation, the health minister told La Presse. Hundreds of head-office employees are now trying to unionize. In Thetford Mines, the hospital’s psychiatric unit is to become a residence on Dec. 18 for lack of psychiatrists.",
+     "fr": "Le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État, a indiqué la ministre de la Santé à La Presse. Des centaines d’employés du siège social tentent maintenant de se syndiquer. À Thetford Mines, l’unité de psychiatrie de l’hôpital doit devenir une résidence le 18 décembre, faute de psychiatres."
     }
    }
   },
@@ -3256,7 +3301,8 @@
     "noelle-ange-harvey",
     "greta-bedard",
     "nicolas-girard",
-    "croisieres-aml"
+    "croisieres-aml",
+    "genevieve-guilbault"
    ],
    "events": [
     {
@@ -3335,6 +3381,17 @@
      "source_type": "media",
      "post": "2026-11-12",
      "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "The STQ confirms to Radio-Canada that its latest estimates put the replacement of three ferries, including one for L’Isle-aux-Coudres, at nearly double the $191.5 million announced in 2023.",
+     "fr": "La STQ confirme à Radio-Canada que ses dernières estimations placent le remplacement de trois traversiers, dont un pour L’Isle-aux-Coudres, à près du double des 191,5 M$ annoncés en 2023.",
+     "source_title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
     }
    ],
    "tldr": {
@@ -3347,8 +3404,8 @@
      "fr": "Les insulaires dépendent du traversier pour le travail, la nourriture et les soins. La députée locale dit que la panne a révélé des failles du plan d’urgence."
     },
     "now": {
-     "en": "The MV Joseph-Savard is back in service after repeated breakdowns. An expert urges the STQ to rent a back-up ferry, and the municipality wants its state of emergency extended. The transport minister calls the situation unacceptable.",
-     "fr": "Le NM Joseph-Savard est de retour en service après des bris répétés. Un spécialiste presse la STQ de louer un traversier de relève, et la municipalité veut prolonger l’état d’urgence. Le ministre des Transports juge la situation inacceptable."
+     "en": "The MV Joseph-Savard is back in service after repeated breakdowns, and the municipality wants its state of emergency extended. A new ferry is planned for the crossing, but the STQ now says its three replacement vessels will cost nearly double the $191.5 million announced in 2023.",
+     "fr": "Le NM Joseph-Savard est de retour en service après des bris répétés, et la municipalité veut prolonger l’état d’urgence. Un nouveau traversier est prévu pour la traverse, mais la STQ dit maintenant que ses trois navires de remplacement coûteront près du double des 191,5 M$ annoncés en 2023."
     }
    }
   },
@@ -3570,7 +3627,8 @@
     "ville-levis",
     "steven-blaney",
     "groupe-csb",
-    "gilles-lehouillier"
+    "gilles-lehouillier",
+    "repensons-levis"
    ],
    "events": [
     {
@@ -3605,6 +3663,17 @@
      "source_type": "media",
      "post": "2026-11-17",
      "background": false
+    },
+    {
+     "date": "2026-11-18",
+     "en": "According to Radio-Canada’s sources, the Lévis administration reminds council members of their ethical obligations, including loyalty, in the moratorium lawsuits; the opposition says the City has not set aside funds for them.",
+     "fr": "Selon des sources de Radio-Canada, l’administration de Lévis rappelle aux élus leurs obligations déontologiques, dont la loyauté, dans les poursuites liées au moratoire; l’opposition reproche à la Ville de ne pas avoir provisionné de sommes.",
+     "source_title": "Poursuites de promoteurs : la Ville de Lévis rappelle ses élus à l’ordre",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301928/poursuites-promoteurs-elus-ville-levis",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
     }
    ],
    "tldr": {
@@ -3617,8 +3686,8 @@
      "fr": "Tant que les usines ne peuvent pas traiter plus d’eaux usées, un moratoire bloque les nouvelles constructions dans une grande partie de la ville, et la facture est payée avec des fonds publics."
     },
     "now": {
-     "en": "The bill now tops $177 million, up about 90% since February 2025. The mayor says the project is on schedule but does not rule out more overruns. Developers’ lawsuits over the construction moratorium now exceed $53 million.",
-     "fr": "La facture dépasse maintenant 177 millions $, en hausse d’environ 90 % depuis février 2025. Le maire assure que le projet respecte les délais, sans écarter d’autres dépassements. Les poursuites de promoteurs liées au moratoire sur la construction dépassent maintenant 53 millions $."
+     "en": "The bill now tops $177 million, up about 90% since February 2025. Developers’ lawsuits over the construction moratorium exceed $53 million. The opposition says the City has not set aside money for them; the administration has reminded council members of their duty of loyalty, Radio-Canada reports.",
+     "fr": "La facture dépasse maintenant 177 millions $, en hausse d’environ 90 % depuis février 2025. Les poursuites de promoteurs liées au moratoire dépassent 53 millions $. L’opposition reproche à la Ville de ne pas avoir mis d’argent de côté; l’administration a rappelé aux élus leur devoir de loyauté, rapporte Radio-Canada."
     }
    }
   },
@@ -3764,7 +3833,8 @@
     "boisaco",
     "natalie-bisaillon",
     "mrnf",
-    "unifor"
+    "unifor",
+    "steeve-st-gelais"
    ],
    "events": [
     {
@@ -3799,6 +3869,17 @@
      "source_type": "media",
      "post": "2026-11-19",
      "background": false
+    },
+    {
+     "date": "2026-11-19",
+     "en": "Boisaco says it has reached an agreement with Domtar on access to some wood volumes for the Outardes sawmill; Domtar has not confirmed it, and ministerial authorizations are still needed, according to the regional prefect, Radio-Canada reports.",
+     "fr": "Boisaco affirme s’être entendue avec Domtar sur l’accès à certains volumes de bois pour la scierie Outardes; Domtar ne l’a pas confirmé, et des autorisations ministérielles restent nécessaires, selon le préfet régional, rapporte Radio-Canada.",
+     "source_title": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
     }
    ],
    "tldr": {
@@ -3811,8 +3892,8 @@
      "fr": "Quelque 115 personnes y travaillent encore. L’entreprise attendait des autorisations pour couper du bois plus près de la scierie afin de réduire ses coûts."
     },
     "now": {
-     "en": "A meeting on Nov. 18 does not appear to have broken the deadlock over sharing wood, Radio-Canada reports. Unless something changes, sawing stops on Nov. 20. The regional prefect asks the forestry minister to step in.",
-     "fr": "Une rencontre le 18 novembre ne semble pas avoir dénoué l’impasse sur le partage du bois, selon Radio-Canada. Sans changement, le sciage cesse le 20 novembre. Le préfet régional demande à la ministre des Forêts d’intervenir."
+     "en": "Boisaco says it has reached an agreement with Domtar on access to wood closer to the mill, Radio-Canada reports. Domtar has not confirmed it, ministerial authorizations are still needed, and the regional prefect says workers should not expect an immediate return.",
+     "fr": "Boisaco affirme s’être entendue avec Domtar sur l’accès à du bois plus près de la scierie, rapporte Radio-Canada. Domtar ne l’a pas confirmé, des autorisations ministérielles sont encore nécessaires, et le préfet régional dit que les travailleurs ne doivent pas s’attendre à un retour immédiat."
     }
    }
   },
