@@ -467,6 +467,26 @@
     "Plan québécois des infrastructures",
     "PQI"
    ]
+  },
+  {
+   "id": "cmq",
+   "term_en": "Commission municipale du Québec (CMQ)",
+   "term_fr": "Commission municipale du Québec (CMQ)",
+   "def_en": "An independent Quebec body that acts as a tribunal and an administrative body for municipalities. Its administrative judges rule on matters such as the ethics of municipal elected officials, and it also investigates and audits municipalities.",
+   "def_fr": "Organisme québécois indépendant qui agit comme tribunal et comme organisme administratif pour les municipalités. Ses juges administratifs rendent notamment des décisions en éthique et déontologie des élus municipaux, et elle mène aussi des enquêtes et des audits.",
+   "source_en": "https://www.cmq.gouv.qc.ca/fr/la-commission/nos-competences",
+   "source_fr": "https://www.cmq.gouv.qc.ca/fr/la-commission/nos-competences",
+   "source_label": "Commission municipale du Québec – Nos compétences",
+   "match_en": [
+    "Commission municipale du Québec",
+    "Quebec Municipal Commission",
+    "CMQ"
+   ],
+   "match_fr": [
+    "Commission municipale du Québec",
+    "Commission municipale",
+    "CMQ"
+   ]
   }
  ]
 }

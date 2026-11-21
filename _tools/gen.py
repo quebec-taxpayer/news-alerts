@@ -66,7 +66,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-17": ["crown-corporations", "procurement"],
  "2026-11-18": ["it-digital", "crown-corporations"],
  "2026-11-19": ["crown-corporations", "procurement"],
- "2026-11-20": ["crown-corporations", "procurement"]}
+ "2026-11-20": ["crown-corporations", "procurement"],
+ "2026-11-21": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -131,6 +132,8 @@ SUMMARY = {
                 "Hydro-Québec creates a vice-presidency for former government secretary general David Bahan; a renovated Claude-Robillard locker room is already deteriorating; Quebec will build schools “in line with our means”; the government promises to limit the daycare fee increase."),
  "2026-11-20": ("Le remplacement de trois traversiers de la STQ coûtera près du double; Loto-Québec prépare deux « minicasinos »; la Gaspésie craint pour son chemin de fer après le trou de 65 milliards $ au PQI; des employés du siège social de Santé Québec veulent se syndiquer; une mairesse d’arrondissement quitte le parti de Soraya Martinez Ferrada.",
                 "Replacing three STQ ferries will cost nearly double; Loto-Québec prepares two “mini-casinos”; the Gaspé region fears for its railway after the $65-billion PQI gap; Santé Québec head-office staff seek to unionize; a borough mayor leaves Soraya Martinez Ferrada’s party."),
+ "2026-11-21": ("Le gouvernement caquiste savait depuis novembre 2025 que trois traversiers coûteraient plus du double, selon Le Journal; les casinos pèsent de plus en plus dans les revenus de Loto-Québec; Mobilité Infra Québec signe un contrat de gré à gré pour le tramway; la SQ ne protège plus le premier ministre au quotidien.",
+                "The CAQ government knew since November 2025 that three ferries would cost more than double, Le Journal reports; casinos weigh more and more in Loto-Québec’s revenue; Mobilité Infra Québec signs an untendered tramway contract; the SQ no longer protects the premier day to day."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

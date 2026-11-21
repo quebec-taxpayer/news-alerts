@@ -327,13 +327,59 @@
    "actual_source_outlet": "Radio-Canada",
    "actual_source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
    "actual_date": "2026-11-20",
-   "updated": "2026-11-20",
+   "updated": "2026-11-21",
    "status_evidence_en": "Money is set aside in the Quebec Infrastructure Plan and the STQ is preparing the business case; the design tender is to be launched in 2027 and no in-service date has been set.",
    "status_evidence_fr": "Une somme est réservée au Plan québécois des infrastructures et la STQ prépare le dossier d’affaires; l’appel d’offres pour la conception doit être lancé en 2027 et aucune date de mise en service n’est fixée.",
    "status_source_title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
    "status_source_outlet": "Radio-Canada",
    "status_source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
-   "status_source_date": "2026-11-20"
+   "status_source_date": "2026-11-20",
+   "actual_lines": [
+    {
+     "en": "$406.9 million — STQ briefing note to the government dated Nov. 27, 2025, which the CAQ government did not make public, according to Le Journal de Québec",
+     "fr": "406,9 M$ — note d’information de la STQ au gouvernement datée du 27 novembre 2025, que le gouvernement caquiste n’a pas rendue publique, selon Le Journal de Québec",
+     "source_title": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers",
+     "date": "2026-11-20"
+    },
+    {
+     "en": "Nearly double, close to $400 million, according to the STQ’s latest estimates; the STQ says the cost could still change",
+     "fr": "Près du double, frôlant les 400 M$, selon les dernières estimations de la STQ, qui prévient que le coût pourrait encore changer",
+     "source_title": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq",
+     "date": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "pq-bill-101-cegep",
+   "dossier": "pq-transition",
+   "type": "outcome",
+   "status": "promised",
+   "item_en": "Extend Bill 101 to CEGEPs",
+   "item_fr": "Étendre la loi 101 au cégep",
+   "announced_en": "Extend Bill 101 to CEGEPs, vocational training and adult education, except for the historic English-speaking minority, as promised by the PQ during the campaign",
+   "announced_fr": "Étendre la loi 101 aux cégeps, à la formation professionnelle et à l’enseignement aux adultes, sauf pour la minorité historique anglophone, comme le PQ s’y était engagé en campagne",
+   "announced_source_title": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+   "announced_source_outlet": "TVA Nouvelles",
+   "announced_source_url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition",
+   "actual_en": "French Language Minister Pascal Bérubé intends to table a bill in February 2027; the minority government needs at least one opposition party, and all have said they disagree",
+   "actual_fr": "Le ministre de la Langue française, Pascal Bérubé, compte déposer un projet de loi en février 2027; le gouvernement minoritaire a besoin d’au moins un parti d’opposition, et tous ont dit leur désaccord",
+   "actual_source_title": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+   "actual_source_outlet": "TVA Nouvelles",
+   "actual_source_url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition",
+   "actual_date": "2026-11-21",
+   "party_en": "PQ election promise",
+   "party_fr": "Engagement électoral du PQ",
+   "updated": "2026-11-21",
+   "status_evidence_en": "The minister has announced his intention to table a bill in February 2027; no bill has been tabled yet.",
+   "status_evidence_fr": "Le ministre a annoncé son intention de déposer un projet de loi en février 2027; aucun projet de loi n’a encore été déposé.",
+   "status_source_title": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+   "status_source_outlet": "TVA Nouvelles",
+   "status_source_url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition",
+   "status_source_date": "2026-11-21"
   }
  ]
 }

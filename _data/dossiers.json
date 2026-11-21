@@ -1368,6 +1368,17 @@
      "source_type": "media",
      "post": "2026-11-20",
      "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "Santé Québec Chaudière-Appalaches says psychiatric care remains available in Thetford Mines despite the unit’s temporary closure from Dec. 18; only one psychiatrist works there and at least three are needed, Radio-Canada reports.",
+     "fr": "Santé Québec Chaudière-Appalaches assure que les soins psychiatriques restent offerts à Thetford Mines malgré la fermeture temporaire de l’unité dès le 18 décembre; un seul psychiatre y exerce et il en faudrait au moins trois, rapporte Radio-Canada.",
+     "source_title": "L’offre de soins en psychiatrie est au rendez-vous à Thetford Mines, assure Santé Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302184/offre-psychiatrie-thetford-sante-quebec",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
     }
    ],
    "tldr": {
@@ -1380,8 +1391,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "The government will abolish Santé Québec’s senior management, and the organization will no longer be a Crown corporation, the health minister told La Presse. Hundreds of head-office employees are now trying to unionize. In Thetford Mines, the hospital’s psychiatric unit is to become a residence on Dec. 18 for lack of psychiatrists.",
-     "fr": "Le gouvernement abolira la haute direction de Santé Québec, qui ne sera plus une société d’État, a indiqué la ministre de la Santé à La Presse. Des centaines d’employés du siège social tentent maintenant de se syndiquer. À Thetford Mines, l’unité de psychiatrie de l’hôpital doit devenir une résidence le 18 décembre, faute de psychiatres."
+     "en": "The government will abolish Santé Québec’s senior management, and hundreds of head-office employees are trying to unionize. In Thetford Mines, the hospital’s psychiatric unit is to close temporarily on Dec. 18 for lack of psychiatrists; Santé Québec says psychiatric care remains available there.",
+     "fr": "Le gouvernement abolira la haute direction de Santé Québec, et des centaines d’employés du siège social tentent de se syndiquer. À Thetford Mines, l’unité de psychiatrie de l’hôpital doit fermer temporairement le 18 décembre, faute de psychiatres; Santé Québec assure que des soins psychiatriques y restent offerts."
     }
    }
   },
@@ -1619,7 +1630,10 @@
     "tat",
     "csn",
     "mathieu-lebrun",
-    "vgq"
+    "vgq",
+    "pascal-berube",
+    "msi",
+    "surete-quebec"
    ],
    "events": [
     {
@@ -2037,6 +2051,28 @@
      "source_type": "media",
      "post": "2026-11-19",
      "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "The premier’s close protection is moved from the Sûreté du Québec, which had provided it since 1970, to special constables from the Ministry of Internal Security, La Presse and Radio-Canada report.",
+     "fr": "La protection rapprochée du premier ministre passe de la Sûreté du Québec, qui l’assurait depuis 1970, à des constables spéciaux du ministère de la Sécurité intérieure, rapportent La Presse et Radio-Canada.",
+     "source_title": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
+    },
+    {
+     "date": "2026-11-21",
+     "en": "French Language Minister Pascal Bérubé confirms he intends to table a bill in February 2027 extending Bill 101 to CEGEPs, vocational training and adult education, a PQ campaign commitment; all opposition parties have said they disagree, TVA Nouvelles reports.",
+     "fr": "Le ministre de la Langue française, Pascal Bérubé, confirme son intention de déposer en février 2027 un projet de loi étendant la loi 101 aux cégeps, à la formation professionnelle et à l’enseignement aux adultes, un engagement de campagne du PQ; tous les partis d’opposition ont dit leur désaccord, rapporte TVA Nouvelles.",
+     "source_title": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
     }
    ],
    "tldr": {
@@ -2049,8 +2085,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "The finance minister says the Quebec Infrastructure Plan is $65 billion short; the education minister says new schools will be built “in line with our means.” The government says it will greatly limit the daycare fee increase set for Jan. 1 but has not said how. The premier asks to be judged on his 100-day commitments, including an audit of all state IT projects.",
-     "fr": "Le ministre des Finances affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures; le ministre de l’Éducation dit que les nouvelles écoles seront construites « à la hauteur de nos moyens ». Le gouvernement dit qu’il limitera grandement la hausse des tarifs de garderie prévue le 1er janvier, sans dire comment. Le premier ministre demande à être jugé sur ses engagements des 100 premiers jours, dont un audit de tous les projets informatiques de l’État."
+     "en": "The finance minister says the Quebec Infrastructure Plan is $65 billion short, and the government says it will greatly limit the daycare fee increase set for Jan. 1. The French language minister plans a bill in February 2027 to extend Bill 101 to CEGEPs. Special constables, not the Sûreté du Québec, now protect the premier day to day.",
+     "fr": "Le ministre des Finances affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures, et le gouvernement dit qu’il limitera grandement la hausse des tarifs de garderie prévue le 1er janvier. Le ministre de la Langue française prévoit un projet de loi en février 2027 pour étendre la loi 101 au cégep. Des constables spéciaux, et non plus la Sûreté du Québec, protègent maintenant le premier ministre au quotidien."
     }
    }
   },
@@ -3302,9 +3338,22 @@
     "greta-bedard",
     "nicolas-girard",
     "croisieres-aml",
-    "genevieve-guilbault"
+    "genevieve-guilbault",
+    "bernard-drainville",
+    "conseil-tresor"
    ],
    "events": [
+    {
+     "date": "2025-11-27",
+     "en": "In a briefing note to the government, the STQ puts the purchase of three ferries, including one for L’Isle-aux-Coudres, at $406.9 million instead of the $191.5 million announced in 2023; the CAQ government does not make it public, Le Journal de Québec reports.",
+     "fr": "Dans une note d’information au gouvernement, la STQ chiffre l’achat de trois traversiers, dont un pour L’Isle-aux-Coudres, à 406,9 M$ plutôt qu’aux 191,5 M$ annoncés en 2023; le gouvernement caquiste ne la rend pas publique, rapporte Le Journal de Québec.",
+     "source_title": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
+    },
     {
      "date": "2026-11-01",
      "en": "The MV Joseph-Savard loses power and hits the dock, putting it out of service and leaving L’Isle-aux-Coudres without its ferry, CBC reports.",
@@ -3404,8 +3453,8 @@
      "fr": "Les insulaires dépendent du traversier pour le travail, la nourriture et les soins. La députée locale dit que la panne a révélé des failles du plan d’urgence."
     },
     "now": {
-     "en": "The MV Joseph-Savard is back in service after repeated breakdowns, and the municipality wants its state of emergency extended. A new ferry is planned for the crossing, but the STQ now says its three replacement vessels will cost nearly double the $191.5 million announced in 2023.",
-     "fr": "Le NM Joseph-Savard est de retour en service après des bris répétés, et la municipalité veut prolonger l’état d’urgence. Un nouveau traversier est prévu pour la traverse, mais la STQ dit maintenant que ses trois navires de remplacement coûteront près du double des 191,5 M$ annoncés en 2023."
+     "en": "The MV Joseph-Savard is back in service after repeated breakdowns. A new ferry is planned for the crossing, but the STQ now says its three replacement vessels will cost nearly double the $191.5 million announced in 2023. According to Le Journal de Québec, the previous government was told in November 2025 and did not make it public.",
+     "fr": "Le NM Joseph-Savard est de retour en service après des bris répétés. Un nouveau traversier est prévu pour la traverse, mais la STQ dit maintenant que ses trois navires de remplacement coûteront près du double des 191,5 M$ annoncés en 2023. Selon Le Journal de Québec, le gouvernement précédent en avait été informé en novembre 2025 sans le rendre public."
     }
    }
   },
@@ -3700,7 +3749,9 @@
    "entities": [
     "ville-quebec",
     "cdpq-infra",
-    "daniel-genest"
+    "daniel-genest",
+    "mobilite-infra-quebec",
+    "mission-gestion-construction"
    ],
    "events": [
     {
@@ -3724,6 +3775,17 @@
      "source_type": "media",
      "post": "2026-11-13",
      "background": false
+    },
+    {
+     "date": "2026-11-19",
+     "en": "Mobilité Infra Québec’s $75,200 untendered contract with a strategic adviser for negotiating the TramCité delivery agreements is made public in SEAO, Le Journal de Québec reports.",
+     "fr": "Le contrat de gré à gré de 75 200 $ de Mobilité Infra Québec avec un aviseur stratégique pour négocier les ententes de réalisation de TramCité est rendu public dans le SEAO, rapporte Le Journal de Québec.",
+     "source_title": "Négociations des ententes du tramway: Un contrat d’accompagnement signé",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
     }
    ],
    "tldr": {
@@ -3736,8 +3798,8 @@
      "fr": "C’est un grand projet de transport payé avec des fonds publics, et il exige d’acheter des immeubles privés le long du tracé."
     },
     "now": {
-     "en": "The City says the preparatory work is on time and on budget. It must now acquire another downtown building that was not planned at the outset.",
-     "fr": "La Ville affirme que les travaux préparatoires respectent les délais et le budget. Elle doit maintenant acquérir un autre immeuble du centre-ville qui n’était pas prévu au départ."
+     "en": "The City says the preparatory work is on time and on budget, and another downtown building must be acquired. Mobilité Infra Québec, the project owner, has hired a strategic adviser without a call for tenders to help negotiate the delivery agreements.",
+     "fr": "La Ville affirme que les travaux préparatoires respectent les délais et le budget, et un autre immeuble du centre-ville doit être acquis. Mobilité Infra Québec, maître d’ouvrage, a embauché de gré à gré un aviseur stratégique pour l’aider à négocier les ententes de réalisation."
     }
    }
   },
@@ -3759,7 +3821,8 @@
     "andre-fortin",
     "mathieu-levesque",
     "ruba-ghazal",
-    "eric-duhaime"
+    "eric-duhaime",
+    "joel-arseneau"
    ],
    "events": [
     {
@@ -3805,6 +3868,17 @@
      "source_type": "media",
      "post": "2026-11-19",
      "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "A new meeting of party House leaders ends without recognition for QS; QS says the PQ proposes halving its parliamentary budget, and another session is scheduled for Monday, The Canadian Press reports.",
+     "fr": "Une nouvelle rencontre des leaders parlementaires se termine sans reconnaissance pour QS; QS affirme que le PQ propose de réduire de moitié son budget parlementaire, et une autre séance est prévue lundi, rapporte La Presse canadienne.",
+     "source_title": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
     }
    ],
    "tldr": {
@@ -3817,8 +3891,8 @@
      "fr": "La reconnaissance donne plus de temps de parole et des budgets de recherche; elle influence donc la capacité d’un parti à faire son travail à l’Assemblée nationale."
     },
     "now": {
-     "en": "The parties are negotiating. Québec solidaire says the offer on the table would cut its operating budget by at least 55%. Conservative leader Éric Duhaime says he is ready to lower the threshold now if the new rule is permanent. Another meeting is set for Friday.",
-     "fr": "Les partis négocient. Québec solidaire affirme que l’offre sur la table réduirait d’au moins 55 % son budget de fonctionnement. Le chef conservateur Éric Duhaime se dit prêt à abaisser le seuil dès maintenant si la nouvelle règle est permanente. Une autre rencontre est prévue vendredi."
+     "en": "A new meeting on Friday ended without a deal. Québec solidaire says the PQ proposes cutting its parliamentary budget in half; the PQ says QS is asking for more than before even though it lost seats. Another session is set for Monday, and the Assembly sits again on Dec. 1.",
+     "fr": "Une nouvelle rencontre, vendredi, s’est terminée sans entente. Québec solidaire affirme que le PQ propose de réduire de moitié son budget parlementaire; le PQ dit que QS demande plus qu’avant alors qu’il a perdu des sièges. Une autre séance est prévue lundi, et l’Assemblée siège à nouveau le 1er décembre."
     }
    }
   },
@@ -3956,6 +4030,67 @@
     "now": {
      "en": "Now armed, controllers are returning region by region: the Bas-Saint-Laurent in October, then Saint-Bruno-de-Montarville in November. A full return is expected in 2027.",
      "fr": "Désormais armés, les contrôleurs reviennent région par région : le Bas-Saint-Laurent en octobre, puis Saint-Bruno-de-Montarville en novembre. Le retour complet est prévu en 2027."
+    }
+   }
+  },
+  {
+   "id": "loto-quebec",
+   "name_en": "Loto-Québec: casinos and gaming halls",
+   "name_fr": "Loto-Québec : casinos et salons de jeux",
+   "desc_en": "How the Crown corporation Loto-Québec is expanding its casinos and gaming halls, what they bring in, and what it discloses.",
+   "desc_fr": "Comment la société d’État Loto-Québec agrandit son réseau de casinos et de salons de jeux, ce qu’ils rapportent et ce qu’elle divulgue.",
+   "entities": [
+    "loto-quebec",
+    "jean-francois-bergeron-lq",
+    "ville-rimouski"
+   ],
+   "events": [
+    {
+     "date": "2026-10",
+     "en": "Rimouski officials and public health question Loto-Québec’s decision to keep the 57 video lottery terminals in the city’s bars ahead of a gaming hall opening in 2027, CBC News reports.",
+     "fr": "Des élus et la santé publique de Rimouski remettent en question la décision de Loto-Québec de garder les 57 appareils de loterie vidéo des bars de la ville avant l’ouverture d’un salon de jeux en 2027, rapporte CBC News.",
+     "source_title": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700",
+     "source_type": "media",
+     "post": "2026-10-31",
+     "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "Loto-Québec is preparing to open two gaming halls in 2027, in Rimouski and in Saguenay’s Jonquière borough; under the public calls for proposals, private operators will receive 35% of net revenue from gaming tables, Le Journal de Montréal reports.",
+     "fr": "Loto-Québec prépare l’ouverture de deux salons de jeux en 2027, à Rimouski et dans l’arrondissement de Jonquière, à Saguenay; selon les appels de propositions, les exploitants privés recevront 35 % des revenus nets des tables de jeu, rapporte Le Journal de Montréal.",
+     "source_title": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027",
+     "source_type": "media",
+     "post": "2026-11-20",
+     "background": false
+    },
+    {
+     "date": "2026-11-21",
+     "en": "Casinos and gaming halls generated more than $1.3 billion, or 42% of Loto-Québec’s revenue, in 2025-26, but only 32% of its profit; the Crown corporation has stopped disclosing several results, Le Journal de Montréal reports.",
+     "fr": "Les casinos et salons de jeux ont généré plus de 1,3 G$, soit 42 % des revenus de Loto-Québec en 2025-2026, mais seulement 32 % de son bénéfice; la société d’État a cessé de divulguer plusieurs résultats, rapporte Le Journal de Montréal.",
+     "source_title": "Les casinos devenus la vache à lait de Loto-Québec",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
+    }
+   ],
+   "tldr": {
+    "what": {
+     "en": "Loto-Québec, a Crown corporation, is opening new gaming halls, or “mini-casinos,” in Rimouski and Jonquière in 2027.",
+     "fr": "Loto-Québec, une société d’État, ouvre de nouveaux salons de jeux, ou « minicasinos », à Rimouski et à Jonquière en 2027."
+    },
+    "why": {
+     "en": "Loto-Québec is a major source of revenue for the government, and casinos and gaming halls bring in a growing share of it. Private operators will share in the table-game revenue of the new halls.",
+     "fr": "Loto-Québec est une importante source de revenus pour le gouvernement, et les casinos et salons de jeux en rapportent une part croissante. Des exploitants privés toucheront une part des revenus des tables de jeu des nouveaux salons."
+    },
+    "now": {
+     "en": "Casinos and gaming halls brought in 42% of Loto-Québec’s revenue last year but only 32% of its profit, Le Journal de Montréal reports. The Crown corporation no longer discloses each casino’s results or its online gaming revenue.",
+     "fr": "Les casinos et salons de jeux ont rapporté 42 % des revenus de Loto-Québec l’an dernier, mais seulement 32 % de son bénéfice, rapporte Le Journal de Montréal. La société d’État ne divulgue plus les résultats de chaque casino ni ses revenus de jeu en ligne."
     }
    }
   }

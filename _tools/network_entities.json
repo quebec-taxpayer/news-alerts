@@ -3189,6 +3189,39 @@
    "name": "Steeve St-Gelais",
    "type": "person",
    "aliases": []
+  },
+  "bernard-drainville": {
+   "name": "Bernard Drainville",
+   "type": "person",
+   "aliases": [
+    "Drainville"
+   ]
+  },
+  "mission-gestion-construction": {
+   "name": "Mission Gestion Construction",
+   "type": "organization",
+   "aliases": []
+  },
+  "michael-stern": {
+   "name": "Michael Stern",
+   "type": "person",
+   "aliases": [
+    "Stern"
+   ]
+  },
+  "cmq": {
+   "name": "Commission municipale du Québec",
+   "type": "organization",
+   "aliases": [
+    "CMQ"
+   ]
+  },
+  "benoit-dubreuil": {
+   "name": "Benoit Dubreuil",
+   "type": "person",
+   "aliases": [
+    "Dubreuil"
+   ]
   }
  },
  "stories": [
@@ -4612,7 +4645,9 @@
     "sylvain-leduc"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "loto-quebec"
+   ]
   },
   {
    "match": "le-canada-et-l-union-europeenne-concluent-une-nouvelle-alliance",
@@ -6684,7 +6719,9 @@
     "jean-francois-bergeron-lq"
    ],
    "checked_by_hand": true,
-   "dossiers": []
+   "dossiers": [
+    "loto-quebec"
+   ]
   },
   {
    "match": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq",
@@ -6779,6 +6816,121 @@
    ],
    "dossiers": [
     "domtar-outardes"
+   ]
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers",
+   "entities": [
+    "stq",
+    "genevieve-guilbault",
+    "greta-bedard",
+    "bernard-drainville",
+    "conseil-tresor",
+    "bruno-verreault",
+    "nicolas-girard",
+    "caq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "stq-isle-aux-coudres"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec",
+   "entities": [
+    "loto-quebec",
+    "jean-francois-bergeron-lq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "loto-quebec"
+   ]
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe",
+   "entities": [
+    "mobilite-infra-quebec",
+    "mission-gestion-construction"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "tramway-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php",
+   "entities": [
+    "pspp",
+    "surete-quebec",
+    "msi"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire",
+   "entities": [
+    "qs",
+    "alexandre-leduc",
+    "joel-arseneau",
+    "pq",
+    "plq",
+    "pcq"
+   ],
+   "dossiers": [
+    "qs-recognition"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition",
+   "entities": [
+    "pascal-berube",
+    "pq",
+    "qs",
+    "sol-zanetti",
+    "benoit-dubreuil",
+    "plq",
+    "pcq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/amende-de-2990/le-maire-de-westmount-a-manque-de-respect-a-des-employes-tranche-la-commission-municipale.php",
+   "entities": [
+    "michael-stern",
+    "cmq"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme",
+   "entities": [
+    "cour-supreme-canada",
+    "francois-legault",
+    "simon-jolin-barrette",
+    "caq"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php",
+   "entities": [
+    "jean-pellerin",
+    "hydro-quebec"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302184/offre-psychiatrie-thetford-sante-quebec",
+   "entities": [
+    "sante-quebec"
+   ],
+   "dossiers": [
+    "sante-quebec"
    ]
   }
  ]

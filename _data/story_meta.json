@@ -1503,6 +1503,56 @@
    "category": "energy",
    "importance": 3,
    "title_en": "A glimmer of hope for the Outardes sawmill in Baie-Comeau"
+  },
+  "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "The CAQ hid the cost explosion of three future ferries"
+  },
+  "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Casinos have become Loto-Québec’s cash cow"
+  },
+  "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "Tramway agreement negotiations: an advisory contract signed"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Special constables as bodyguards – Police will no longer provide close protection for Paul St-Pierre Plamondon"
+  },
+  "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Québec solidaire has not yet obtained recognized parliamentary group status"
+  },
+  "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "The PQ goes ahead with Bill 101 at CEGEP, even without support from opposition parties"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/amende-de-2990/le-maire-de-westmount-a-manque-de-respect-a-des-employes-tranche-la-commission-municipale.php": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "$2,990 fine – Westmount mayor was disrespectful to employees, municipal commission rules"
+  },
+  "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "State Secularism Act: the Supreme Court will deliver its ruling next Friday"
+  },
+  "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "COP31 – Quebec intends to publish a road map to wean itself off fossil fuels"
+  },
+  "https://ici.radio-canada.ca/article/info/2302184/offre-psychiatrie-thetford-sante-quebec": {
+   "category": "health",
+   "importance": 2,
+   "title_en": "Psychiatric care remains available in Thetford Mines, Santé Québec says"
   }
  }
 }

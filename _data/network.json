@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-20T15:26:37Z",
+ "generated": "2026-11-21T15:26:02Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 303,
+ "story_count": 313,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -3186,6 +3186,108 @@
      ]
     }
    ]
+  },
+  "2026-11-21": {
+   "post": "/2026/11/21/digest/",
+   "stories": [
+    {
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers",
+     "entities": [
+      "bernard-drainville",
+      "bruno-verreault",
+      "caq",
+      "conseil-tresor",
+      "genevieve-guilbault",
+      "greta-bedard",
+      "nicolas-girard",
+      "stq"
+     ]
+    },
+    {
+     "headline": "Les casinos devenus la vache à lait de Loto-Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec",
+     "entities": [
+      "jean-francois-bergeron-lq",
+      "loto-quebec"
+     ]
+    },
+    {
+     "headline": "Négociations des ententes du tramway: Un contrat d’accompagnement signé",
+     "url": "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe",
+     "entities": [
+      "mission-gestion-construction",
+      "mobilite-infra-quebec"
+     ]
+    },
+    {
+     "headline": "Amende de 2990 $ – Le maire de Westmount a manqué de respect à des employés, tranche la commission municipale",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/amende-de-2990/le-maire-de-westmount-a-manque-de-respect-a-des-employes-tranche-la-commission-municipale.php",
+     "entities": [
+      "cmq",
+      "michael-stern"
+     ]
+    },
+    {
+     "headline": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php",
+     "entities": [
+      "msi",
+      "pspp",
+      "surete-quebec"
+     ]
+    },
+    {
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire",
+     "entities": [
+      "alexandre-leduc",
+      "joel-arseneau",
+      "pcq",
+      "plq",
+      "pq",
+      "qs"
+     ]
+    },
+    {
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition",
+     "entities": [
+      "benoit-dubreuil",
+      "pascal-berube",
+      "pcq",
+      "plq",
+      "pq",
+      "qs",
+      "sol-zanetti"
+     ]
+    },
+    {
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme",
+     "entities": [
+      "caq",
+      "cour-supreme-canada",
+      "francois-legault",
+      "simon-jolin-barrette"
+     ]
+    },
+    {
+     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php",
+     "entities": [
+      "hydro-quebec",
+      "jean-pellerin"
+     ]
+    },
+    {
+     "headline": "L’offre de soins en psychiatrie est au rendez-vous à Thetford Mines, assure Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302184/offre-psychiatrie-thetford-sante-quebec",
+     "entities": [
+      "sante-quebec"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -3197,7 +3299,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 68,
+   "mentions": 69,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3538,6 +3640,11 @@
      "date": "2026-11-19",
      "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
      "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -3550,7 +3657,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 43,
+   "mentions": 45,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3766,6 +3873,16 @@
      "date": "2026-11-20",
      "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -3776,7 +3893,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 31,
+   "mentions": 32,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3932,6 +4049,11 @@
      "date": "2026-11-19",
      "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
      "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
     }
    ]
   },
@@ -3940,7 +4062,7 @@
    "name": "Santé Québec",
    "type": "organization",
    "aliases": [],
-   "mentions": 29,
+   "mentions": 30,
    "stories": [
     {
      "date": "2026-10-21",
@@ -4086,6 +4208,138 @@
      "date": "2026-11-20",
      "headline": "« On est en train de vider notre hôpital », dénonce le maire de Thetford Mines",
      "url": "https://ici.radio-canada.ca/article/info/2301671/psychiatrie-hopital-thetford-mines-fermeture"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "L’offre de soins en psychiatrie est au rendez-vous à Thetford Mines, assure Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302184/offre-psychiatrie-thetford-sante-quebec"
+    }
+   ]
+  },
+  {
+   "id": "caq",
+   "name": "Coalition Avenir Québec",
+   "type": "organization",
+   "aliases": [
+    "CAQ",
+    "caquiste"
+   ],
+   "mentions": 23,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Québec prépare l’abolition de Santé Québec",
+     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
+     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
+     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Programme de l’expérience québécoise | Des milliers d’immigrants plongés dans l’incertitude",
+     "url": "https://www.lapresse.ca/actualites/2026-11-03/programme-de-l-experience-quebecoise/des-milliers-d-immigrants-plonges-dans-l-incertitude.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
+     "url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Il manque 65 milliards de dollars au PQI, selon le ministre Nicolas Marceau",
+     "url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Tramway de Gatineau : la publication du rapport de MIQ pourrait attendre",
+     "url": "https://ici.radio-canada.ca/article/info/2301416/tramway-gatineau-rapport-infra-mobilite-quebec"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
     }
    ]
   },
@@ -4211,130 +4465,13 @@
    ]
   },
   {
-   "id": "caq",
-   "name": "Coalition Avenir Québec",
-   "type": "organization",
-   "aliases": [
-    "CAQ",
-    "caquiste"
-   ],
-   "mentions": 21,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Québec prépare l’abolition de Santé Québec",
-     "url": "https://www.journaldequebec.com/2026/10/14/quebec-prepare-labolition-de-sante-quebec"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
-     "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
-     "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Programme de l’expérience québécoise | Des milliers d’immigrants plongés dans l’incertitude",
-     "url": "https://www.lapresse.ca/actualites/2026-11-03/programme-de-l-experience-quebecoise/des-milliers-d-immigrants-plonges-dans-l-incertitude.php"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
-     "url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Il manque 65 milliards de dollars au PQI, selon le ministre Nicolas Marceau",
-     "url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Tramway de Gatineau : la publication du rapport de MIQ pourrait attendre",
-     "url": "https://ici.radio-canada.ca/article/info/2301416/tramway-gatineau-rapport-infra-mobilite-quebec"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
-     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
-    }
-   ]
-  },
-  {
    "id": "qs",
    "name": "Québec solidaire",
    "type": "organization",
    "aliases": [
     "solidaires"
    ],
-   "mentions": 14,
+   "mentions": 16,
    "stories": [
     {
      "date": "2026-10-23",
@@ -4405,6 +4542,188 @@
      "date": "2026-11-20",
      "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "id": "plq",
+   "name": "Parti libéral du Québec",
+   "type": "organization",
+   "aliases": [
+    "PLQ",
+    "Quebec Liberal Party",
+    "libéraux"
+   ],
+   "mentions": 15,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Caucus présessionnel du Parti libéral – Milliard critique les premières semaines au pouvoir du PQ",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/caucus-presessionnel-du-parti-liberal/milliard-critique-les-premieres-semaines-au-pouvoir-du-pq.php"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
+     "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "id": "pcq",
+   "name": "Parti conservateur du Québec",
+   "type": "organization",
+   "aliases": [
+    "PCQ",
+    "Conservative Party",
+    "conservateurs",
+    "conservatrice"
+   ],
+   "mentions": 14,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "« On est en train de vider notre hôpital », dénonce le maire de Thetford Mines",
+     "url": "https://ici.radio-canada.ca/article/info/2301671/psychiatrie-hopital-thetford-mines-fermeture"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -4643,45 +4962,28 @@
    ]
   },
   {
-   "id": "plq",
-   "name": "Parti libéral du Québec",
+   "id": "conseil-tresor",
+   "name": "Conseil du trésor",
    "type": "organization",
    "aliases": [
-    "PLQ",
-    "Quebec Liberal Party",
-    "libéraux"
+    "Treasury Board"
    ],
    "mentions": 13,
    "stories": [
     {
      "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Cabinet fantôme libéral : Charles Milliard choisit l’expérience pour affronter le PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295224/parti-liberal-charles-milliard-cabinet-fantome"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+     "headline": "Nominations du Conseil des ministres",
+     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
     },
     {
      "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
     },
     {
      "date": "2026-10-31",
@@ -4689,34 +4991,49 @@
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     },
     {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
     },
     {
-     "date": "2026-11-14",
-     "headline": "Caucus présessionnel du Parti libéral – Milliard critique les premières semaines au pouvoir du PQ",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-13/caucus-presessionnel-du-parti-liberal/milliard-critique-les-premieres-semaines-au-pouvoir-du-pq.php"
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
     },
     {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+     "date": "2026-11-03",
+     "headline": "Fonctionnaires au bureau 3 jours par semaine: PSPP «empire la congestion routière», dénonce QS",
+     "url": "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs"
     },
     {
-     "date": "2026-11-14",
-     "headline": "Hôtel-Dieu de Lévis : l’abolition de postes aux soins palliatifs crée des remous",
-     "url": "https://ici.radio-canada.ca/article/info/2300494/hotel-dieux-levis-abolition-soins-palliatifs-remous"
+     "date": "2026-11-03",
+     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
     },
     {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     },
     {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+     "date": "2026-11-10",
+     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Retard des travaux à l’hôpital de Jonquière en raison de soumissions trop élevées",
+     "url": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
+     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -4797,77 +5114,6 @@
    ]
   },
   {
-   "id": "conseil-tresor",
-   "name": "Conseil du trésor",
-   "type": "organization",
-   "aliases": [
-    "Treasury Board"
-   ],
-   "mentions": 12,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Nominations du Conseil des ministres",
-     "url": "https://www.newswire.ca/fr/news-releases/nominations-du-conseil-des-ministres-883250338.html"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Stade olympique – Travaux d’urgence en raison d’infiltrations",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-26/stade-olympique/travaux-d-urgence-en-raison-d-infiltrations.php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Fonctionnaires au bureau 3 jours par semaine: PSPP «empire la congestion routière», dénonce QS",
-     "url": "https://www.journaldemontreal.com/2026/11/02/fonctionnaires-3-jours-semaine-au-bureau-pspp-empire-la-congestion-routiere-denonce-qs"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
-     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Retard des travaux à l’hôpital de Jonquière en raison de soumissions trop élevées",
-     "url": "https://ici.radio-canada.ca/article/info/2299455/hopital-jonquiere-travaux-conseil-tresor"
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
-     "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
-    }
-   ]
-  },
-  {
    "id": "marie-karlynn-laflamme",
    "name": "Marie-Karlynn Laflamme",
    "type": "person",
@@ -4935,80 +5181,6 @@
      "date": "2026-11-16",
      "headline": "Entrevue avec la ministre de la Santé – La haute direction de Santé Québec sera abolie",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/entrevue-avec-la-ministre-de-la-sante/la-haute-direction-de-sante-quebec-sera-abolie.php"
-    }
-   ]
-  },
-  {
-   "id": "pcq",
-   "name": "Parti conservateur du Québec",
-   "type": "organization",
-   "aliases": [
-    "PCQ",
-    "Conservative Party",
-    "conservateurs",
-    "conservatrice"
-   ],
-   "mentions": 12,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "Éric Duhaime annonce trois nominations avant la rentrée parlementaire",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-16/eric-duhaime-annonce-trois-nominations-avant-la-rentree-parlementaire.php"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "« On est en train de vider notre hôpital », dénonce le maire de Thetford Mines",
-     "url": "https://ici.radio-canada.ca/article/info/2301671/psychiatrie-hopital-thetford-mines-fermeture"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
     }
    ]
   },
@@ -5460,6 +5632,62 @@
    ]
   },
   {
+   "id": "stq",
+   "name": "Société des traversiers du Québec",
+   "type": "organization",
+   "aliases": [
+    "STQ"
+   ],
+   "mentions": 9,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
+     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
+     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
+     "url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
    "id": "mtmd",
    "name": "Ministère des Transports et de la Mobilité durable",
    "type": "organization",
@@ -5509,57 +5737,6 @@
      "date": "2026-11-20",
      "headline": "Le PQ priorisera-t-il la réfection du rail gaspésien?",
      "url": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq"
-    }
-   ]
-  },
-  {
-   "id": "stq",
-   "name": "Société des traversiers du Québec",
-   "type": "organization",
-   "aliases": [
-    "STQ"
-   ],
-   "mentions": 8,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Vulnérabilité critique de PHP - Les applications informatiques touchées à nouveau accessibles",
-     "url": "https://www.newswire.ca/fr/news-releases/vulnerabilite-critique-de-php-les-applications-informatiques-touchees-a-nouveau-accessibles-805224510.html"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
-     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Isle-aux-Coudres, Que., declares local state of emergency after ferry breaks down",
-     "url": "https://www.cbc.ca/news/canada/montreal/isle-aux-coudres-state-of-emergency-broken-ferry-9.7405331"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
-     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
-     "url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
-     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
     }
    ]
   },
@@ -5922,6 +6099,45 @@
    ]
   },
   {
+   "id": "msi",
+   "name": "Ministère de la Sécurité intérieure",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-25",
+     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
+     "url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "Près de mille livraisons par drone dans les prisons en cinq ans",
+     "url": "https://ici.radio-canada.ca/article/info/2301126/incendie-prison-trois-rivieres-drone"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "id": "melccfp",
    "name": "Ministère de l’Environnement, de la Lutte contre les changements climatiques, de la Protection de la biodiversité, de la Faune et des Parcs",
    "type": "organization",
@@ -5960,6 +6176,45 @@
      "date": "2026-11-13",
      "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
      "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
+   "id": "nicolas-girard",
+   "name": "Nicolas Girard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -6109,6 +6364,42 @@
    ]
   },
   {
+   "id": "francois-legault",
+   "name": "François Legault",
+   "type": "person",
+   "aliases": [
+    "Legault"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
+     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
+     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    }
+   ]
+  },
+  {
    "id": "guy-lapointe-fils",
    "name": "Guy Lapointe fils",
    "type": "person",
@@ -6142,6 +6433,42 @@
      "date": "2026-11-09",
      "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
      "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
+    }
+   ]
+  },
+  {
+   "id": "jean-pellerin",
+   "name": "Jean Pellerin",
+   "type": "person",
+   "aliases": [
+    "Pellerin"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
+     "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
+     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
     }
    ]
   },
@@ -6184,40 +6511,6 @@
    ]
   },
   {
-   "id": "msi",
-   "name": "Ministère de la Sécurité intérieure",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-25",
-     "headline": "3 mois après le glissement de terrain, L’Ascension attend encore de remplir son gouffre",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295592/lascension-gouffre-trou-glissement-terrain"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
-     "url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "Près de mille livraisons par drone dans les prisons en cinq ans",
-     "url": "https://ici.radio-canada.ca/article/info/2301126/incendie-prison-trois-rivieres-drone"
-    }
-   ]
-  },
-  {
    "id": "nemaska-lithium",
    "name": "Nemaska Lithium",
    "type": "organization",
@@ -6250,40 +6543,6 @@
      "date": "2026-11-11",
      "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
      "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
-    }
-   ]
-  },
-  {
-   "id": "nicolas-girard",
-   "name": "Nicolas Girard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
     }
    ]
   },
@@ -6394,6 +6653,43 @@
    ]
   },
   {
+   "id": "surete-quebec",
+   "name": "Sûreté du Québec",
+   "type": "organization",
+   "aliases": [
+    "SQ",
+    "Quebec provincial police"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
+     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Court OKs class action alleging SQ discrimination against Indigenous people in Val-d’Or, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
    "id": "affine-lwalalika",
    "name": "Affine Lwalalika",
    "type": "person",
@@ -6419,6 +6715,35 @@
      "date": "2026-11-09",
      "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
      "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    }
+   ]
+  },
+  {
+   "id": "alexandre-leduc",
+   "name": "Alexandre Leduc",
+   "type": "person",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
     }
    ]
   },
@@ -6698,37 +7023,6 @@
    ]
   },
   {
-   "id": "francois-legault",
-   "name": "François Legault",
-   "type": "person",
-   "aliases": [
-    "Legault"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
-     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
-     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
-    }
-   ]
-  },
-  {
    "id": "grc",
    "name": "Gendarmerie royale du Canada",
    "type": "organization",
@@ -6792,6 +7086,35 @@
    ]
   },
   {
+   "id": "greta-bedard",
+   "name": "Greta Bédard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
    "id": "jacinthe-eve-arel",
    "name": "Jacinthe-Eve Arel",
    "type": "person",
@@ -6823,33 +7146,33 @@
    ]
   },
   {
-   "id": "jean-pellerin",
-   "name": "Jean Pellerin",
+   "id": "joel-arseneau",
+   "name": "Joël Arseneau",
    "type": "person",
    "aliases": [
-    "Pellerin"
+    "Arseneau"
    ],
    "mentions": 4,
    "stories": [
     {
-     "date": "2026-11-04",
-     "headline": "L’élargissement de la consigne pourrait encore être reporté",
-     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
     },
     {
-     "date": "2026-11-09",
-     "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
-     "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
-     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+     "date": "2026-10-25",
+     "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
     },
     {
      "date": "2026-11-19",
-     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
-     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
     }
    ]
   },
@@ -7159,38 +7482,6 @@
    ]
   },
   {
-   "id": "surete-quebec",
-   "name": "Sûreté du Québec",
-   "type": "organization",
-   "aliases": [
-    "SQ",
-    "Quebec provincial police"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Véhicules lourds et sécurité : les proches de Tanya et Eliott veulent « faire leur part »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295938/camions-lourds-tanya-eliott-lalonde-audiences-publiques-coroner"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Un employé civil de la SQ congédié pour son amitié avec un homme lié au crime organisé",
-     "url": "https://www.tvanouvelles.ca/2026/11/30/un-employe-civil-de-la-sq-congedie-pour-son-amitie-avec-un-homme-lie-au-crime-organise"
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "Court OKs class action alleging SQ discrimination against Indigenous people in Val-d’Or, Que.",
-     "url": "https://www.cbc.ca/news/canada/montreal/class-action-sq-discrimination-indigenous-val-dor-9.7420935"
-    }
-   ]
-  },
-  {
    "id": "union-europeenne",
    "name": "Union européenne",
    "type": "organization",
@@ -7317,30 +7608,6 @@
    ]
   },
   {
-   "id": "alexandre-leduc",
-   "name": "Alexandre Leduc",
-   "type": "person",
-   "aliases": [],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
-    }
-   ]
-  },
-  {
    "id": "andre-fortin",
    "name": "André Fortin",
    "type": "person",
@@ -7390,6 +7657,30 @@
      "date": "2026-11-18",
      "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
      "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    }
+   ]
+  },
+  {
+   "id": "bruno-verreault",
+   "name": "Bruno Verreault",
+   "type": "person",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -7494,30 +7785,6 @@
    ]
   },
   {
-   "id": "greta-bedard",
-   "name": "Greta Bédard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-09",
-     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
-     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
-    }
-   ]
-  },
-  {
    "id": "jacques-allard",
    "name": "Jacques Allard",
    "type": "person",
@@ -7538,32 +7805,6 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
-    }
-   ]
-  },
-  {
-   "id": "joel-arseneau",
-   "name": "Joël Arseneau",
-   "type": "person",
-   "aliases": [
-    "Arseneau"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Le nouveau ministre de l’Éducation part avec un bon vent dans le dos",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295415/ministre-education--etats-generaux-parents--syndicat-ecole"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
     }
    ]
   },
@@ -7616,6 +7857,32 @@
      "date": "2026-11-04",
      "headline": "Problèmes persistants chez Alstom | La patience de La Caisse s’effrite",
      "url": "https://www.lapresse.ca/affaires/2026-11-04/problemes-persistants-chez-alstom/la-patience-de-la-caisse-s-effrite.php"
+    }
+   ]
+  },
+  {
+   "id": "loto-quebec",
+   "name": "Loto-Québec",
+   "type": "organization",
+   "aliases": [
+    "Société des loteries du Québec"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Les casinos devenus la vache à lait de Loto-Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec"
     }
    ]
   },
@@ -7767,6 +8034,32 @@
      "date": "2026-11-18",
      "headline": "Une fontaine historique du Parc olympique enterrée après 800 000$ de travaux",
      "url": "https://www.journaldemontreal.com/2026/12/25/une-fontaine-historique-du-parc-olympique-enterree-apres-800-000-de-travaux"
+    }
+   ]
+  },
+  {
+   "id": "pascal-berube",
+   "name": "Pascal Bérubé",
+   "type": "person",
+   "aliases": [
+    "Bérubé"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Protection du français | Les partis de l’opposition disent non à la loi 101 au cégep",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
+     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -8069,25 +8362,6 @@
    ]
   },
   {
-   "id": "bruno-verreault",
-   "name": "Bruno Verreault",
-   "type": "person",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
-     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
-     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
-    }
-   ]
-  },
-  {
    "id": "bei",
    "name": "Bureau des enquêtes indépendantes",
    "type": "organization",
@@ -8309,6 +8583,28 @@
      "date": "2026-11-17",
      "headline": "Fiasco SAAQclic: la firme d’une consultante exclue des contrats publics pour cinq ans",
      "url": "https://www.tvanouvelles.ca/2026/11/17/fiasco-saaqclic--loulou--bannie-des-contrats-publics-pour-cinq-ans"
+    }
+   ]
+  },
+  {
+   "id": "cour-supreme-canada",
+   "name": "Cour suprême du Canada",
+   "type": "organization",
+   "aliases": [
+    "Cour suprême",
+    "Supreme Court"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-18",
+     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
+     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
     }
    ]
   },
@@ -8540,6 +8836,27 @@
    ]
   },
   {
+   "id": "genevieve-guilbault",
+   "name": "Geneviève Guilbault",
+   "type": "person",
+   "aliases": [
+    "Guilbault"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-20",
+     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
    "id": "gilles-lehouillier",
    "name": "Gilles Lehouillier",
    "type": "person",
@@ -8643,6 +8960,25 @@
    ]
   },
   {
+   "id": "jean-francois-bergeron-lq",
+   "name": "Jean-François Bergeron",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-20",
+     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Les casinos devenus la vache à lait de Loto-Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec"
+    }
+   ]
+  },
+  {
    "id": "julie-blackburn",
    "name": "Julie Blackburn",
    "type": "person",
@@ -8700,27 +9036,6 @@
      "date": "2026-10-24",
      "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
      "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    }
-   ]
-  },
-  {
-   "id": "loto-quebec",
-   "name": "Loto-Québec",
-   "type": "organization",
-   "aliases": [
-    "Société des loteries du Québec"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
-     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
-     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
     }
    ]
   },
@@ -8852,6 +9167,27 @@
    ]
   },
   {
+   "id": "mobilite-infra-quebec",
+   "name": "Mobilité Infra Québec",
+   "type": "organization",
+   "aliases": [
+    "MIQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-18",
+     "headline": "Tramway de Gatineau : la publication du rapport de MIQ pourrait attendre",
+     "url": "https://ici.radio-canada.ca/article/info/2301416/tramway-gatineau-rapport-infra-mobilite-quebec"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Négociations des ententes du tramway: Un contrat d’accompagnement signé",
+     "url": "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe"
+    }
+   ]
+  },
+  {
    "id": "mohawk-council-kahnawake",
    "name": "Mohawk Council of Kahnawà:ke",
    "type": "organization",
@@ -8949,27 +9285,6 @@
      "date": "2026-11-13",
      "headline": "Le PQ accorde une majoration de salaire à cinq hauts fonctionnaires",
      "url": "https://www.ledevoir.com/politique/quebec/1024649/pq-accorde-cinq-hauts-fonctionnaires-salaire-plus-important-maximum-prevu"
-    }
-   ]
-  },
-  {
-   "id": "pascal-berube",
-   "name": "Pascal Bérubé",
-   "type": "person",
-   "aliases": [
-    "Bérubé"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Protection du français | Les partis de l’opposition disent non à la loi 101 au cégep",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-05/protection-du-francais/les-partis-de-l-opposition-disent-non-a-la-loi-101-au-cegep.php"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
-     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
     }
    ]
   },
@@ -9098,6 +9413,27 @@
    ]
   },
   {
+   "id": "simon-jolin-barrette",
+   "name": "Simon Jolin-Barrette",
+   "type": "person",
+   "aliases": [
+    "Jolin-Barrette"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    }
+   ]
+  },
+  {
    "id": "sqi",
    "name": "Société québécoise des infrastructures",
    "type": "organization",
@@ -9115,6 +9451,27 @@
      "date": "2026-11-16",
      "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
      "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
+    }
+   ]
+  },
+  {
+   "id": "sol-zanetti",
+   "name": "Sol Zanetti",
+   "type": "person",
+   "aliases": [
+    "Zanetti"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -9881,6 +10238,22 @@
    ]
   },
   {
+   "id": "benoit-dubreuil",
+   "name": "Benoit Dubreuil",
+   "type": "person",
+   "aliases": [
+    "Dubreuil"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
    "id": "benoit-morin",
    "name": "Benoit Morin",
    "type": "person",
@@ -9905,6 +10278,22 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "id": "bernard-drainville",
+   "name": "Bernard Drainville",
+   "type": "person",
+   "aliases": [
+    "Drainville"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -10341,6 +10730,22 @@
    ]
   },
   {
+   "id": "cmq",
+   "name": "Commission municipale du Québec",
+   "type": "organization",
+   "aliases": [
+    "CMQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Amende de 2990 $ – Le maire de Westmount a manqué de respect à des employés, tranche la commission municipale",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/amende-de-2990/le-maire-de-westmount-a-manque-de-respect-a-des-employes-tranche-la-commission-municipale.php"
+    }
+   ]
+  },
+  {
    "id": "aim",
    "name": "Compagnie américaine de fer & métaux (AIM)",
    "type": "organization",
@@ -10430,23 +10835,6 @@
      "date": "2026-10-23",
      "headline": "Contrats publics: 50% des contrats informatiques de Québec profitent aux sociétés étrangères",
      "url": "https://www.journaldemontreal.com/2026/10/21/contrats-publics-50-des-contrats-ti-de-quebec-profite-aux-societes-etrangeres"
-    }
-   ]
-  },
-  {
-   "id": "cour-supreme-canada",
-   "name": "Cour suprême du Canada",
-   "type": "organization",
-   "aliases": [
-    "Cour suprême",
-    "Supreme Court"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-18",
-     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
-     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
     }
    ]
   },
@@ -11148,22 +11536,6 @@
    ]
   },
   {
-   "id": "genevieve-guilbault",
-   "name": "Geneviève Guilbault",
-   "type": "person",
-   "aliases": [
-    "Guilbault"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-20",
-     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
-     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
-    }
-   ]
-  },
-  {
    "id": "gilles-belanger",
    "name": "Gilles Bélanger",
    "type": "person",
@@ -11697,20 +12069,6 @@
      "date": "2026-11-17",
      "headline": "Le vérificateur général demande 60 000$ à la Ville de Trois-Rivières",
      "url": "https://ici.radio-canada.ca/article/info/2301137/verificateur-general-60-mille-conseil-trois-rivieres"
-    }
-   ]
-  },
-  {
-   "id": "jean-francois-bergeron-lq",
-   "name": "Jean-François Bergeron",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-20",
-     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
-     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
     }
    ]
   },
@@ -12652,6 +13010,22 @@
    ]
   },
   {
+   "id": "michael-stern",
+   "name": "Michael Stern",
+   "type": "person",
+   "aliases": [
+    "Stern"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Amende de 2990 $ – Le maire de Westmount a manqué de respect à des employés, tranche la commission municipale",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/amende-de-2990/le-maire-de-westmount-a-manque-de-respect-a-des-employes-tranche-la-commission-municipale.php"
+    }
+   ]
+  },
+  {
    "id": "michael-pilote",
    "name": "Michaël Pilote",
    "type": "person",
@@ -12762,18 +13136,16 @@
    ]
   },
   {
-   "id": "mobilite-infra-quebec",
-   "name": "Mobilité Infra Québec",
+   "id": "mission-gestion-construction",
+   "name": "Mission Gestion Construction",
    "type": "organization",
-   "aliases": [
-    "MIQ"
-   ],
+   "aliases": [],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-11-18",
-     "headline": "Tramway de Gatineau : la publication du rapport de MIQ pourrait attendre",
-     "url": "https://ici.radio-canada.ca/article/info/2301416/tramway-gatineau-rapport-infra-mobilite-quebec"
+     "date": "2026-11-21",
+     "headline": "Négociations des ententes du tramway: Un contrat d’accompagnement signé",
+     "url": "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe"
     }
    ]
   },
@@ -13675,22 +14047,6 @@
    ]
   },
   {
-   "id": "simon-jolin-barrette",
-   "name": "Simon Jolin-Barrette",
-   "type": "person",
-   "aliases": [
-    "Jolin-Barrette"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    }
-   ]
-  },
-  {
    "id": "simon-mathieu-malenfant",
    "name": "Simon-Mathieu Malenfant",
    "type": "person",
@@ -13765,22 +14121,6 @@
      "date": "2026-10-28",
      "headline": "Des aînés dans l’incertitude : leur résidence délabrée fermera dans 1 an",
      "url": "https://ici.radio-canada.ca/nouvelle/2296248/residence-aines-val-dor-vetuste-demenagement"
-    }
-   ]
-  },
-  {
-   "id": "sol-zanetti",
-   "name": "Sol Zanetti",
-   "type": "person",
-   "aliases": [
-    "Zanetti"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -14760,6 +15100,78 @@
    ]
   },
   {
+   "source": "pq",
+   "target": "qs",
+   "weight": 13,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
+     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
    "source": "caq",
    "target": "pspp",
    "weight": 11,
@@ -14822,19 +15234,19 @@
    ]
   },
   {
-   "source": "pq",
-   "target": "qs",
+   "source": "pcq",
+   "target": "pq",
    "weight": 11,
    "stories": [
     {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+     "date": "2026-10-21",
+     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
     },
     {
-     "date": "2026-10-29",
-     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+     "date": "2026-10-23",
+     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
     },
     {
      "date": "2026-10-31",
@@ -14842,14 +15254,9 @@
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     },
     {
-     "date": "2026-11-12",
-     "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
-     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+     "date": "2026-11-10",
+     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
     },
     {
      "date": "2026-11-14",
@@ -14868,11 +15275,6 @@
     },
     {
      "date": "2026-11-19",
-     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
-     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
-    },
-    {
-     "date": "2026-11-19",
      "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
      "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
     },
@@ -14880,6 +15282,78 @@
      "date": "2026-11-20",
      "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "plq",
+   "target": "pq",
+   "weight": 11,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -15040,110 +15514,6 @@
    ]
   },
   {
-   "source": "pcq",
-   "target": "pq",
-   "weight": 9,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Le PQ concède la victoire aux conservateurs dans Champlain",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295200/pq-champlain-election-conservateur"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
-    }
-   ]
-  },
-  {
-   "source": "plq",
-   "target": "pq",
-   "weight": 9,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    }
-   ]
-  },
-  {
    "source": "pspp",
    "target": "stephane-paquet",
    "weight": 9,
@@ -15239,6 +15609,53 @@
      "date": "2026-11-10",
      "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    }
+   ]
+  },
+  {
+   "source": "pcq",
+   "target": "qs",
+   "weight": 8,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -15547,6 +15964,48 @@
    ]
   },
   {
+   "source": "plq",
+   "target": "qs",
+   "weight": 7,
+   "stories": [
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
    "source": "soraya-martinez-ferrada",
    "target": "spvm",
    "weight": 7,
@@ -15701,7 +16160,7 @@
   },
   {
    "source": "pcq",
-   "target": "qs",
+   "target": "plq",
    "weight": 6,
    "stories": [
     {
@@ -15725,14 +16184,14 @@
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
     },
     {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
     },
     {
-     "date": "2026-11-20",
-     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -16158,38 +16617,6 @@
    ]
   },
   {
-   "source": "plq",
-   "target": "qs",
-   "weight": 5,
-   "stories": [
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    }
-   ]
-  },
-  {
    "source": "affine-lwalalika",
    "target": "plq",
    "weight": 4,
@@ -16298,6 +16725,87 @@
    ]
   },
   {
+   "source": "alexandre-leduc",
+   "target": "pcq",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-leduc",
+   "target": "pq",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-leduc",
+   "target": "qs",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    }
+   ]
+  },
+  {
    "source": "assemblee-nationale",
    "target": "plq",
    "weight": 4,
@@ -16348,6 +16856,33 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "conseil-tresor",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-28",
+     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
+     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -16757,6 +17292,33 @@
    ]
   },
   {
+   "source": "greta-bedard",
+   "target": "stq",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
+     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
    "source": "marie-karlynn-laflamme",
    "target": "pq",
    "weight": 4,
@@ -16888,33 +17450,6 @@
      "date": "2026-11-11",
      "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
      "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
-    }
-   ]
-  },
-  {
-   "source": "pcq",
-   "target": "plq",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
     }
    ]
   },
@@ -17209,7 +17744,7 @@
   },
   {
    "source": "alexandre-leduc",
-   "target": "pcq",
+   "target": "plq",
    "weight": 3,
    "stories": [
     {
@@ -17223,53 +17758,9 @@
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
     },
     {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
-    }
-   ]
-  },
-  {
-   "source": "alexandre-leduc",
-   "target": "pq",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
-    }
-   ]
-  },
-  {
-   "source": "alexandre-leduc",
-   "target": "qs",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
     }
    ]
   },
@@ -17362,6 +17853,28 @@
    ]
   },
   {
+   "source": "bruno-verreault",
+   "target": "stq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
+     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
    "source": "caq",
    "target": "christine-frechette",
    "weight": 3,
@@ -17380,28 +17893,6 @@
      "date": "2026-11-14",
      "headline": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
      "url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php"
-    }
-   ]
-  },
-  {
-   "source": "caq",
-   "target": "conseil-tresor",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-10-28",
-     "headline": "Réduction de la taille de l’État: Retraites anticipées et indemnités de départ pour des fonctionnaires",
-     "url": "https://www.journaldequebec.com/2026/10/28/reduction-de-la-taille-de-letat-retraites-anticipees-et-indemnites-de-depart-pour-des-fonctionnaires"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
     }
    ]
   },
@@ -17912,28 +18403,6 @@
    ]
   },
   {
-   "source": "greta-bedard",
-   "target": "stq",
-   "weight": 3,
-   "stories": [
-    {
-     "date": "2026-11-09",
-     "headline": "Le long fleuve (pas toujours) tranquille des traversiers de L’Isle-aux-Coudres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299200/probleme-traversiers-isle-aux-coudres-harvey"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Les déboires en série des traversiers mettent en lumière la vulnérabilité de L’Isle-aux-Coudres",
-     "url": "https://www.ledevoir.com/actualites/societe/1023602/deboires-serie-traversiers-mettent-lumiere-vulnerabilite-isle-coudres"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
-    }
-   ]
-  },
-  {
    "source": "guy-lapointe-fils",
    "target": "soraya-martinez-ferrada",
    "weight": 3,
@@ -18106,6 +18575,28 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+    }
+   ]
+  },
+  {
+   "source": "joel-arseneau",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
     }
    ]
   },
@@ -18641,23 +19132,6 @@
    ]
   },
   {
-   "source": "alexandre-leduc",
-   "target": "plq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    }
-   ]
-  },
-  {
    "source": "alliance-energie-est",
    "target": "hydro-quebec",
    "weight": 2,
@@ -19067,18 +19541,18 @@
   },
   {
    "source": "bruno-verreault",
-   "target": "stq",
+   "target": "genevieve-guilbault",
    "weight": 2,
    "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "La Société des traversiers du Québec a contourné ses propres règles, constate l’AMP après une enquête",
-     "url": "https://www.journaldequebec.com/2026/10/29/la-societe-des-traversiers-du-quebec-a-contourne-ses-propres-regles-constate-lamp-apres-une-enquete"
-    },
     {
      "date": "2026-11-20",
      "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
      "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -19135,6 +19609,23 @@
   },
   {
    "source": "caq",
+   "target": "francois-legault",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "genevieve-biron",
    "weight": 2,
    "stories": [
@@ -19147,6 +19638,23 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "nicolas-girard",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -19181,6 +19689,23 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "simon-jolin-barrette",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
     }
    ]
   },
@@ -19916,6 +20441,23 @@
    ]
   },
   {
+   "source": "cour-supreme-canada",
+   "target": "francois-legault",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-18",
+     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
+     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    }
+   ]
+  },
+  {
    "source": "daniel-rotman",
    "target": "equiterre",
    "weight": 2,
@@ -20460,6 +21002,40 @@
    ]
   },
   {
+   "source": "genevieve-guilbault",
+   "target": "stq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-20",
+     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
+     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "greta-bedard",
+   "target": "nicolas-girard",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
    "source": "guy-cormier",
    "target": "pspp",
    "weight": 2,
@@ -20630,6 +21206,23 @@
    ]
   },
   {
+   "source": "jean-francois-bergeron-lq",
+   "target": "loto-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-20",
+     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Les casinos devenus la vache à lait de Loto-Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec"
+    }
+   ]
+  },
+  {
    "source": "jean-pellerin",
    "target": "karel-menard",
    "weight": 2,
@@ -20649,23 +21242,6 @@
   {
    "source": "joel-arseneau",
    "target": "nicolas-marceau",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
-    }
-   ]
-  },
-  {
-   "source": "joel-arseneau",
-   "target": "pq",
    "weight": 2,
    "stories": [
     {
@@ -21157,6 +21733,23 @@
    ]
   },
   {
+   "source": "nicolas-girard",
+   "target": "stq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
    "source": "nicolas-marceau",
    "target": "sante-quebec",
    "weight": 2,
@@ -21192,6 +21785,23 @@
   },
   {
    "source": "pascal-berube",
+   "target": "pq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-12",
+     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
+     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "pascal-berube",
    "target": "pspp",
    "weight": 2,
    "stories": [
@@ -21204,6 +21814,23 @@
      "date": "2026-11-12",
      "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
      "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    }
+   ]
+  },
+  {
+   "source": "pascal-berube",
+   "target": "qs",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-12",
+     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
+     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -21276,6 +21903,23 @@
    ]
   },
   {
+   "source": "pcq",
+   "target": "sol-zanetti",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
    "source": "plq",
    "target": "ruba-ghazal",
    "weight": 2,
@@ -21310,6 +21954,23 @@
    ]
   },
   {
+   "source": "plq",
+   "target": "sol-zanetti",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
    "source": "pq",
    "target": "rene-branchaud",
    "weight": 2,
@@ -21340,6 +22001,23 @@
      "date": "2026-10-31",
      "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
      "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "sol-zanetti",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -21476,6 +22154,23 @@
      "date": "2026-11-17",
      "headline": "Churchil Falls : Québec n’a pas demandé de renégocier l’accord, dit Wakeham",
      "url": "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham"
+    }
+   ]
+  },
+  {
+   "source": "qs",
+   "target": "sol-zanetti",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -22893,6 +23588,18 @@
      "date": "2026-11-19",
      "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
      "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    }
+   ]
+  },
+  {
+   "source": "alexandre-leduc",
+   "target": "joel-arseneau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
     }
    ]
   },
@@ -24745,6 +25452,78 @@
    ]
   },
   {
+   "source": "benoit-dubreuil",
+   "target": "pascal-berube",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "benoit-dubreuil",
+   "target": "pcq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "benoit-dubreuil",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "benoit-dubreuil",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "benoit-dubreuil",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "benoit-dubreuil",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
    "source": "benoit-raillard",
    "target": "fnz",
    "weight": 1,
@@ -24777,6 +25556,90 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "source": "bernard-drainville",
+   "target": "bruno-verreault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bernard-drainville",
+   "target": "caq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bernard-drainville",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bernard-drainville",
+   "target": "genevieve-guilbault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bernard-drainville",
+   "target": "greta-bedard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bernard-drainville",
+   "target": "nicolas-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bernard-drainville",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -25118,13 +25981,49 @@
   },
   {
    "source": "bruno-verreault",
-   "target": "genevieve-guilbault",
+   "target": "caq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-20",
-     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
-     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bruno-verreault",
+   "target": "conseil-tresor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bruno-verreault",
+   "target": "greta-bedard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "bruno-verreault",
+   "target": "nicolas-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -25370,6 +26269,18 @@
   },
   {
    "source": "caq",
+   "target": "cour-supreme-canada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    }
+   ]
+  },
+  {
+   "source": "caq",
    "target": "csn",
    "weight": 1,
    "stories": [
@@ -25442,18 +26353,6 @@
   },
   {
    "source": "caq",
-   "target": "francois-legault",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
-    }
-   ]
-  },
-  {
-   "source": "caq",
    "target": "frapru",
    "weight": 1,
    "stories": [
@@ -25485,6 +26384,30 @@
      "date": "2026-10-29",
      "headline": "Haute fonction publique – St-Pierre Plamondon nomme deux proches de Fréchette et donne un coup de balai",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/haute-fonction-publique/st-pierre-plamondon-nomme-deux-proches-de-frechette-et-donne-un-coup-de-balai.php"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "genevieve-guilbault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "greta-bedard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -25754,18 +26677,6 @@
   },
   {
    "source": "caq",
-   "target": "nicolas-girard",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
-    }
-   ]
-  },
-  {
-   "source": "caq",
    "target": "northvolt",
    "weight": 1,
    "stories": [
@@ -25910,18 +26821,6 @@
   },
   {
    "source": "caq",
-   "target": "simon-jolin-barrette",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
-    }
-   ]
-  },
-  {
-   "source": "caq",
    "target": "spgq",
    "weight": 1,
    "stories": [
@@ -25953,6 +26852,18 @@
      "date": "2026-11-11",
      "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
      "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -27397,6 +28308,18 @@
    ]
   },
   {
+   "source": "cmq",
+   "target": "michael-stern",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Amende de 2990 $ – Le maire de Westmount a manqué de respect à des employés, tranche la commission municipale",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/amende-de-2990/le-maire-de-westmount-a-manque-de-respect-a-des-employes-tranche-la-commission-municipale.php"
+    }
+   ]
+  },
+  {
    "source": "cnesst",
    "target": "fccrq",
    "weight": 1,
@@ -27986,6 +28909,18 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "genevieve-guilbault",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "gilles-belanger",
    "weight": 1,
    "stories": [
@@ -27993,6 +28928,18 @@
      "date": "2026-11-02",
      "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
      "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "greta-bedard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -28154,6 +29101,18 @@
   },
   {
    "source": "conseil-tresor",
+   "target": "nicolas-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
    "target": "nicolas-marceau",
    "weight": 1,
    "stories": [
@@ -28305,6 +29264,18 @@
      "date": "2026-11-10",
      "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    }
+   ]
+  },
+  {
+   "source": "conseil-tresor",
+   "target": "stq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -28886,18 +29857,6 @@
   },
   {
    "source": "cour-supreme-canada",
-   "target": "francois-legault",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-18",
-     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
-     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
-    }
-   ]
-  },
-  {
-   "source": "cour-supreme-canada",
    "target": "justice-canada",
    "weight": 1,
    "stories": [
@@ -28929,6 +29888,18 @@
      "date": "2026-11-18",
      "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
      "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    }
+   ]
+  },
+  {
+   "source": "cour-supreme-canada",
+   "target": "simon-jolin-barrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
     }
    ]
   },
@@ -32210,6 +33181,18 @@
   },
   {
    "source": "francois-legault",
+   "target": "simon-jolin-barrette",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    }
+   ]
+  },
+  {
+   "source": "francois-legault",
    "target": "stephane-paquet",
    "weight": 1,
    "stories": [
@@ -32726,13 +33709,25 @@
   },
   {
    "source": "genevieve-guilbault",
-   "target": "stq",
+   "target": "greta-bedard",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-20",
-     "headline": "Remplacer trois traversiers de la STQ coûtera deux fois plus cher que prévu",
-     "url": "https://ici.radio-canada.ca/article/info/2301874/couts-remplacement-traversiers-stq"
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "genevieve-guilbault",
+   "target": "nicolas-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
     }
    ]
   },
@@ -32961,18 +33956,6 @@
      "date": "2026-10-27",
      "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
      "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    }
-   ]
-  },
-  {
-   "source": "greta-bedard",
-   "target": "nicolas-girard",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
     }
    ]
   },
@@ -33525,6 +34508,18 @@
      "date": "2026-11-07",
      "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
      "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "jean-pellerin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
     }
    ]
   },
@@ -34609,18 +35604,6 @@
    ]
   },
   {
-   "source": "jean-francois-bergeron-lq",
-   "target": "loto-quebec",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-20",
-     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
-     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
-    }
-   ]
-  },
-  {
    "source": "jean-francois-boivin",
    "target": "luc-boivin",
    "weight": 1,
@@ -35025,6 +36008,42 @@
      "date": "2026-10-21",
      "headline": "Conseil des ministres : de l’expérience aux postes clés",
      "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    }
+   ]
+  },
+  {
+   "source": "joel-arseneau",
+   "target": "pcq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    }
+   ]
+  },
+  {
+   "source": "joel-arseneau",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
+    }
+   ]
+  },
+  {
+   "source": "joel-arseneau",
+   "target": "qs",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Québec solidaire n’a pas encore obtenu son statut de groupe parlementaire reconnu",
+     "url": "https://ici.radio-canada.ca/article/info/2302220/quebec-solidaire-statut-groupe-parlementaire"
     }
    ]
   },
@@ -37585,6 +38604,18 @@
    ]
   },
   {
+   "source": "mission-gestion-construction",
+   "target": "mobilite-infra-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Négociations des ententes du tramway: Un contrat d’accompagnement signé",
+     "url": "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe"
+    }
+   ]
+  },
+  {
    "source": "mmfim",
    "target": "pauline-marois",
    "weight": 1,
@@ -37766,6 +38797,18 @@
   },
   {
    "source": "msi",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "msi",
    "target": "stq",
    "weight": 1,
    "stories": [
@@ -37773,6 +38816,18 @@
      "date": "2026-11-12",
      "headline": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
      "url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois"
+    }
+   ]
+  },
+  {
+   "source": "msi",
+   "target": "surete-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php"
     }
    ]
   },
@@ -38149,18 +39204,6 @@
    ]
   },
   {
-   "source": "nicolas-girard",
-   "target": "stq",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
-    }
-   ]
-  },
-  {
    "source": "nicolas-marceau",
    "target": "pier-luc-bujold",
    "weight": 1,
@@ -38450,25 +39493,37 @@
   },
   {
    "source": "pascal-berube",
-   "target": "pq",
+   "target": "pcq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-12",
-     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
-     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
   {
    "source": "pascal-berube",
-   "target": "qs",
+   "target": "plq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-12",
-     "headline": "PQ government to table bill restricting access to English-language CEGEPs — but will it pass?",
-     "url": "https://www.cbc.ca/news/canada/montreal/pq-quebec-language-bills-2027-berube-9.7418373"
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
+    }
+   ]
+  },
+  {
+   "source": "pascal-berube",
+   "target": "sol-zanetti",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Le PQ va de l’avant avec la loi 101 au cégep, même sans appuis chez les partis d’opposition",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition"
     }
    ]
   },
@@ -38714,18 +39769,6 @@
   },
   {
    "source": "pcq",
-   "target": "sol-zanetti",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    }
-   ]
-  },
-  {
-   "source": "pcq",
    "target": "stephanie-martin",
    "weight": 1,
    "stories": [
@@ -38941,18 +39984,6 @@
    ]
   },
   {
-   "source": "plq",
-   "target": "sol-zanetti",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
-    }
-   ]
-  },
-  {
    "source": "pomerleau",
    "target": "vitreco",
    "weight": 1,
@@ -38997,18 +40028,6 @@
      "date": "2026-11-02",
      "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
      "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    }
-   ]
-  },
-  {
-   "source": "pq",
-   "target": "sol-zanetti",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
@@ -39230,6 +40249,18 @@
   },
   {
    "source": "pspp",
+   "target": "surete-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Constables spéciaux comme gardes du corps – La police n’assurera plus la protection rapprochée de Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-20/constables-speciaux-comme-gardes-du-corps/la-police-n-assurera-plus-la-protection-rapprochee-de-paul-st-pierre-plamondon.php"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
    "target": "sylvain-beaudry",
    "weight": 1,
    "stories": [
@@ -39357,18 +40388,6 @@
      "date": "2026-11-01",
      "headline": "Des élections partielles déclenchées dans six circonscriptions fédérales",
      "url": "https://ici.radio-canada.ca/nouvelle/2297401/elections-partielles-federal-canada-carney"
-    }
-   ]
-  },
-  {
-   "source": "qs",
-   "target": "sol-zanetti",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
     }
    ]
   },
