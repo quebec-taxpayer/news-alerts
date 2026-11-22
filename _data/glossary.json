@@ -487,6 +487,24 @@
     "Commission municipale",
     "CMQ"
    ]
+  },
+  {
+   "id": "sqi",
+   "term_en": "Société québécoise des infrastructures (SQI)",
+   "term_fr": "Société québécoise des infrastructures (SQI)",
+   "def_en": "A Quebec government body created in 2013. It helps public bodies manage their public infrastructure projects, and it develops, maintains and manages buildings that it makes available to them.",
+   "def_fr": "Organisme créé par le gouvernement du Québec en 2013. Il soutient les organismes publics dans la gestion de leurs projets d’infrastructure publique, et il développe, entretient et gère des immeubles qu’il met à leur disposition.",
+   "source_en": "https://www.sqi.gouv.qc.ca/a-propos/mission-vision-et-valeurs",
+   "source_fr": "https://www.sqi.gouv.qc.ca/a-propos/mission-vision-et-valeurs",
+   "source_label": "Société québécoise des infrastructures – Mission, vision et valeurs",
+   "match_en": [
+    "Société québécoise des infrastructures",
+    "SQI"
+   ],
+   "match_fr": [
+    "Société québécoise des infrastructures",
+    "SQI"
+   ]
   }
  ]
 }

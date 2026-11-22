@@ -1553,6 +1553,56 @@
    "category": "health",
    "importance": 2,
    "title_en": "Psychiatric care remains available in Thetford Mines, Santé Québec says"
+  },
+  "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "Two hospital expansion bills quietly increased over the summer"
+  },
+  "https://ici.radio-canada.ca/article/info/2302122/hmr-chantier-amiante-hopital-maisonneuve-rosemont": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Asbestos on the Maisonneuve-Rosemont construction site worries a daycare centre"
+  },
+  "https://www.journaldemontreal.com/2026/11/21/rien-ne-va-plus--la-popularite-des-casinos-a-grimpe-en-fleche-au-quebec": {
+   "category": "crown-it",
+   "importance": 4,
+   "title_en": "No more bets: the popularity of casinos has soared in Quebec"
+  },
+  "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-21/allegations-de-racisme-au-poste-39/deux-ex-policiers-du-spvm-accuses-au-criminel.php": {
+   "category": "justice",
+   "importance": 4,
+   "title_en": "Allegations of racism at Station 39 – Two former SPVM officers charged criminally"
+  },
+  "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661": {
+   "category": "government",
+   "importance": 3,
+   "title_fr": "Le populaire PEQ du Québec est de nouveau fermé. Les gens qui comptent sur lui veulent des réponses"
+  },
+  "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "Student exchange program – Quebec wants to be the sole manager of the Erasmus+ project"
+  },
+  "https://www.ledevoir.com/politique/quebec/1026860/liberaux-lancent-comite-travail-vue-sommet-itinerance": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "The Liberals launch a working committee ahead of the Summit on Homelessness"
+  },
+  "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Students consider an unlimited strike during the winter semester"
+  },
+  "https://ici.radio-canada.ca/article/info/2302297/equite-salariale-30-ans-quebec-lois": {
+   "category": "government",
+   "importance": 2,
+   "title_en": "30 years later, what is the record of the Pay Equity Act?"
+  },
+  "https://ici.radio-canada.ca/article/info/2302309/infirmier-hausse-conge-maladie-invalidite": {
+   "category": "health",
+   "importance": 2,
+   "title_en": "Sick leave and disability hours on the rise among nurses in the region"
   }
  }
 }

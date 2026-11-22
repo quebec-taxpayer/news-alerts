@@ -1934,7 +1934,8 @@
    "name": "Le Québec, c’est nous aussi",
    "type": "organization",
    "aliases": [
-    "Le Québec, c'est nous aussi"
+    "Le Québec, c'est nous aussi",
+    "Le Quebec c'est nous aussi"
    ]
   },
   "eleni-yiannakis": {
@@ -3222,6 +3223,46 @@
    "aliases": [
     "Dubreuil"
    ]
+  },
+  "iucpq": {
+   "name": "Institut universitaire de cardiologie et de pneumologie de Québec",
+   "type": "organization",
+   "aliases": [
+    "IUCPQ"
+   ]
+  },
+  "hopital-maisonneuve-rosemont": {
+   "name": "Hôpital Maisonneuve-Rosemont",
+   "type": "organization",
+   "aliases": [
+    "Maisonneuve-Rosemont"
+   ]
+  },
+  "cai": {
+   "name": "Commission d’accès à l’information",
+   "type": "organization",
+   "aliases": [
+    "CAI"
+   ]
+  },
+  "james-hughes": {
+   "name": "James Hughes",
+   "type": "person",
+   "aliases": [
+    "Hughes"
+   ]
+  },
+  "louise-harel": {
+   "name": "Louise Harel",
+   "type": "person",
+   "aliases": [
+    "Harel"
+   ]
+  },
+  "observatoire-quebecois-inegalites": {
+   "name": "Observatoire québécois des inégalités",
+   "type": "organization",
+   "aliases": []
   }
  },
  "stories": [
@@ -6932,6 +6973,112 @@
    "dossiers": [
     "sante-quebec"
    ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq",
+   "entities": [
+    "hotel-dieu-levis",
+    "iucpq",
+    "sqi",
+    "conseil-tresor"
+   ],
+   "dossiers": [
+    "hospital-projects"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302122/hmr-chantier-amiante-hopital-maisonneuve-rosemont",
+   "entities": [
+    "sqi",
+    "hopital-maisonneuve-rosemont",
+    "sante-quebec"
+   ],
+   "dossiers": [
+    "hospital-projects"
+   ]
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/21/rien-ne-va-plus--la-popularite-des-casinos-a-grimpe-en-fleche-au-quebec",
+   "entities": [
+    "loto-quebec",
+    "cai"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "loto-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-21/allegations-de-racisme-au-poste-39/deux-ex-policiers-du-spvm-accuses-au-criminel.php",
+   "entities": [
+    "spvm",
+    "dpcp",
+    "soraya-martinez-ferrada"
+   ],
+   "dossiers": [
+    "spvm-pdq39"
+   ]
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661",
+   "entities": [
+    "catherine-gentilcore",
+    "pq",
+    "caq",
+    "le-quebec-cest-nous-aussi"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php",
+   "entities": [
+    "elsie-lefebvre",
+    "union-europeenne",
+    "gouv-canada",
+    "pspp"
+   ],
+   "dossiers": [
+    "canada-eu-summit"
+   ]
+  },
+  {
+   "match": "https://www.ledevoir.com/politique/quebec/1026860/liberaux-lancent-comite-travail-vue-sommet-itinerance",
+   "entities": [
+    "plq",
+    "charles-milliard",
+    "james-hughes",
+    "pspp",
+    "pauline-marois"
+   ],
+   "dossiers": [
+    "homelessness"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver",
+   "entities": [
+    "crues",
+    "uqam",
+    "elsie-lefebvre"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302297/equite-salariale-30-ans-quebec-lois",
+   "entities": [
+    "louise-harel",
+    "cnesst",
+    "observatoire-quebecois-inegalites"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302309/infirmier-hausse-conge-maladie-invalidite",
+   "entities": [
+    "sante-quebec",
+    "cnesst"
+   ],
+   "dossiers": []
   }
  ]
 }

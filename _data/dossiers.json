@@ -2171,6 +2171,17 @@
      "source_type": "media",
      "post": "2026-11-11",
      "background": false
+    },
+    {
+     "date": "2026-11-22",
+     "en": "The Quebec Liberal Party creates a six-MNA working committee, chaired by homelessness critic James Hughes, to tour the regions ahead of the Summit on Homelessness planned for early 2027, La Presse Canadienne reports in Le Devoir.",
+     "fr": "Le Parti libéral du Québec crée un comité de travail de six députés, présidé par le porte-parole en matière d’itinérance James Hughes, qui fera une tournée des régions en vue du Sommet sur l’itinérance prévu au début de 2027, rapporte La Presse Canadienne dans Le Devoir.",
+     "source_title": "Les libéraux lancent un comité de travail en vue du Sommet sur l’itinérance",
+     "source_outlet": "Le Devoir",
+     "source_url": "https://www.ledevoir.com/politique/quebec/1026860/liberaux-lancent-comite-travail-vue-sommet-itinerance",
+     "source_type": "media",
+     "post": "2026-11-22",
+     "background": false
     }
    ],
    "tldr": {
@@ -2183,8 +2194,8 @@
      "fr": "L’argent paie de l’hébergement et de l’aide aux personnes sans logis pendant les mois froids."
     },
     "now": {
-     "en": "Ottawa has announced new money against homelessness. Quebec wants its share paid quickly and without conditions, and the premier plans to raise it with the prime minister. Mayors want the money to reach people fast.",
-     "fr": "Ottawa a annoncé de nouvelles sommes contre l’itinérance. Québec veut recevoir sa part rapidement et sans condition, et le premier ministre compte en parler au premier ministre canadien. Les maires veulent que l’argent arrive vite."
+     "en": "Ottawa has announced new money against homelessness, and Quebec wants its share without conditions. A Summit on Homelessness is planned for early 2027; the Liberal opposition has formed a committee to prepare for it and urges the government to secure funding for community groups now.",
+     "fr": "Ottawa a annoncé de nouvelles sommes contre l’itinérance, et Québec veut sa part sans conditions. Un Sommet sur l’itinérance est prévu au début de 2027; l’opposition libérale a formé un comité pour s’y préparer et presse le gouvernement de sécuriser dès maintenant le financement des organismes."
     }
    }
   },
@@ -3023,8 +3034,8 @@
      "fr": "Québec dit que les discussions touchent ses champs de compétence. Ottawa dit qu’il s’agit d’un sommet fédéral et qu’un discours créerait un précédent."
     },
     "now": {
-     "en": "Government sources say Carney and St-Pierre Plamondon will have their first in-person meeting in Phnom Penh during the Francophonie Summit (Nov. 12–17). A later meeting in Quebec City could follow before year-end.",
-     "fr": "Des sources gouvernementales disent que M. Carney et M. St-Pierre Plamondon auront leur premier tête-à-tête à Phnom Penh, pendant le Sommet de la Francophonie (12-17 novembre). Une rencontre ultérieure à Québec pourrait suivre d’ici la fin de l’année."
+     "en": "After the summit, Ottawa is negotiating with the European Union to expand Canada’s participation in the Erasmus+ student exchange program. Quebec supports the idea in principle but wants to manage it alone on its territory, or opt out with full compensation.",
+     "fr": "Après le sommet, Ottawa négocie avec l’Union européenne pour élargir la participation canadienne au programme d’échange étudiant Erasmus+. Québec appuie l’idée sur le principe, mais veut en être le seul gestionnaire sur son territoire ou s’en retirer avec pleine compensation."
     }
    },
    "events": [
@@ -3081,6 +3092,17 @@
      "source_url": "https://www.lapresse.ca/actualites/politique/2026-10-31/entrevue-exclusive-avec-mark-carney/nous-pouvons-travailler-ensemble.php",
      "source_type": "media",
      "post": "2026-10-31",
+     "background": false
+    },
+    {
+     "date": "2026-11",
+     "en": "Higher Education Minister Elsie Lefebvre’s office says Quebec supports in principle Ottawa’s negotiations with the EU to expand Canada’s participation in Erasmus+, announced at the summit, but wants to manage it alone on its territory or opt out with full compensation, La Presse reports.",
+     "fr": "Le cabinet de la ministre de l’Enseignement supérieur, Elsie Lefebvre, appuie sur le principe les négociations d’Ottawa avec l’UE pour élargir la participation canadienne à Erasmus+, annoncées au sommet, mais Québec veut en être le seul gestionnaire sur son territoire ou s’en retirer avec pleine compensation, rapporte La Presse.",
+     "source_title": "Programme d’échange étudiant – Le Québec veut être le seul maître d’œuvre du chantier Erasmus+",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php",
+     "source_type": "media",
+     "post": "2026-11-22",
      "background": false
     },
     {
@@ -3143,8 +3165,8 @@
      "fr": "La population doit pouvoir compter sur la police pour protéger la preuve. La mairesse dit que sa confiance est ébranlée."
     },
     "now": {
-     "en": "Seven SPVM officers, five of them from this station, were fired on Nov. 2; the police union says it will contest the dismissals, and the DPCP will decide on criminal charges. A criminal investigation into the officer who allegedly deleted a video is under way, and an action plan is expected in November or December. On Nov. 8, about sixty protesters outside the station called the dismissals insufficient.",
-     "fr": "Sept policiers du SPVM, dont cinq de ce poste, ont été congédiés le 2 novembre; la Fraternité annonce qu’elle contestera ces congédiements, et le DPCP décidera des accusations criminelles. Une enquête criminelle sur le policier qui aurait effacé une vidéo est en cours, et un plan d’action est attendu en novembre ou en décembre. Le 8 novembre, une soixantaine de manifestants devant le poste ont jugé ces congédiements insuffisants."
+     "en": "On Nov. 21, the DPCP charged two of the seven officers fired on Nov. 2 with assault and breach of trust; one also faces a criminal harassment charge. The charges have not been proven in court. The police union says it will contest the dismissals.",
+     "fr": "Le 21 novembre, le DPCP a accusé deux des sept policiers congédiés le 2 novembre de voies de fait et d’abus de confiance; l’un fait aussi face à une accusation de harcèlement criminel. Les accusations n’ont pas été prouvées en cour. Le syndicat des policiers dit qu’il contestera les congédiements."
     }
    },
    "events": [
@@ -3234,6 +3256,17 @@
      "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-16/projet-montreal-veut-un-responsable-charge-de-la-lutte-contre-le-racisme.php",
      "source_type": "media",
      "post": "2026-11-16",
+     "background": false
+    },
+    {
+     "date": "2026-11-21",
+     "en": "The DPCP charges two of the seven officers fired on Nov. 2 with assault and breach of trust, one of them also with criminal harassment; the alleged acts date from Sept. 30, 2025, and have not been proven in court, La Presse reports.",
+     "fr": "Le DPCP accuse deux des sept policiers congédiés le 2 novembre de voies de fait et d’abus de confiance, l’un d’eux aussi de harcèlement criminel; les faits reprochés remonteraient au 30 septembre 2025 et n’ont pas été prouvés en cour, rapporte La Presse.",
+     "source_title": "Allégations de racisme au poste 39 – Deux ex-policiers du SPVM accusés au criminel",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-21/allegations-de-racisme-au-poste-39/deux-ex-policiers-du-spvm-accuses-au-criminel.php",
+     "source_type": "media",
+     "post": "2026-11-22",
      "background": false
     }
    ]
@@ -4046,6 +4079,17 @@
    ],
    "events": [
     {
+     "date": "2025-08",
+     "en": "In a decision on an access-to-information request by Le Journal’s investigative bureau, the Commission d’accès à l’information cites Loto-Québec figures: 109 gaming establishments within 10 hours’ drive of Montreal, versus 47 in 2003, and writes that the Crown corporation faces fierce competition, Le Journal de Montréal reports.",
+     "fr": "Dans une décision liée à une demande d’accès à l’information du Bureau d’enquête du Journal, la Commission d’accès à l’information cite des chiffres de Loto-Québec : 109 établissements de jeu à moins de 10 heures de route de Montréal, contre 47 en 2003, et écrit que la société d’État fait face à une concurrence féroce, rapporte Le Journal de Montréal.",
+     "source_title": "Rien ne va plus: la popularité des casinos a grimpé en flèche au Québec",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/21/rien-ne-va-plus--la-popularite-des-casinos-a-grimpe-en-fleche-au-quebec",
+     "source_type": "media",
+     "post": "2026-11-22",
+     "background": false
+    },
+    {
      "date": "2026-10",
      "en": "Rimouski officials and public health question Loto-Québec’s decision to keep the 57 video lottery terminals in the city’s bars ahead of a gaming hall opening in 2027, CBC News reports.",
      "fr": "Des élus et la santé publique de Rimouski remettent en question la décision de Loto-Québec de garder les 57 appareils de loterie vidéo des bars de la ville avant l’ouverture d’un salon de jeux en 2027, rapporte CBC News.",
@@ -4089,10 +4133,74 @@
      "fr": "Loto-Québec est une importante source de revenus pour le gouvernement, et les casinos et salons de jeux en rapportent une part croissante. Des exploitants privés toucheront une part des revenus des tables de jeu des nouveaux salons."
     },
     "now": {
-     "en": "Casinos and gaming halls brought in 42% of Loto-Québec’s revenue last year but only 32% of its profit, Le Journal de Montréal reports. The Crown corporation no longer discloses each casino’s results or its online gaming revenue.",
-     "fr": "Les casinos et salons de jeux ont rapporté 42 % des revenus de Loto-Québec l’an dernier, mais seulement 32 % de son bénéfice, rapporte Le Journal de Montréal. La société d’État ne divulgue plus les résultats de chaque casino ni ses revenus de jeu en ligne."
+     "en": "Casinos and gaming halls brought in 42% of Loto-Québec’s revenue last year but only 32% of its profit, and the Crown corporation no longer discloses each casino’s results. It faces fierce competition: by its own figures, 109 gaming establishments are within 10 hours’ drive of Montreal, versus 47 in 2003.",
+     "fr": "Les casinos et salons de jeux ont rapporté 42 % des revenus de Loto-Québec l’an dernier, mais seulement 32 % de son bénéfice, et la société d’État ne divulgue plus les résultats de chaque casino. Elle fait face à une concurrence féroce : selon ses propres chiffres, 109 établissements de jeu se trouvent à moins de 10 heures de route de Montréal, contre 47 en 2003."
     }
    }
+  },
+  {
+   "id": "hospital-projects",
+   "name_en": "Hospital construction projects: costs and delays",
+   "name_fr": "Chantiers d’hôpitaux : coûts et délais",
+   "desc_en": "How the costs, schedules and transparency of major hospital expansion and rebuilding projects in Quebec are changing.",
+   "desc_fr": "Comment évoluent les coûts, les échéanciers et la transparence des grands projets d’agrandissement et de reconstruction d’hôpitaux au Québec.",
+   "entities": [
+    "sqi",
+    "hotel-dieu-levis",
+    "iucpq",
+    "hopital-maisonneuve-rosemont",
+    "conseil-tresor",
+    "sante-quebec"
+   ],
+   "tldr": {
+    "what": {
+     "en": "Quebec is expanding or rebuilding several hospitals, including Hôtel-Dieu de Lévis, the IUCPQ in Quebec City and Maisonneuve-Rosemont in Montreal. The Société québécoise des infrastructures (SQI) manages or co-manages these projects.",
+     "fr": "Le Québec agrandit ou reconstruit plusieurs hôpitaux, dont l’Hôtel-Dieu de Lévis, l’IUCPQ à Québec et Maisonneuve-Rosemont à Montréal. La Société québécoise des infrastructures (SQI) gère ou cogère ces projets."
+    },
+    "why": {
+     "en": "These projects are paid for with public money, and their costs and schedules can change along the way. Changes appear on a Treasury Board online dashboard, sometimes without any announcement.",
+     "fr": "Ces projets sont payés avec des fonds publics, et leurs coûts et échéanciers peuvent changer en cours de route. Les changements paraissent au tableau de bord en ligne du Conseil du trésor, parfois sans aucune annonce."
+    },
+    "now": {
+     "en": "The cost of the Hôtel-Dieu de Lévis expansion rose to $530.4 million and the IUCPQ’s new pavilion to $73.6 million, without announcement. At Maisonneuve-Rosemont, asbestos found in parts of the site worries a neighbouring daycare centre.",
+     "fr": "Le coût de l’agrandissement de l’Hôtel-Dieu de Lévis est passé à 530,4 millions de dollars et celui du nouveau pavillon de l’IUCPQ à 73,6 millions, sans annonce. À Maisonneuve-Rosemont, de l’amiante trouvé dans des zones du chantier inquiète un CPE voisin."
+    }
+   },
+   "events": [
+    {
+     "date": "2026-07",
+     "en": "The cost of the IUCPQ’s new pavilion J rises from $66.4 million to $73.6 million to add a floor, in an update made in July without announcement on the Treasury Board dashboard, Radio-Canada reports.",
+     "fr": "Le coût du nouveau pavillon J de l’IUCPQ passe de 66,4 à 73,6 millions de dollars pour y ajouter un étage, une mise à jour faite en juillet sans annonce au tableau de bord du Conseil du trésor, rapporte Radio-Canada.",
+     "source_title": "Deux factures d’agrandissement d’hôpitaux augmentées discrètement pendant l’été",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq",
+     "source_type": "media",
+     "post": "2026-11-22",
+     "background": false
+    },
+    {
+     "date": "2026-08",
+     "en": "A $32.7 million increase brings the cost of expanding Hôtel-Dieu de Lévis to $530.4 million, and full commissioning moves from November 2030 to September 2031; the update is made in August without announcement, Radio-Canada reports.",
+     "fr": "Une hausse de 32,7 millions de dollars porte à 530,4 millions le coût de l’agrandissement de l’Hôtel-Dieu de Lévis, dont la mise en service complète passe de novembre 2030 à septembre 2031; la mise à jour est faite en août sans annonce, rapporte Radio-Canada.",
+     "source_title": "Deux factures d’agrandissement d’hôpitaux augmentées discrètement pendant l’été",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq",
+     "source_type": "media",
+     "post": "2026-11-22",
+     "background": false
+    },
+    {
+     "date": "2026-11",
+     "en": "Excavation by the SQI for the new Maisonneuve-Rosemont Hospital finds asbestos in some areas of the site; Montreal public health considers the risk very low, while a neighbouring daycare centre asks for more transparency, Radio-Canada reports.",
+     "fr": "Les travaux d’excavation de la SQI pour le nouvel Hôpital Maisonneuve-Rosemont révèlent de l’amiante dans certaines zones du chantier; la santé publique de Montréal juge le risque très faible, tandis qu’un CPE voisin réclame plus de transparence, rapporte Radio-Canada.",
+     "source_title": "La présence d’amiante sur le chantier de Maisonneuve-Rosemont inquiète un CPE",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302122/hmr-chantier-amiante-hopital-maisonneuve-rosemont",
+     "source_type": "media",
+     "post": "2026-11-22",
+     "background": false
+    }
+   ]
   }
  ]
 }

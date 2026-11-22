@@ -67,7 +67,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-18": ["it-digital", "crown-corporations"],
  "2026-11-19": ["crown-corporations", "procurement"],
  "2026-11-20": ["crown-corporations", "procurement"],
- "2026-11-21": ["crown-corporations", "procurement"]}
+ "2026-11-21": ["crown-corporations", "procurement"],
+ "2026-11-22": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -134,6 +135,8 @@ SUMMARY = {
                 "Replacing three STQ ferries will cost nearly double; Loto-Québec prepares two “mini-casinos”; the Gaspé region fears for its railway after the $65-billion PQI gap; Santé Québec head-office staff seek to unionize; a borough mayor leaves Soraya Martinez Ferrada’s party."),
  "2026-11-21": ("Le gouvernement caquiste savait depuis novembre 2025 que trois traversiers coûteraient plus du double, selon Le Journal; les casinos pèsent de plus en plus dans les revenus de Loto-Québec; Mobilité Infra Québec signe un contrat de gré à gré pour le tramway; la SQ ne protège plus le premier ministre au quotidien.",
                 "The CAQ government knew since November 2025 that three ferries would cost more than double, Le Journal reports; casinos weigh more and more in Loto-Québec’s revenue; Mobilité Infra Québec signs an untendered tramway contract; the SQ no longer protects the premier day to day."),
+ "2026-11-22": ("Les coûts de deux agrandissements d’hôpitaux ont augmenté sans annonce pendant l’été; Loto-Québec fait face à une concurrence de plus en plus vive; deux ex-policiers du poste 39 du SPVM sont accusés au criminel; Québec veut gérer seul Erasmus+ sur son territoire.",
+                "The costs of two hospital expansions rose without announcement over the summer; Loto-Québec faces ever-fiercer competition; two former SPVM Station 39 officers are criminally charged; Quebec wants to manage Erasmus+ alone on its territory."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

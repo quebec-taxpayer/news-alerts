@@ -380,6 +380,32 @@
    "status_source_outlet": "TVA Nouvelles",
    "status_source_url": "https://www.tvanouvelles.ca/2026/11/21/le-pq-va-de-lavant-avec-la-loi-101-au-cegep-meme-sans-appuis-chez-les-partis-dopposition",
    "status_source_date": "2026-11-21"
+  },
+  {
+   "id": "hotel-dieu-levis-cost",
+   "dossier": "hospital-projects",
+   "type": "cost",
+   "status": "in_progress",
+   "item_en": "Hôtel-Dieu de Lévis expansion: cost in the March 2026 budget vs latest cost",
+   "item_fr": "Agrandissement de l’Hôtel-Dieu de Lévis : coût au budget de mars 2026 vs dernier coût",
+   "announced_en": "$497.7 million, the total cost shown in the March 2026 budget, with commissioning planned for November 2030",
+   "announced_fr": "497,7 M$, le coût total inscrit au budget de mars 2026, avec une mise en service prévue en novembre 2030",
+   "announced_source_title": "Deux factures d’agrandissement d’hôpitaux augmentées discrètement pendant l’été",
+   "announced_source_outlet": "Radio-Canada",
+   "announced_source_url": "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq",
+   "actual_en": "$530.4 million after a $32.7 million increase entered without announcement in August on the Treasury Board dashboard; commissioning moved to September 2031",
+   "actual_fr": "530,4 M$ après une hausse de 32,7 M$ inscrite sans annonce en août au tableau de bord du Conseil du trésor; mise en service reportée à septembre 2031",
+   "actual_source_title": "Deux factures d’agrandissement d’hôpitaux augmentées discrètement pendant l’été",
+   "actual_source_outlet": "Radio-Canada",
+   "actual_source_url": "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq",
+   "actual_date": "2026-11-22",
+   "updated": "2026-11-22",
+   "status_evidence_en": "The call for tenders for the construction work concluded in September, and work began this fall.",
+   "status_evidence_fr": "L’appel d’offres pour les travaux de construction s’est conclu en septembre, et les travaux ont été lancés cet automne.",
+   "status_source_title": "Deux factures d’agrandissement d’hôpitaux augmentées discrètement pendant l’été",
+   "status_source_outlet": "Radio-Canada",
+   "status_source_url": "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq",
+   "status_source_date": "2026-11-22"
   }
  ]
 }
