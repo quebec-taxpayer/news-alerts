@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-22T15:37:35Z",
+ "generated": "2026-11-23T15:32:12Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 323,
+ "story_count": 333,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -3386,6 +3386,103 @@
      ]
     }
    ]
+  },
+  "2026-11-23": {
+   "post": "/2026/11/23/digest/",
+   "stories": [
+    {
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david",
+     "entities": [
+      "assemblee-nationale",
+      "charles-iii",
+      "cour-superieure",
+      "ian-demers",
+      "lawrence-david",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Quebec students open door to unlimited strike, give PQ government February deadline",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-strikes-affordability-9.7432174",
+     "entities": [
+      "crues",
+      "elsie-lefebvre"
+     ]
+    },
+    {
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse",
+     "entities": [
+      "claude-pinard",
+      "soraya-martinez-ferrada",
+      "ville-montreal"
+     ]
+    },
+    {
+     "headline": "[CARTE INTERACTIVE] Voici 63 chantiers routiers partout au Québec reportés d'un an en raison de la grève des ingénieurs de l'été dernier",
+     "url": "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs",
+     "entities": [
+      "apigq",
+      "mtmd"
+     ]
+    },
+    {
+     "headline": "Tunnel Louis-Hippolyte-La Fontaine – Deux voies par direction seront ouvertes à partir du 14 décembre",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-23/tunnel-louis-hippolyte-la-fontaine/deux-voies-par-direction-seront-ouvertes-a-partir-du-14-decembre.php",
+     "entities": [
+      "mtmd"
+     ]
+    },
+    {
+     "headline": "Un nouvel appel d’offres lancé pour le prolongement de l’autoroute 70 vers La Baie",
+     "url": "https://ici.radio-canada.ca/article/info/2302232/lien-routier-chemin-saguenay",
+     "entities": [
+      "mtmd"
+     ]
+    },
+    {
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement",
+     "entities": [
+      "marie-claude-bibeau",
+      "nicolas-girard",
+      "stl",
+      "sts"
+     ]
+    },
+    {
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec",
+     "entities": [
+      "francois-legault",
+      "hydro-quebec",
+      "meie",
+      "pierre-fitzgibbon",
+      "reseau-allege-quebec"
+     ]
+    },
+    {
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar",
+     "entities": [
+      "boisaco",
+      "domtar",
+      "julien-normand",
+      "mrnf",
+      "natalie-bisaillon",
+      "unifor"
+     ]
+    },
+    {
+     "headline": "La Santé publique s’inquiète de l’augmentation de l’offre de jeu dans les casinos",
+     "url": "https://www.journaldemontreal.com/2026/11/21/la-sante-publique-sinquiete-de-laugmentation-de-loffre-de-jeu-dans-les-casinos",
+     "entities": [
+      "loto-quebec",
+      "ville-rimouski"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -3397,7 +3494,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 71,
+   "mentions": 72,
    "stories": [
     {
      "date": "2026-10-21",
@@ -3753,6 +3850,11 @@
      "date": "2026-11-22",
      "headline": "Les libéraux lancent un comité de travail en vue du Sommet sur l’itinérance",
      "url": "https://www.ledevoir.com/politique/quebec/1026860/liberaux-lancent-comite-travail-vue-sommet-itinerance"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -4006,7 +4108,7 @@
    "aliases": [
     "HQ"
    ],
-   "mentions": 32,
+   "mentions": 33,
    "stories": [
     {
      "date": "2026-10-21",
@@ -4167,6 +4269,11 @@
      "date": "2026-11-21",
      "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
      "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
     }
    ]
   },
@@ -4781,7 +4888,7 @@
    "name": "Soraya Martinez Ferrada",
    "type": "person",
    "aliases": [],
-   "mentions": 15,
+   "mentions": 16,
    "stories": [
     {
      "date": "2026-10-22",
@@ -4857,6 +4964,11 @@
      "date": "2026-11-22",
      "headline": "Allégations de racisme au poste 39 – Deux ex-policiers du SPVM accusés au criminel",
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-21/allegations-de-racisme-au-poste-39/deux-ex-policiers-du-spvm-accuses-au-criminel.php"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
     }
    ]
   },
@@ -5262,6 +5374,226 @@
    ]
   },
   {
+   "id": "ville-montreal",
+   "name": "Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "City of Montreal"
+   ],
+   "mentions": 13,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
+     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Une coroner recommande d’interdire l’accès à la digue bordant la plage de Verdun",
+     "url": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Réfection d’un pont de l’autoroute 520 – Québec réclame sept millions à Dorval",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Locker room at Montreal’s Olympic sports complex 'falling apart' just months after reno",
+     "url": "https://www.cbc.ca/news/canada/montreal/complexe-sportif-claude-robillard-locker-room-issues-9.7427080"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
+    }
+   ]
+  },
+  {
+   "id": "assemblee-nationale",
+   "name": "Assemblée nationale du Québec",
+   "type": "organization",
+   "aliases": [
+    "Assemblée nationale",
+    "National Assembly"
+   ],
+   "mentions": 12,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
+     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
+   "id": "cour-superieure",
+   "name": "Cour supérieure du Québec",
+   "type": "organization",
+   "aliases": [
+    "Cour supérieure",
+    "Superior Court"
+   ],
+   "mentions": 12,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
+     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Un juge de la Cour supérieure demande sa réintégration",
+     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Ancien terrain de Northvolt – Un plan de compensation différent pour Hydro",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Québec et Ottawa ne veulent pas devoir traduire la Constitution",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-14/quebec-et-ottawa-ne-veulent-pas-devoir-traduire-la-constitution.php"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
+     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
    "id": "marie-karlynn-laflamme",
    "name": "Marie-Karlynn Laflamme",
    "type": "person",
@@ -5333,63 +5665,45 @@
    ]
   },
   {
-   "id": "ville-montreal",
-   "name": "Ville de Montréal",
+   "id": "mtmd",
+   "name": "Ministère des Transports et de la Mobilité durable",
    "type": "organization",
    "aliases": [
-    "City of Montreal"
+    "MTMD",
+    "MTQ",
+    "ministère des Transports"
    ],
-   "mentions": 12,
+   "mentions": 11,
    "stories": [
     {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+     "date": "2026-10-24",
+     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
     },
     {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+     "date": "2026-10-24",
+     "headline": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+     "date": "2026-10-24",
+     "headline": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
+     "url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon"
     },
     {
-     "date": "2026-11-03",
-     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
-     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+     "date": "2026-10-29",
+     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
     },
     {
      "date": "2026-11-09",
-     "headline": "Une coroner recommande d’interdire l’accès à la digue bordant la plage de Verdun",
-     "url": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun"
+     "headline": "De la lumière au bout du tunnel Louis-H.-La Fontaine? Quatre voies bientôt ouvertes à la circulation",
+     "url": "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation"
     },
     {
-     "date": "2026-11-11",
-     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+     "date": "2026-11-16",
+     "headline": "Exaspérée d’attendre l’A-20, Saint-Simon réclame une voie de contournement",
+     "url": "https://ici.radio-canada.ca/article/info/2300181/route-132-st-simon-autoroute-20-voie-contournement"
     },
     {
      "date": "2026-11-19",
@@ -5397,143 +5711,24 @@
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php"
     },
     {
-     "date": "2026-11-19",
-     "headline": "Locker room at Montreal’s Olympic sports complex 'falling apart' just months after reno",
-     "url": "https://www.cbc.ca/news/canada/montreal/complexe-sportif-claude-robillard-locker-room-issues-9.7427080"
-    }
-   ]
-  },
-  {
-   "id": "assemblee-nationale",
-   "name": "Assemblée nationale du Québec",
-   "type": "organization",
-   "aliases": [
-    "Assemblée nationale",
-    "National Assembly"
-   ],
-   "mentions": 11,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
-     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "La formation en éthique est optionnelle pour les nouveaux députés québécois",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298656/formation-ethique-nouveau-depute-assemblee-nationale"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Reconnaissance de Québec solidaire : rien n’a été déterminé, dit le PQ",
-     "url": "https://ici.radio-canada.ca/article/info/2300353/quebec-solidaire-parti-reconnu-parlement"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "La CAQ appuie la demande de reconnaissance de QS comme groupe parlementaire",
-     "url": "https://ici.radio-canada.ca/article/info/2301179/caq-appuie-reconnaissance-qs-groupe-parlementaire-politique"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
-    },
-    {
      "date": "2026-11-20",
-     "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
-    }
-   ]
-  },
-  {
-   "id": "cour-superieure",
-   "name": "Cour supérieure du Québec",
-   "type": "organization",
-   "aliases": [
-    "Cour supérieure",
-    "Superior Court"
-   ],
-   "mentions": 11,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+     "headline": "Le PQ priorisera-t-il la réfection du rail gaspésien?",
+     "url": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "date": "2026-11-23",
+     "headline": "[CARTE INTERACTIVE] Voici 63 chantiers routiers partout au Québec reportés d'un an en raison de la grève des ingénieurs de l'été dernier",
+     "url": "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs"
     },
     {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+     "date": "2026-11-23",
+     "headline": "Tunnel Louis-Hippolyte-La Fontaine – Deux voies par direction seront ouvertes à partir du 14 décembre",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-23/tunnel-louis-hippolyte-la-fontaine/deux-voies-par-direction-seront-ouvertes-a-partir-du-14-decembre.php"
     },
     {
-     "date": "2026-10-29",
-     "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
-     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
-     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Un juge de la Cour supérieure demande sa réintégration",
-     "url": "https://ici.radio-canada.ca/article/info/2299668/juge-claude-villeneuve-fonctions-reintegration"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Ancien terrain de Northvolt – Un plan de compensation différent pour Hydro",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Québec et Ottawa ne veulent pas devoir traduire la Constitution",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-14/quebec-et-ottawa-ne-veulent-pas-devoir-traduire-la-constitution.php"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
-     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+     "date": "2026-11-23",
+     "headline": "Un nouvel appel d’offres lancé pour le prolongement de l’autoroute 70 vers La Baie",
+     "url": "https://ici.radio-canada.ca/article/info/2302232/lien-routier-chemin-saguenay"
     }
    ]
   },
@@ -5885,55 +6080,51 @@
    ]
   },
   {
-   "id": "mtmd",
-   "name": "Ministère des Transports et de la Mobilité durable",
-   "type": "organization",
-   "aliases": [
-    "MTMD",
-    "MTQ",
-    "ministère des Transports"
-   ],
+   "id": "elsie-lefebvre",
+   "name": "Elsie Lefebvre",
+   "type": "person",
+   "aliases": [],
    "mentions": 8,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "Rapport accablant: PSPP devrait abandonner deux promesses de grands projets routiers pour financer le réseau qui se dégrade",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/rapport-accablant-pspp-devrait-abandonner-deux-promesses-de-grands-projets-routiers-pour-financer-le-reseau-qui-se-degrade"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Pont Mercier et pont de l’Île-d’Orléans : ce que « fin de vie utile » veut dire",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294443/duree-vie-infrastructure-pont-genie"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
-     "url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
     },
     {
      "date": "2026-11-09",
-     "headline": "De la lumière au bout du tunnel Louis-H.-La Fontaine? Quatre voies bientôt ouvertes à la circulation",
-     "url": "https://www.tvanouvelles.ca/2026/11/08/de-la-lumiere-au-bout-du-tunnel-louis-h-la-fontaine-quatre-voies-bientot-ouvertes-a-la-circulation"
+     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
+     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117"
     },
     {
      "date": "2026-11-16",
-     "headline": "Exaspérée d’attendre l’A-20, Saint-Simon réclame une voie de contournement",
-     "url": "https://ici.radio-canada.ca/article/info/2300181/route-132-st-simon-autoroute-20-voie-contournement"
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
     },
     {
-     "date": "2026-11-19",
-     "headline": "Réfection d’un pont de l’autoroute 520 – Québec réclame sept millions à Dorval",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php"
+     "date": "2026-11-22",
+     "headline": "Programme d’échange étudiant – Le Québec veut être le seul maître d’œuvre du chantier Erasmus+",
+     "url": "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php"
     },
     {
-     "date": "2026-11-20",
-     "headline": "Le PQ priorisera-t-il la réfection du rail gaspésien?",
-     "url": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq"
+     "date": "2026-11-22",
+     "headline": "Des étudiants songent à une grève illimitée pendant la session d’hiver",
+     "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Quebec students open door to unlimited strike, give PQ government February deadline",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-strikes-affordability-9.7432174"
     }
    ]
   },
@@ -6030,50 +6221,6 @@
    ]
   },
   {
-   "id": "elsie-lefebvre",
-   "name": "Elsie Lefebvre",
-   "type": "person",
-   "aliases": [],
-   "mentions": 7,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Liberté académique – Les profs d’université ne veulent pas d’une ministre dans leurs salles de cours",
-     "url": "https://www.lapresse.ca/actualites/education/2026-11-09/liberte-academique/les-profs-d-universite-ne-veulent-pas-d-une-ministre-dans-leurs-salles-de-cours.php"
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "Stages obligatoires rémunérés: le PQ va respecter son engagement, promet la ministre de l’Enseignement supérieur",
-     "url": "https://www.journaldequebec.com/2026/11/12/stage-obligatoires-remuneres--le-pq-va-respecter-son-engagement-promet-la-ministre-de-lenseignement-superieur"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Quebec assumes parents help pay for post-secondary schooling. Students say many can't",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-student-financial-aid-reform-9.7421117"
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
-     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
-    },
-    {
-     "date": "2026-11-22",
-     "headline": "Programme d’échange étudiant – Le Québec veut être le seul maître d’œuvre du chantier Erasmus+",
-     "url": "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php"
-    },
-    {
-     "date": "2026-11-22",
-     "headline": "Des étudiants songent à une grève illimitée pendant la session d’hiver",
-     "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
-    }
-   ]
-  },
-  {
    "id": "investissement-quebec",
    "name": "Investissement Québec",
    "type": "organization",
@@ -6162,6 +6309,50 @@
      "date": "2026-11-08",
      "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
      "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
+    }
+   ]
+  },
+  {
+   "id": "nicolas-girard",
+   "name": "Nicolas Girard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
+     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
+     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
     }
    ]
   },
@@ -6300,6 +6491,47 @@
    ]
   },
   {
+   "id": "francois-legault",
+   "name": "François Legault",
+   "type": "person",
+   "aliases": [
+    "Legault"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
+     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
+     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
    "id": "lion",
    "name": "Lion Électrique",
    "type": "organization",
@@ -6423,45 +6655,6 @@
    ]
   },
   {
-   "id": "nicolas-girard",
-   "name": "Nicolas Girard",
-   "type": "person",
-   "aliases": [],
-   "mentions": 6,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "« Le PQ semble très mêlé » : l’ajout possible d’un 2e représentant pour Québec critiqué",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295044/nicolas-girard-pq-quebec-region"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Ratés à la STQ : « C’est un dossier prioritaire », prévient Nicolas Girard",
-     "url": "https://ici.radio-canada.ca/article/info/2299552/rates-stq-dossier-prioritaire-nicolas-girard"
-    },
-    {
-     "date": "2026-11-21",
-     "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
-     "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
-    }
-   ]
-  },
-  {
    "id": "tat",
    "name": "Tribunal administratif du travail",
    "type": "organization",
@@ -6497,6 +6690,43 @@
      "date": "2026-11-19",
      "headline": "Montérégie – Les contrôleurs routiers commencent à patrouiller armés sur les routes",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-18/monteregie/les-controleurs-routiers-commencent-a-patrouiller-armes-sur-les-routes.php"
+    }
+   ]
+  },
+  {
+   "id": "charles-iii",
+   "name": "Charles III",
+   "type": "person",
+   "aliases": [
+    "roi Charles III",
+    "King Charles III"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -6573,38 +6803,36 @@
    ]
   },
   {
-   "id": "francois-legault",
-   "name": "François Legault",
-   "type": "person",
-   "aliases": [
-    "Legault"
-   ],
+   "id": "domtar",
+   "name": "Domtar",
+   "type": "organization",
+   "aliases": [],
    "mentions": 5,
    "stories": [
     {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
     },
     {
-     "date": "2026-11-18",
-     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
-     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     },
     {
      "date": "2026-11-19",
-     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
-     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
     },
     {
-     "date": "2026-11-21",
-     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
-     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+     "date": "2026-11-20",
+     "headline": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
+     "url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -6682,6 +6910,42 @@
    ]
   },
   {
+   "id": "loto-quebec",
+   "name": "Loto-Québec",
+   "type": "organization",
+   "aliases": [
+    "Société des loteries du Québec"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Les casinos devenus la vache à lait de Loto-Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec"
+    },
+    {
+     "date": "2026-11-22",
+     "headline": "Rien ne va plus: la popularité des casinos a grimpé en flèche au Québec",
+     "url": "https://www.journaldemontreal.com/2026/11/21/rien-ne-va-plus--la-popularite-des-casinos-a-grimpe-en-fleche-au-quebec"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "La Santé publique s’inquiète de l’augmentation de l’offre de jeu dans les casinos",
+     "url": "https://www.journaldemontreal.com/2026/11/21/la-sante-publique-sinquiete-de-laugmentation-de-loffre-de-jeu-dans-les-casinos"
+    }
+   ]
+  },
+  {
    "id": "msss",
    "name": "Ministère de la Santé et des Services sociaux",
    "type": "organization",
@@ -6752,6 +7016,40 @@
      "date": "2026-11-11",
      "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
      "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    }
+   ]
+  },
+  {
+   "id": "pierre-fitzgibbon",
+   "name": "Pierre Fitzgibbon",
+   "type": "person",
+   "aliases": [],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
+     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
+     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
     }
    ]
   },
@@ -7057,38 +7355,6 @@
    ]
   },
   {
-   "id": "charles-iii",
-   "name": "Charles III",
-   "type": "person",
-   "aliases": [
-    "roi Charles III",
-    "King Charles III"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
-    }
-   ]
-  },
-  {
    "id": "christian-dube",
    "name": "Christian Dubé",
    "type": "person",
@@ -7180,6 +7446,37 @@
    ]
   },
   {
+   "id": "crues",
+   "name": "Coalition de résistance pour l’unité étudiante syndicale",
+   "type": "organization",
+   "aliases": [
+    "CRUES"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "Thousands of Quebec students expected to strike against austerity, precarity this week",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-strike-quebec-9.7415018"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    },
+    {
+     "date": "2026-11-22",
+     "headline": "Des étudiants songent à une grève illimitée pendant la session d’hiver",
+     "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Quebec students open door to unlimited strike, give PQ government February deadline",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-strikes-affordability-9.7432174"
+    }
+   ]
+  },
+  {
    "id": "consignaction",
    "name": "Consignaction",
    "type": "organization",
@@ -7208,35 +7505,6 @@
      "date": "2026-11-09",
      "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
      "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
-    }
-   ]
-  },
-  {
-   "id": "domtar",
-   "name": "Domtar",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
-     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
-     "url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture"
     }
    ]
   },
@@ -7455,33 +7723,33 @@
    ]
   },
   {
-   "id": "loto-quebec",
-   "name": "Loto-Québec",
-   "type": "organization",
+   "id": "marie-claude-bibeau",
+   "name": "Marie-Claude Bibeau",
+   "type": "person",
    "aliases": [
-    "Société des loteries du Québec"
+    "Bibeau"
    ],
    "mentions": 4,
    "stories": [
     {
-     "date": "2026-10-31",
-     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
-     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+     "date": "2026-10-30",
+     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
     },
     {
-     "date": "2026-11-20",
-     "headline": "Loto-Québec prépare l’ouverture de «minicasinos» l'an prochain",
-     "url": "https://www.tvanouvelles.ca/2026/11/21/loto-quebec-prepare-louverture-de-mini-casinos-a-rimouski-et-jonquiere-en-2027"
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
     },
     {
-     "date": "2026-11-21",
-     "headline": "Les casinos devenus la vache à lait de Loto-Québec",
-     "url": "https://www.tvanouvelles.ca/2026/11/21/les-casinos-la-vache-a-lait-de-loto-quebec"
+     "date": "2026-11-10",
+     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
     },
     {
-     "date": "2026-11-22",
-     "headline": "Rien ne va plus: la popularité des casinos a grimpé en flèche au Québec",
-     "url": "https://www.journaldemontreal.com/2026/11/21/rien-ne-va-plus--la-popularite-des-casinos-a-grimpe-en-fleche-au-quebec"
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
     }
    ]
   },
@@ -7519,6 +7787,35 @@
    ]
   },
   {
+   "id": "natalie-bisaillon",
+   "name": "Natalie Bisaillon",
+   "type": "person",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
    "id": "oif",
    "name": "Organisation internationale de la Francophonie",
    "type": "organization",
@@ -7547,35 +7844,6 @@
      "date": "2026-11-16",
      "headline": "L'élection du secrétaire général de l'OIF reportée de 12 mois",
      "url": "https://www.lenouvelliste.ca/actualites/politique/2026/11/16/l-election-du-secretaire-general-de-l-oif-reportee-de-12-mois-KGOFD4PIMNDJNDJ5FQ3G5XZWZU/"
-    }
-   ]
-  },
-  {
-   "id": "pierre-fitzgibbon",
-   "name": "Pierre Fitzgibbon",
-   "type": "person",
-   "aliases": [],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
-     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
-     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
     }
    ]
   },
@@ -7791,6 +8059,35 @@
    ]
   },
   {
+   "id": "unifor",
+   "name": "Unifor",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
    "id": "upac",
    "name": "Unité permanente anticorruption",
    "type": "organization",
@@ -7937,6 +8234,30 @@
    ]
   },
   {
+   "id": "boisaco",
+   "name": "Boisaco",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-19",
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
+     "url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
    "id": "bruno-verreault",
    "name": "Bruno Verreault",
    "type": "person",
@@ -7981,32 +8302,6 @@
      "date": "2026-10-21",
      "headline": "Délit d’initié | Une amende salée pour un ex-investisseur bien branché chez Lion Électrique",
      "url": "https://www.lapresse.ca/affaires/entreprises/2026-10-13/delit-d-initie/une-amende-salee-pour-un-ex-investisseur-bien-branche-chez-lion-electrique.php"
-    }
-   ]
-  },
-  {
-   "id": "crues",
-   "name": "Coalition de résistance pour l’unité étudiante syndicale",
-   "type": "organization",
-   "aliases": [
-    "CRUES"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "Thousands of Quebec students expected to strike against austerity, precarity this week",
-     "url": "https://www.cbc.ca/news/canada/montreal/student-strike-quebec-9.7415018"
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
-     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
-    },
-    {
-     "date": "2026-11-22",
-     "headline": "Des étudiants songent à une grève illimitée pendant la session d’hiver",
-     "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
     }
    ]
   },
@@ -8187,6 +8482,32 @@
    ]
   },
   {
+   "id": "lawrence-david",
+   "name": "Lawrence David",
+   "type": "person",
+   "aliases": [
+    "Me Lawrence David"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
    "id": "luc-boivin",
    "name": "Luc Boivin",
    "type": "person",
@@ -8207,32 +8528,6 @@
      "date": "2026-11-13",
      "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
      "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
-    }
-   ]
-  },
-  {
-   "id": "marie-claude-bibeau",
-   "name": "Marie-Claude Bibeau",
-   "type": "person",
-   "aliases": [
-    "Bibeau"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-10-30",
-     "headline": "Critics renew concern over Quebec data centre project as U.S. developer cancels open house",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centre-sherbrooke-u-s-developer-keel-infrastructure-9.7400499"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Équiterre exige un moratoire sur les centres de données",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
     }
    ]
   },
@@ -8263,16 +8558,18 @@
    ]
   },
   {
-   "id": "natalie-bisaillon",
-   "name": "Natalie Bisaillon",
-   "type": "person",
-   "aliases": [],
+   "id": "mrnf",
+   "name": "Ministère des Ressources naturelles et des Forêts",
+   "type": "organization",
+   "aliases": [
+    "MRNF"
+   ],
    "mentions": 3,
    "stories": [
     {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
     },
     {
      "date": "2026-11-15",
@@ -8280,9 +8577,9 @@
      "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     },
     {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -8386,30 +8683,6 @@
      "date": "2026-10-29",
      "headline": "L’Ascension peut finalement commencer les travaux pour remplir le trou",
      "url": "https://ici.radio-canada.ca/nouvelle/2296505/lascension-autorisation-gouffre-trou-glissement"
-    }
-   ]
-  },
-  {
-   "id": "unifor",
-   "name": "Unifor",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
-     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
     }
    ]
   },
@@ -8639,25 +8912,6 @@
      "date": "2026-11-17",
      "headline": "Obligés de se brancher chez le voisin en attendant Hydro",
      "url": "https://www.tvanouvelles.ca/2026/11/17/obliges-de-se-brancher-chez-le-voisin-en-attendant-hydro"
-    }
-   ]
-  },
-  {
-   "id": "boisaco",
-   "name": "Boisaco",
-   "type": "organization",
-   "aliases": [],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
-     "url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture"
     }
    ]
   },
@@ -9199,6 +9453,25 @@
    ]
   },
   {
+   "id": "ian-demers",
+   "name": "Ian Demers",
+   "type": "person",
+   "aliases": [],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
    "id": "jean-francois-bergeron-lq",
    "name": "Jean-François Bergeron",
    "type": "person",
@@ -9254,27 +9527,6 @@
      "date": "2026-11-17",
      "headline": "Fiasco SAAQclic: la firme d’une consultante exclue des contrats publics pour cinq ans",
      "url": "https://www.tvanouvelles.ca/2026/11/17/fiasco-saaqclic--loulou--bannie-des-contrats-publics-pour-cinq-ans"
-    }
-   ]
-  },
-  {
-   "id": "lawrence-david",
-   "name": "Lawrence David",
-   "type": "person",
-   "aliases": [
-    "Me Lawrence David"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
     }
    ]
   },
@@ -9382,27 +9634,6 @@
      "date": "2026-11-08",
      "headline": "Une ex-fonctionnaire à l’immigration accusée de fraude, la ministre Gentilcore « choquée »",
      "url": "https://ici.radio-canada.ca/nouvelle/2299137/fraude-immigration-quebec-gentilcore"
-    }
-   ]
-  },
-  {
-   "id": "mrnf",
-   "name": "Ministère des Ressources naturelles et des Forêts",
-   "type": "organization",
-   "aliases": [
-    "MRNF"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
-    },
-    {
-     "date": "2026-11-15",
-     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
-     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -9921,6 +10152,27 @@
    ]
   },
   {
+   "id": "ville-rimouski",
+   "name": "Ville de Rimouski",
+   "type": "organization",
+   "aliases": [
+    "Rimouski"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "La Santé publique s’inquiète de l’augmentation de l’offre de jeu dans les casinos",
+     "url": "https://www.journaldemontreal.com/2026/11/21/la-sante-publique-sinquiete-de-laugmentation-de-loffre-de-jeu-dans-les-casinos"
+    }
+   ]
+  },
+  {
    "id": "ville-saguenay",
    "name": "Ville de Saguenay",
    "type": "organization",
@@ -10425,6 +10677,22 @@
      "date": "2026-10-30",
      "headline": "Aging water infrastructure is stalling housing construction throughout Quebec",
      "url": "https://www.cbc.ca/news/canada/montreal/aging-water-infrastructure-quebec-9.7401831"
+    }
+   ]
+  },
+  {
+   "id": "apigq",
+   "name": "Association professionnelle des ingénieurs du gouvernement du Québec",
+   "type": "organization",
+   "aliases": [
+    "APIGQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "[CARTE INTERACTIVE] Voici 63 chantiers routiers partout au Québec reportés d'un an en raison de la grève des ingénieurs de l'été dernier",
+     "url": "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs"
     }
    ]
   },
@@ -10942,6 +11210,20 @@
      "date": "2026-11-12",
      "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
      "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
+    }
+   ]
+  },
+  {
+   "id": "claude-pinard",
+   "name": "Claude Pinard",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
     }
    ]
   },
@@ -12082,20 +12364,6 @@
    ]
   },
   {
-   "id": "ian-demers",
-   "name": "Ian Demers",
-   "type": "person",
-   "aliases": [],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    }
-   ]
-  },
-  {
    "id": "ircc",
    "name": "Immigration, Réfugiés et Citoyenneté Canada (Immigration Canada)",
    "type": "organization",
@@ -12659,6 +12927,20 @@
      "date": "2026-11-10",
      "headline": "After deaths of 2 brothers, Quebec coroner calls for improvements to REM station fence",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-coroner-report-death-brochu-brothers-rem-brossard-9.7415319"
+    }
+   ]
+  },
+  {
+   "id": "julien-normand",
+   "name": "Julien Normand",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -13480,6 +13762,22 @@
    ]
   },
   {
+   "id": "meie",
+   "name": "Ministère de l’Économie, de l’Innovation et de l’Énergie",
+   "type": "organization",
+   "aliases": [
+    "MEIE"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
    "id": "mission-gestion-construction",
    "name": "Mission Gestion Construction",
    "type": "organization",
@@ -14148,6 +14446,22 @@
    ]
   },
   {
+   "id": "reseau-allege-quebec",
+   "name": "Réseau Allégé Québec",
+   "type": "organization",
+   "aliases": [
+    "RAQ"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
    "id": "rem",
    "name": "Réseau express métropolitain",
    "type": "organization",
@@ -14432,6 +14746,38 @@
      "date": "2026-10-29",
      "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
+    }
+   ]
+  },
+  {
+   "id": "stl",
+   "name": "Société de transport de Laval",
+   "type": "organization",
+   "aliases": [
+    "STL"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
+    }
+   ]
+  },
+  {
+   "id": "sts",
+   "name": "Société de transport de Sherbrooke",
+   "type": "organization",
+   "aliases": [
+    "STS"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
     }
    ]
   },
@@ -14853,22 +15199,6 @@
      "date": "2026-10-26",
      "headline": "Congédiement d’un lanceur d’alerte: l’UPAC enquête sur la Ville de Rigaud",
      "url": "https://www.tvanouvelles.ca/2026/12/25/congediement-dun-lanceur-dalerte-lupac-enquete-sur-la-ville-de-rigaud"
-    }
-   ]
-  },
-  {
-   "id": "ville-rimouski",
-   "name": "Ville de Rimouski",
-   "type": "organization",
-   "aliases": [
-    "Rimouski"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
-     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
     }
    ]
   },
@@ -16677,6 +17007,38 @@
    ]
   },
   {
+   "source": "assemblee-nationale",
+   "target": "pspp",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
+     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
    "source": "bruno-marchand",
    "target": "ville-quebec",
    "weight": 5,
@@ -16705,6 +17067,38 @@
      "date": "2026-11-12",
      "headline": "Garage de la Canardière : une promesse à 152 M$",
      "url": "https://ici.radio-canada.ca/article/info/2299824/requalification-garage-canardiere-couts-152-millions"
+    }
+   ]
+  },
+  {
+   "source": "charles-iii",
+   "target": "pspp",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
+     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-11-02",
+     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -17029,6 +17423,38 @@
    ]
   },
   {
+   "source": "soraya-martinez-ferrada",
+   "target": "ville-montreal",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
+    }
+   ]
+  },
+  {
    "source": "affine-lwalalika",
    "target": "plq",
    "weight": 4,
@@ -17245,33 +17671,6 @@
    ]
   },
   {
-   "source": "assemblee-nationale",
-   "target": "pspp",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Analyse, Le premier discours de PSPP au Salon bleu cause des maux de tête",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296016/discours-ouverture-pspp-assemblee-nationale-constitution-quebec"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Sommet Canada-Union européenne – Carney réplique à St-Pierre Plamondon : « C’est sa décision de laisser une chaise vide encore »",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-27/sommet-canada-union-europeenne/carney-replique-a-st-pierre-plamondon-c-est-sa-decision-de-laisser-une-chaise-vide-encore.php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Crise de l’itinérance – Une feuille de route pour Paul St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/crise-de-l-itinerance/une-feuille-de-route-pour-paul-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
-     "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
-    }
-   ]
-  },
-  {
    "source": "caq",
    "target": "conseil-tresor",
    "weight": 4,
@@ -17407,33 +17806,6 @@
    ]
   },
   {
-   "source": "charles-iii",
-   "target": "pspp",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Absente de l’assermentation des ministres, la lieutenante-gouverneure a suivi la cérémonie à la télévision",
-     "url": "https://www.tvanouvelles.ca/2026/10/21/absente-de-lassermentation-des-ministres-la-lieutenante-gouverneure-suit-la-ceremonie-a-la-television"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    },
-    {
-     "date": "2026-11-02",
-     "headline": "Mark Carney auprès du roi Charles III sur fond de fronde antimonarchiste à Québec",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297462/mark-carney-sommet-commonwealth-pspp-monarchie"
-    }
-   ]
-  },
-  {
    "source": "christian-dube",
    "target": "sante-quebec",
    "weight": 4,
@@ -17484,6 +17856,60 @@
      "date": "2026-11-12",
      "headline": "Un traversier à louer au Canada pour L’Isle-aux-Coudres?",
      "url": "https://ici.radio-canada.ca/article/info/2299697/probleme-traversiers-isle-aux-coudres-comtois"
+    }
+   ]
+  },
+  {
+   "source": "cour-superieure",
+   "target": "pspp",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
+     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
+   "source": "domtar",
+   "target": "unifor",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    },
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -17920,33 +18346,6 @@
    ]
   },
   {
-   "source": "soraya-martinez-ferrada",
-   "target": "ville-montreal",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
-    }
-   ]
-  },
-  {
    "source": "steven-blaney",
    "target": "ville-levis",
    "weight": 4,
@@ -18216,6 +18615,28 @@
    ]
   },
   {
+   "source": "boisaco",
+   "target": "domtar",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-19",
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
+     "url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
    "source": "bruno-marchand",
    "target": "mark-carney",
    "weight": 3,
@@ -18366,6 +18787,50 @@
      "date": "2026-11-18",
      "headline": "Québec Solidaire says other parties want to 'cancel' it, play hardball with official status",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-solidaire-official-party-status-national-assembly-9.7425382"
+    }
+   ]
+  },
+  {
+   "source": "charles-iii",
+   "target": "cour-superieure",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
+   "source": "charles-iii",
+   "target": "lawrence-david",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -18591,7 +19056,7 @@
   },
   {
    "source": "cour-superieure",
-   "target": "pspp",
+   "target": "lawrence-david",
    "weight": 3,
    "stories": [
     {
@@ -18605,22 +19070,39 @@
      "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
     },
     {
-     "date": "2026-11-19",
-     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
-     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
+   "source": "crues",
+   "target": "elsie-lefebvre",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-16",
+     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
+    },
+    {
+     "date": "2026-11-22",
+     "headline": "Des étudiants songent à une grève illimitée pendant la session d’hiver",
+     "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Quebec students open door to unlimited strike, give PQ government February deadline",
+     "url": "https://www.cbc.ca/news/canada/montreal/student-strikes-affordability-9.7432174"
     }
    ]
   },
   {
    "source": "domtar",
-   "target": "unifor",
+   "target": "natalie-bisaillon",
    "weight": 3,
    "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
-    },
     {
      "date": "2026-11-15",
      "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
@@ -18630,6 +19112,11 @@
      "date": "2026-11-19",
      "headline": "La scierie Outardes face à une impasse",
      "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -18854,6 +19341,28 @@
    ]
   },
   {
+   "source": "francois-legault",
+   "target": "pierre-fitzgibbon",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-10",
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
+     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
    "source": "genevieve-biron",
    "target": "pspp",
    "weight": 3,
@@ -19074,6 +19583,28 @@
    ]
   },
   {
+   "source": "lawrence-david",
+   "target": "pspp",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
+     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
    "source": "mark-carney",
    "target": "pq",
    "weight": 3,
@@ -19092,6 +19623,28 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "natalie-bisaillon",
+   "target": "unifor",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -19941,7 +20494,7 @@
   },
   {
    "source": "boisaco",
-   "target": "domtar",
+   "target": "natalie-bisaillon",
    "weight": 2,
    "stories": [
     {
@@ -19950,9 +20503,26 @@
      "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
     },
     {
-     "date": "2026-11-20",
-     "headline": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
-     "url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture"
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
+   "source": "boisaco",
+   "target": "unifor",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-19",
+     "headline": "La scierie Outardes face à une impasse",
+     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -20281,7 +20851,7 @@
   },
   {
    "source": "charles-iii",
-   "target": "cour-superieure",
+   "target": "ian-demers",
    "weight": 2,
    "stories": [
     {
@@ -20290,26 +20860,9 @@
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
-    }
-   ]
-  },
-  {
-   "source": "charles-iii",
-   "target": "lawrence-david",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -20842,7 +21395,7 @@
   },
   {
    "source": "cour-superieure",
-   "target": "lawrence-david",
+   "target": "ian-demers",
    "weight": 2,
    "stories": [
     {
@@ -20851,9 +21404,9 @@
      "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -20888,23 +21441,6 @@
      "date": "2026-11-21",
      "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
      "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
-    }
-   ]
-  },
-  {
-   "source": "crues",
-   "target": "elsie-lefebvre",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-11-16",
-     "headline": "Montreal students reeling from police violence at Nov. 13 education austerity protest",
-     "url": "https://www.cbc.ca/news/canada/montreal/student-protest-police-violence-9.7422991"
-    },
-    {
-     "date": "2026-11-22",
-     "headline": "Des étudiants songent à une grève illimitée pendant la session d’hiver",
-     "url": "https://ici.radio-canada.ca/article/info/2302302/greve-etudiante-quebec-illimite-hiver"
     }
    ]
   },
@@ -20978,7 +21514,7 @@
   },
   {
    "source": "domtar",
-   "target": "natalie-bisaillon",
+   "target": "mrnf",
    "weight": 2,
    "stories": [
     {
@@ -20987,9 +21523,9 @@
      "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     },
     {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -21369,23 +21905,6 @@
   },
   {
    "source": "francois-legault",
-   "target": "pierre-fitzgibbon",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
-     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
-    }
-   ]
-  },
-  {
-   "source": "francois-legault",
    "target": "pq",
    "weight": 2,
    "stories": [
@@ -21539,6 +22058,23 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "pierre-fitzgibbon",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-19",
+     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
+     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "tony-wakeham",
    "weight": 2,
    "stories": [
@@ -21551,6 +22087,40 @@
      "date": "2026-11-17",
      "headline": "Churchil Falls : Québec n’a pas demandé de renégocier l’accord, dit Wakeham",
      "url": "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham"
+    }
+   ]
+  },
+  {
+   "source": "ian-demers",
+   "target": "lawrence-david",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
+   "source": "ian-demers",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
+     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -21742,19 +22312,19 @@
    ]
   },
   {
-   "source": "lawrence-david",
-   "target": "pspp",
+   "source": "loto-quebec",
+   "target": "ville-rimouski",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
+     "date": "2026-10-31",
+     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
+     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
     },
     {
-     "date": "2026-10-24",
-     "headline": "Serment au roi: un avocat veut bloquer le début des travaux parlementaires",
-     "url": "https://www.noovo.info/nouvelles/justice/article/serment-au-roi-un-avocat-veut-bloquer-le-debut-des-travaux-parlementaires/"
+     "date": "2026-11-23",
+     "headline": "La Santé publique s’inquiète de l’augmentation de l’offre de jeu dans les casinos",
+     "url": "https://www.journaldemontreal.com/2026/11/21/la-sante-publique-sinquiete-de-laugmentation-de-loffre-de-jeu-dans-les-casinos"
     }
    ]
   },
@@ -22099,6 +22669,40 @@
    ]
   },
   {
+   "source": "mrnf",
+   "target": "natalie-bisaillon",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
+   "source": "mrnf",
+   "target": "unifor",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-15",
+     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
+     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
    "source": "msss",
    "target": "pspp",
    "weight": 2,
@@ -22129,23 +22733,6 @@
      "date": "2026-10-24",
      "headline": "Des projets d’infrastructures attendront s’ils ne sont pas essentiels, prévient le premier ministre St-Pierre Plamondon",
      "url": "https://www.journaldemontreal.com/2026/10/23/des-projets-dinfrastructures-attendront-sils-ne-sont-pas-essentiels-previent-le-premier-ministre-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "natalie-bisaillon",
-   "target": "unifor",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-11-15",
-     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
-     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
     }
    ]
   },
@@ -24746,6 +25333,18 @@
    ]
   },
   {
+   "source": "apigq",
+   "target": "mtmd",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "[CARTE INTERACTIVE] Voici 63 chantiers routiers partout au Québec reportés d'un an en raison de la grève des ingénieurs de l'été dernier",
+     "url": "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs"
+    }
+   ]
+  },
+  {
    "source": "apn",
    "target": "apnql",
    "weight": 1,
@@ -25095,6 +25694,18 @@
   },
   {
    "source": "assemblee-nationale",
+   "target": "charles-iii",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
    "target": "commissaire-ethique-an",
    "weight": 1,
    "stories": [
@@ -25102,6 +25713,18 @@
      "date": "2026-11-20",
      "headline": "Assemblée nationale – Les députés nouvellement élus n’ont pas tous suivi la formation sur l’éthique",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-19/assemblee-nationale/les-deputes-nouvellement-elus-n-ont-pas-tous-suivi-la-formation-sur-l-ethique.php"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "cour-superieure",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -25150,6 +25773,30 @@
      "date": "2026-11-02",
      "headline": "Le PQ démantèle le ministère de la Cybersécurité et du Numérique",
      "url": "https://ici.radio-canada.ca/nouvelle/2297473/pq-demante-ministere-cybersecurite-numerique"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "ian-demers",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
+    }
+   ]
+  },
+  {
+   "source": "assemblee-nationale",
+   "target": "lawrence-david",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david"
     }
    ]
   },
@@ -26247,13 +26894,25 @@
   },
   {
    "source": "boisaco",
-   "target": "natalie-bisaillon",
+   "target": "julien-normand",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
+   "source": "boisaco",
+   "target": "mrnf",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
     }
    ]
   },
@@ -26266,18 +26925,6 @@
      "date": "2026-11-20",
      "headline": "Lumière d’espoir pour la scierie Outardes à Baie-Comeau",
      "url": "https://ici.radio-canada.ca/article/info/2301957/domtar-boisaco-industire-fermeture"
-    }
-   ]
-  },
-  {
-   "source": "boisaco",
-   "target": "unifor",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-19",
-     "headline": "La scierie Outardes face à une impasse",
-     "url": "https://ici.radio-canada.ca/article/info/2301680/domtar-fermeture-pointe-outardes-industrie-forestiere"
     }
    ]
   },
@@ -28191,18 +28838,6 @@
   },
   {
    "source": "charles-iii",
-   "target": "ian-demers",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    }
-   ]
-  },
-  {
-   "source": "charles-iii",
    "target": "karim-al-dahdah",
    "weight": 1,
    "stories": [
@@ -28714,6 +29349,30 @@
      "date": "2026-11-12",
      "headline": "Des contrats renouvelés au cabinet du maire de Saguenay",
      "url": "https://ici.radio-canada.ca/article/info/2299859/dg-avocat-ville-cabinet-luc-boivin"
+    }
+   ]
+  },
+  {
+   "source": "claude-pinard",
+   "target": "soraya-martinez-ferrada",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
+    }
+   ]
+  },
+  {
+   "source": "claude-pinard",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
     }
    ]
   },
@@ -30166,18 +30825,6 @@
      "date": "2026-10-29",
      "headline": "Québec demande à la cour d’annuler la vente au privé de 94 logements sociaux",
      "url": "https://ici.radio-canada.ca/nouvelle/2295280/vente-repentigny-logements-osbl-justice"
-    }
-   ]
-  },
-  {
-   "source": "cour-superieure",
-   "target": "ian-demers",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
     }
    ]
   },
@@ -31731,6 +32378,18 @@
   },
   {
    "source": "domtar",
+   "target": "julien-normand",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
+   "source": "domtar",
    "target": "luc-boivin",
    "weight": 1,
    "stories": [
@@ -31738,18 +32397,6 @@
      "date": "2026-11-11",
      "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
      "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
-    }
-   ]
-  },
-  {
-   "source": "domtar",
-   "target": "mrnf",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-15",
-     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
-     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -33663,6 +34310,18 @@
   },
   {
    "source": "francois-legault",
+   "target": "hydro-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
+   "source": "francois-legault",
    "target": "investissement-quebec",
    "weight": 1,
    "stories": [
@@ -33699,6 +34358,18 @@
   },
   {
    "source": "francois-legault",
+   "target": "meie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
+   "source": "francois-legault",
    "target": "nicolas-marceau",
    "weight": 1,
    "stories": [
@@ -33730,6 +34401,18 @@
      "date": "2026-11-10",
      "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
      "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "francois-legault",
+   "target": "reseau-allege-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
     }
    ]
   },
@@ -35247,6 +35930,18 @@
   },
   {
    "source": "hydro-quebec",
+   "target": "meie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
    "target": "melccfp",
    "weight": 1,
    "stories": [
@@ -35331,18 +36026,6 @@
   },
   {
    "source": "hydro-quebec",
-   "target": "pierre-fitzgibbon",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-19",
-     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
-     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
    "target": "pq",
    "weight": 1,
    "stories": [
@@ -35350,6 +36033,18 @@
      "date": "2026-10-31",
      "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
      "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    }
+   ]
+  },
+  {
+   "source": "hydro-quebec",
+   "target": "reseau-allege-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
     }
    ]
   },
@@ -35499,31 +36194,7 @@
   },
   {
    "source": "ian-demers",
-   "target": "lawrence-david",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    }
-   ]
-  },
-  {
-   "source": "ian-demers",
    "target": "manon-jeannotte",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Rétablissement du serment au roi | La cause d’un avocat entendue à la Cour supérieure du Québec",
-     "url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-10-20/retablissement-du-serment-du-roi/la-cause-d-un-avocat-entendue-a-la-cour-superieure-du-quebec.php"
-    }
-   ]
-  },
-  {
-   "source": "ian-demers",
-   "target": "pspp",
    "weight": 1,
    "stories": [
     {
@@ -37010,6 +37681,42 @@
    ]
   },
   {
+   "source": "julien-normand",
+   "target": "mrnf",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
+   "source": "julien-normand",
+   "target": "natalie-bisaillon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
+   "source": "julien-normand",
+   "target": "unifor",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar"
+    }
+   ]
+  },
+  {
    "source": "juliette-champagne",
    "target": "nicolas-paradis",
    "weight": 1,
@@ -37610,18 +38317,6 @@
    ]
   },
   {
-   "source": "loto-quebec",
-   "target": "ville-rimouski",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "Officials say Loto-Québec reneging on conditions for gambling hall in Rimouski, Que.",
-     "url": "https://www.cbc.ca/news/canada/montreal/rimouski-video-slot-machine-loto-quebec-9.7399700"
-    }
-   ]
-  },
-  {
    "source": "louis-bourcier",
    "target": "marie-karlynn-laflamme",
    "weight": 1,
@@ -38139,6 +38834,18 @@
   },
   {
    "source": "marie-claude-bibeau",
+   "target": "nicolas-girard",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-bibeau",
    "target": "pspp",
    "weight": 1,
    "stories": [
@@ -38182,6 +38889,30 @@
      "date": "2026-11-10",
      "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
      "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-bibeau",
+   "target": "stl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
+    }
+   ]
+  },
+  {
+   "source": "marie-claude-bibeau",
+   "target": "sts",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
     }
    ]
   },
@@ -39062,6 +39793,30 @@
    ]
   },
   {
+   "source": "meie",
+   "target": "pierre-fitzgibbon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
+   "source": "meie",
+   "target": "reseau-allege-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
    "source": "melanie-joly",
    "target": "nemaska-lithium",
    "weight": 1,
@@ -39454,30 +40209,6 @@
      "date": "2026-11-11",
      "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
      "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
-    }
-   ]
-  },
-  {
-   "source": "mrnf",
-   "target": "natalie-bisaillon",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-15",
-     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
-     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
-    }
-   ]
-  },
-  {
-   "source": "mrnf",
-   "target": "unifor",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-15",
-     "headline": "Fermeture de la scierie Outardes : des « divergences subsistent », justifie le ministère",
-     "url": "https://ici.radio-canada.ca/article/info/2300758/ministere-foret-domtar-fermeture-scierie-outardes"
     }
    ]
   },
@@ -39915,6 +40646,18 @@
   },
   {
    "source": "nicolas-girard",
+   "target": "stl",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-girard",
    "target": "stm",
    "weight": 1,
    "stories": [
@@ -39922,6 +40665,18 @@
      "date": "2026-11-11",
      "headline": "L’électrification des autobus n’est plus une priorité du gouvernement du Québec",
      "url": "https://ici.radio-canada.ca/article/info/2299596/electrification-flotte-transport-collectif"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-girard",
+   "target": "sts",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
     }
    ]
   },
@@ -40570,6 +41325,18 @@
      "date": "2026-11-10",
      "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
      "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
+    }
+   ]
+  },
+  {
+   "source": "pierre-fitzgibbon",
+   "target": "reseau-allege-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
     }
    ]
   },
@@ -41926,6 +42693,18 @@
      "date": "2026-10-22",
      "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
      "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    }
+   ]
+  },
+  {
+   "source": "stl",
+   "target": "sts",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Le transport en commun québécois souffre de la réduction de l'aide du gouvernement",
+     "url": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement"
     }
    ]
   },

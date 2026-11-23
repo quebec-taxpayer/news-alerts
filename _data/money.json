@@ -230,6 +230,27 @@
    "per_fr": "Environ 44,12 $ par personne au Québec",
    "calc_en": "$400 million ÷ 9,067,114 people = $44.12 each",
    "calc_fr": "400 millions $ ÷ 9 067 114 personnes = 44,12 $ chacun"
+  },
+  {
+   "id": "lhl-tunnel-2-8b",
+   "dossier": "mtq-infrastructure",
+   "story_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-23/tunnel-louis-hippolyte-la-fontaine/deux-voies-par-direction-seront-ouvertes-a-partir-du-14-decembre.php",
+   "amount": 2800000000,
+   "qualifier": "about",
+   "per_year": false,
+   "label_en": "Total cost of the Louis-Hippolyte-La Fontaine tunnel rehabilitation (“about $2.8 billion”)",
+   "label_fr": "Coût total de la réfection du tunnel Louis-Hippolyte-La Fontaine (« environ 2,8 milliards »)",
+   "source_title": "Tunnel Louis-Hippolyte-La Fontaine – Deux voies par direction seront ouvertes à partir du 14 décembre",
+   "source_outlet": "La Presse (La Presse Canadienne)",
+   "source_date": "2026-11-23",
+   "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-23/tunnel-louis-hippolyte-la-fontaine/deux-voies-par-direction-seront-ouvertes-a-partir-du-14-decembre.php",
+   "per_person_value": 308.8083,
+   "amount_en": "$2.8 billion",
+   "amount_fr": "2,8 milliards $",
+   "per_en": "About $309 per person in Quebec",
+   "per_fr": "Environ 309 $ par personne au Québec",
+   "calc_en": "$2.8 billion ÷ 9,067,114 people = $308.81 each",
+   "calc_fr": "2,8 milliards $ ÷ 9 067 114 personnes = 308,81 $ chacun"
   }
  ]
 }

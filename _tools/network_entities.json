@@ -3263,6 +3263,51 @@
    "name": "Observatoire québécois des inégalités",
    "type": "organization",
    "aliases": []
+  },
+  "claude-pinard": {
+   "name": "Claude Pinard",
+   "type": "person",
+   "aliases": []
+  },
+  "apigq": {
+   "name": "Association professionnelle des ingénieurs du gouvernement du Québec",
+   "type": "organization",
+   "aliases": [
+    "APIGQ"
+   ]
+  },
+  "sts": {
+   "name": "Société de transport de Sherbrooke",
+   "type": "organization",
+   "aliases": [
+    "STS"
+   ]
+  },
+  "stl": {
+   "name": "Société de transport de Laval",
+   "type": "organization",
+   "aliases": [
+    "STL"
+   ]
+  },
+  "reseau-allege-quebec": {
+   "name": "Réseau Allégé Québec",
+   "type": "organization",
+   "aliases": [
+    "RAQ"
+   ]
+  },
+  "meie": {
+   "name": "Ministère de l’Économie, de l’Innovation et de l’Énergie",
+   "type": "organization",
+   "aliases": [
+    "MEIE"
+   ]
+  },
+  "julien-normand": {
+   "name": "Julien Normand",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -4414,7 +4459,9 @@
     "ensemble-montreal"
    ],
    "checked_by_hand": false,
-   "dossiers": []
+   "dossiers": [
+    "montreal-budget-2027"
+   ]
   },
   {
    "match": "2026/10/29/salles-doperation-inoccupees",
@@ -6210,7 +6257,9 @@
     "ville-montreal",
     "valerie-plante"
    ],
-   "dossiers": []
+   "dossiers": [
+    "montreal-budget-2027"
+   ]
   },
   {
    "match": "https://www.lapresse.ca/actualites/politique/2026-11-14/quebec-et-ottawa-ne-veulent-pas-devoir-traduire-la-constitution.php",
@@ -6834,7 +6883,9 @@
     "ensemble-montreal",
     "soraya-martinez-ferrada"
    ],
-   "dossiers": []
+   "dossiers": [
+    "montreal-budget-2027"
+   ]
   },
   {
    "match": "https://ici.radio-canada.ca/article/info/2301928/poursuites-promoteurs-elus-ville-levis",
@@ -7079,6 +7130,113 @@
     "cnesst"
    ],
    "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david",
+   "entities": [
+    "cour-superieure",
+    "ian-demers",
+    "lawrence-david",
+    "assemblee-nationale",
+    "charles-iii",
+    "pspp"
+   ],
+   "dossiers": [
+    "oath-king"
+   ]
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/student-strikes-affordability-9.7432174",
+   "entities": [
+    "crues",
+    "elsie-lefebvre"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse",
+   "entities": [
+    "ville-montreal",
+    "soraya-martinez-ferrada",
+    "claude-pinard"
+   ],
+   "dossiers": [
+    "montreal-budget-2027"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs",
+   "entities": [
+    "mtmd",
+    "apigq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-23/tunnel-louis-hippolyte-la-fontaine/deux-voies-par-direction-seront-ouvertes-a-partir-du-14-decembre.php",
+   "entities": [
+    "mtmd"
+   ],
+   "dossiers": [
+    "mtq-infrastructure"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302232/lien-routier-chemin-saguenay",
+   "entities": [
+    "mtmd"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement",
+   "entities": [
+    "nicolas-girard",
+    "marie-claude-bibeau",
+    "sts",
+    "stl"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec",
+   "entities": [
+    "reseau-allege-quebec",
+    "meie",
+    "hydro-quebec",
+    "pierre-fitzgibbon",
+    "francois-legault"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar",
+   "entities": [
+    "natalie-bisaillon",
+    "mrnf",
+    "domtar",
+    "boisaco",
+    "unifor",
+    "julien-normand"
+   ],
+   "dossiers": [
+    "domtar-outardes"
+   ]
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/21/la-sante-publique-sinquiete-de-laugmentation-de-loffre-de-jeu-dans-les-casinos",
+   "entities": [
+    "loto-quebec",
+    "ville-rimouski"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "loto-quebec"
+   ]
   }
  ]
 }

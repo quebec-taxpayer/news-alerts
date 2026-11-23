@@ -68,7 +68,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-19": ["crown-corporations", "procurement"],
  "2026-11-20": ["crown-corporations", "procurement"],
  "2026-11-21": ["crown-corporations", "procurement"],
- "2026-11-22": ["crown-corporations", "procurement"]}
+ "2026-11-22": ["crown-corporations", "procurement"],
+ "2026-11-23": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -137,6 +138,8 @@ SUMMARY = {
                 "The CAQ government knew since November 2025 that three ferries would cost more than double, Le Journal reports; casinos weigh more and more in Loto-Québec’s revenue; Mobilité Infra Québec signs an untendered tramway contract; the SQ no longer protects the premier day to day."),
  "2026-11-22": ("Les coûts de deux agrandissements d’hôpitaux ont augmenté sans annonce pendant l’été; Loto-Québec fait face à une concurrence de plus en plus vive; deux ex-policiers du poste 39 du SPVM sont accusés au criminel; Québec veut gérer seul Erasmus+ sur son territoire.",
                 "The costs of two hospital expansions rose without announcement over the summer; Loto-Québec faces ever-fiercer competition; two former SPVM Station 39 officers are criminally charged; Quebec wants to manage Erasmus+ alone on its territory."),
+ "2026-11-23": ("La Cour supérieure statue que les députés devront prêter serment au roi pour siéger; Montréal prévoit une hausse moyenne de 9,8 % des taxes résidentielles; 63 chantiers routiers sont reportés à cause de la grève des ingénieurs; un autre projet de la filière batterie est sur la glace.",
+                "The Superior Court rules that MNAs will have to swear an oath to the King to sit; Montreal plans an average 9.8% increase in residential taxes; 63 road projects are postponed because of the engineers’ strike; another battery sector project is on ice."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

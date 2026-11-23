@@ -769,6 +769,17 @@
      "background": true
     },
     {
+     "date": "2026-08-12",
+     "en": "The government engineers’ unlimited general strike, which had paralyzed some 150 road projects, ends, Le Journal de Montréal reports.",
+     "fr": "La grève générale illimitée des ingénieurs du gouvernement, qui avait paralysé quelque 150 chantiers routiers, prend fin, rapporte Le Journal de Montréal.",
+     "source_title": "[CARTE INTERACTIVE] Voici 63 chantiers routiers partout au Québec reportés d'un an en raison de la grève des ingénieurs de l'été dernier",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs",
+     "source_type": "media",
+     "post": "2026-11-23",
+     "background": false
+    },
+    {
      "date": "2026-09",
      "en": "Tired of waiting for Highway 20 to be extended, Saint-Simon-de-Rimouski’s council sends the Transport ministry a resolution asking it to reroute Route 132 around the village, Radio-Canada reports.",
      "fr": "Lassé d’attendre le prolongement de l’autoroute 20, le conseil de Saint-Simon-de-Rimouski achemine au ministère des Transports une résolution lui demandant de dévier la route 132 hors du village, rapporte Radio-Canada.",
@@ -844,6 +855,28 @@
      "source_type": "media",
      "post": "2026-11-20",
      "background": false
+    },
+    {
+     "date": "2026-11-23",
+     "en": "A Transport Ministry compilation obtained by Le Journal de Montréal shows 63 road projects in 13 of 16 regions postponed to next year because of the engineers’ strike; the ministry does not expect higher costs.",
+     "fr": "Une compilation du ministère des Transports obtenue par Le Journal de Montréal montre que 63 chantiers routiers dans 13 des 16 régions sont reportés à l’an prochain à cause de la grève des ingénieurs; le ministère ne prévoit pas de hausse de coûts.",
+     "source_title": "[CARTE INTERACTIVE] Voici 63 chantiers routiers partout au Québec reportés d'un an en raison de la grève des ingénieurs de l'été dernier",
+     "source_outlet": "TVA Nouvelles",
+     "source_url": "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs",
+     "source_type": "media",
+     "post": "2026-11-23",
+     "background": false
+    },
+    {
+     "date": "2026-11-23",
+     "en": "The Transport Ministry confirms that four lanes, two in each direction, will be open in the Louis-Hippolyte-La Fontaine tunnel as of Dec. 14, and that all six lanes are now expected in summer 2027, The Canadian Press reports.",
+     "fr": "Le ministère des Transports confirme que quatre voies, deux par direction, seront ouvertes dans le tunnel Louis-Hippolyte-La Fontaine à compter du 14 décembre, et que les six voies sont maintenant prévues à l’été 2027, rapporte La Presse Canadienne.",
+     "source_title": "Tunnel Louis-Hippolyte-La Fontaine – Deux voies par direction seront ouvertes à partir du 14 décembre",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-23/tunnel-louis-hippolyte-la-fontaine/deux-voies-par-direction-seront-ouvertes-a-partir-du-14-decembre.php",
+     "source_type": "media",
+     "post": "2026-11-23",
+     "background": false
     }
    ],
    "tldr": {
@@ -856,8 +889,8 @@
      "fr": "Les automobilistes et les usagers du transport en commun dépendent de ces routes et ponts, et les réparations sont payées par les contribuables."
     },
     "now": {
-     "en": "The premier says projects that are not essential will wait, and the Transport Ministry is reviewing the projects in the latest PQI. Gaspé region leaders fear the railway repairs to Gaspé will be put off again. The Transport Ministry is also suing Dorval for more than $7 million over a Highway 520 overpass, La Presse reports.",
-     "fr": "Le premier ministre dit que les projets non essentiels attendront, et le ministère des Transports réévalue les projets du dernier PQI. Des acteurs gaspésiens craignent un nouveau report de la réfection du chemin de fer jusqu’à Gaspé. Le ministère poursuit aussi Dorval pour plus de 7 millions $ pour un pont d’étagement de l’autoroute 520, selon La Presse."
+     "en": "Some 63 road projects in 13 of 16 regions are postponed to next year because of last summer’s government engineers’ strike, Le Journal reports. The Louis-Hippolyte-La Fontaine tunnel will have two lanes in each direction from Dec. 14, and all six lanes in summer 2027. The premier says projects that are not essential will wait, and the Transport Ministry is reviewing the projects in the latest PQI.",
+     "fr": "Quelque 63 chantiers routiers dans 13 des 16 régions sont reportés à l’an prochain à cause de la grève des ingénieurs du gouvernement l’été dernier, rapporte Le Journal. Le tunnel Louis-Hippolyte-La Fontaine aura deux voies par direction dès le 14 décembre, et ses six voies à l’été 2027. Le premier ministre dit que les projets non essentiels attendront, et le ministère des Transports réévalue les projets du dernier PQI."
     }
    }
   },
@@ -973,6 +1006,17 @@
      "source_url": "https://ici.radio-canada.ca/nouvelle/2298422/rentree-parlementaire-repoussee-deux-semaines-1-decembre",
      "background": true,
      "source_type": "media"
+    },
+    {
+     "date": "2026-11-23",
+     "en": "Ruling on Lawrence David’s request for a stay, Superior Court Justice Ian Demers decides that MNAs must swear the oath to the King to sit, and writes that Bill 4 is “invalid on its face,” Radio-Canada reports.",
+     "fr": "Saisi de la demande de sursis de Lawrence David, le juge Ian Demers, de la Cour supérieure, décide que les députés devront prêter serment au roi pour siéger et écrit que la loi 4 est « invalide à sa face même », rapporte Radio-Canada.",
+     "source_title": "Le serment au roi est obligatoire, statue la Cour supérieure du Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david",
+     "source_type": "media",
+     "post": "2026-11-23",
+     "background": false
     }
    ],
    "tldr": {
@@ -985,8 +1029,8 @@
      "fr": "La cause pourrait influer sur le moment où l’Assemblée nationale commence ses travaux après l’élection."
     },
     "now": {
-     "en": "The Superior Court ruling on the oath is still expected by Nov. 24. The first sitting is now set for Dec. 1 after the premier postponed it by two weeks.",
-     "fr": "La décision de la Cour supérieure sur le serment est toujours attendue d’ici le 24 novembre. La première séance est maintenant fixée au 1er décembre après le report de deux semaines annoncé par le premier ministre."
+     "en": "On Nov. 23, the Superior Court ruled, on Lawrence David’s request for a stay, that MNAs must swear the oath to the King to sit; none of the 127 MNAs did so in October. Radio-Canada says the return of parliament planned for Dec. 1 is now in doubt, and it was not yet known whether Quebec’s Attorney General would appeal.",
+     "fr": "Le 23 novembre, la Cour supérieure a statué, sur la demande de sursis de Lawrence David, que les députés devront prêter serment au roi pour siéger; aucun des 127 députés ne l’a fait en octobre. Selon Radio-Canada, la rentrée parlementaire prévue le 1er décembre est maintenant compromise, et on ignorait encore si le Procureur général du Québec ferait appel."
     }
    }
   },
@@ -3987,6 +4031,17 @@
      "source_type": "media",
      "post": "2026-11-20",
      "background": false
+    },
+    {
+     "date": "2026-11-22",
+     "en": "Responding to criticism from local elected officials, Minister Natalie Bisaillon’s office says she set up a crisis cell on taking office and that a plan to reform the forestry regime will be presented soon, Radio-Canada reports.",
+     "fr": "En réponse aux critiques d’élus locaux, le cabinet de la ministre Natalie Bisaillon affirme qu’elle a mis sur pied une cellule de crise dès son arrivée et qu’un plan de réforme du régime forestier sera présenté prochainement, rapporte Radio-Canada.",
+     "source_title": "Scierie Outardes : le ministère des Ressources naturelles et des Forêts se défend",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar",
+     "source_type": "media",
+     "post": "2026-11-23",
+     "background": false
     }
    ],
    "tldr": {
@@ -3999,8 +4054,8 @@
      "fr": "Quelque 115 personnes y travaillent encore. L’entreprise attendait des autorisations pour couper du bois plus près de la scierie afin de réduire ses coûts."
     },
     "now": {
-     "en": "Boisaco says it has reached an agreement with Domtar on access to wood closer to the mill, Radio-Canada reports. Domtar has not confirmed it, ministerial authorizations are still needed, and the regional prefect says workers should not expect an immediate return.",
-     "fr": "Boisaco affirme s’être entendue avec Domtar sur l’accès à du bois plus près de la scierie, rapporte Radio-Canada. Domtar ne l’a pas confirmé, des autorisations ministérielles sont encore nécessaires, et le préfet régional dit que les travailleurs ne doivent pas s’attendre à un retour immédiat."
+     "en": "Boisaco says it has reached an agreement with Domtar on access to wood closer to the mill; Unifor says this is only a temporary solution. Criticized by local elected officials, the forestry minister’s office says it set up a crisis cell and will soon present a plan to reform the forestry regime.",
+     "fr": "Boisaco affirme s’être entendue avec Domtar sur l’accès à du bois plus près de la scierie; Unifor rappelle que ce n’est qu’une solution temporaire. Critiqué par des élus locaux, le cabinet de la ministre des Forêts dit avoir mis sur pied une cellule de crise et présentera prochainement un plan de réforme du régime forestier."
     }
    }
   },
@@ -4121,6 +4176,17 @@
      "source_type": "media",
      "post": "2026-11-21",
      "background": false
+    },
+    {
+     "date": "2026-11-22",
+     "en": "Public health experts worry that Loto-Québec’s growing gaming offer, including two more gaming halls next year, could increase gambling addiction problems, Le Journal de Montréal reports.",
+     "fr": "Des experts en santé publique craignent que l’offre de jeu croissante de Loto-Québec, dont deux salons de jeux de plus l’an prochain, n’augmente les problèmes de dépendance au jeu, rapporte Le Journal de Montréal.",
+     "source_title": "La Santé publique s’inquiète de l’augmentation de l’offre de jeu dans les casinos",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/21/la-sante-publique-sinquiete-de-laugmentation-de-loffre-de-jeu-dans-les-casinos",
+     "source_type": "media",
+     "post": "2026-11-23",
+     "background": false
     }
    ],
    "tldr": {
@@ -4133,8 +4199,8 @@
      "fr": "Loto-Québec est une importante source de revenus pour le gouvernement, et les casinos et salons de jeux en rapportent une part croissante. Des exploitants privés toucheront une part des revenus des tables de jeu des nouveaux salons."
     },
     "now": {
-     "en": "Casinos and gaming halls brought in 42% of Loto-Québec’s revenue last year but only 32% of its profit, and the Crown corporation no longer discloses each casino’s results. It faces fierce competition: by its own figures, 109 gaming establishments are within 10 hours’ drive of Montreal, versus 47 in 2003.",
-     "fr": "Les casinos et salons de jeux ont rapporté 42 % des revenus de Loto-Québec l’an dernier, mais seulement 32 % de son bénéfice, et la société d’État ne divulgue plus les résultats de chaque casino. Elle fait face à une concurrence féroce : selon ses propres chiffres, 109 établissements de jeu se trouvent à moins de 10 heures de route de Montréal, contre 47 en 2003."
+     "en": "Casinos and gaming halls brought in 42% of Loto-Québec’s revenue last year but only 32% of its profit, and the Crown corporation faces fierce competition. Public health experts worry that more gaming options, including two more gaming halls next year, will mean more gambling addiction problems.",
+     "fr": "Les casinos et salons de jeux ont rapporté 42 % des revenus de Loto-Québec l’an dernier, mais seulement 32 % de son bénéfice, et la société d’État fait face à une concurrence féroce. Des experts en santé publique craignent que l’offre accrue, dont deux salons de jeux de plus l’an prochain, n’augmente les problèmes de dépendance au jeu."
     }
    }
   },
@@ -4198,6 +4264,82 @@
      "source_url": "https://ici.radio-canada.ca/article/info/2302122/hmr-chantier-amiante-hopital-maisonneuve-rosemont",
      "source_type": "media",
      "post": "2026-11-22",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "montreal-budget-2027",
+   "name_en": "Montreal’s 2027 budget and property taxes",
+   "name_fr": "Le budget 2027 de Montréal et les taxes foncières",
+   "desc_en": "How the City of Montreal’s 2027 budget is shaping up, the planned property tax increase and the mayor’s campaign promise to keep tax increases at inflation.",
+   "desc_fr": "Comment se dessine le budget 2027 de la Ville de Montréal, la hausse prévue des taxes foncières et la promesse électorale de la mairesse de limiter les hausses de taxes à l’inflation.",
+   "entities": [
+    "ville-montreal",
+    "soraya-martinez-ferrada",
+    "claude-pinard",
+    "ensemble-montreal",
+    "projet-montreal",
+    "ericka-alneus",
+    "chantal-gagnon"
+   ],
+   "tldr": {
+    "what": {
+     "en": "The City of Montreal is to table its 2027 budget on Nov. 24. During the 2025 campaign, Mayor Soraya Martinez Ferrada promised to keep property tax increases at the rate of inflation.",
+     "fr": "La Ville de Montréal doit déposer son budget 2027 le 24 novembre. Pendant la campagne de 2025, la mairesse Soraya Martinez Ferrada avait promis de limiter les hausses de taxes foncières à l’inflation."
+    },
+    "why": {
+     "en": "The tax increase directly affects Montreal property owners. The city’s budget summary points to a large investment gap in maintaining its infrastructure.",
+     "fr": "La hausse de taxes touche directement les propriétaires montréalais. Le sommaire du budget de la Ville fait état d’un important déficit d’investissement dans le maintien de ses infrastructures."
+    },
+    "now": {
+     "en": "A budget summary posted by the city shows an average 9.8% increase in residential taxes in 2027, the largest in 20 years according to Radio-Canada, including 5.1% from a new tax for infrastructure upkeep. A borough mayor left the mayor’s caucus over the planned increase.",
+     "fr": "Un sommaire du budget publié par la Ville prévoit une hausse moyenne de 9,8 % des taxes résidentielles en 2027, la plus forte en 20 ans selon Radio-Canada, dont 5,1 % pour une nouvelle taxe de maintien des infrastructures. Une mairesse d’arrondissement a quitté le caucus de la mairesse en raison de la hausse prévue."
+    }
+   },
+   "events": [
+    {
+     "date": "2026-10-28",
+     "en": "At the executive committee, Mayor Soraya Martinez Ferrada says the city is in “catch-up mode” on infrastructure and will have to make “demanding budget choices,” Radio-Canada reports.",
+     "fr": "Au comité exécutif, la mairesse Soraya Martinez Ferrada affirme que la Ville est « en mode rattrapage » pour ses infrastructures et devra faire des « choix budgétaires exigeants », rapporte Radio-Canada.",
+     "source_title": "Vers une importante hausse de taxes foncières l’an prochain à Montréal?",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/nouvelle/2296625/montreal-hausse-taxes-foncieres",
+     "source_type": "media",
+     "post": "2026-10-29",
+     "background": false
+    },
+    {
+     "date": "2026-11",
+     "en": "A Budget 2027 executive summary posted on the City of Montreal’s website shows an average 9.8% increase in residential taxes, including 5.1% from a new tax for infrastructure upkeep, Radio-Canada reports; the mayor’s office did not comment.",
+     "fr": "Un sommaire exécutif du budget 2027 publié sur le site de la Ville de Montréal prévoit une hausse moyenne de 9,8 % des taxes résidentielles, dont 5,1 % pour une nouvelle taxe de maintien des infrastructures, rapporte Radio-Canada; le cabinet de la mairesse n’a pas commenté.",
+     "source_title": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse",
+     "source_type": "media",
+     "post": "2026-11-23",
+     "background": false
+    },
+    {
+     "date": "2026-11-14",
+     "en": "Official Opposition leader Ericka Alneus (Projet Montréal) asks the mayor not to raise property taxes above inflation, a promise the mayor made in her 2025 campaign, CBC News reports.",
+     "fr": "La cheffe de l’opposition officielle, Ericka Alneus (Projet Montréal), demande à la mairesse de ne pas hausser les taxes foncières au-delà de l’inflation, une promesse faite par la mairesse pendant sa campagne de 2025, rapporte CBC News.",
+     "source_title": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667",
+     "source_type": "media",
+     "post": "2026-11-14",
+     "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "Mercier–Hochelaga-Maisonneuve borough mayor Chantal Gagnon leaves the Ensemble Montréal caucus, denouncing the “significant tax increase” expected in the next budget, La Presse reports.",
+     "fr": "La mairesse de l’arrondissement de Mercier–Hochelaga-Maisonneuve, Chantal Gagnon, quitte le caucus d’Ensemble Montréal en dénonçant la « hausse importante de taxes » attendue dans le prochain budget, rapporte La Presse.",
+     "source_title": "« Hausse importante de taxes » dénoncée – Une mairesse d’arrondissement quitte le caucus de Soraya Martinez Ferrada",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/hausse-importante-de-taxes-denoncee/une-mairesse-d-arrondissement-quitte-le-caucus-de-soraya-martinez-ferrada.php",
+     "source_type": "media",
+     "post": "2026-11-20",
      "background": false
     }
    ]

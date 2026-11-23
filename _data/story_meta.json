@@ -1603,6 +1603,56 @@
    "category": "health",
    "importance": 2,
    "title_en": "Sick leave and disability hours on the rise among nurses in the region"
+  },
+  "https://ici.radio-canada.ca/article/info/2302476/jugement-serment-roi-lawrence-david": {
+   "category": "government",
+   "importance": 5,
+   "title_en": "The oath to the King is mandatory, Quebec Superior Court rules"
+  },
+  "https://www.cbc.ca/news/canada/montreal/student-strikes-affordability-9.7432174": {
+   "category": "government",
+   "importance": 3,
+   "title_fr": "Les étudiants québécois ouvrent la porte à une grève illimitée et donnent jusqu’en février au gouvernement péquiste"
+  },
+  "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse": {
+   "category": "finances",
+   "importance": 5,
+   "title_en": "Montreal plans a 9.8% increase in residential taxes in 2027"
+  },
+  "https://www.tvanouvelles.ca/2026/11/23/report-a-lan-prochain-de-63-chantiers-routiers-en-raison-de-la-greve-des-ingenieurs": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "[INTERACTIVE MAP] Here are 63 road projects across Quebec postponed by a year because of last summer’s engineers’ strike"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-23/tunnel-louis-hippolyte-la-fontaine/deux-voies-par-direction-seront-ouvertes-a-partir-du-14-decembre.php": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Louis-Hippolyte-La Fontaine tunnel – Two lanes in each direction will be open as of Dec. 14"
+  },
+  "https://ici.radio-canada.ca/article/info/2302232/lien-routier-chemin-saguenay": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "A new call for tenders issued to extend Highway 70 to La Baie"
+  },
+  "https://www.journaldequebec.com/2026/11/23/le-transport-en-commun-quebecois-souffre-de-la-reduction-de-laide-du-gouvernement": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Quebec public transit suffers from the cut in government aid"
+  },
+  "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec": {
+   "category": "energy",
+   "importance": 4,
+   "title_en": "Another battery sector project in trouble in Quebec"
+  },
+  "https://ici.radio-canada.ca/article/info/2302433/scierie-outardes-ministere-elus-domtar": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Outardes sawmill: the Ministry of Natural Resources and Forests defends itself"
+  },
+  "https://www.journaldemontreal.com/2026/11/21/la-sante-publique-sinquiete-de-laugmentation-de-loffre-de-jeu-dans-les-casinos": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "Public Health worries about the growing supply of gambling in casinos"
   }
  }
 }
