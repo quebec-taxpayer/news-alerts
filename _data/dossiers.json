@@ -499,6 +499,17 @@
      "source_type": "media",
      "post": "2026-11-19",
      "background": false
+    },
+    {
+     "date": "2026-11-23",
+     "en": "Sherbrooke Mayor Marie-Claude Bibeau denies a Pivot report that she sought a “special pass” from Quebec for Keel Infrastructure’s data centre, saying the message cited was written by Hydro-Sherbrooke’s director; Pivot says it will correct its article but asks for written proof, Radio-Canada reports.",
+     "fr": "La mairesse de Sherbrooke, Marie-Claude Bibeau, dément un reportage de Pivot selon lequel elle souhaitait un « passe-droit » de Québec pour le centre de données de Keel Infrastructure, affirmant que le message cité avait été rédigé par le directeur d’Hydro-Sherbrooke; Pivot dit qu’il corrigera son article, mais demande une preuve écrite, rapporte Radio-Canada.",
+     "source_title": "Marie-Claude Bibeau dit n’avoir jamais demandé une voie rapide pour le centre de données",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302456/centre-donnees-reputation-bibeau-pivot-sherbrooke",
+     "source_type": "media",
+     "post": "2026-11-24",
+     "background": false
     }
    ],
    "tldr": {
@@ -511,8 +522,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Hydro-Québec has created an innovation vice-presidency for David Bahan, the former head of the public service, and will not say whether the usual hiring procedures were followed. Newfoundland and Labrador’s premier says Quebec has not asked to renegotiate the Churchill Falls deal and he will not. After unauthorized access to customer accounts in October, 1.7 million customers must change their password.",
-     "fr": "Hydro-Québec a créé une vice-présidence à l’innovation pour David Bahan, ancien patron de la fonction publique, sans dire si les procédures d’embauche habituelles ont été suivies. Le premier ministre de Terre-Neuve-et-Labrador dit que Québec ne lui a pas demandé de renégocier l’entente sur Churchill Falls et qu’il ne le fera pas. Après des accès non autorisés à des comptes clients en octobre, 1,7 million de clients doivent changer leur mot de passe."
+     "en": "Hydro-Québec has created an innovation vice-presidency for David Bahan, the former head of the public service, and will not say whether the usual hiring procedures were followed. Newfoundland and Labrador’s premier says Quebec has not asked to renegotiate the Churchill Falls deal and he will not. In Sherbrooke, the mayor denies a Pivot report that she sought a fast track from Quebec for Keel Infrastructure’s data centre project.",
+     "fr": "Hydro-Québec a créé une vice-présidence à l’innovation pour David Bahan, ancien patron de la fonction publique, sans dire si les procédures d’embauche habituelles ont été suivies. Le premier ministre de Terre-Neuve-et-Labrador dit que Québec ne lui a pas demandé de renégocier l’entente sur Churchill Falls et qu’il ne le fera pas. À Sherbrooke, la mairesse dément un reportage de Pivot selon lequel elle aurait voulu une voie rapide de Québec pour le projet de centre de données de Keel Infrastructure."
     }
    }
   },
@@ -593,6 +604,17 @@
      "source_type": "media",
      "post": "2026-11-06",
      "background": false
+    },
+    {
+     "date": "2026-11-08",
+     "en": "A price adjustment takes effect at the SAQ: 1,289 products go up in stores, by 10 cents per bottle on average, while 55 go down; the SAQ cites production costs, exchange rates, transportation and the deposit system, Le Journal de Montréal reports.",
+     "fr": "Un ajustement de prix entre en vigueur à la SAQ : 1289 produits augmentent en succursale, de 10 ¢ par bouteille en moyenne, et 55 baissent; la SAQ invoque les frais de production, les taux de change, le transport et la consigne, rapporte Le Journal de Montréal.",
+     "source_title": "Plus de 1000 produits touchés par une hausse de prix à la SAQ",
+     "source_outlet": "Le Journal de Montréal",
+     "source_url": "https://www.journaldemontreal.com/2026/11/23/vous-payez-votre-bouteille-10-cents-de-plus-a-la-saq-a-cause-du-diesel",
+     "source_type": "media",
+     "post": "2026-11-24",
+     "background": false
     }
    ],
    "tldr": {
@@ -605,8 +627,8 @@
      "fr": "La SAQ appartient au gouvernement : ses décisions touchent des fonds publics et des règles publiques, comme l’interdiction de vendre de l’alcool aux mineurs."
     },
     "now": {
-     "en": "Radio-Canada reports multilayer cartons (milk and juice) are to join the deposit system on March 1, 2027; Quebec has only one recycler for that material, Sustana in Lévis, whose capacity is well below the expected volumes.",
-     "fr": "Radio-Canada indique que les cartons multicouches (lait et jus) doivent entrer dans le système de consigne le 1er mars 2027; le Québec n’a qu’un recycleur pour cette matière, Sustana à Lévis, dont la capacité est bien inférieure aux volumes attendus."
+     "en": "Since Nov. 8, 1,289 products cost more in SAQ stores, 10 cents more per bottle on average, Le Journal de Montréal reports. Radio-Canada reports multilayer cartons (milk and juice) are to join the deposit system on March 1, 2027, and Quebec has only one recycler for that material.",
+     "fr": "Depuis le 8 novembre, 1289 produits coûtent plus cher en succursale à la SAQ, en moyenne 10 ¢ de plus par bouteille, rapporte Le Journal de Montréal. Radio-Canada indique que les cartons multicouches (lait et jus) doivent entrer dans le système de consigne le 1er mars 2027, et le Québec n’a qu’un recycleur pour cette matière."
     }
    }
   },
@@ -1017,6 +1039,17 @@
      "source_type": "media",
      "post": "2026-11-23",
      "background": false
+    },
+    {
+     "date": "2026-11-23",
+     "en": "Premier Paul St-Pierre Plamondon calls the ruling “enigmatic and problematic” and announces that Quebec will appeal, asking the Court of Appeal at least to revisit its immediate enforcement, La Presse reports.",
+     "fr": "Le premier ministre Paul St-Pierre Plamondon qualifie le jugement d’« énigmatique et problématique » et annonce que Québec ira en appel, en demandant à la Cour d’appel de revenir à tout le moins sur son exécution immédiate, rapporte La Presse.",
+     "source_title": "Jugement sur le serment au roi – La rentrée de l’Assemblée nationale compromise ?",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-24/jugement-sur-le-serment-au-roi/la-rentree-de-l-assemblee-nationale-compromise.php",
+     "source_type": "media",
+     "post": "2026-11-24",
+     "background": false
     }
    ],
    "tldr": {
@@ -1029,8 +1062,8 @@
      "fr": "La cause pourrait influer sur le moment où l’Assemblée nationale commence ses travaux après l’élection."
     },
     "now": {
-     "en": "On Nov. 23, the Superior Court ruled, on Lawrence David’s request for a stay, that MNAs must swear the oath to the King to sit; none of the 127 MNAs did so in October. Radio-Canada says the return of parliament planned for Dec. 1 is now in doubt, and it was not yet known whether Quebec’s Attorney General would appeal.",
-     "fr": "Le 23 novembre, la Cour supérieure a statué, sur la demande de sursis de Lawrence David, que les députés devront prêter serment au roi pour siéger; aucun des 127 députés ne l’a fait en octobre. Selon Radio-Canada, la rentrée parlementaire prévue le 1er décembre est maintenant compromise, et on ignorait encore si le Procureur général du Québec ferait appel."
+     "en": "On Nov. 23, the Superior Court ruled, on Lawrence David’s request for a stay, that MNAs must swear the oath to the King to sit; none of the 127 MNAs did so in October. The premier calls the ruling “enigmatic and problematic” and his government is appealing; it will ask the Court of Appeal at least to revisit the ruling’s immediate enforcement before the return of parliament planned for Dec. 1.",
+     "fr": "Le 23 novembre, la Cour supérieure a statué, sur la demande de sursis de Lawrence David, que les députés devront prêter serment au roi pour siéger; aucun des 127 députés ne l’a fait en octobre. Le premier ministre juge le jugement « énigmatique et problématique » et son gouvernement va en appel; il demandera à la Cour d’appel de revenir à tout le moins sur l’exécution immédiate du jugement avant la rentrée parlementaire prévue le 1er décembre."
     }
    }
   },
@@ -2117,6 +2150,17 @@
      "source_type": "media",
      "post": "2026-11-21",
      "background": false
+    },
+    {
+     "date": "2026-11-23",
+     "en": "In an interview, Education Minister Joël Arseneau tells Le Journal de Québec that the government will table a bill setting a “digital majority” age, between 14 and 16, for access to social media.",
+     "fr": "En entrevue au Journal de Québec, le ministre de l’Éducation nationale, Joël Arseneau, affirme que le gouvernement déposera un projet de loi fixant une « majorité numérique », entre 14 et 16 ans, pour l’accès aux réseaux sociaux.",
+     "source_title": "Le PQ veut interdire aux jeunes l’accès aux réseaux sociaux et prévenir la violence à l'école",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/24/violence-a-lecole-et-ecrans-le-pq-va-interdire-lacces-des-jeunes-aux-reseaux-sociaux",
+     "source_type": "media",
+     "post": "2026-11-24",
+     "background": false
     }
    ],
    "tldr": {
@@ -2129,8 +2173,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "The finance minister says the Quebec Infrastructure Plan is $65 billion short, and the government says it will greatly limit the daycare fee increase set for Jan. 1. The French language minister plans a bill in February 2027 to extend Bill 101 to CEGEPs. Special constables, not the Sûreté du Québec, now protect the premier day to day.",
-     "fr": "Le ministre des Finances affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures, et le gouvernement dit qu’il limitera grandement la hausse des tarifs de garderie prévue le 1er janvier. Le ministre de la Langue française prévoit un projet de loi en février 2027 pour étendre la loi 101 au cégep. Des constables spéciaux, et non plus la Sûreté du Québec, protègent maintenant le premier ministre au quotidien."
+     "en": "The finance minister says the Quebec Infrastructure Plan is $65 billion short, and the government says it will greatly limit the daycare fee increase set for Jan. 1. The French language minister plans a bill in February 2027 to extend Bill 101 to CEGEPs. The education minister says the government intends to table a bill setting a “digital majority” age, between 14 and 16, for social media.",
+     "fr": "Le ministre des Finances affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures, et le gouvernement dit qu’il limitera grandement la hausse des tarifs de garderie prévue le 1er janvier. Le ministre de la Langue française prévoit un projet de loi en février 2027 pour étendre la loi 101 au cégep. Le ministre de l’Éducation nationale affirme que le gouvernement entend déposer un projet de loi fixant une « majorité numérique », entre 14 et 16 ans, pour les réseaux sociaux."
     }
    }
   },
@@ -3384,6 +3428,17 @@
      "source_type": "media",
      "post": "2026-11-11",
      "background": false
+    },
+    {
+     "date": "2026-11-23",
+     "en": "Le Journal de Québec reports that Rio Tinto has begun selling off equipment from the halted Bécancour site: steel pipes were loaded onto a truck to be handed over free of charge to a company that can resell them.",
+     "fr": "Le Journal de Québec rapporte que Rio Tinto a commencé à liquider de l’équipement du chantier arrêté de Bécancour : des tuyaux d’acier ont été chargés sur un camion pour être cédés sans frais à une entreprise qui pourra les revendre.",
+     "source_title": "La vente de feu est commencée chez Nemaska Lithium",
+     "source_outlet": "Le Journal de Québec",
+     "source_url": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium",
+     "source_type": "media",
+     "post": "2026-11-24",
+     "background": false
     }
    ],
    "tldr": {
@@ -3396,8 +3451,8 @@
      "fr": "Le Journal de Montréal rapporte un risque de financement pour l’usine de Bécancour, selon des sources anonymes."
     },
     "now": {
-     "en": "Quebec says it will put no more money into the project, and Ottawa says it will help only once production starts. Layoffs have begun at the Bécancour plant while Rio Tinto reviews the project.",
-     "fr": "Québec affirme qu’il ne versera plus d’argent dans le projet, et Ottawa dit qu’il n’aidera qu’une fois la production lancée. Des mises à pied commencent à l’usine de Bécancour pendant que Rio Tinto réévalue le projet."
+     "en": "Quebec says it will put no more money into the project, and Ottawa says it will help only once production starts. The Bécancour site, 70% complete, is halted, and Le Journal de Québec reports that Rio Tinto has begun selling off equipment there.",
+     "fr": "Québec affirme qu’il ne versera plus d’argent dans le projet, et Ottawa dit qu’il n’aidera qu’une fois la production lancée. Le chantier de Bécancour, complété à 70 %, est à l’arrêt, et Le Journal de Québec rapporte que Rio Tinto a commencé à y liquider de l’équipement."
     }
    }
   },
@@ -4293,8 +4348,8 @@
      "fr": "La hausse de taxes touche directement les propriétaires montréalais. Le sommaire du budget de la Ville fait état d’un important déficit d’investissement dans le maintien de ses infrastructures."
     },
     "now": {
-     "en": "A budget summary posted by the city shows an average 9.8% increase in residential taxes in 2027, the largest in 20 years according to Radio-Canada, including 5.1% from a new tax for infrastructure upkeep. A borough mayor left the mayor’s caucus over the planned increase.",
-     "fr": "Un sommaire du budget publié par la Ville prévoit une hausse moyenne de 9,8 % des taxes résidentielles en 2027, la plus forte en 20 ans selon Radio-Canada, dont 5,1 % pour une nouvelle taxe de maintien des infrastructures. Une mairesse d’arrondissement a quitté le caucus de la mairesse en raison de la hausse prévue."
+     "en": "A budget summary posted by the city shows an average 9.8% increase in residential taxes in 2027, the largest in 20 years according to Radio-Canada, including 5.1% from a new tax for infrastructure upkeep. The mayor calls it an “extremely difficult” decision, and the premier suggests the fall economic update will offer cities relief for infrastructure upkeep.",
+     "fr": "Un sommaire du budget publié par la Ville prévoit une hausse moyenne de 9,8 % des taxes résidentielles en 2027, la plus forte en 20 ans selon Radio-Canada, dont 5,1 % pour une nouvelle taxe de maintien des infrastructures. La mairesse parle d’une décision « extrêmement difficile », et le premier ministre laisse entendre que la mise à jour économique d’automne offrira un répit aux villes pour l’entretien des infrastructures."
     }
    },
    "events": [
@@ -4340,6 +4395,17 @@
      "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/hausse-importante-de-taxes-denoncee/une-mairesse-d-arrondissement-quitte-le-caucus-de-soraya-martinez-ferrada.php",
      "source_type": "media",
      "post": "2026-11-20",
+     "background": false
+    },
+    {
+     "date": "2026-11-23",
+     "en": "Mayor Soraya Martinez Ferrada calls her decision on the 2027 tax increase “extremely difficult”; at her side, Premier Paul St-Pierre Plamondon suggests the fall economic update will offer cities relief for infrastructure upkeep, La Presse Canadienne reports.",
+     "fr": "La mairesse Soraya Martinez Ferrada qualifie d’« extrêmement difficile » sa décision sur la hausse de taxes de 2027; à ses côtés, le premier ministre Paul St-Pierre Plamondon laisse entendre que la mise à jour économique d’automne offrira un répit aux villes pour l’entretien des infrastructures, rapporte La Presse Canadienne.",
+     "source_title": "Infrastructures: Paul St-Pierre Plamondon laisse entrevoir un répit pour les villes",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/",
+     "source_type": "media",
+     "post": "2026-11-24",
      "background": false
     }
    ]

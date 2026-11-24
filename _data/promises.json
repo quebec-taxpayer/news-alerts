@@ -406,6 +406,32 @@
    "status_source_outlet": "Radio-Canada",
    "status_source_url": "https://ici.radio-canada.ca/article/info/2300455/depassement-couts-hotel-dieu-levis-iucpq",
    "status_source_date": "2026-11-22"
+  },
+  {
+   "id": "pq-digital-majority",
+   "dossier": "pq-transition",
+   "type": "outcome",
+   "status": "promised",
+   "item_en": "Set a “digital majority” age for social media",
+   "item_fr": "Fixer une « majorité numérique » pour les réseaux sociaux",
+   "announced_en": "Bar young people from social media until a “digital majority” age, to be set between 14 and 16, through a bill",
+   "announced_fr": "Interdire aux jeunes l’accès aux réseaux sociaux avant une « majorité numérique », fixée entre 14 et 16 ans, au moyen d’un projet de loi",
+   "announced_source_title": "Le PQ veut interdire aux jeunes l’accès aux réseaux sociaux et prévenir la violence à l'école",
+   "announced_source_outlet": "Le Journal de Québec",
+   "announced_source_url": "https://www.journaldequebec.com/2026/11/24/violence-a-lecole-et-ecrans-le-pq-va-interdire-lacces-des-jeunes-aux-reseaux-sociaux",
+   "actual_en": "Education Minister Joël Arseneau says the government intends to table a bill; the age (14 or 16) has not yet been decided",
+   "actual_fr": "Le ministre de l’Éducation nationale, Joël Arseneau, affirme que le gouvernement entend déposer un projet de loi; l’âge (14 ou 16 ans) n’est pas encore tranché",
+   "actual_source_title": "Le PQ veut interdire aux jeunes l’accès aux réseaux sociaux et prévenir la violence à l'école",
+   "actual_source_outlet": "Le Journal de Québec",
+   "actual_source_url": "https://www.journaldequebec.com/2026/11/24/violence-a-lecole-et-ecrans-le-pq-va-interdire-lacces-des-jeunes-aux-reseaux-sociaux",
+   "actual_date": "2026-11-24",
+   "updated": "2026-11-24",
+   "status_evidence_en": "The minister has announced the government’s intention to table a bill; no bill has been tabled yet and the age has not been decided.",
+   "status_evidence_fr": "Le ministre a annoncé l’intention du gouvernement de déposer un projet de loi; aucun projet de loi n’a encore été déposé et l’âge n’est pas tranché.",
+   "status_source_title": "Le PQ veut interdire aux jeunes l’accès aux réseaux sociaux et prévenir la violence à l'école",
+   "status_source_outlet": "Le Journal de Québec",
+   "status_source_url": "https://www.journaldequebec.com/2026/11/24/violence-a-lecole-et-ecrans-le-pq-va-interdire-lacces-des-jeunes-aux-reseaux-sociaux",
+   "status_source_date": "2026-11-24"
   }
  ]
 }

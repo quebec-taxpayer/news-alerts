@@ -1653,6 +1653,56 @@
    "category": "crown-it",
    "importance": 3,
    "title_en": "Public Health worries about the growing supply of gambling in casinos"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-24/jugement-sur-le-serment-au-roi/la-rentree-de-l-assemblee-nationale-compromise.php": {
+   "category": "government",
+   "importance": 5,
+   "title_en": "Ruling on the oath to the King – Is the return of the National Assembly in jeopardy?"
+  },
+  "https://www.journaldequebec.com/2026/11/24/violence-a-lecole-et-ecrans-le-pq-va-interdire-lacces-des-jeunes-aux-reseaux-sociaux": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "The PQ wants to ban young people from social media and prevent violence at school"
+  },
+  "https://www.journaldequebec.com/2026/11/23/hausses-de-taxes-salees-le-milieu-municipal-sattend-au-pire": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Tax increases could reach 25% in some municipalities"
+  },
+  "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Infrastructure: Paul St-Pierre Plamondon hints at relief for cities"
+  },
+  "https://ici.radio-canada.ca/article/info/2302626/sts-autobus-deficit-quebec-deputes": {
+   "category": "finances",
+   "importance": 2,
+   "title_en": "The STS asks Quebec for $2.6 million to balance its 2027 budget"
+  },
+  "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium": {
+   "category": "energy",
+   "importance": 5,
+   "title_en": "The fire sale has begun at Nemaska Lithium"
+  },
+  "https://ici.radio-canada.ca/article/info/2302456/centre-donnees-reputation-bibeau-pivot-sherbrooke": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Marie-Claude Bibeau says she never asked for a fast track for the data centre"
+  },
+  "https://www.journaldemontreal.com/2026/11/23/vous-payez-votre-bouteille-10-cents-de-plus-a-la-saq-a-cause-du-diesel": {
+   "category": "crown-it",
+   "importance": 3,
+   "title_en": "More than 1,000 products hit by a price increase at the SAQ"
+  },
+  "https://www.journaldemontreal.com/2026/11/23/85-000--en-essence-epicerie-et-vacances-sur-le-bras-du-cpe": {
+   "category": "justice",
+   "importance": 3,
+   "title_en": "$85,000 in gas, groceries and vacations charged to the daycare centre"
+  },
+  "https://ici.radio-canada.ca/article/info/2302505/fabrication-document-lutte-corruption-gaspesie": {
+   "category": "justice",
+   "importance": 2,
+   "title_en": "Gaspé Peninsula woman charged with fraud against Santé Québec Gaspésie"
   }
  }
 }

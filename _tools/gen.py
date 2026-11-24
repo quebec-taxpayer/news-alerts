@@ -69,7 +69,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-20": ["crown-corporations", "procurement"],
  "2026-11-21": ["crown-corporations", "procurement"],
  "2026-11-22": ["crown-corporations", "procurement"],
- "2026-11-23": ["crown-corporations", "procurement"]}
+ "2026-11-23": ["crown-corporations", "procurement"],
+ "2026-11-24": ["crown-corporations"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -140,6 +141,8 @@ SUMMARY = {
                 "The costs of two hospital expansions rose without announcement over the summer; Loto-Québec faces ever-fiercer competition; two former SPVM Station 39 officers are criminally charged; Quebec wants to manage Erasmus+ alone on its territory."),
  "2026-11-23": ("La Cour supérieure statue que les députés devront prêter serment au roi pour siéger; Montréal prévoit une hausse moyenne de 9,8 % des taxes résidentielles; 63 chantiers routiers sont reportés à cause de la grève des ingénieurs; un autre projet de la filière batterie est sur la glace.",
                 "The Superior Court rules that MNAs will have to swear an oath to the King to sit; Montreal plans an average 9.8% increase in residential taxes; 63 road projects are postponed because of the engineers’ strike; another battery sector project is on ice."),
+ "2026-11-24": ("Québec porte en appel le jugement sur le serment au roi; Rio Tinto commence à liquider de l’équipement du chantier de Nemaska Lithium; des villes pourraient hausser leurs taxes de 20 à 25 % en 2027; la SAQ augmente le prix de 1289 produits.",
+                "Quebec appeals the ruling on the oath to the King; Rio Tinto begins selling off equipment from the Nemaska Lithium site; some municipalities could raise taxes by 20 to 25% in 2027; the SAQ raises prices on 1,289 products."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

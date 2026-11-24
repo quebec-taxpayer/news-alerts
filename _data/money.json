@@ -251,6 +251,27 @@
    "per_fr": "Environ 309 $ par personne au Québec",
    "calc_en": "$2.8 billion ÷ 9,067,114 people = $308.81 each",
    "calc_fr": "2,8 milliards $ ÷ 9 067 114 personnes = 308,81 $ chacun"
+  },
+  {
+   "id": "saq-payment-1-4b",
+   "dossier": "saq",
+   "story_url": "https://www.journaldemontreal.com/2026/11/23/vous-payez-votre-bouteille-10-cents-de-plus-a-la-saq-a-cause-du-diesel",
+   "amount": 1400000000,
+   "qualifier": "target",
+   "per_year": true,
+   "label_en": "What the SAQ aims to keep paying the Quebec government each year for the next four years (“about $1.4 billion a year”)",
+   "label_fr": "Ce que la SAQ vise à continuer de verser chaque année à l’État québécois au cours des quatre prochaines années (« environ 1,4 G$ par an »)",
+   "source_title": "Plus de 1000 produits touchés par une hausse de prix à la SAQ",
+   "source_outlet": "Le Journal de Montréal",
+   "source_date": "2026-11-23",
+   "source_url": "https://www.journaldemontreal.com/2026/11/23/vous-payez-votre-bouteille-10-cents-de-plus-a-la-saq-a-cause-du-diesel",
+   "per_person_value": 154.4041,
+   "amount_en": "$1.4 billion",
+   "amount_fr": "1,4 milliard $",
+   "per_en": "$154 per person in Quebec per year",
+   "per_fr": "154 $ par personne au Québec par année",
+   "calc_en": "$1.4 billion ÷ 9,067,114 people = $154.40 each per year",
+   "calc_fr": "1,4 milliard $ ÷ 9 067 114 personnes = 154,40 $ chacun par année"
   }
  ]
 }

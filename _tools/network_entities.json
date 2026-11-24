@@ -3308,6 +3308,70 @@
    "name": "Julien Normand",
    "type": "person",
    "aliases": []
+  },
+  "cour-appel-quebec": {
+   "name": "Cour d’appel du Québec",
+   "type": "organization",
+   "aliases": [
+    "Cour d’appel",
+    "Court of Appeal"
+   ]
+  },
+  "jacques-demers-fqm": {
+   "name": "Jacques Demers",
+   "type": "person",
+   "aliases": []
+  },
+  "umq": {
+   "name": "Union des municipalités du Québec",
+   "type": "organization",
+   "aliases": [
+    "UMQ"
+   ]
+  },
+  "guillaume-tremblay-umq": {
+   "name": "Guillaume Tremblay",
+   "type": "person",
+   "aliases": []
+  },
+  "sts-saguenay": {
+   "name": "Société de transport du Saguenay",
+   "type": "organization",
+   "aliases": []
+  },
+  "frederic-michel": {
+   "name": "Frédéric Michel",
+   "type": "person",
+   "aliases": []
+  },
+  "jacques-farcy": {
+   "name": "Jacques Farcy",
+   "type": "person",
+   "aliases": []
+  },
+  "ministere-famille": {
+   "name": "Ministère de la Famille",
+   "type": "organization",
+   "aliases": [
+    "ministère de la Famille"
+   ]
+  },
+  "cpe-la-petite-academie": {
+   "name": "CPE La Petite Académie",
+   "type": "organization",
+   "aliases": [
+    "La Petite Académie"
+   ]
+  },
+  "laure-letarte-lavoie": {
+   "name": "Laure Letarte-Lavoie",
+   "type": "person",
+   "aliases": []
+  },
+  "gaetan-drouin": {
+   "name": "Gaétan Drouin",
+   "type": "person",
+   "aliases": []
   }
  },
  "stories": [
@@ -7237,6 +7301,126 @@
    "dossiers": [
     "loto-quebec"
    ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-24/jugement-sur-le-serment-au-roi/la-rentree-de-l-assemblee-nationale-compromise.php",
+   "entities": [
+    "pspp",
+    "cour-superieure",
+    "ian-demers",
+    "lawrence-david",
+    "assemblee-nationale",
+    "cour-appel-quebec",
+    "charles-milliard",
+    "eric-duhaime"
+   ],
+   "dossiers": [
+    "oath-king"
+   ]
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/24/violence-a-lecole-et-ecrans-le-pq-va-interdire-lacces-des-jeunes-aux-reseaux-sociaux",
+   "entities": [
+    "joel-arseneau",
+    "pspp",
+    "pq"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/23/hausses-de-taxes-salees-le-milieu-municipal-sattend-au-pire",
+   "entities": [
+    "fqm",
+    "jacques-demers-fqm",
+    "umq",
+    "guillaume-tremblay-umq",
+    "nicolas-girard",
+    "nicolas-marceau",
+    "ville-quebec",
+    "bruno-marchand"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/",
+   "entities": [
+    "pspp",
+    "nicolas-marceau",
+    "soraya-martinez-ferrada",
+    "ville-montreal"
+   ],
+   "dossiers": [
+    "montreal-budget-2027"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302626/sts-autobus-deficit-quebec-deputes",
+   "entities": [
+    "sts-saguenay",
+    "frederic-michel"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium",
+   "entities": [
+    "rio-tinto",
+    "nemaska-lithium",
+    "investissement-quebec"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "nemaska-lithium"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302456/centre-donnees-reputation-bibeau-pivot-sherbrooke",
+   "entities": [
+    "marie-claude-bibeau",
+    "keel",
+    "hydro-sherbrooke",
+    "ville-sherbrooke",
+    "bernard-drainville",
+    "laure-letarte-lavoie",
+    "gaetan-drouin"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/23/vous-payez-votre-bouteille-10-cents-de-plus-a-la-saq-a-cause-du-diesel",
+   "entities": [
+    "saq",
+    "jacques-farcy"
+   ],
+   "checked_by_hand": true,
+   "dossiers": [
+    "saq"
+   ]
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/23/85-000--en-essence-epicerie-et-vacances-sur-le-bras-du-cpe",
+   "entities": [
+    "upac",
+    "ministere-famille",
+    "cpe-la-petite-academie"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302505/fabrication-document-lutte-corruption-gaspesie",
+   "entities": [
+    "clcc",
+    "sante-quebec-gaspesie",
+    "upac"
+   ],
+   "dossiers": []
   }
  ]
 }
