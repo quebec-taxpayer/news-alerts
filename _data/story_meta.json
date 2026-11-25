@@ -1703,6 +1703,56 @@
    "category": "justice",
    "importance": 2,
    "title_en": "Gaspé Peninsula woman charged with fraud against Santé Québec Gaspésie"
+  },
+  "https://ici.radio-canada.ca/article/info/2302735/serment-roi-plq-presidente-assemblee-nationale-pq": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "Oath to the King: all parties want to sit, Quebec appeals"
+  },
+  "https://www.noovo.info/nouvelles/politique/article/quebec-solidaire-devient-la-troisieme-opposition-en-acceptant-un-budget-ampute-de-plus-de-50/": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Québec solidaire becomes the third opposition party by accepting a budget cut of more than 50%"
+  },
+  "https://www.tvanouvelles.ca/2026/11/25/quebec-recrute-un-sous-ministre-a-700000--de-fonds-publics": {
+   "category": "government",
+   "importance": 5,
+   "title_en": "Quebec hires a deputy minister at $700,000 in public funds"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-25/cpe-et-garderies-subventionnees/quebec-limite-la-hausse-du-tarif-a-3.php": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "CPEs and subsidized daycares – Quebec limits the fee increase to 3%"
+  },
+  "https://ici.radio-canada.ca/article/info/2302576/budget-montreal-forte-hausse-taxes-2010": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "City of Montreal budget: the largest tax increase since 2010"
+  },
+  "https://ici.radio-canada.ca/article/info/2302831/financement-tramway-quebec-pqi-girard": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "No question of dropping the tramway, Minister Girard rules"
+  },
+  "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Power grid on farmland – Hydro-Québec and the UPA reach an agreement"
+  },
+  "https://ici.radio-canada.ca/article/info/2302870/genevieve-biron-quitte-sante-quebec": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "Geneviève Biron will leave Santé Québec in May 2027"
+  },
+  "https://ici.radio-canada.ca/article/info/2302779/sante-quebec-laurentides-prime-autogestion": {
+   "category": "health",
+   "importance": 3,
+   "title_en": "Santé Québec Laurentides owes up to $8,700 to thousands of employees"
+  },
+  "https://www.journaldemontreal.com/2026/11/24/un-ex-juge-de-longueuil-coupable-de-fraude": {
+   "category": "justice",
+   "importance": 5,
+   "title_en": "A former Longueuil judge found guilty of fraud"
   }
  }
 }

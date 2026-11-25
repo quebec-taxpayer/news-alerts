@@ -3372,6 +3372,58 @@
    "name": "Gaétan Drouin",
    "type": "person",
    "aliases": []
+  },
+  "nathalie-roy": {
+   "name": "Nathalie Roy",
+   "type": "person",
+   "aliases": []
+  },
+  "benoit-dagenais": {
+   "name": "Benoit Dagenais",
+   "type": "person",
+   "aliases": []
+  },
+  "alain-dufort": {
+   "name": "Alain Dufort",
+   "type": "person",
+   "aliases": []
+  },
+  "upa": {
+   "name": "Union des producteurs agricoles",
+   "type": "organization",
+   "aliases": [
+    "UPA"
+   ]
+  },
+  "cptaq": {
+   "name": "Commission de protection du territoire agricole du Québec",
+   "type": "organization",
+   "aliases": [
+    "Commission de la protection du territoire agricole",
+    "CPTAQ"
+   ]
+  },
+  "christiane-germain": {
+   "name": "Christiane Germain",
+   "type": "person",
+   "aliases": []
+  },
+  "jean-herbert": {
+   "name": "Jean Herbert",
+   "type": "person",
+   "aliases": []
+  },
+  "dannie-leblanc": {
+   "name": "Dannie Leblanc",
+   "type": "person",
+   "aliases": []
+  },
+  "conseil-magistrature": {
+   "name": "Conseil de la magistrature du Québec",
+   "type": "organization",
+   "aliases": [
+    "Conseil de la magistrature"
+   ]
   }
  },
  "stories": [
@@ -7420,6 +7472,127 @@
     "sante-quebec-gaspesie",
     "upac"
    ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302735/serment-roi-plq-presidente-assemblee-nationale-pq",
+   "entities": [
+    "marie-claude-sarrazin",
+    "cour-superieure",
+    "andre-fortin",
+    "nathalie-roy",
+    "pspp",
+    "eric-duhaime",
+    "alexandre-leduc",
+    "cour-appel-quebec"
+   ],
+   "dossiers": [
+    "oath-king"
+   ]
+  },
+  {
+   "match": "https://www.noovo.info/nouvelles/politique/article/quebec-solidaire-devient-la-troisieme-opposition-en-acceptant-un-budget-ampute-de-plus-de-50/",
+   "entities": [
+    "qs",
+    "alexandre-leduc",
+    "catherine-gentilcore",
+    "andre-fortin",
+    "assemblee-nationale",
+    "pq"
+   ],
+   "dossiers": [
+    "qs-recognition"
+   ]
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/25/quebec-recrute-un-sous-ministre-a-700000--de-fonds-publics",
+   "entities": [
+    "benoit-dagenais",
+    "ville-montreal",
+    "soraya-martinez-ferrada",
+    "pspp",
+    "alain-dufort"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-25/cpe-et-garderies-subventionnees/quebec-limite-la-hausse-du-tarif-a-3.php",
+   "entities": [
+    "pspp",
+    "meganne-perry-melancon"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302576/budget-montreal-forte-hausse-taxes-2010",
+   "entities": [
+    "ville-montreal",
+    "soraya-martinez-ferrada",
+    "ericka-alneus",
+    "projet-montreal",
+    "claude-pinard",
+    "iedm"
+   ],
+   "dossiers": [
+    "montreal-budget-2027"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302831/financement-tramway-quebec-pqi-girard",
+   "entities": [
+    "nicolas-girard",
+    "pspp",
+    "bruno-marchand",
+    "ville-quebec"
+   ],
+   "dossiers": [
+    "tramway-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php",
+   "entities": [
+    "hydro-quebec",
+    "upa",
+    "cptaq"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302870/genevieve-biron-quitte-sante-quebec",
+   "entities": [
+    "genevieve-biron",
+    "sante-quebec",
+    "marie-karlynn-laflamme",
+    "christiane-germain"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302779/sante-quebec-laurentides-prime-autogestion",
+   "entities": [
+    "sante-quebec"
+   ],
+   "dossiers": [
+    "sante-quebec"
+   ]
+  },
+  {
+   "match": "https://www.journaldemontreal.com/2026/11/24/un-ex-juge-de-longueuil-coupable-de-fraude",
+   "entities": [
+    "jean-herbert",
+    "dannie-leblanc",
+    "upac",
+    "conseil-magistrature"
+   ],
+   "checked_by_hand": true,
    "dossiers": []
   }
  ]
