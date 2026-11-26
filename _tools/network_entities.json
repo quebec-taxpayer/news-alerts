@@ -145,7 +145,9 @@
   "soraya-martinez-ferrada": {
    "name": "Soraya Martinez Ferrada",
    "type": "person",
-   "aliases": []
+   "aliases": [
+    "Martinez Ferrada"
+   ]
   },
   "stephane-paquet": {
    "name": "Stéphane Paquet",
@@ -1536,7 +1538,8 @@
    "name": "Newfoundland and Labrador Hydro",
    "type": "organization",
    "aliases": [
-    "NL Hydro"
+    "NL Hydro",
+    "Hydro Terre-Neuve-et-Labrador"
    ]
   },
   "innu-nation": {
@@ -3423,6 +3426,80 @@
    "type": "organization",
    "aliases": [
     "Conseil de la magistrature"
+   ]
+  },
+  "ville-longueuil": {
+   "name": "Ville de Longueuil",
+   "type": "organization",
+   "aliases": [
+    "Longueuil"
+   ]
+  },
+  "catherine-fournier": {
+   "name": "Catherine Fournier",
+   "type": "person",
+   "aliases": []
+  },
+  "ville-laval": {
+   "name": "Ville de Laval",
+   "type": "organization",
+   "aliases": [
+    "Laval"
+   ]
+  },
+  "stephane-boyer": {
+   "name": "Stéphane Boyer",
+   "type": "person",
+   "aliases": []
+  },
+  "jardin-botanique-montreal": {
+   "name": "Jardin botanique de Montréal",
+   "type": "organization",
+   "aliases": [
+    "Jardin botanique"
+   ]
+  },
+  "gabrielle-rousseau-belanger": {
+   "name": "Gabrielle Rousseau-Bélanger",
+   "type": "person",
+   "aliases": []
+  },
+  "jean-st-pierre": {
+   "name": "Jean St-Pierre",
+   "type": "person",
+   "aliases": []
+  },
+  "via-rail": {
+   "name": "VIA Rail Canada",
+   "type": "organization",
+   "aliases": [
+    "VIA Rail"
+   ]
+  },
+  "lloyd-parrott": {
+   "name": "Lloyd Parrott",
+   "type": "person",
+   "aliases": []
+  },
+  "fae": {
+   "name": "Fédération autonome de l’enseignement",
+   "type": "organization",
+   "aliases": [
+    "FAE"
+   ]
+  },
+  "fse-csq": {
+   "name": "Fédération des syndicats de l’enseignement",
+   "type": "organization",
+   "aliases": [
+    "FSE-CSQ"
+   ]
+  },
+  "fqcs": {
+   "name": "Fédération québécoise des coopératives de santé",
+   "type": "organization",
+   "aliases": [
+    "FQCS"
    ]
   }
  },
@@ -7593,6 +7670,134 @@
     "conseil-magistrature"
    ],
    "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302985/serment-roi-rentree-parlementaire-quebec",
+   "entities": [
+    "catherine-gentilcore",
+    "marie-claude-sarrazin",
+    "pspp",
+    "charles-milliard",
+    "eric-duhaime",
+    "nathalie-roy",
+    "pq",
+    "plq"
+   ],
+   "dossiers": [
+    "oath-king"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/education/2026-11-26/violence-a-l-ecole/les-accidents-de-travail-ont-quadruple-en-10-ans.php",
+   "entities": [
+    "cnesst",
+    "fae",
+    "fse-csq"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/hausse-de-taxes/longueuil-va-emboiter-le-pas-a-montreal.php",
+   "entities": [
+    "ville-longueuil",
+    "catherine-fournier",
+    "soraya-martinez-ferrada",
+    "umq",
+    "guillaume-tremblay-umq",
+    "ville-laval",
+    "stephane-boyer"
+   ],
+   "dossiers": [
+    "municipal-budgets-2027"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-25/budget-2027/le-maire-de-quebec-promet-une-hausse-des-taxes-sous-l-inflation.php",
+   "entities": [
+    "bruno-marchand",
+    "pspp"
+   ],
+   "dossiers": [
+    "municipal-budgets-2027"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/jardin-botanique/montreal-defend-la-reconstruction-des-serres-pour-290-millions.php",
+   "entities": [
+    "soraya-martinez-ferrada",
+    "jardin-botanique-montreal",
+    "gabrielle-rousseau-belanger"
+   ],
+   "dossiers": [
+    "montreal-budget-2027"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2302959/octroi-contrats-gre-a-gre-appel-offres-lacunes",
+   "entities": [
+    "amp",
+    "sante-quebec-gaspesie",
+    "sante-quebec",
+    "vgq",
+    "jean-st-pierre"
+   ],
+   "dossiers": [
+    "sante-quebec",
+    "it-procurement"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2303131/alstom-la-pocatiere-metro-tramway-viarail",
+   "entities": [
+    "alstom",
+    "cdpq-infra",
+    "stm",
+    "via-rail"
+   ],
+   "dossiers": [
+    "tramway-quebec"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2303175/rassemblement-citoyen-anti-churchill-falls-referendum",
+   "entities": [
+    "tony-wakeham",
+    "nl-hydro",
+    "hydro-quebec",
+    "stephane-paquet",
+    "lloyd-parrott"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/sante/2026-11-26/visites-medicales/deux-fois-moins-cheres-en-cooperative-que-dans-le-reseau-public-selon-une-analyse.php",
+   "entities": [
+    "fqcs",
+    "marie-karlynn-laflamme",
+    "sante-quebec"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.cbc.ca/news/canada/montreal/spvm-scandal-police-9.7435632",
+   "entities": [
+    "dpcp",
+    "spvm",
+    "fraternite-policiers-montreal"
+   ],
+   "dossiers": [
+    "spvm-pdq39"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2303099/poursuite-dpcp-analyse-policiers-spvm-famile-abdallah",
+   "entities": [
+    "dpcp",
+    "spvm"
+   ],
    "dossiers": []
   }
  ]

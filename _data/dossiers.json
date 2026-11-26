@@ -521,6 +521,17 @@
      "source_type": "media",
      "post": "2026-11-25",
      "background": false
+    },
+    {
+     "date": "2026-11-25",
+     "en": "About 500 people rally in St. John’s against the Churchill Falls framework agreement with Quebec and denounce the Newfoundland and Labrador government’s decision not to hold a referendum on the final agreements.",
+     "fr": "Environ 500 personnes se rassemblent à Saint-Jean contre l’entente-cadre sur Churchill Falls avec le Québec et dénoncent la décision du gouvernement de Terre-Neuve-et-Labrador de ne pas tenir de référendum sur les ententes définitives.",
+     "source_title": "Churchil Falls : « Nous avons l’obligation de bloquer cette entente! »",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2303175/rassemblement-citoyen-anti-churchill-falls-referendum",
+     "source_type": "media",
+     "post": "2026-11-26",
+     "background": false
     }
    ],
    "tldr": {
@@ -533,8 +544,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Hydro-Québec’s renewed agreement with the UPA raises compensation to farmers for transmission lines on their land by the equivalent of 25%. Newfoundland and Labrador’s premier says Quebec has not asked to renegotiate the Churchill Falls deal and he will not. In Sherbrooke, the mayor denies a Pivot report that she sought a fast track from Quebec for Keel Infrastructure’s data centre project.",
-     "fr": "L’entente renouvelée d’Hydro-Québec avec l’UPA augmente de l’équivalent de 25 % les compensations versées aux agriculteurs pour les lignes de transport sur leurs terres. Le premier ministre de Terre-Neuve-et-Labrador dit que Québec ne lui a pas demandé de renégocier l’entente sur Churchill Falls et qu’il ne le fera pas. À Sherbrooke, la mairesse dément un reportage de Pivot selon lequel elle aurait voulu une voie rapide de Québec pour le projet de centre de données de Keel Infrastructure."
+     "en": "Hydro-Québec’s renewed agreement with the UPA raises compensation to farmers for transmission lines on their land by the equivalent of 25%. In St. John’s, about 500 people rallied on Nov. 25 against the Churchill Falls framework agreement; Quebec and Newfoundland and Labrador are giving themselves until March to conclude the final agreements. In Sherbrooke, the mayor denies a Pivot report that she sought a fast track from Quebec for Keel Infrastructure’s data centre project.",
+     "fr": "L’entente renouvelée d’Hydro-Québec avec l’UPA augmente de l’équivalent de 25 % les compensations versées aux agriculteurs pour les lignes de transport sur leurs terres. À Saint-Jean, environ 500 personnes ont manifesté le 25 novembre contre l’entente-cadre sur Churchill Falls; Québec et Terre-Neuve-et-Labrador se donnent jusqu’en mars pour conclure les ententes définitives. À Sherbrooke, la mairesse dément un reportage de Pivot selon lequel elle aurait voulu une voie rapide de Québec pour le projet de centre de données de Keel Infrastructure."
     }
    }
   },
@@ -749,6 +760,28 @@
      "source_type": "media",
      "post": "2026-11-11",
      "background": false
+    },
+    {
+     "date": "2026-11-24",
+     "en": "The Autorité des marchés publics makes public an order finding that Santé Québec Gaspésie broke contracting rules, including a $1.8M home-care contract awarded without a call for tenders in January 2026; it orders the region to be accompanied by Santé Québec.",
+     "fr": "L’Autorité des marchés publics rend publique une ordonnance concluant que Santé Québec Gaspésie a enfreint les règles contractuelles, notamment pour un contrat de soins à domicile de 1,8 M$ accordé de gré à gré en janvier 2026; elle lui ordonne de se faire accompagner par Santé Québec.",
+     "source_title": "Octroi de contrats : l’AMP réprimande Santé Québec Gaspésie",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302959/octroi-contrats-gre-a-gre-appel-offres-lacunes",
+     "source_type": "media",
+     "post": "2026-11-26",
+     "background": false
+    },
+    {
+     "date": "2026-11-25",
+     "en": "The Autorité des marchés publics publishes a release on its order: Santé Québec Gaspésie must be accompanied by Santé Québec for its next home-care contract and set up monitoring of billing and contract execution.",
+     "fr": "L’Autorité des marchés publics publie un communiqué sur son ordonnance : Santé Québec Gaspésie devra être accompagnée par Santé Québec pour son prochain contrat de soins à domicile et mettre en place un suivi de la facturation et de l’exécution du contrat.",
+     "source_title": "L’AMP ordonne à Santé Québec Gaspésie de renforcer l’encadrement et le suivi de sa gestion contractuelle",
+     "source_outlet": "Autorité des marchés publics",
+     "source_url": "https://www.amp.quebec/communique/ordonnance-2026-08",
+     "source_type": "primary",
+     "post": null,
+     "background": true
     }
    ],
    "tldr": {
@@ -761,8 +794,8 @@
      "fr": "Les contrats sans concurrence ouverte sont payés avec des fonds publics. SAAQclic a montré comment les coûts peuvent grimper."
     },
     "now": {
-     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board; the Treasury Board president says a bill will follow once the new structure is in place. No chief information officer has been designated. In Jonquière, bids for the hospital emergency expansion came in above Quebec’s planned amount, and Treasury Board approval is now being sought. A compilation by the group Attac Québec says Quebec has kept paying Amazon Web Services for IT services since early 2025.",
-     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor; le président du Conseil du trésor dit qu’un projet de loi suivra une fois la nouvelle structure en place. Aucun dirigeant principal de l’information n’a été désigné. À Jonquière, les soumissions pour l’agrandissement de l’urgence ont dépassé le montant prévu par Québec, et l’approbation du Conseil du trésor est maintenant demandée. Une compilation de l’organisme Attac Québec indique que Québec a continué de payer Amazon Web Services pour des services informatiques depuis le début de 2025."
+     "en": "The new minister for AI and Digital, Anne Nguyen, must first audit all government IT projects. The Ministry of Cybersecurity and Digital Affairs is being folded into the Treasury Board; the Treasury Board president says a bill will follow once the new structure is in place. No chief information officer has been designated. The Autorité des marchés publics ordered Santé Québec Gaspésie to be accompanied by Santé Québec after finding that a home-care contract awarded without a call for tenders broke the rules. A compilation by the group Attac Québec says Quebec has kept paying Amazon Web Services for IT services since early 2025.",
+     "fr": "La nouvelle ministre de l’IA et du Numérique, Anne Nguyen, doit d’abord auditer tous les projets informatiques de l’État. Le ministère de la Cybersécurité et du Numérique est intégré au Conseil du trésor; le président du Conseil du trésor dit qu’un projet de loi suivra une fois la nouvelle structure en place. Aucun dirigeant principal de l’information n’a été désigné. L’Autorité des marchés publics a ordonné à Santé Québec Gaspésie de se faire accompagner par Santé Québec, après avoir conclu qu’un contrat de soins à domicile accordé de gré à gré enfreignait les règles. Une compilation de l’organisme Attac Québec indique que Québec a continué de payer Amazon Web Services pour des services informatiques depuis le début de 2025."
     }
    }
   },
@@ -1072,6 +1105,17 @@
      "source_type": "media",
      "post": "2026-11-25",
      "background": false
+    },
+    {
+     "date": "2026-11-25",
+     "en": "The PQ government says it will sit on Dec. 1 whatever the outcome in court and invites opposition leaders to sign a joint letter; the Liberal leader refuses and prefers to wait for the Court of Appeal, which is to hear the government’s appeal on Nov. 27.",
+     "fr": "Le gouvernement péquiste dit qu’il siégera le 1er décembre, peu importe l’issue judiciaire, et invite les chefs de l’opposition à signer une lettre commune; le chef libéral refuse et préfère attendre la Cour d’appel, qui doit entendre l’appel du gouvernement le 27 novembre.",
+     "source_title": "Le PQ met au défi ses adversaires de siéger sans prêter serment au roi",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302985/serment-roi-rentree-parlementaire-quebec",
+     "source_type": "media",
+     "post": "2026-11-26",
+     "background": false
     }
    ],
    "tldr": {
@@ -1084,8 +1128,8 @@
      "fr": "La cause pourrait influer sur le moment où l’Assemblée nationale commence ses travaux après l’élection."
     },
     "now": {
-     "en": "On Nov. 23, the Superior Court ruled, on Lawrence David’s request for a stay, that MNAs must swear the oath to the King to sit; none of the 127 MNAs did so in October. On Nov. 24, the Justice Minister filed an appeal, and the Liberals asked the Assembly’s Speaker for a private ruling before the first sitting planned for Dec. 1. All parties say they want to sit.",
-     "fr": "Le 23 novembre, la Cour supérieure a statué, sur la demande de sursis de Lawrence David, que les députés devront prêter serment au roi pour siéger; aucun des 127 députés ne l’a fait en octobre. Le 24 novembre, la ministre de la Justice a déposé un appel, et les libéraux ont demandé à la présidente de l’Assemblée une décision rendue en privé avant la première séance prévue le 1er décembre. Tous les partis disent vouloir siéger."
+     "en": "On Nov. 23, the Superior Court ruled, on Lawrence David’s request for a stay, that MNAs must swear the oath to the King to sit; none of the 127 MNAs did so in October. The Justice Minister appealed, and the Court of Appeal is to hear the case in Montreal on Nov. 27. The PQ says it will sit on Dec. 1 whatever happens and asked opposition leaders to sign a joint letter; the Liberal leader refuses and prefers to wait for the court.",
+     "fr": "Le 23 novembre, la Cour supérieure a statué, sur la demande de sursis de Lawrence David, que les députés devront prêter serment au roi pour siéger; aucun des 127 députés ne l’a fait en octobre. La ministre de la Justice a fait appel, et la Cour d’appel doit entendre la cause à Montréal le 27 novembre. Le PQ dit qu’il siégera le 1er décembre quoi qu’il arrive et a invité les chefs de l’opposition à signer une lettre commune; le chef libéral refuse et préfère attendre la décision de la cour."
     }
    }
   },
@@ -1491,6 +1535,17 @@
      "background": false
     },
     {
+     "date": "2026-11-24",
+     "en": "The Autorité des marchés publics makes public an order finding that Santé Québec Gaspésie broke contracting rules, including a $1.8M home-care contract awarded without a call for tenders in January 2026; it orders the region to be accompanied by Santé Québec.",
+     "fr": "L’Autorité des marchés publics rend publique une ordonnance concluant que Santé Québec Gaspésie a enfreint les règles contractuelles, notamment pour un contrat de soins à domicile de 1,8 M$ accordé de gré à gré en janvier 2026; elle lui ordonne de se faire accompagner par Santé Québec.",
+     "source_title": "Octroi de contrats : l’AMP réprimande Santé Québec Gaspésie",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302959/octroi-contrats-gre-a-gre-appel-offres-lacunes",
+     "source_type": "media",
+     "post": "2026-11-26",
+     "background": false
+    },
+    {
      "date": "2026-11-25",
      "en": "Radio-Canada reports that 3,000 Santé Québec Laurentides employees have been waiting two years for a self-scheduling premium in their collective agreement; Santé Québec Laurentides gives no payment date.",
      "fr": "Radio-Canada rapporte que 3000 employés de Santé Québec Laurentides attendent depuis deux ans une prime d’autogestion des horaires prévue à leur convention collective; Santé Québec Laurentides ne donne aucune date de versement.",
@@ -1512,8 +1567,8 @@
      "fr": "Santé Québec est l’employeur du personnel du réseau : tout changement touche la gestion des hôpitaux et des cliniques."
     },
     "now": {
-     "en": "CEO Geneviève Biron will leave on May 5, 2027, after the PQ government refused to extend her mandate, and the health minister maintains the plan to abolish Santé Québec. In the Laurentides, some 3,000 workers have been waiting two years for a scheduling premium. In Thetford Mines, the hospital’s psychiatric unit is to close temporarily on Dec. 18 for lack of psychiatrists.",
-     "fr": "La PDG Geneviève Biron partira le 5 mai 2027, le gouvernement péquiste ayant refusé de prolonger son mandat, et la ministre de la Santé maintient son intention d’abolir Santé Québec. Dans les Laurentides, quelque 3000 employés attendent depuis deux ans une prime liée aux horaires. À Thetford Mines, l’unité de psychiatrie de l’hôpital doit fermer temporairement le 18 décembre, faute de psychiatres."
+     "en": "The Autorité des marchés publics found that Santé Québec Gaspésie broke contracting rules, including a home-care contract awarded without a call for tenders. CEO Geneviève Biron will leave on May 5, 2027, after the PQ government refused to extend her mandate, and the health minister maintains the plan to abolish Santé Québec. In Thetford Mines, the hospital’s psychiatric unit is to close temporarily on Dec. 18 for lack of psychiatrists.",
+     "fr": "L’Autorité des marchés publics a conclu que Santé Québec Gaspésie a enfreint les règles contractuelles, notamment pour un contrat de soins à domicile accordé de gré à gré. La PDG Geneviève Biron partira le 5 mai 2027, le gouvernement péquiste ayant refusé de prolonger son mandat, et la ministre de la Santé maintient son intention d’abolir Santé Québec. À Thetford Mines, l’unité de psychiatrie de l’hôpital doit fermer temporairement le 18 décembre, faute de psychiatres."
     }
    }
   },
@@ -3308,8 +3363,8 @@
      "fr": "La population doit pouvoir compter sur la police pour protéger la preuve. La mairesse dit que sa confiance est ébranlée."
     },
     "now": {
-     "en": "On Nov. 21, the DPCP charged two of the seven officers fired on Nov. 2 with assault and breach of trust; one also faces a criminal harassment charge. The charges have not been proven in court. The police union says it will contest the dismissals.",
-     "fr": "Le 21 novembre, le DPCP a accusé deux des sept policiers congédiés le 2 novembre de voies de fait et d’abus de confiance; l’un fait aussi face à une accusation de harcèlement criminel. Les accusations n’ont pas été prouvées en cour. Le syndicat des policiers dit qu’il contestera les congédiements."
+     "en": "On Nov. 21, the DPCP charged two of the seven officers fired on Nov. 2 with assault and breach of trust; one also faces a criminal harassment charge. On Nov. 25, it charged a third former Station 39 officer with assault. The charges have not been proven in court. The police union says it will contest the dismissals.",
+     "fr": "Le 21 novembre, le DPCP a accusé deux des sept policiers congédiés le 2 novembre de voies de fait et d’abus de confiance; l’un fait aussi face à une accusation de harcèlement criminel. Le 25 novembre, il a accusé un troisième ex-policier du poste 39 de voies de fait. Les accusations n’ont pas été prouvées en cour. Le syndicat des policiers dit qu’il contestera les congédiements."
     }
    },
    "events": [
@@ -3410,6 +3465,17 @@
      "source_url": "https://www.lapresse.ca/actualites/justice-et-faits-divers/2026-11-21/allegations-de-racisme-au-poste-39/deux-ex-policiers-du-spvm-accuses-au-criminel.php",
      "source_type": "media",
      "post": "2026-11-22",
+     "background": false
+    },
+    {
+     "date": "2026-11-25",
+     "en": "The DPCP announces one count of assault against a third former Station 39 officer (alleged incident on Aug. 31, 2024). The charge has not been proven in court.",
+     "fr": "Le DPCP annonce un chef de voies de fait contre un troisième ex-policier du poste 39 (incident allégué le 31 août 2024). L’accusation n’a pas été prouvée en cour.",
+     "source_title": "3rd former Montreal police officer arrested and charged in connection with racism scandal",
+     "source_outlet": "CBC News",
+     "source_url": "https://www.cbc.ca/news/canada/montreal/spvm-scandal-police-9.7435632",
+     "source_type": "media",
+     "post": "2026-11-26",
      "background": false
     }
    ]
@@ -3984,6 +4050,17 @@
      "source_type": "media",
      "post": "2026-11-25",
      "background": false
+    },
+    {
+     "date": "2026-11-26",
+     "en": "Radio-Canada reports that Alstom is modernizing its La Pocatière plant, which will build the tramway’s rolling stock; that contract, valued at $569 million in 2023 for 34 trains, was transferred to CDPQ Infra in September.",
+     "fr": "Radio-Canada rapporte qu’Alstom modernise son usine de La Pocatière, qui fabriquera le matériel roulant du tramway; ce contrat, évalué à 569 millions $ en 2023 pour 34 rames, a été cédé à CDPQ Infra en septembre.",
+     "source_title": "Tramway de Québec, VIA Rail, métro de Montréal : Alstom voit grand à La Pocatière",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2303131/alstom-la-pocatiere-metro-tramway-viarail",
+     "source_type": "media",
+     "post": "2026-11-26",
+     "background": false
     }
    ],
    "tldr": {
@@ -3996,8 +4073,8 @@
      "fr": "C’est un grand projet de transport payé avec des fonds publics, et il exige d’acheter des immeubles privés le long du tracé."
     },
     "now": {
-     "en": "Minister Nicolas Girard says the PQ government will deliver the tramway despite the $65-billion shortfall in the infrastructure plan, and an updated cost estimate is still planned for June 2027. Mobilité Infra Québec, the project owner, has hired a strategic adviser without a call for tenders to help negotiate the delivery agreements.",
-     "fr": "Le ministre Nicolas Girard affirme que le gouvernement péquiste livrera le tramway malgré le manque de 65 milliards $ du plan d’infrastructures, et une mise à jour des coûts est toujours prévue en juin 2027. Mobilité Infra Québec, maître d’ouvrage, a embauché de gré à gré un aviseur stratégique pour l’aider à négocier les ententes de réalisation."
+     "en": "Minister Nicolas Girard says the PQ government will deliver the tramway despite the $65-billion shortfall in the infrastructure plan, and an updated cost estimate is still planned for June 2027. Mobilité Infra Québec, the project owner, has hired a strategic adviser without a call for tenders to help negotiate the delivery agreements. Alstom is modernizing its La Pocatière plant, which will build the tramway’s rolling stock.",
+     "fr": "Le ministre Nicolas Girard affirme que le gouvernement péquiste livrera le tramway malgré le manque de 65 milliards $ du plan d’infrastructures, et une mise à jour des coûts est toujours prévue en juin 2027. Mobilité Infra Québec, maître d’ouvrage, a embauché de gré à gré un aviseur stratégique pour l’aider à négocier les ententes de réalisation. Alstom modernise son usine de La Pocatière, qui fabriquera le matériel roulant du tramway."
     }
    }
   },
@@ -4425,8 +4502,8 @@
      "fr": "La hausse de taxes touche directement les propriétaires montréalais. Le sommaire du budget de la Ville fait état d’un important déficit d’investissement dans le maintien de ses infrastructures."
     },
     "now": {
-     "en": "The $8.04-billion budget confirms an average 9.8% increase in residential taxes, the largest since 2010 according to Radio-Canada. The 10-year capital plan is cut by about $2 billion and several projects are cancelled or postponed. Council is to debate and adopt the budget on Dec. 16 and 17.",
-     "fr": "Le budget de 8,04 milliards $ confirme une hausse moyenne de 9,8 % des taxes résidentielles, la plus forte depuis 2010 selon Radio-Canada. Le plan d’investissement sur 10 ans est amputé d’environ 2 milliards $ et plusieurs projets sont annulés ou reportés. Le conseil doit débattre du budget et l’adopter les 16 et 17 décembre."
+     "en": "The $8.04-billion budget confirms an average 9.8% increase in residential taxes, the largest since 2010 according to Radio-Canada. The 10-year capital plan is cut by about $2 billion and several projects are cancelled or postponed. Council is to debate and adopt the budget on Dec. 16 and 17. The city is keeping the $289.8-million rebuild of the Botanical Garden greenhouses, with the bulk of the spending now planned after 2032.",
+     "fr": "Le budget de 8,04 milliards $ confirme une hausse moyenne de 9,8 % des taxes résidentielles, la plus forte depuis 2010 selon Radio-Canada. Le plan d’investissement sur 10 ans est amputé d’environ 2 milliards $ et plusieurs projets sont annulés ou reportés. Le conseil doit débattre du budget et l’adopter les 16 et 17 décembre. La Ville maintient la reconstruction des serres du Jardin botanique, évaluée à 289,8 millions $, dont les investissements massifs sont désormais prévus après 2032."
     }
    },
    "events": [
@@ -4494,6 +4571,69 @@
      "source_url": "https://ici.radio-canada.ca/article/info/2302576/budget-montreal-forte-hausse-taxes-2010",
      "source_type": "media",
      "post": "2026-11-25",
+     "background": false
+    },
+    {
+     "date": "2026-11-25",
+     "en": "The city defends keeping the $289.8-million rebuild of the Botanical Garden greenhouses, with the bulk of the spending now planned after 2032, while funds for natural areas and the Grand parc de l’Ouest are cut.",
+     "fr": "La Ville défend le maintien de la reconstruction des serres du Jardin botanique, évaluée à 289,8 millions $, dont les investissements massifs sont désormais prévus après 2032, alors que les fonds pour les milieux naturels et le Grand parc de l’Ouest sont réduits.",
+     "source_title": "Jardin botanique – Montréal défend la reconstruction des serres pour 290 millions",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/jardin-botanique/montreal-defend-la-reconstruction-des-serres-pour-290-millions.php",
+     "source_type": "media",
+     "post": "2026-11-26",
+     "background": false
+    }
+   ]
+  },
+  {
+   "id": "municipal-budgets-2027",
+   "name_en": "2027 municipal budgets: taxes and infrastructure",
+   "name_fr": "Budgets municipaux 2027 : taxes et infrastructures",
+   "desc_en": "How Quebec cities other than Montreal are setting their 2027 property taxes as their infrastructure maintenance needs grow. Montreal’s budget has its own dossier.",
+   "desc_fr": "Comment les villes du Québec autres que Montréal fixent leurs taxes foncières de 2027 alors que leurs besoins d’entretien des infrastructures augmentent. Le budget de Montréal a son propre dossier.",
+   "entities": [
+    "ville-longueuil",
+    "catherine-fournier",
+    "bruno-marchand",
+    "umq",
+    "ville-laval"
+   ],
+   "tldr": {
+    "what": {
+     "en": "Quebec cities are preparing their 2027 budgets. Longueuil will add a new tax to maintain its infrastructure, while Quebec City’s mayor promises an increase no higher than inflation.",
+     "fr": "Les villes du Québec préparent leurs budgets 2027. Longueuil ajoutera une nouvelle taxe pour entretenir ses infrastructures, alors que le maire de Québec promet une hausse qui ne dépassera pas l’inflation."
+    },
+    "why": {
+     "en": "Property tax increases directly affect homeowners. Longueuil estimates its infrastructure maintenance deficit at at least $1.5 billion, and Quebec City says it must invest $5.5 billion in the coming years.",
+     "fr": "Les hausses de taxes foncières touchent directement les propriétaires. Longueuil estime son déficit de maintien des infrastructures à au moins 1,5 milliard $, et Québec dit devoir investir 5,5 milliards $ au cours des prochaines années."
+    },
+    "now": {
+     "en": "Longueuil is to present its budget in about two weeks, with an increase well above inflation, according to La Presse (Nov. 26). Quebec City’s budget is due the week after Nov. 25. The mayors of Longueuil and Montreal and the UMQ president want Quebec to at least match cities’ additional infrastructure investments.",
+     "fr": "Longueuil doit présenter son budget dans environ deux semaines, avec une hausse bien au-delà de l’inflation, selon La Presse (26 novembre). Le budget de Québec doit être présenté la semaine suivant le 25 novembre. Les mairesses de Longueuil et de Montréal et le président de l’UMQ demandent à Québec d’« accoter » au minimum les investissements supplémentaires des villes en infrastructures."
+    }
+   },
+   "events": [
+    {
+     "date": "2026-11-24",
+     "en": "After meeting the premier, Quebec City Mayor Bruno Marchand reiterates his promise that the 2027 residential tax increase will not exceed inflation; the city’s budget is to be presented the following week.",
+     "fr": "Après une rencontre avec le premier ministre, le maire de Québec, Bruno Marchand, réitère sa promesse que la hausse des taxes résidentielles de 2027 ne dépassera pas l’inflation; le budget de la Ville doit être présenté la semaine suivante.",
+     "source_title": "Budget 2027 – Le maire de Québec promet une hausse des taxes sous l’inflation",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-25/budget-2027/le-maire-de-quebec-promet-une-hausse-des-taxes-sous-l-inflation.php",
+     "source_type": "media",
+     "post": "2026-11-26",
+     "background": false
+    },
+    {
+     "date": "2026-11-26",
+     "en": "La Presse reports that Longueuil will also impose a new infrastructure maintenance tax, with a property tax increase well above inflation; the city’s budget is to be presented in two weeks.",
+     "fr": "La Presse rapporte que Longueuil imposera elle aussi une nouvelle taxe pour l’entretien des infrastructures, avec une hausse des taxes foncières bien au-delà de l’inflation; le budget de la Ville doit être présenté dans deux semaines.",
+     "source_title": "Hausse de taxes – Longueuil va emboîter le pas à Montréal",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/hausse-de-taxes/longueuil-va-emboiter-le-pas-a-montreal.php",
+     "source_type": "media",
+     "post": "2026-11-26",
      "background": false
     }
    ]

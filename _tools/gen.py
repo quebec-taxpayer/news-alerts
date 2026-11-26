@@ -71,7 +71,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-22": ["crown-corporations", "procurement"],
  "2026-11-23": ["crown-corporations", "procurement"],
  "2026-11-24": ["crown-corporations"],
- "2026-11-25": ["crown-corporations"]}
+ "2026-11-25": ["crown-corporations"],
+ "2026-11-26": ["crown-corporations", "procurement"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -146,6 +147,8 @@ SUMMARY = {
                 "Quebec appeals the ruling on the oath to the King; Rio Tinto begins selling off equipment from the Nemaska Lithium site; some municipalities could raise taxes by 20 to 25% in 2027; the SAQ raises prices on 1,289 products."),
  "2026-11-25": ("Un ex-DG de Montréal devient sous-ministre après avoir reçu plus d’un million $ en indemnité de départ; la PDG de Santé Québec partira en mai 2027; un ex-juge de Longueuil est reconnu coupable de fraude; Québec limite à 3 % la hausse du tarif des garderies subventionnées.",
                 "A former Montreal director general becomes a deputy minister after receiving over $1 million in severance; Santé Québec’s CEO will leave in May 2027; a former Longueuil judge is found guilty of fraud; Quebec limits the subsidized daycare fee increase to 3%."),
+ "2026-11-26": ("L’Autorité des marchés publics réprimande Santé Québec Gaspésie pour un contrat de 1,8 M$ accordé de gré à gré; le PQ veut siéger sans serment au roi; Longueuil imposera une nouvelle taxe d’infrastructures; un troisième ex-policier du poste 39 est accusé.",
+                "The Autorité des marchés publics reprimands Santé Québec Gaspésie over a $1.8M contract awarded without a call for tenders; the PQ wants to sit without the oath to the King; Longueuil will impose a new infrastructure tax; a third former Station 39 officer is charged."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

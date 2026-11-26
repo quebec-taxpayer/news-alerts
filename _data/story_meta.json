@@ -1753,6 +1753,61 @@
    "category": "justice",
    "importance": 5,
    "title_en": "A former Longueuil judge found guilty of fraud"
+  },
+  "https://ici.radio-canada.ca/article/info/2302985/serment-roi-rentree-parlementaire-quebec": {
+   "category": "government",
+   "importance": 4,
+   "title_en": "The PQ challenges its opponents to sit without swearing the oath to the King"
+  },
+  "https://www.lapresse.ca/actualites/education/2026-11-26/violence-a-l-ecole/les-accidents-de-travail-ont-quadruple-en-10-ans.php": {
+   "category": "other",
+   "importance": 3,
+   "title_en": "Violence at school – Workplace accidents have quadrupled in 10 years"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/hausse-de-taxes/longueuil-va-emboiter-le-pas-a-montreal.php": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Tax increase – Longueuil will follow Montreal’s lead"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-25/budget-2027/le-maire-de-quebec-promet-une-hausse-des-taxes-sous-l-inflation.php": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "2027 budget – Quebec City’s mayor promises a tax increase below inflation"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-25/jardin-botanique/montreal-defend-la-reconstruction-des-serres-pour-290-millions.php": {
+   "category": "finances",
+   "importance": 3,
+   "title_en": "Botanical Garden – Montreal defends rebuilding the greenhouses for 290 million"
+  },
+  "https://ici.radio-canada.ca/article/info/2302959/octroi-contrats-gre-a-gre-appel-offres-lacunes": {
+   "category": "crown-it",
+   "importance": 5,
+   "title_en": "Contract awards: the AMP reprimands Santé Québec Gaspésie"
+  },
+  "https://ici.radio-canada.ca/article/info/2303131/alstom-la-pocatiere-metro-tramway-viarail": {
+   "category": "energy",
+   "importance": 2,
+   "title_en": "Quebec City tramway, VIA Rail, Montreal metro: Alstom thinks big in La Pocatière"
+  },
+  "https://ici.radio-canada.ca/article/info/2303175/rassemblement-citoyen-anti-churchill-falls-referendum": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Churchill Falls: “We have an obligation to block this agreement!”"
+  },
+  "https://www.lapresse.ca/actualites/sante/2026-11-26/visites-medicales/deux-fois-moins-cheres-en-cooperative-que-dans-le-reseau-public-selon-une-analyse.php": {
+   "category": "health",
+   "importance": 2,
+   "title_en": "Medical visits – Half as expensive in co-operatives as in the public network, according to an analysis"
+  },
+  "https://www.cbc.ca/news/canada/montreal/spvm-scandal-police-9.7435632": {
+   "category": "justice",
+   "importance": 3,
+   "title_fr": "Un 3e ex-policier de Montréal arrêté et accusé en lien avec le scandale de racisme"
+  },
+  "https://ici.radio-canada.ca/article/info/2303099/poursuite-dpcp-analyse-policiers-spvm-famile-abdallah": {
+   "category": "justice",
+   "importance": 2,
+   "title_en": "No charges against police officers who wounded two civilians during a shootout"
   }
  }
 }
