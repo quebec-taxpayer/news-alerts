@@ -3304,7 +3304,8 @@
    "name": "Ministère de l’Économie, de l’Innovation et de l’Énergie",
    "type": "organization",
    "aliases": [
-    "MEIE"
+    "MEIE",
+    "ministère du Développement économique"
    ]
   },
   "julien-normand": {
@@ -3500,6 +3501,90 @@
    "type": "organization",
    "aliases": [
     "FQCS"
+   ]
+  },
+  "english-montreal-school-board": {
+   "name": "Commission scolaire English-Montréal",
+   "type": "organization",
+   "aliases": [
+    "English-Montréal"
+   ]
+  },
+  "jean-francois-roberge": {
+   "name": "Jean-François Roberge",
+   "type": "person",
+   "aliases": []
+  },
+  "monique-jerome-forget": {
+   "name": "Monique Jérôme-Forget",
+   "type": "person",
+   "aliases": []
+  },
+  "isq": {
+   "name": "Institut de la statistique du Québec",
+   "type": "organization",
+   "aliases": [
+    "ISQ"
+   ]
+  },
+  "linda-caron": {
+   "name": "Linda Caron",
+   "type": "person",
+   "aliases": []
+  },
+  "lavergne-groupe": {
+   "name": "Lavergne Groupe",
+   "type": "organization",
+   "aliases": [
+    "Lavergne"
+   ]
+  },
+  "fondaction": {
+   "name": "Fondaction",
+   "type": "organization",
+   "aliases": []
+  },
+  "mirae": {
+   "name": "Matériaux avancés Mirae",
+   "type": "organization",
+   "aliases": [
+    "Mirae"
+   ]
+  },
+  "ultium-cam": {
+   "name": "Ultium CAM",
+   "type": "organization",
+   "aliases": []
+  },
+  "spipb": {
+   "name": "Société du parc industriel et portuaire de Bécancour",
+   "type": "organization",
+   "aliases": []
+  },
+  "jean-lemire": {
+   "name": "Jean Lemire",
+   "type": "person",
+   "aliases": []
+  },
+  "boga": {
+   "name": "Beyond Oil and Gas Alliance",
+   "type": "organization",
+   "aliases": [
+    "BOGA"
+   ]
+  },
+  "barreau-quebec": {
+   "name": "Barreau du Québec",
+   "type": "organization",
+   "aliases": [
+    "Barreau"
+   ]
+  },
+  "omhm": {
+   "name": "Office municipal d’habitation de Montréal",
+   "type": "organization",
+   "aliases": [
+    "OMHM"
    ]
   }
  },
@@ -6849,7 +6934,9 @@
     "cour-supreme-canada",
     "francois-legault"
    ],
-   "dossiers": []
+   "dossiers": [
+    "bill-21"
+   ]
   },
   {
    "match": "https://ici.radio-canada.ca/article/autochtones/2301385/intervention-mortelle-salluit-aucune-accusation-police-nunavik",
@@ -7199,7 +7286,9 @@
     "simon-jolin-barrette",
     "caq"
    ],
-   "dossiers": []
+   "dossiers": [
+    "bill-21"
+   ]
   },
   {
    "match": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php",
@@ -7799,6 +7888,124 @@
     "spvm"
    ],
    "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement",
+   "entities": [
+    "cour-supreme-canada",
+    "english-montreal-school-board",
+    "caq",
+    "pq",
+    "jean-francois-roberge"
+   ],
+   "dossiers": [
+    "bill-21"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php",
+   "entities": [
+    "pspp",
+    "nicolas-marceau",
+    "monique-jerome-forget",
+    "sebastien-dastous",
+    "isq"
+   ],
+   "dossiers": [
+    "municipal-budgets-2027"
+   ]
+  },
+  {
+   "match": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/",
+   "entities": [
+    "sebastien-dastous",
+    "pspp",
+    "linda-caron"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php",
+   "entities": [
+    "isq",
+    "spgq",
+    "csn",
+    "csq",
+    "ftq",
+    "apts"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique",
+   "entities": [
+    "lavergne-groupe",
+    "investissement-quebec",
+    "meie",
+    "fondaction"
+   ],
+   "checked_by_hand": true,
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour",
+   "entities": [
+    "mirae",
+    "ultium-cam",
+    "spipb",
+    "investissement-quebec",
+    "pierre-fitzgibbon",
+    "meie",
+    "nemaska-lithium"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/",
+   "entities": [
+    "pspp",
+    "jean-pellerin",
+    "jean-lemire",
+    "boga"
+   ],
+   "dossiers": [
+    "pq-transition"
+   ]
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq",
+   "entities": [
+    "plq",
+    "pq",
+    "barreau-quebec",
+    "stephan-fogaing",
+    "affine-lwalalika",
+    "marie-pierre-charland"
+   ],
+   "dossiers": [
+    "recounts-2026"
+   ]
+  },
+  {
+   "match": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/montreal/les-deux-tiers-des-hlm-sont-en-mauvais-etat-selon-l-office-municipal-d-habitation.php",
+   "entities": [
+    "omhm",
+    "ville-montreal"
+   ],
+   "dossiers": []
+  },
+  {
+   "match": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien",
+   "entities": [
+    "hydro-quebec",
+    "bape",
+    "upa"
+   ],
+   "dossiers": [
+    "hydro-quebec"
+   ]
   }
  ]
 }

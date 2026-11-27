@@ -1808,6 +1808,56 @@
    "category": "justice",
    "importance": 2,
    "title_en": "No charges against police officers who wounded two civilians during a shootout"
+  },
+  "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement": {
+   "category": "justice",
+   "importance": 5,
+   "title_en": "The Supreme Court upholds almost all of Quebec’s State Secularism Act"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "To help cities – An infrastructure fund to reward the “good students,” Quebec announces"
+  },
+  "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "State efficiency: the PQ sets up a new commission"
+  },
+  "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Quebec government employees 20% behind municipal employees"
+  },
+  "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique": {
+   "category": "finances",
+   "importance": 4,
+   "title_en": "Quebec could lose $13M because of a plastics recycler’s difficulties"
+  },
+  "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Another plant stalls at the Bécancour industrial park"
+  },
+  "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/": {
+   "category": "energy",
+   "importance": 3,
+   "title_en": "Fossil fuel roadmap: PSPP says he was not informed"
+  },
+  "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq": {
+   "category": "government",
+   "importance": 3,
+   "title_en": "Vachon recount: a complaint to the Barreau against the PQ’s special adviser"
+  },
+  "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/montreal/les-deux-tiers-des-hlm-sont-en-mauvais-etat-selon-l-office-municipal-d-habitation.php": {
+   "category": "finances",
+   "importance": 2,
+   "title_en": "Montreal – Two-thirds of low-rent housing units are in poor condition, according to the Office municipal d’habitation"
+  },
+  "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien": {
+   "category": "energy",
+   "importance": 2,
+   "title_en": "Mixed reception for HQ’s wind power study in Bas-Saint-Laurent"
   }
  }
 }

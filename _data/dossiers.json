@@ -304,6 +304,17 @@
      "background": false
     },
     {
+     "date": "2026-11",
+     "en": "Hydro-Québec launches a regional study and public consultation on the cumulative effects of wind power development in Bas-Saint-Laurent; some groups question its independence and call for a generic BAPE.",
+     "fr": "Hydro-Québec lance une étude régionale et une consultation publique sur les effets cumulatifs du développement éolien au Bas-Saint-Laurent; des groupes contestent son indépendance et réclament un BAPE générique.",
+     "source_title": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien",
+     "source_type": "media",
+     "post": "2026-11-27",
+     "background": false
+    },
+    {
      "date": "2026-11-03",
      "en": "Hydro-Québec files its 2027-2041 supply plan with the Régie de l’énergie; according to La Presse, its production-increase target moves from 2035 to 2041 and it expects to import electricity for almost the whole plan.",
      "fr": "Hydro-Québec dépose son plan d’approvisionnement 2027-2041 à la Régie de l’énergie; selon La Presse, son objectif de hausse de production passe de 2035 à 2041 et elle prévoit importer de l’électricité pendant presque toute la durée du plan.",
@@ -544,8 +555,8 @@
      "fr": "Hydro-Québec appartient au public. Ses tarifs, ses employés et ses services en ligne touchent presque tous les foyers."
     },
     "now": {
-     "en": "Hydro-Québec’s renewed agreement with the UPA raises compensation to farmers for transmission lines on their land by the equivalent of 25%. In St. John’s, about 500 people rallied on Nov. 25 against the Churchill Falls framework agreement; Quebec and Newfoundland and Labrador are giving themselves until March to conclude the final agreements. In Sherbrooke, the mayor denies a Pivot report that she sought a fast track from Quebec for Keel Infrastructure’s data centre project.",
-     "fr": "L’entente renouvelée d’Hydro-Québec avec l’UPA augmente de l’équivalent de 25 % les compensations versées aux agriculteurs pour les lignes de transport sur leurs terres. À Saint-Jean, environ 500 personnes ont manifesté le 25 novembre contre l’entente-cadre sur Churchill Falls; Québec et Terre-Neuve-et-Labrador se donnent jusqu’en mars pour conclure les ententes définitives. À Sherbrooke, la mairesse dément un reportage de Pivot selon lequel elle aurait voulu une voie rapide de Québec pour le projet de centre de données de Keel Infrastructure."
+     "en": "Hydro-Québec’s renewed agreement with the UPA raises compensation to farmers for transmission lines on their land by the equivalent of 25%. In St. John’s, about 500 people rallied on Nov. 25 against the Churchill Falls framework agreement; Quebec and Newfoundland and Labrador are giving themselves until March to conclude the final agreements. In Bas-Saint-Laurent, some groups question the independence of Hydro-Québec’s study on the cumulative effects of wind power and call for a generic BAPE.",
+     "fr": "L’entente renouvelée d’Hydro-Québec avec l’UPA augmente de l’équivalent de 25 % les compensations versées aux agriculteurs pour les lignes de transport sur leurs terres. À Saint-Jean, environ 500 personnes ont manifesté le 25 novembre contre l’entente-cadre sur Churchill Falls; Québec et Terre-Neuve-et-Labrador se donnent jusqu’en mars pour conclure les ententes définitives. Au Bas-Saint-Laurent, des groupes contestent l’indépendance de l’étude d’Hydro-Québec sur les effets cumulatifs de l’éolien et réclament un BAPE générique."
     }
    }
   },
@@ -1132,6 +1143,92 @@
      "fr": "Le 23 novembre, la Cour supérieure a statué, sur la demande de sursis de Lawrence David, que les députés devront prêter serment au roi pour siéger; aucun des 127 députés ne l’a fait en octobre. La ministre de la Justice a fait appel, et la Cour d’appel doit entendre la cause à Montréal le 27 novembre. Le PQ dit qu’il siégera le 1er décembre quoi qu’il arrive et a invité les chefs de l’opposition à signer une lettre commune; le chef libéral refuse et préfère attendre la décision de la cour."
     }
    }
+  },
+  {
+   "id": "bill-21",
+   "name_en": "Bill 21: the State Secularism Act in court",
+   "name_fr": "Loi 21 : la Loi sur la laïcité de l’État devant les tribunaux",
+   "desc_en": "The court challenge to Quebec’s State Secularism Act, passed in 2019 with the notwithstanding clause, up to the Supreme Court of Canada ruling.",
+   "desc_fr": "La contestation judiciaire de la Loi sur la laïcité de l’État du Québec, adoptée en 2019 avec la disposition de dérogation, jusqu’au jugement de la Cour suprême du Canada.",
+   "entities": [
+    "cour-supreme-canada",
+    "english-montreal-school-board",
+    "caq",
+    "francois-legault",
+    "jean-francois-roberge",
+    "justice-canada"
+   ],
+   "tldr": {
+    "what": {
+     "en": "Bill 21 bars state employees in positions of authority, such as teachers, judges and police officers, from wearing conspicuous religious symbols on the job. It was passed in 2019 using the notwithstanding clause pre-emptively.",
+     "fr": "La loi 21 interdit aux employés de l’État en position d’autorité, comme les enseignants, les juges et les policiers, de porter des signes religieux ostentatoires au travail. Elle a été adoptée en 2019 en invoquant de manière préventive la disposition de dérogation."
+    },
+    "why": {
+     "en": "The case tested how far a province can go in using the notwithstanding clause to protect a law from the courts. Ottawa says it spent about $3.45 million in legal costs on the challenge.",
+     "fr": "La cause visait à savoir jusqu’où une province peut aller en invoquant la disposition de dérogation pour protéger une loi des tribunaux. Ottawa dit avoir dépensé environ 3,45 millions $ en frais juridiques pour cette contestation."
+    },
+    "now": {
+     "en": "On Nov. 27, 2026, the Supreme Court upheld almost all of the law, including in English-language school boards. Only the requirement for members of the National Assembly to work with their face uncovered was set aside. Courts can still declare a protected law inconsistent with the Charter, but the Supreme Court did not do so here.",
+     "fr": "Le 27 novembre 2026, la Cour suprême a validé la presque totalité de la loi, y compris dans les commissions scolaires anglophones. Seule l’obligation pour les députés d’exercer leurs fonctions à visage découvert a été écartée. Les tribunaux peuvent quand même déclarer une loi protégée incompatible avec la Charte, mais la Cour suprême ne l’a pas fait ici."
+    }
+   },
+   "events": [
+    {
+     "date": "2019-06",
+     "en": "The CAQ government passes the State Secularism Act (Bill 21), pre-emptively invoking the notwithstanding clause.",
+     "fr": "Le gouvernement de la CAQ fait adopter la Loi sur la laïcité de l’État (loi 21) en invoquant de manière préventive la disposition de dérogation.",
+     "source_title": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement",
+     "source_type": "media",
+     "post": "2026-11-27",
+     "background": false
+    },
+    {
+     "date": "2024-05",
+     "en": "The National Assembly renews the use of the notwithstanding clause for the State Secularism Act, through a law passed under minister Jean-François Roberge.",
+     "fr": "L’Assemblée nationale renouvelle le recours à la disposition de dérogation pour la Loi sur la laïcité de l’État, par une loi que fait adopter le ministre Jean-François Roberge.",
+     "source_title": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement",
+     "source_type": "media",
+     "post": "2026-11-27",
+     "background": false
+    },
+    {
+     "date": "2026-11",
+     "en": "In a written answer to a Bloc Québécois MP, the federal Justice Department says it spent “about” $3.45 million on the court challenge to Bill 21, including actual and notional costs.",
+     "fr": "Dans une réponse écrite à un député bloquiste, le ministère fédéral de la Justice dit avoir dépensé « environ » 3,45 millions $ pour la contestation judiciaire de la loi 21, coûts réels et notionnels compris.",
+     "source_title": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
+     "source_outlet": "Radio-Canada (La Presse canadienne)",
+     "source_url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada",
+     "source_type": "media",
+     "post": "2026-11-18",
+     "background": false
+    },
+    {
+     "date": "2026-11-20",
+     "en": "The Supreme Court of Canada announces it will deliver its ruling on the State Secularism Act one week later, on Nov. 27.",
+     "fr": "La Cour suprême du Canada annonce qu’elle rendra son jugement sur la Loi sur la laïcité de l’État une semaine plus tard, le 27 novembre.",
+     "source_title": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme",
+     "source_type": "media",
+     "post": "2026-11-21",
+     "background": false
+    },
+    {
+     "date": "2026-11-27",
+     "en": "The Supreme Court of Canada upholds almost all of the State Secularism Act, including in English-language school boards; only the requirement for members of the National Assembly to work with their face uncovered is set aside. The court confirms that the notwithstanding clause can be used pre-emptively.",
+     "fr": "La Cour suprême du Canada valide la presque totalité de la Loi sur la laïcité de l’État, y compris dans les commissions scolaires anglophones; seule l’obligation pour les députés d’exercer leurs fonctions à visage découvert est écartée. Le tribunal confirme que la disposition de dérogation peut être invoquée de manière préventive.",
+     "source_title": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement",
+     "source_type": "media",
+     "post": "2026-11-27",
+     "background": false
+    }
+   ]
   },
   {
    "id": "lion",
@@ -1754,6 +1851,17 @@
      "background": false
     },
     {
+     "date": "2026-11",
+     "en": "Radio-Canada reports that the Liberal Party has filed a complaint with the Barreau du Québec against a PQ special adviser, a former lawyer under a temporary suspension, alleging he acted as counsel during the Vachon recount; the PQ rejects any fraudulent manoeuvre.",
+     "fr": "Radio-Canada rapporte que le Parti libéral a déposé une plainte au Barreau du Québec contre un conseiller spécial du PQ, ex-avocat radié temporairement, alléguant qu’il a agi comme procureur lors du dépouillement dans Vachon; le PQ réfute toute manœuvre frauduleuse.",
+     "source_title": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "source_outlet": "Radio-Canada",
+     "source_url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq",
+     "source_type": "media",
+     "post": "2026-11-27",
+     "background": false
+    },
+    {
      "date": "2026-11-06",
      "en": "Liberal Affine Lwalalika files an election contest in Superior Court, asking that 31 ballots rejected at the Vachon recount be counted or, alternatively, that the election be annulled; the filing also alleges a fraudulent electoral manoeuvre.",
      "fr": "La libérale Affine Lwalalika dépose une contestation d’élection en Cour supérieure, demandant que 31 bulletins rejetés au dépouillement judiciaire dans Vachon soient comptés ou, subsidiairement, que l’élection soit annulée; la requête allègue aussi une manœuvre électorale frauduleuse.",
@@ -1775,8 +1883,8 @@
      "fr": "Les recomptages vérifient que chaque vote a été bien compté. Ils décident qui représente la circonscription."
     },
     "now": {
-     "en": "The PQ won Vachon by three votes after the recount. The Liberal candidate has asked the Superior Court to change or cancel the result. The PQ conceded Champlain.",
-     "fr": "Le PQ a remporté Vachon par trois voix après le recomptage. La candidate libérale demande à la Cour supérieure de modifier ou d’annuler le résultat. Le PQ a concédé Champlain."
+     "en": "The PQ won Vachon by three votes after the recount. The Liberal candidate has asked the Superior Court to change or cancel the result. The PQ conceded Champlain. The Liberals have also filed a complaint with the Barreau against a PQ special adviser who attended the recount.",
+     "fr": "Le PQ a remporté Vachon par trois voix après le recomptage. La candidate libérale demande à la Cour supérieure de modifier ou d’annuler le résultat. Le PQ a concédé Champlain. Les libéraux ont aussi déposé une plainte au Barreau contre un conseiller spécial du PQ présent au dépouillement."
     }
    }
   },
@@ -2271,6 +2379,28 @@
      "source_type": "media",
      "post": "2026-11-25",
      "background": false
+    },
+    {
+     "date": "2026-11-26",
+     "en": "The government announces an advisory commission on state efficiency, chaired by Minister Sébastien D’Astous, with hearings starting Nov. 30 and an anonymous online consultation from Dec. 9.",
+     "fr": "Le gouvernement annonce une commission consultative sur l’efficacité de l’État, présidée par le ministre Sébastien D’Astous, avec des audiences dès le 30 novembre et une consultation en ligne anonyme à compter du 9 décembre.",
+     "source_title": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "source_outlet": "Noovo Info",
+     "source_url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/",
+     "source_type": "media",
+     "post": "2026-11-27",
+     "background": false
+    },
+    {
+     "date": "2026-11-26",
+     "en": "Premier Paul St-Pierre Plamondon says he was not informed of Quebec’s commitment, announced at COP31, to publish a roadmap this year for moving away from fossil fuels.",
+     "fr": "Le premier ministre Paul St-Pierre Plamondon affirme ne pas avoir été informé de l’engagement du Québec, annoncé à la COP31, de publier cette année une feuille de route pour sortir des énergies fossiles.",
+     "source_title": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "source_outlet": "Noovo Info (La Presse Canadienne)",
+     "source_url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/",
+     "source_type": "media",
+     "post": "2026-11-27",
+     "background": false
     }
    ],
    "tldr": {
@@ -2283,8 +2413,8 @@
      "fr": "Ces choix décident qui dirige les services publics. Selon une analyse, 1,6 G$ par année doit être retranché de la masse salariale de l’État."
     },
     "now": {
-     "en": "The finance minister says the Quebec Infrastructure Plan is $65 billion short. A decree limits the subsidized daycare fee increase to 3%: the fee goes from $9.65 to $9.95 a day on Jan. 1. The French language minister plans a bill in February 2027 to extend Bill 101 to CEGEPs. The education minister says the government intends to table a bill setting a “digital majority” age, between 14 and 16, for social media.",
-     "fr": "Le ministre des Finances affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures. Un décret limite à 3 % la hausse du tarif des garderies subventionnées : il passera de 9,65 $ à 9,95 $ par jour le 1er janvier. Le ministre de la Langue française prévoit un projet de loi en février 2027 pour étendre la loi 101 au cégep. Le ministre de l’Éducation nationale affirme que le gouvernement entend déposer un projet de loi fixant une « majorité numérique », entre 14 et 16 ans, pour les réseaux sociaux."
+     "en": "The finance minister says the Quebec Infrastructure Plan is $65 billion short. A decree limits the subsidized daycare fee increase to 3%: the fee goes from $9.65 to $9.95 a day on Jan. 1. The French language minister plans a bill in February 2027 to extend Bill 101 to CEGEPs. The education minister says the government intends to table a bill setting a “digital majority” age, between 14 and 16, for social media. The government has set up an advisory commission on state efficiency, chaired by Minister Sébastien D’Astous, with hearings starting Nov. 30.",
+     "fr": "Le ministre des Finances affirme qu’il manque 65 milliards $ au Plan québécois des infrastructures. Un décret limite à 3 % la hausse du tarif des garderies subventionnées : il passera de 9,65 $ à 9,95 $ par jour le 1er janvier. Le ministre de la Langue française prévoit un projet de loi en février 2027 pour étendre la loi 101 au cégep. Le ministre de l’Éducation nationale affirme que le gouvernement entend déposer un projet de loi fixant une « majorité numérique », entre 14 et 16 ans, pour les réseaux sociaux. Le gouvernement a créé une commission consultative sur l’efficacité de l’État, présidée par le ministre Sébastien D’Astous, avec des audiences à compter du 30 novembre."
     }
    }
   },
@@ -4609,8 +4739,8 @@
      "fr": "Les hausses de taxes foncières touchent directement les propriétaires. Longueuil estime son déficit de maintien des infrastructures à au moins 1,5 milliard $, et Québec dit devoir investir 5,5 milliards $ au cours des prochaines années."
     },
     "now": {
-     "en": "Longueuil is to present its budget in about two weeks, with an increase well above inflation, according to La Presse (Nov. 26). Quebec City’s budget is due the week after Nov. 25. The mayors of Longueuil and Montreal and the UMQ president want Quebec to at least match cities’ additional infrastructure investments.",
-     "fr": "Longueuil doit présenter son budget dans environ deux semaines, avec une hausse bien au-delà de l’inflation, selon La Presse (26 novembre). Le budget de Québec doit être présenté la semaine suivant le 25 novembre. Les mairesses de Longueuil et de Montréal et le président de l’UMQ demandent à Québec d’« accoter » au minimum les investissements supplémentaires des villes en infrastructures."
+     "en": "Longueuil is to present its budget in about two weeks, with an increase well above inflation, according to La Presse (Nov. 26). Quebec City’s budget is due the week after Nov. 25. The mayors of Longueuil and Montreal and the UMQ president want Quebec to at least match cities’ additional infrastructure investments. On Nov. 26, the premier said Quebec will create an infrastructure fund for cities, with a formula that does not “penalize the good students.”",
+     "fr": "Longueuil doit présenter son budget dans environ deux semaines, avec une hausse bien au-delà de l’inflation, selon La Presse (26 novembre). Le budget de Québec doit être présenté la semaine suivant le 25 novembre. Les mairesses de Longueuil et de Montréal et le président de l’UMQ demandent à Québec d’« accoter » au minimum les investissements supplémentaires des villes en infrastructures. Le 26 novembre, le premier ministre a annoncé que Québec créera un fonds d’infrastructure pour les villes, avec une formule qui ne « pénalise pas les bons élèves »."
     }
    },
    "events": [
@@ -4634,6 +4764,17 @@
      "source_url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/hausse-de-taxes/longueuil-va-emboiter-le-pas-a-montreal.php",
      "source_type": "media",
      "post": "2026-11-26",
+     "background": false
+    },
+    {
+     "date": "2026-11-26",
+     "en": "Premier Paul St-Pierre Plamondon says Quebec will create a fund to help cities maintain their infrastructure; the formula is not set, but he does not want to “penalize the good students” or reward cities that froze taxes.",
+     "fr": "Le premier ministre Paul St-Pierre Plamondon annonce que Québec créera un fonds pour aider les villes à entretenir leurs infrastructures; la formule n’est pas arrêtée, mais il ne veut pas « pénaliser les bons élèves » ni récompenser les villes qui ont gelé leurs taxes.",
+     "source_title": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "source_outlet": "La Presse",
+     "source_url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php",
+     "source_type": "media",
+     "post": "2026-11-27",
      "background": false
     }
    ]

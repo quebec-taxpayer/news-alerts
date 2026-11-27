@@ -72,7 +72,8 @@ TAGS = {"2026-10-21": ["crown-corporations"],
  "2026-11-23": ["crown-corporations", "procurement"],
  "2026-11-24": ["crown-corporations"],
  "2026-11-25": ["crown-corporations"],
- "2026-11-26": ["crown-corporations", "procurement"]}
+ "2026-11-26": ["crown-corporations", "procurement"],
+ "2026-11-27": ["crown-corporations"]}
 # Per-day one-line summary, (FR, EN), written only from that day's stories
 SUMMARY = {
  "2026-10-21": ("Lion Électrique : perquisition de la GRC et dossiers de l’AMF; nouveau Conseil des ministres; tarifs d’Hydro-Québec pour les centres de données.",
@@ -149,6 +150,8 @@ SUMMARY = {
                 "A former Montreal director general becomes a deputy minister after receiving over $1 million in severance; Santé Québec’s CEO will leave in May 2027; a former Longueuil judge is found guilty of fraud; Quebec limits the subsidized daycare fee increase to 3%."),
  "2026-11-26": ("L’Autorité des marchés publics réprimande Santé Québec Gaspésie pour un contrat de 1,8 M$ accordé de gré à gré; le PQ veut siéger sans serment au roi; Longueuil imposera une nouvelle taxe d’infrastructures; un troisième ex-policier du poste 39 est accusé.",
                 "The Autorité des marchés publics reprimands Santé Québec Gaspésie over a $1.8M contract awarded without a call for tenders; the PQ wants to sit without the oath to the King; Longueuil will impose a new infrastructure tax; a third former Station 39 officer is charged."),
+ "2026-11-27": ("La Cour suprême valide l’essentiel de la loi 21; Québec prépare un fonds d’infrastructure pour les villes; Québec et Investissement Québec risquent de perdre plus de 13 M$ avec un recycleur de plastique; le PQ lance une commission sur l’efficacité de l’État.",
+                "The Supreme Court upholds most of Bill 21; Quebec is preparing an infrastructure fund for cities; Quebec and Investissement Québec could lose more than $13M with a plastics recycler; the PQ launches a commission on state efficiency."),
 }
 # Section headings that are not in "FR / EN" form: explicit (FR, EN) pairs, trivial translations only.
 HEADINGS = {

@@ -505,6 +505,22 @@
     "Société québécoise des infrastructures",
     "SQI"
    ]
+  },
+  {
+   "id": "total-compensation",
+   "term_en": "Total compensation",
+   "term_fr": "Rémunération globale",
+   "def_en": "In the Institut de la statistique du Québec’s pay comparisons, total compensation includes salaries, employee benefits and hours of presence at work (normal hours minus paid hours off).",
+   "def_fr": "Dans les comparaisons de l’Institut de la statistique du Québec, la rémunération globale comprend les salaires, les avantages sociaux et les heures de présence au travail (heures normales moins les heures chômées payées).",
+   "source_en": "https://statistique.quebec.ca/fr/fichier/remuneration-salaries-etat-evolution-compares-2026-faits-saillants.pdf",
+   "source_fr": "https://statistique.quebec.ca/fr/fichier/remuneration-salaries-etat-evolution-compares-2026-faits-saillants.pdf",
+   "source_label": "Institut de la statistique du Québec – Rémunération des salariés, faits saillants 2026",
+   "match_en": [
+    "total compensation"
+   ],
+   "match_fr": [
+    "rémunération globale"
+   ]
   }
  ]
 }

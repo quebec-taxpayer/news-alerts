@@ -1,7 +1,7 @@
 {
- "generated": "2026-11-26T15:26:48Z",
+ "generated": "2026-11-27T15:27:49Z",
  "note": "An edge means two names were mentioned in the same news story. It implies no relationship, wrongdoing or involvement.",
- "story_count": 364,
+ "story_count": 374,
  "days": {
   "2026-10-21": {
    "post": "/2026/10/21/digest/",
@@ -3815,6 +3815,116 @@
      ]
     }
    ]
+  },
+  "2026-11-27": {
+   "post": "/2026/11/27/digest/",
+   "stories": [
+    {
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement",
+     "entities": [
+      "caq",
+      "cour-supreme-canada",
+      "english-montreal-school-board",
+      "jean-francois-roberge",
+      "pq"
+     ]
+    },
+    {
+     "headline": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/",
+     "entities": [
+      "linda-caron",
+      "pspp",
+      "sebastien-dastous"
+     ]
+    },
+    {
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php",
+     "entities": [
+      "apts",
+      "csn",
+      "csq",
+      "ftq",
+      "isq",
+      "spgq"
+     ]
+    },
+    {
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq",
+     "entities": [
+      "affine-lwalalika",
+      "barreau-quebec",
+      "marie-pierre-charland",
+      "plq",
+      "pq",
+      "stephan-fogaing"
+     ]
+    },
+    {
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php",
+     "entities": [
+      "isq",
+      "monique-jerome-forget",
+      "nicolas-marceau",
+      "pspp",
+      "sebastien-dastous"
+     ]
+    },
+    {
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique",
+     "entities": [
+      "fondaction",
+      "investissement-quebec",
+      "lavergne-groupe",
+      "meie"
+     ]
+    },
+    {
+     "headline": "Montréal – Les deux tiers des HLM sont en mauvais état, selon l’Office municipal d’habitation",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/montreal/les-deux-tiers-des-hlm-sont-en-mauvais-etat-selon-l-office-municipal-d-habitation.php",
+     "entities": [
+      "omhm",
+      "ville-montreal"
+     ]
+    },
+    {
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour",
+     "entities": [
+      "investissement-quebec",
+      "meie",
+      "mirae",
+      "nemaska-lithium",
+      "pierre-fitzgibbon",
+      "spipb",
+      "ultium-cam"
+     ]
+    },
+    {
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/",
+     "entities": [
+      "boga",
+      "jean-lemire",
+      "jean-pellerin",
+      "pspp"
+     ]
+    },
+    {
+     "headline": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien",
+     "entities": [
+      "bape",
+      "hydro-quebec",
+      "upa"
+     ]
+    }
+   ]
   }
  },
  "nodes": [
@@ -3826,7 +3936,7 @@
     "PSPP",
     "St-Pierre Plamondon"
    ],
-   "mentions": 81,
+   "mentions": 84,
    "stories": [
     {
      "date": "2026-10-21",
@@ -4232,6 +4342,21 @@
      "date": "2026-11-26",
      "headline": "Budget 2027 – Le maire de Québec promet une hausse des taxes sous l’inflation",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-25/budget-2027/le-maire-de-quebec-promet-une-hausse-des-taxes-sous-l-inflation.php"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
     }
    ]
   },
@@ -4244,7 +4369,7 @@
     "Parti québécois",
     "péquiste"
    ],
-   "mentions": 49,
+   "mentions": 51,
    "stories": [
     {
      "date": "2026-10-21",
@@ -4490,6 +4615,207 @@
      "date": "2026-11-26",
      "headline": "Le PQ met au défi ses adversaires de siéger sans prêter serment au roi",
      "url": "https://ici.radio-canada.ca/article/info/2302985/serment-roi-rentree-parlementaire-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "id": "hydro-quebec",
+   "name": "Hydro-Québec",
+   "type": "organization",
+   "aliases": [
+    "HQ"
+   ],
+   "mentions": 36,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
+     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Hausse de prix | Le coup de grâce pour le mazout ?",
+     "url": "https://www.lapresse.ca/affaires/2026-10-21/hausse-de-prix/le-coup-de-grace-pour-le-mazout.php"
+    },
+    {
+     "date": "2026-10-23",
+     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
+     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Hydro-Québec targeted in cyber scare as global hacking fears spread",
+     "url": "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    },
+    {
+     "date": "2026-10-25",
+     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
+     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
+     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
+    },
+    {
+     "date": "2026-10-28",
+     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
+     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
+     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
+     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
+    },
+    {
+     "date": "2026-11-01",
+     "headline": "Pourquoi Hydro-Québec tarde à brancher l'Abitibi-Témiscamingue?",
+     "url": "https://www.journaldemontreal.com/2026/10/31/pourquoi-hydro-quebec-tarde-a-brancher-labitibi-temiscamingue"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Hausse de production | Hydro-Québec manque de jus",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
+     "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
+     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Équiterre exige un moratoire sur les centres de données",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
+     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Risque de défaillance: les thermostats Hilo de 21 000 clients seront remplacés par Hydro-Québec",
+     "url": "https://www.journaldequebec.com/2026/11/09/risque-de-defaillance--les-thermostats-hilo-de-21-000-clients-seront-remplaces-par-hydro-quebec"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
+     "url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Le développement éolien retardé par des délais jugés trop longs",
+     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
+    },
+    {
+     "date": "2026-11-13",
+     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
+     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Ancien terrain de Northvolt – Un plan de compensation différent pour Hydro",
+     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
+     "url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Sécheresse record : Hydro-Québec réduit ses exportations pour garder l’eau",
+     "url": "https://ici.radio-canada.ca/article/info/2300437/secheresse-hydro-quebec-eau-electricite"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "«Je n’ai plus confiance»: son thermostat Hilo surchauffe",
+     "url": "https://www.journaldequebec.com/2026/11/13/je-nai-plus-confiance-son-thermostat-hilo-surchauffe-et-ne-sera-pas-remplace-par-hydro-quebec"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "Churchil Falls : Québec n’a pas demandé de renégocier l’accord, dit Wakeham",
+     "url": "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "Obligés de se brancher chez le voisin en attendant Hydro",
+     "url": "https://www.tvanouvelles.ca/2026/11/17/obliges-de-se-brancher-chez-le-voisin-en-attendant-hydro"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Plus de 60% des clients d'Hydro doivent changer leur mot de passe",
+     "url": "https://www.tvanouvelles.ca/2026/11/18/plus-de-la-moitie-des-clients-dhydro-doivent-changer-leur-mot-de-passe"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
+     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    },
+    {
+     "date": "2026-11-25",
+     "headline": "Réseau électrique en zone agricole – Hydro-Québec et l’UPA s’entendent",
+     "url": "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php"
+    },
+    {
+     "date": "2026-11-26",
+     "headline": "Churchil Falls : « Nous avons l’obligation de bloquer cette entente! »",
+     "url": "https://ici.radio-canada.ca/article/info/2303175/rassemblement-citoyen-anti-churchill-falls-referendum"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien"
     }
    ]
   },
@@ -4683,192 +5009,6 @@
    ]
   },
   {
-   "id": "hydro-quebec",
-   "name": "Hydro-Québec",
-   "type": "organization",
-   "aliases": [
-    "HQ"
-   ],
-   "mentions": 35,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Hydro-Québec accusée de vouloir vendre aux enchères l’électricité",
-     "url": "https://ici.radio-canada.ca/nouvelle/2292422/centres-donnees-tarif-electricite-hydro-quebec-encheres"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Faille informatique mondiale : la SAQ, la STM et la SAAQ verrouillent leurs sites",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294700/panne-site-web-php"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Hausse de prix | Le coup de grâce pour le mazout ?",
-     "url": "https://www.lapresse.ca/affaires/2026-10-21/hausse-de-prix/le-coup-de-grace-pour-le-mazout.php"
-    },
-    {
-     "date": "2026-10-23",
-     "headline": "Hydro-Québec: les employés de métier en grève des heures supplémentaires",
-     "url": "https://www.latribune.ca/affaires/2026/10/22/hydro-quebec-les-employes-de-metier-en-greve-des-heures-supplementaires-6ZAFNOLDZBDHJIERLQ5OBKXFIQ/"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Hydro-Québec targeted in cyber scare as global hacking fears spread",
-     "url": "https://montrealgazette.com/news/hydro-quebec-targeted-in-cyber-scare-as-global-hacking-fears-spread/"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
-    },
-    {
-     "date": "2026-10-25",
-     "headline": "Réponse à une demande d’accès (DAI-2026-0012)",
-     "url": "https://www.hydroquebec.com/data/loi-sur-acces/pdf/DAI-2026-0012-lettre-reponse.pdf"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Tarif plus élevé pour l’électricité des centres de données – La stratégie du gouvernement démolie en cour",
-     "url": "https://www.lapresse.ca/affaires/2026-10-26/tarif-plus-eleve-pour-l-electricite-des-centres-de-donnees/la-strategie-du-gouvernement-demolie-en-cour.php"
-    },
-    {
-     "date": "2026-10-28",
-     "headline": "Un couple qui attend après Hydro pourrait passer l’hiver sans électricité dans leur maison neuve",
-     "url": "https://www.journaldequebec.com/2026/10/28/un-couple-qui-attend-apres-hydro-pourrait-passer-lhiver-sans-electricite-dans-leur-maison-neuve"
-    },
-    {
-     "date": "2026-10-30",
-     "headline": "Services essentiels: Hydro-Québec devra libérer des salariés désignés par le syndicat",
-     "url": "https://lactualite.com/actualites/services-essentiels-hydro-quebec-devra-liberer-des-salaries-designes-par-le-syndicat/"
-    },
-    {
-     "date": "2026-10-31",
-     "headline": "T.-N.-L.: l’accord de Churchill Falls ne peut être renégocié, dit Wakeham",
-     "url": "https://lactualite.com/actualites/t-n-l-laccord-de-churchill-falls-ne-peut-etre-renegocie-dit-wakeham/"
-    },
-    {
-     "date": "2026-11-01",
-     "headline": "Pourquoi Hydro-Québec tarde à brancher l'Abitibi-Témiscamingue?",
-     "url": "https://www.journaldemontreal.com/2026/10/31/pourquoi-hydro-quebec-tarde-a-brancher-labitibi-temiscamingue"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Hausse de production | Hydro-Québec manque de jus",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-03/hausse-de-production/hydro-quebec-manque-de-jus.php"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Les niveaux d’eau d’Hydro-Québec sont à leur plus bas depuis 2014",
-     "url": "https://www.journaldemontreal.com/2026/11/03/les-niveaux-deau-dhydro-quebec-sont-a-leur-plus-bas-depuis-2014"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
-     "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Équiterre exige un moratoire sur les centres de données",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298576/centres-donnees-equiterre-moratoire-quebec"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "As AI data centres target Quebec’s grid, calls grow for greater industry oversight",
-     "url": "https://www.cbc.ca/news/canada/montreal/data-centres-quebec-calls-for-moratorium-9.7412675"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Risque de défaillance: les thermostats Hilo de 21 000 clients seront remplacés par Hydro-Québec",
-     "url": "https://www.journaldequebec.com/2026/11/09/risque-de-defaillance--les-thermostats-hilo-de-21-000-clients-seront-remplaces-par-hydro-quebec"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Quatre parcs éoliens n’entreront pas en service le 1er décembre comme prévu",
-     "url": "https://www.ledevoir.com/actualites/environnement/1024211/quatre-parcs-eoliens-entreront-pas-service-1er-decembre-comme-prevu"
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "Le développement éolien retardé par des délais jugés trop longs",
-     "url": "https://ici.radio-canada.ca/article/info/2300208/delais-ministeres-frein-developpement-eolien"
-    },
-    {
-     "date": "2026-11-13",
-     "headline": "Délais d’Hydro-Québec : des locataires craignent de se retrouver sans abri",
-     "url": "https://ici.radio-canada.ca/article/info/2300256/hydro-quebec-raccordement-retard-amos-logement"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Ancien terrain de Northvolt – Un plan de compensation différent pour Hydro",
-     "url": "https://www.lapresse.ca/affaires/entreprises/2026-11-13/ancien-terrain-de-northvolt/un-plan-de-compensation-different-pour-hydro.php"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Entente sur Churchill Falls – Le contrat n’est pas « scellé dans le béton », affirme le ministre Paquet",
-     "url": "https://www.lapresse.ca/affaires/2026-11-14/entente-sur-churchill-falls/le-contrat-n-est-pas-scelle-dans-le-beton-affirme-le-ministre-paquet.php"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Sécheresse record : Hydro-Québec réduit ses exportations pour garder l’eau",
-     "url": "https://ici.radio-canada.ca/article/info/2300437/secheresse-hydro-quebec-eau-electricite"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "«Je n’ai plus confiance»: son thermostat Hilo surchauffe",
-     "url": "https://www.journaldequebec.com/2026/11/13/je-nai-plus-confiance-son-thermostat-hilo-surchauffe-et-ne-sera-pas-remplace-par-hydro-quebec"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "Churchil Falls : Québec n’a pas demandé de renégocier l’accord, dit Wakeham",
-     "url": "https://ici.radio-canada.ca/article/info/2301203/churchill-falls-quebec-renegocier-wakeham"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "Obligés de se brancher chez le voisin en attendant Hydro",
-     "url": "https://www.tvanouvelles.ca/2026/11/17/obliges-de-se-brancher-chez-le-voisin-en-attendant-hydro"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Plus de 60% des clients d'Hydro doivent changer leur mot de passe",
-     "url": "https://www.tvanouvelles.ca/2026/11/18/plus-de-la-moitie-des-clients-dhydro-doivent-changer-leur-mot-de-passe"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
-     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
-    },
-    {
-     "date": "2026-11-21",
-     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
-     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
-    },
-    {
-     "date": "2026-11-23",
-     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
-    },
-    {
-     "date": "2026-11-25",
-     "headline": "Réseau électrique en zone agricole – Hydro-Québec et l’UPA s’entendent",
-     "url": "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php"
-    },
-    {
-     "date": "2026-11-26",
-     "headline": "Churchil Falls : « Nous avons l’obligation de bloquer cette entente! »",
-     "url": "https://ici.radio-canada.ca/article/info/2303175/rassemblement-citoyen-anti-churchill-falls-referendum"
-    }
-   ]
-  },
-  {
    "id": "caq",
    "name": "Coalition Avenir Québec",
    "type": "organization",
@@ -4876,7 +5016,7 @@
     "CAQ",
     "caquiste"
    ],
-   "mentions": 24,
+   "mentions": 25,
    "stories": [
     {
      "date": "2026-10-21",
@@ -4997,6 +5137,11 @@
      "date": "2026-11-22",
      "headline": "Quebec's popular PEQ program is closed — again. People counting on it want answers",
      "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -5246,7 +5391,7 @@
     "Quebec Liberal Party",
     "libéraux"
    ],
-   "mentions": 17,
+   "mentions": 18,
    "stories": [
     {
      "date": "2026-10-22",
@@ -5332,6 +5477,11 @@
      "date": "2026-11-26",
      "headline": "Le PQ met au défi ses adversaires de siéger sans prêter serment au roi",
      "url": "https://ici.radio-canada.ca/article/info/2302985/serment-roi-rentree-parlementaire-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
     }
    ]
   },
@@ -5432,6 +5582,102 @@
    ]
   },
   {
+   "id": "ville-montreal",
+   "name": "Ville de Montréal",
+   "type": "organization",
+   "aliases": [
+    "City of Montreal"
+   ],
+   "mentions": 17,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
+    },
+    {
+     "date": "2026-10-26",
+     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
+     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
+     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Une coroner recommande d’interdire l’accès à la digue bordant la plage de Verdun",
+     "url": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
+    },
+    {
+     "date": "2026-11-14",
+     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
+     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Réfection d’un pont de l’autoroute 520 – Québec réclame sept millions à Dorval",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Locker room at Montreal’s Olympic sports complex 'falling apart' just months after reno",
+     "url": "https://www.cbc.ca/news/canada/montreal/complexe-sportif-claude-robillard-locker-room-issues-9.7427080"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
+     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
+    },
+    {
+     "date": "2026-11-24",
+     "headline": "Infrastructures: Paul St-Pierre Plamondon laisse entrevoir un répit pour les villes",
+     "url": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/"
+    },
+    {
+     "date": "2026-11-25",
+     "headline": "Québec recrute un sous-ministre à 700 000 $ de fonds publics",
+     "url": "https://www.tvanouvelles.ca/2026/11/25/quebec-recrute-un-sous-ministre-a-700000--de-fonds-publics"
+    },
+    {
+     "date": "2026-11-25",
+     "headline": "Budget de la Ville de Montréal : la plus forte hausse de taxes depuis 2010",
+     "url": "https://ici.radio-canada.ca/article/info/2302576/budget-montreal-forte-hausse-taxes-2010"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Montréal – Les deux tiers des HLM sont en mauvais état, selon l’Office municipal d’habitation",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/montreal/les-deux-tiers-des-hlm-sont-en-mauvais-etat-selon-l-office-municipal-d-habitation.php"
+    }
+   ]
+  },
+  {
    "id": "spvm",
    "name": "Service de police de la Ville de Montréal",
    "type": "organization",
@@ -5519,97 +5765,6 @@
      "date": "2026-11-26",
      "headline": "Pas de poursuite contre des policiers qui ont blessé deux civils lors d’une fusillade",
      "url": "https://ici.radio-canada.ca/article/info/2303099/poursuite-dpcp-analyse-policiers-spvm-famile-abdallah"
-    }
-   ]
-  },
-  {
-   "id": "ville-montreal",
-   "name": "Ville de Montréal",
-   "type": "organization",
-   "aliases": [
-    "City of Montreal"
-   ],
-   "mentions": 16,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "La mairesse de Montréal se réjouit des sommes allouées par Québec pour l’itinérance",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294881/conseil-ministre-grand-montreal-itinerance"
-    },
-    {
-     "date": "2026-10-26",
-     "headline": "Montreal wants rent control, mandatory registry. What would that look like?",
-     "url": "https://www.cbc.ca/news/canada/montreal/montreal-motion-rent-control-mandatory-rent-registry-9.7390733"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Crise de l’itinérance à Montréal – « Ça ressemble à des bidonvilles »",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-10-27/crise-de-l-itinerance-a-montreal/ca-ressemble-a-des-bidonvilles.php"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Judge denies request to suspend Montreal bylaw banning insults to police",
-     "url": "https://www.cbc.ca/news/canada/montreal/judge-denies-request-to-suspend-montreal-bylaw-banning-insults-9.7405942"
-    },
-    {
-     "date": "2026-11-03",
-     "headline": "Allégations d’inconduite : le SPVM congédie 7 policiers",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297634/spvm-congediement-sept-policiers-racisme-itinerant-preuve"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Le SPVM ajoute des caméras de type Flock dans son arsenal",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297813/cameras-flock-spvm-surveillance-montreal"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "La Fraternité des policiers de Montréal conteste le congédiement de 7 de ses membres",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297932/fraternite-policiers-conteste-congediement-administratif-spvm"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Une coroner recommande d’interdire l’accès à la digue bordant la plage de Verdun",
-     "url": "https://www.ledevoir.com/actualites/societe/1023305/coroner-recommande-interdire-acces-digue-bordant-plage-verdun"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Plus de 40 M$ en contrats publics à Amazon depuis la fermeture de ses entrepôts au Québec",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/plus-de-40-m-en-contrats-publics-a-amazon-depuis-ses-fermetures-dentrepots-au-quebec"
-    },
-    {
-     "date": "2026-11-14",
-     "headline": "Projet Montréal calls for taxes below inflation, boost to rent aid in new city budget",
-     "url": "https://www.cbc.ca/news/canada/montreal/ericka-alenus-soraya-martinez-ferrada-budget-wishes-9.7420667"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Réfection d’un pont de l’autoroute 520 – Québec réclame sept millions à Dorval",
-     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-19/refection-d-un-pont-de-l-autoroute-520/quebec-reclame-sept-millions-a-dorval.php"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Locker room at Montreal’s Olympic sports complex 'falling apart' just months after reno",
-     "url": "https://www.cbc.ca/news/canada/montreal/complexe-sportif-claude-robillard-locker-room-issues-9.7427080"
-    },
-    {
-     "date": "2026-11-23",
-     "headline": "Montréal prévoit une hausse de 9,8 % des taxes résidentielles en 2027",
-     "url": "https://ici.radio-canada.ca/article/info/2302439/budget-2027-taxe-martinez-ferrada-hausse"
-    },
-    {
-     "date": "2026-11-24",
-     "headline": "Infrastructures: Paul St-Pierre Plamondon laisse entrevoir un répit pour les villes",
-     "url": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/"
-    },
-    {
-     "date": "2026-11-25",
-     "headline": "Québec recrute un sous-ministre à 700 000 $ de fonds publics",
-     "url": "https://www.tvanouvelles.ca/2026/11/25/quebec-recrute-un-sous-ministre-a-700000--de-fonds-publics"
-    },
-    {
-     "date": "2026-11-25",
-     "headline": "Budget de la Ville de Montréal : la plus forte hausse de taxes depuis 2010",
-     "url": "https://ici.radio-canada.ca/article/info/2302576/budget-montreal-forte-hausse-taxes-2010"
     }
    ]
   },
@@ -6024,6 +6179,87 @@
    ]
   },
   {
+   "id": "nicolas-marceau",
+   "name": "Nicolas Marceau",
+   "type": "person",
+   "aliases": [
+    "Marceau"
+   ],
+   "mentions": 14,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "2026-11-06",
+     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
+     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Il manque 65 milliards de dollars au PQI, selon le ministre Nicolas Marceau",
+     "url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Le PQ priorisera-t-il la réfection du rail gaspésien?",
+     "url": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq"
+    },
+    {
+     "date": "2026-11-24",
+     "headline": "Les hausses de taxes pourraient atteindre 25% dans certaines villes",
+     "url": "https://www.journaldequebec.com/2026/11/23/hausses-de-taxes-salees-le-milieu-municipal-sattend-au-pire"
+    },
+    {
+     "date": "2026-11-24",
+     "headline": "Infrastructures: Paul St-Pierre Plamondon laisse entrevoir un répit pour les villes",
+     "url": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
    "id": "pcq",
    "name": "Parti conservateur du Québec",
    "type": "organization",
@@ -6180,82 +6416,6 @@
      "date": "2026-11-16",
      "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
      "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
-    }
-   ]
-  },
-  {
-   "id": "nicolas-marceau",
-   "name": "Nicolas Marceau",
-   "type": "person",
-   "aliases": [
-    "Marceau"
-   ],
-   "mentions": 13,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Mise à jour économique – Une mégadéduction fédérale donne des « maux de tête » aux péquistes",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-28/mise-a-jour-economique/une-megadeduction-federale-donne-des-maux-de-tete-aux-pequistes.php"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
-    },
-    {
-     "date": "2026-11-06",
-     "headline": "Quebec government pans federal budget while mayors praise funding to fight homelessness",
-     "url": "https://www.cbc.ca/news/canada/montreal/quebec-government-pans-federal-budget-9.7411598"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Il manque 65 milliards de dollars au PQI, selon le ministre Nicolas Marceau",
-     "url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Trou de 65 milliards dans les infrastructures – Québec annonce la fin des « belles écoles » de Legault",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-18/trou-de-65-milliards-dans-les-infrastructures/quebec-annonce-la-fin-des-belles-ecoles-de-legault.php"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
-     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Le PQ priorisera-t-il la réfection du rail gaspésien?",
-     "url": "https://ici.radio-canada.ca/article/info/2301881/pqi-refection-chemin-fer-rail-gaspesie-priorite-pq"
-    },
-    {
-     "date": "2026-11-24",
-     "headline": "Les hausses de taxes pourraient atteindre 25% dans certaines villes",
-     "url": "https://www.journaldequebec.com/2026/11/23/hausses-de-taxes-salees-le-milieu-municipal-sattend-au-pire"
-    },
-    {
-     "date": "2026-11-24",
-     "headline": "Infrastructures: Paul St-Pierre Plamondon laisse entrevoir un répit pour les villes",
-     "url": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/"
     }
    ]
   },
@@ -6593,6 +6753,67 @@
    ]
   },
   {
+   "id": "investissement-quebec",
+   "name": "Investissement Québec",
+   "type": "organization",
+   "aliases": [
+    "IQ"
+   ],
+   "mentions": 10,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
+     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
+     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
+     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+    },
+    {
+     "date": "2026-11-24",
+     "headline": "La vente de feu est commencée chez Nemaska Lithium",
+     "url": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
    "id": "catherine-gentilcore",
    "name": "Catherine Gentilcore",
    "type": "person",
@@ -6915,57 +7136,6 @@
    ]
   },
   {
-   "id": "investissement-quebec",
-   "name": "Investissement Québec",
-   "type": "organization",
-   "aliases": [
-    "IQ"
-   ],
-   "mentions": 8,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Après quatre jours, la GRC a enfin terminé sa perquisition chez Lion Électrique",
-     "url": "https://www.journaldemontreal.com/2026/10/26/filiere-batterie-la-grc-a-termine-sa-perquisition-chez-lion-electrique"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
-     "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Hydro-Québec achète l’ancien terrain de Northvolt",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298943/hydro-quebec-achete-terrain-northvolt"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
-     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
-    },
-    {
-     "date": "2026-11-24",
-     "headline": "La vente de feu est commencée chez Nemaska Lithium",
-     "url": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium"
-    }
-   ]
-  },
-  {
    "id": "manon-jeannotte",
    "name": "Manon Jeannotte",
    "type": "person",
@@ -7008,6 +7178,52 @@
      "date": "2026-11-08",
      "headline": "Monarchie : plutôt que l’abolition, la « démonarchisation » progressive?",
      "url": "https://ici.radio-canada.ca/nouvelle/2299108/demonarchisation-quebec-monarchie-canada"
+    }
+   ]
+  },
+  {
+   "id": "nemaska-lithium",
+   "name": "Nemaska Lithium",
+   "type": "organization",
+   "aliases": [
+    "Nemaska"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
+     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
+     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+    },
+    {
+     "date": "2026-11-24",
+     "headline": "La vente de feu est commencée chez Nemaska Lithium",
+     "url": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -7101,6 +7317,52 @@
      "date": "2026-11-19",
      "headline": "Montérégie – Les contrôleurs routiers commencent à patrouiller armés sur les routes",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-18/monteregie/les-controleurs-routiers-commencent-a-patrouiller-armes-sur-les-routes.php"
+    }
+   ]
+  },
+  {
+   "id": "sebastien-dastous",
+   "name": "Sébastien D’Astous",
+   "type": "person",
+   "aliases": [
+    "Sébastien D'Astous"
+   ],
+   "mentions": 7,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-10-30",
+     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    },
+    {
+     "date": "2026-10-31",
+     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
+     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+    },
+    {
+     "date": "2026-11-03",
+     "headline": "Sébastien D’Astous explique comment il compte «dégraisser» l’État",
+     "url": "https://www.noovo.info/nouvelles/politique/article/sebastien-dastous-explique-comment-il-compte-degraisser-letat/"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
     }
    ]
   },
@@ -7313,6 +7575,47 @@
    ]
   },
   {
+   "id": "jean-pellerin",
+   "name": "Jean Pellerin",
+   "type": "person",
+   "aliases": [
+    "Pellerin"
+   ],
+   "mentions": 6,
+   "stories": [
+    {
+     "date": "2026-11-04",
+     "headline": "L’élargissement de la consigne pourrait encore être reporté",
+     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
+     "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
+     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
+     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
+    }
+   ]
+  },
+  {
    "id": "lion",
    "name": "Lion Électrique",
    "type": "organization",
@@ -7436,24 +7739,12 @@
    ]
   },
   {
-   "id": "nemaska-lithium",
-   "name": "Nemaska Lithium",
-   "type": "organization",
-   "aliases": [
-    "Nemaska"
-   ],
+   "id": "pierre-fitzgibbon",
+   "name": "Pierre Fitzgibbon",
+   "type": "person",
+   "aliases": [],
    "mentions": 6,
    "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
-     "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
-    },
     {
      "date": "2026-11-09",
      "headline": "Québec met fin au bar ouvert des prêts pardonnables",
@@ -7461,18 +7752,28 @@
     },
     {
      "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
+     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
     },
     {
-     "date": "2026-11-11",
-     "headline": "Québec confirme le ralentissement du chantier de Nemaska Lithium",
-     "url": "https://ici.radio-canada.ca/article/info/2299594/ralentissement-chantier-nemaska-lithium-usine"
+     "date": "2026-11-19",
+     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
+     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
     },
     {
-     "date": "2026-11-24",
-     "headline": "La vente de feu est commencée chez Nemaska Lithium",
-     "url": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium"
+     "date": "2026-11-19",
+     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
+     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+    },
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -7596,6 +7897,40 @@
    ]
   },
   {
+   "id": "affine-lwalalika",
+   "name": "Affine Lwalalika",
+   "type": "person",
+   "aliases": [],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
    "id": "andre-fortin",
    "name": "André Fortin",
    "type": "person",
@@ -7628,6 +7963,42 @@
      "date": "2026-11-25",
      "headline": "Québec solidaire devient la troisième opposition en acceptant un budget amputé de plus de 50%",
      "url": "https://www.noovo.info/nouvelles/politique/article/quebec-solidaire-devient-la-troisieme-opposition-en-acceptant-un-budget-ampute-de-plus-de-50/"
+    }
+   ]
+  },
+  {
+   "id": "bape",
+   "name": "Bureau d’audiences publiques sur l’environnement",
+   "type": "organization",
+   "aliases": [
+    "BAPE"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    },
+    {
+     "date": "2026-10-29",
+     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
+     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
+    },
+    {
+     "date": "2026-11-11",
+     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
+     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    },
+    {
+     "date": "2026-11-12",
+     "headline": "Vers un décret pour le projet Horne 5 de Falco?",
+     "url": "https://ici.radio-canada.ca/article/info/2299975/mine-rouyn-noranda-falco-horne5"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien"
     }
    ]
   },
@@ -7804,42 +8175,6 @@
      "date": "2026-11-09",
      "headline": "Série d’incendies criminels : le ministre de la Sécurité intérieure dépêché à Ormstown",
      "url": "https://ici.radio-canada.ca/nouvelle/2299328/incendies-criminels-ormstown-ministre-securite-interieure-lapointe"
-    }
-   ]
-  },
-  {
-   "id": "jean-pellerin",
-   "name": "Jean Pellerin",
-   "type": "person",
-   "aliases": [
-    "Pellerin"
-   ],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-11-04",
-     "headline": "L’élargissement de la consigne pourrait encore être reporté",
-     "url": "https://www.journaldequebec.com/2026/11/06/lelargissement-de-la-consigne-pourrait-encore-etre-reporte"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
-     "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
-     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
-     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
-    },
-    {
-     "date": "2026-11-21",
-     "headline": "COP31 – Le Québec entend publier une feuille de route pour se sevrer des énergies fossiles",
-     "url": "https://www.lapresse.ca/actualites/environnement/2026-11-21/cop31/le-quebec-entend-publier-une-feuille-de-route-pour-se-sevrer-des-energies-fossiles.php"
     }
    ]
   },
@@ -8062,40 +8397,6 @@
    ]
   },
   {
-   "id": "pierre-fitzgibbon",
-   "name": "Pierre Fitzgibbon",
-   "type": "person",
-   "aliases": [],
-   "mentions": 5,
-   "stories": [
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "François Legault défend le programme de prêts pardonnables que vient d’abolir le Parti Québécois",
-     "url": "https://www.journaldemontreal.com/2026/11/09/francois-legault-defend-les-prets-pardonnables-que-vient-dabolir-le-parti-quebecois"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Hydro-Québec crée un poste sur mesure pour l’ancien sous-ministre de Fitzgibbon",
-     "url": "https://www.journaldemontreal.com/2026/11/19/hydro-quebec-fait-une-place-a-lancien-sous-ministre-de-fitzgibbon"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
-     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
-    },
-    {
-     "date": "2026-11-23",
-     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
-    }
-   ]
-  },
-  {
    "id": "projet-montreal",
    "name": "Projet Montréal",
    "type": "organization",
@@ -8166,38 +8467,72 @@
    ]
   },
   {
-   "id": "sebastien-dastous",
-   "name": "Sébastien D’Astous",
+   "id": "stephan-fogaing",
+   "name": "Stephan Fogaing",
    "type": "person",
-   "aliases": [
-    "Sébastien D'Astous"
-   ],
+   "aliases": [],
    "mentions": 5,
    "stories": [
     {
      "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
     },
     {
      "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
     },
     {
-     "date": "2026-10-30",
-     "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
     },
     {
-     "date": "2026-10-31",
-     "headline": "QS demande l’annulation de la nomination de Jacinthe-Eve Arel",
-     "url": "https://lactualite.com/actualites/qs-demande-lannulation-de-la-nomination-de-jacinthe-eve-arel/"
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
     },
     {
-     "date": "2026-11-03",
-     "headline": "Sébastien D’Astous explique comment il compte «dégraisser» l’État",
-     "url": "https://www.noovo.info/nouvelles/politique/article/sebastien-dastous-explique-comment-il-compte-degraisser-letat/"
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "id": "spgq",
+   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
+   "type": "organization",
+   "aliases": [
+    "SPGQ"
+   ],
+   "mentions": 5,
+   "stories": [
+    {
+     "date": "2026-11-02",
+     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
+     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
+    },
+    {
+     "date": "2026-11-07",
+     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
+    },
+    {
+     "date": "2026-11-16",
+     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
+     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
+     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -8277,35 +8612,6 @@
    ]
   },
   {
-   "id": "affine-lwalalika",
-   "name": "Affine Lwalalika",
-   "type": "person",
-   "aliases": [],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
    "id": "amf",
    "name": "Autorité des marchés financiers",
    "type": "organization",
@@ -8333,37 +8639,6 @@
      "date": "2026-10-23",
      "headline": "Manquements liés à une entente d’indication de client – Le TMF impose des mesures à Marie-Josée Tremblay et à Steeve Poulin",
      "url": "https://lautorite.qc.ca/grand-public/salle-de-presse/actualites/fiche-dactualite/manquements-lies-a-une-entente-dindication-de-client-le-tmf-impose-des-mesures-a-marie-josee-tremblay-et-a-steeve-poulin"
-    }
-   ]
-  },
-  {
-   "id": "bape",
-   "name": "Bureau d’audiences publiques sur l’environnement",
-   "type": "organization",
-   "aliases": [
-    "BAPE"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
-    },
-    {
-     "date": "2026-10-29",
-     "headline": "Terminal de conteneurs : le PQ appelé à déclencher un BAPE « au plus vite »",
-     "url": "https://ici.radio-canada.ca/nouvelle/2296467/bape-qsl-terminal-conteneurs-quebec-solidaire"
-    },
-    {
-     "date": "2026-11-11",
-     "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
-     "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
-    },
-    {
-     "date": "2026-11-12",
-     "headline": "Vers un décret pour le projet Horne 5 de Falco?",
-     "url": "https://ici.radio-canada.ca/article/info/2299975/mine-rouyn-noranda-falco-horne5"
     }
    ]
   },
@@ -8486,6 +8761,37 @@
      "date": "2026-11-23",
      "headline": "Quebec students open door to unlimited strike, give PQ government February deadline",
      "url": "https://www.cbc.ca/news/canada/montreal/student-strikes-affordability-9.7432174"
+    }
+   ]
+  },
+  {
+   "id": "csn",
+   "name": "Confédération des syndicats nationaux",
+   "type": "organization",
+   "aliases": [
+    "CSN"
+   ],
+   "mentions": 4,
+   "stories": [
+    {
+     "date": "2026-11-11",
+     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
+     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    },
+    {
+     "date": "2026-11-17",
+     "headline": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
+     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -8803,35 +9109,6 @@
    ]
   },
   {
-   "id": "stephan-fogaing",
-   "name": "Stephan Fogaing",
-   "type": "person",
-   "aliases": [],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
    "id": "steven-blaney",
    "name": "Steven Blaney",
    "type": "person",
@@ -8857,37 +9134,6 @@
      "date": "2026-11-20",
      "headline": "Poursuites de promoteurs : la Ville de Lévis rappelle ses élus à l’ordre",
      "url": "https://ici.radio-canada.ca/article/info/2301928/poursuites-promoteurs-elus-ville-levis"
-    }
-   ]
-  },
-  {
-   "id": "spgq",
-   "name": "Syndicat de professionnelles et professionnels du gouvernement du Québec",
-   "type": "organization",
-   "aliases": [
-    "SPGQ"
-   ],
-   "mentions": 4,
-   "stories": [
-    {
-     "date": "2026-11-02",
-     "headline": "Télétravail réduit pour les fonctionnaires: le PQ continuera d’imposer 3 jours par semaine au bureau",
-     "url": "https://www.journaldemontreal.com/2026/11/02/teletravail-reduit-pour-les-fonctionnaires-le-pq-continuera-dimposer-3-jours-par-semaine-au-bureau"
-    },
-    {
-     "date": "2026-11-07",
-     "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
-    },
-    {
-     "date": "2026-11-16",
-     "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
-     "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
-     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
     }
    ]
   },
@@ -8979,6 +9225,32 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "id": "apts",
+   "name": "Alliance du personnel professionnel et technique de la santé et des services sociaux",
+   "type": "organization",
+   "aliases": [
+    "APTS"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-31",
+     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
+     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
+    },
+    {
+     "date": "2026-11-20",
+     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
+     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -9132,32 +9404,6 @@
    ]
   },
   {
-   "id": "csn",
-   "name": "Confédération des syndicats nationaux",
-   "type": "organization",
-   "aliases": [
-    "CSN"
-   ],
-   "mentions": 3,
-   "stories": [
-    {
-     "date": "2026-11-11",
-     "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
-     "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
-    },
-    {
-     "date": "2026-11-17",
-     "headline": "Droit de grève limité – St-Pierre Plamondon remet en question une loi caquiste",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-17/droit-de-greve-limite/st-pierre-plamondon-remet-en-question-une-loi-caquiste.php"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
-     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
-    }
-   ]
-  },
-  {
    "id": "cour-du-quebec",
    "name": "Cour du Québec",
    "type": "organization",
@@ -9178,6 +9424,33 @@
      "date": "2026-10-27",
      "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
      "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    }
+   ]
+  },
+  {
+   "id": "cour-supreme-canada",
+   "name": "Cour suprême du Canada",
+   "type": "organization",
+   "aliases": [
+    "Cour suprême",
+    "Supreme Court"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-18",
+     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
+     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    },
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -9352,6 +9625,59 @@
      "date": "2026-11-13",
      "headline": "Saguenay fait l’acquisition d’une rue d’un parc industriel sans analyse par ses ingénieurs",
      "url": "https://ici.radio-canada.ca/article/info/2299503/alfred-boivin-rue-ingenieurs-saguenay"
+    }
+   ]
+  },
+  {
+   "id": "marie-pierre-charland",
+   "name": "Marie-Pierre Charland",
+   "type": "person",
+   "aliases": [
+    "juge Charland"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "id": "meie",
+   "name": "Ministère de l’Économie, de l’Innovation et de l’Énergie",
+   "type": "organization",
+   "aliases": [
+    "MEIE",
+    "ministère du Développement économique"
+   ],
+   "mentions": 3,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -9674,27 +10000,6 @@
    ]
   },
   {
-   "id": "apts",
-   "name": "Alliance du personnel professionnel et technique de la santé et des services sociaux",
-   "type": "organization",
-   "aliases": [
-    "APTS"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-31",
-     "headline": "44 postes abolis chez Santé Québec Chaudière-Appalaches",
-     "url": "https://ici.radio-canada.ca/nouvelle/2297201/abolition-postes-sante-quebec-chaudiere-appalaches"
-    },
-    {
-     "date": "2026-11-20",
-     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
-     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
-    }
-   ]
-  },
-  {
    "id": "alstom",
    "name": "Alstom",
    "type": "organization",
@@ -9936,6 +10241,27 @@
    ]
   },
   {
+   "id": "csq",
+   "name": "Centrale des syndicats du Québec",
+   "type": "organization",
+   "aliases": [
+    "CSQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-19",
+     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
    "id": "claude-pinard",
    "name": "Claude Pinard",
    "type": "person",
@@ -10059,28 +10385,6 @@
      "date": "2026-11-25",
      "headline": "Serment au roi : tous les partis veulent siéger, Québec fait appel",
      "url": "https://ici.radio-canada.ca/article/info/2302735/serment-roi-plq-presidente-assemblee-nationale-pq"
-    }
-   ]
-  },
-  {
-   "id": "cour-supreme-canada",
-   "name": "Cour suprême du Canada",
-   "type": "organization",
-   "aliases": [
-    "Cour suprême",
-    "Supreme Court"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-11-18",
-     "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
-     "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
-    },
-    {
-     "date": "2026-11-21",
-     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
-     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
     }
    ]
   },
@@ -10314,6 +10618,27 @@
    ]
   },
   {
+   "id": "ftq",
+   "name": "Fédération des travailleurs et travailleuses du Québec",
+   "type": "organization",
+   "aliases": [
+    "FTQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-19",
+     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
+     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
    "id": "fpss-csq",
    "name": "Fédération du personnel de soutien scolaire",
    "type": "organization",
@@ -10479,6 +10804,27 @@
    ]
   },
   {
+   "id": "isq",
+   "name": "Institut de la statistique du Québec",
+   "type": "organization",
+   "aliases": [
+    "ISQ"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
    "id": "iedm",
    "name": "Institut économique de Montréal",
    "type": "organization",
@@ -10578,27 +10924,6 @@
      "date": "2026-11-22",
      "headline": "Quebec's popular PEQ program is closed — again. People counting on it want answers",
      "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
-    }
-   ]
-  },
-  {
-   "id": "marie-pierre-charland",
-   "name": "Marie-Pierre Charland",
-   "type": "person",
-   "aliases": [
-    "juge Charland"
-   ],
-   "mentions": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
     }
    ]
   },
@@ -11176,6 +11501,27 @@
      "date": "2026-11-26",
      "headline": "Hausse de taxes – Longueuil va emboîter le pas à Montréal",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/hausse-de-taxes/longueuil-va-emboiter-le-pas-a-montreal.php"
+    }
+   ]
+  },
+  {
+   "id": "upa",
+   "name": "Union des producteurs agricoles",
+   "type": "organization",
+   "aliases": [
+    "UPA"
+   ],
+   "mentions": 2,
+   "stories": [
+    {
+     "date": "2026-11-25",
+     "headline": "Réseau électrique en zone agricole – Hydro-Québec et l’UPA s’entendent",
+     "url": "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien"
     }
    ]
   },
@@ -11822,6 +12168,22 @@
    ]
   },
   {
+   "id": "barreau-quebec",
+   "name": "Barreau du Québec",
+   "type": "organization",
+   "aliases": [
+    "Barreau"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
    "id": "beneva",
    "name": "Beneva",
    "type": "organization",
@@ -11890,6 +12252,22 @@
      "date": "2026-10-24",
      "headline": "Fintech FNZ – Des proches de La Caisse appelés devant la justice",
      "url": "https://www.lapresse.ca/affaires/2026-10-23/fintech-fnz/des-proches-de-la-caisse-appeles-devant-la-justice.php"
+    }
+   ]
+  },
+  {
+   "id": "boga",
+   "name": "Beyond Oil and Gas Alliance",
+   "type": "organization",
+   "aliases": [
+    "BOGA"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
     }
    ]
   },
@@ -12083,22 +12461,6 @@
      "date": "2026-11-26",
      "headline": "Hausse de taxes – Longueuil va emboîter le pas à Montréal",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/hausse-de-taxes/longueuil-va-emboiter-le-pas-a-montreal.php"
-    }
-   ]
-  },
-  {
-   "id": "csq",
-   "name": "Centrale des syndicats du Québec",
-   "type": "organization",
-   "aliases": [
-    "CSQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-19",
-     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
-     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
     }
    ]
   },
@@ -12415,6 +12777,22 @@
      "date": "2026-11-21",
      "headline": "Amende de 2990 $ – Le maire de Westmount a manqué de respect à des employés, tranche la commission municipale",
      "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-20/amende-de-2990/le-maire-de-westmount-a-manque-de-respect-a-des-employes-tranche-la-commission-municipale.php"
+    }
+   ]
+  },
+  {
+   "id": "english-montreal-school-board",
+   "name": "Commission scolaire English-Montréal",
+   "type": "organization",
+   "aliases": [
+    "English-Montréal"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -12915,6 +13293,20 @@
    ]
   },
   {
+   "id": "fondaction",
+   "name": "Fondaction",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    }
+   ]
+  },
+  {
    "id": "fondation-a-notre-sante",
    "name": "Fondation À Notre Santé",
    "type": "organization",
@@ -13124,22 +13516,6 @@
      "date": "2026-11-26",
      "headline": "Violence à l’école – Les accidents de travail ont quadruplé en 10 ans",
      "url": "https://www.lapresse.ca/actualites/education/2026-11-26/violence-a-l-ecole/les-accidents-de-travail-ont-quadruple-en-10-ans.php"
-    }
-   ]
-  },
-  {
-   "id": "ftq",
-   "name": "Fédération des travailleurs et travailleuses du Québec",
-   "type": "organization",
-   "aliases": [
-    "FTQ"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-19",
-     "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
-     "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
     }
    ]
   },
@@ -13834,6 +14210,20 @@
    ]
   },
   {
+   "id": "jean-lemire",
+   "name": "Jean Lemire",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
+    }
+   ]
+  },
+  {
    "id": "jean-simard",
    "name": "Jean Simard",
    "type": "person",
@@ -13944,6 +14334,20 @@
      "date": "2026-10-24",
      "headline": "La SAQ a avancé 10 M$ pour Consignaction",
      "url": "https://www.tvanouvelles.ca/2026/10/23/la-saq-a-avance-10-m-pour-consignaction"
+    }
+   ]
+  },
+  {
+   "id": "jean-francois-roberge",
+   "name": "Jean-François Roberge",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -14298,6 +14702,22 @@
    ]
   },
   {
+   "id": "lavergne-groupe",
+   "name": "Lavergne Groupe",
+   "type": "organization",
+   "aliases": [
+    "Lavergne"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    }
+   ]
+  },
+  {
    "id": "lemay-co",
    "name": "Lemay CO",
    "type": "organization",
@@ -14386,6 +14806,20 @@
      "date": "2026-11-15",
      "headline": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
      "url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante"
+    }
+   ]
+  },
+  {
+   "id": "linda-caron",
+   "name": "Linda Caron",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/"
     }
    ]
   },
@@ -14841,6 +15275,22 @@
    ]
   },
   {
+   "id": "mirae",
+   "name": "Matériaux avancés Mirae",
+   "type": "organization",
+   "aliases": [
+    "Mirae"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
    "id": "maude-marquis-bissonnette",
    "name": "Maude Marquis-Bissonnette",
    "type": "person",
@@ -15027,22 +15477,6 @@
    ]
   },
   {
-   "id": "meie",
-   "name": "Ministère de l’Économie, de l’Innovation et de l’Énergie",
-   "type": "organization",
-   "aliases": [
-    "MEIE"
-   ],
-   "mentions": 1,
-   "stories": [
-    {
-     "date": "2026-11-23",
-     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
-    }
-   ]
-  },
-  {
    "id": "mission-gestion-construction",
    "name": "Mission Gestion Construction",
    "type": "organization",
@@ -15053,6 +15487,20 @@
      "date": "2026-11-21",
      "headline": "Négociations des ententes du tramway: Un contrat d’accompagnement signé",
      "url": "https://www.journaldequebec.com/2026/11/20/negociations-des-ententes-du-tramway-un-contrat-daccompagnement-signe"
+    }
+   ]
+  },
+  {
+   "id": "monique-jerome-forget",
+   "name": "Monique Jérôme-Forget",
+   "type": "person",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
     }
    ]
   },
@@ -15206,6 +15654,22 @@
      "date": "2026-11-22",
      "headline": "30 ans plus tard, quel est le bilan de la Loi sur l’équité salariale?",
      "url": "https://ici.radio-canada.ca/article/info/2302297/equite-salariale-30-ans-quebec-lois"
+    }
+   ]
+  },
+  {
+   "id": "omhm",
+   "name": "Office municipal d’habitation de Montréal",
+   "type": "organization",
+   "aliases": [
+    "OMHM"
+   ],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Montréal – Les deux tiers des HLM sont en mauvais état, selon l’Office municipal d’habitation",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/montreal/les-deux-tiers-des-hlm-sont-en-mauvais-etat-selon-l-office-municipal-d-habitation.php"
     }
    ]
   },
@@ -16045,6 +16509,20 @@
    ]
   },
   {
+   "id": "spipb",
+   "name": "Société du parc industriel et portuaire de Bécancour",
+   "type": "organization",
+   "aliases": [],
+   "mentions": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
    "id": "shq",
    "name": "Société d’habitation du Québec",
    "type": "organization",
@@ -16358,18 +16836,16 @@
    ]
   },
   {
-   "id": "upa",
-   "name": "Union des producteurs agricoles",
+   "id": "ultium-cam",
+   "name": "Ultium CAM",
    "type": "organization",
-   "aliases": [
-    "UPA"
-   ],
+   "aliases": [],
    "mentions": 1,
    "stories": [
     {
-     "date": "2026-11-25",
-     "headline": "Réseau électrique en zone agricole – Hydro-Québec et l’UPA s’entendent",
-     "url": "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php"
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -16919,7 +17395,7 @@
   {
    "source": "caq",
    "target": "pq",
-   "weight": 15,
+   "weight": 16,
    "stories": [
     {
      "date": "2026-10-21",
@@ -16995,6 +17471,11 @@
      "date": "2026-11-22",
      "headline": "Quebec's popular PEQ program is closed — again. People counting on it want answers",
      "url": "https://www.cbc.ca/news/canada/montreal/peq-program-application-windows-government-immigration-9.7424661"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -17160,7 +17641,7 @@
   {
    "source": "plq",
    "target": "pq",
-   "weight": 12,
+   "weight": 13,
    "stories": [
     {
      "date": "2026-10-22",
@@ -17221,6 +17702,11 @@
      "date": "2026-11-26",
      "headline": "Le PQ met au défi ses adversaires de siéger sans prêter serment au roi",
      "url": "https://ici.radio-canada.ca/article/info/2302985/serment-roi-rentree-parlementaire-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
     }
    ]
   },
@@ -17515,6 +18001,58 @@
    ]
   },
   {
+   "source": "nicolas-marceau",
+   "target": "pspp",
+   "weight": 9,
+   "stories": [
+    {
+     "date": "2026-10-21",
+     "headline": "Conseil des ministres : de l’expérience aux postes clés",
+     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
+    },
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-04",
+     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
+    },
+    {
+     "date": "2026-11-05",
+     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
+     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
+    },
+    {
+     "date": "2026-11-18",
+     "headline": "Il manque 65 milliards de dollars au PQI, selon le ministre Nicolas Marceau",
+     "url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
+     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+    },
+    {
+     "date": "2026-11-24",
+     "headline": "Infrastructures: Paul St-Pierre Plamondon laisse entrevoir un répit pour les villes",
+     "url": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
    "source": "pspp",
    "target": "stephane-paquet",
    "weight": 9,
@@ -17751,53 +18289,6 @@
      "date": "2026-11-26",
      "headline": "Le PQ met au défi ses adversaires de siéger sans prêter serment au roi",
      "url": "https://ici.radio-canada.ca/article/info/2302985/serment-roi-rentree-parlementaire-quebec"
-    }
-   ]
-  },
-  {
-   "source": "nicolas-marceau",
-   "target": "pspp",
-   "weight": 8,
-   "stories": [
-    {
-     "date": "2026-10-21",
-     "headline": "Conseil des ministres : de l’expérience aux postes clés",
-     "url": "https://ici.radio-canada.ca/nouvelle/2294578/conseil-ministres-paul-plamondon-pq"
-    },
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
-    },
-    {
-     "date": "2026-11-04",
-     "headline": "« Le précédent gouvernement a laissé la maison en désordre », déplore St-Pierre Plamondon",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-11-03/le-precedent-gouvernement-a-laisse-la-maison-en-desordre-deplore-st-pierre-plamondon.php"
-    },
-    {
-     "date": "2026-11-05",
-     "headline": "Budget fédéral : Québec « exige » 690 M$ pour les services offerts aux demandeurs d’asile",
-     "url": "https://ici.radio-canada.ca/nouvelle/2298350/budget-canada-2026-quebec-demandeur-asile"
-    },
-    {
-     "date": "2026-11-18",
-     "headline": "Il manque 65 milliards de dollars au PQI, selon le ministre Nicolas Marceau",
-     "url": "https://ici.radio-canada.ca/article/info/2301346/plan-quebecois-infrastructures-pqi-marceau"
-    },
-    {
-     "date": "2026-11-19",
-     "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
-     "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
-    },
-    {
-     "date": "2026-11-24",
-     "headline": "Infrastructures: Paul St-Pierre Plamondon laisse entrevoir un répit pour les villes",
-     "url": "https://www.noovo.info/nouvelles/politique/article/infrastructures-paul-st-pierre-plamondon-laisse-entrevoir-un-repit-pour-les-villes/"
     }
    ]
   },
@@ -18637,6 +19128,102 @@
    ]
   },
   {
+   "source": "affine-lwalalika",
+   "target": "plq",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
+   "target": "pq",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
+   "target": "stephan-fogaing",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
    "source": "alexandre-leduc",
    "target": "pq",
    "weight": 5,
@@ -19053,6 +19640,38 @@
    ]
   },
   {
+   "source": "investissement-quebec",
+   "target": "nemaska-lithium",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-11-05",
+     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
+     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-10",
+     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
+     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-24",
+     "headline": "La vente de feu est commencée chez Nemaska Lithium",
+     "url": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
    "source": "marie-karlynn-laflamme",
    "target": "pspp",
    "weight": 5,
@@ -19149,6 +19768,70 @@
    ]
   },
   {
+   "source": "plq",
+   "target": "stephan-fogaing",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "pq",
+   "target": "stephan-fogaing",
+   "weight": 5,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
+     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
+    },
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
    "source": "pspp",
    "target": "union-europeenne",
    "weight": 5,
@@ -19177,87 +19860,6 @@
      "date": "2026-11-22",
      "headline": "Programme d’échange étudiant – Le Québec veut être le seul maître d’œuvre du chantier Erasmus+",
      "url": "https://www.lapresse.ca/actualites/education/2026-11-22/programme-d-echange-etudiant/le-quebec-veut-etre-le-seul-maitre-d-oeuvre-du-chantier-erasmus.php"
-    }
-   ]
-  },
-  {
-   "source": "affine-lwalalika",
-   "target": "plq",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
-   "source": "affine-lwalalika",
-   "target": "pq",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
-   "source": "affine-lwalalika",
-   "target": "stephan-fogaing",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
     }
    ]
   },
@@ -20100,33 +20702,6 @@
   },
   {
    "source": "investissement-quebec",
-   "target": "nemaska-lithium",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-11-05",
-     "headline": "Nemaska Lithium, le plus gros projet de la filière batterie au Québec, est en danger",
-     "url": "https://www.journaldemontreal.com/2026/11/05/nemaska-lithium-le-plus-gros-projet-de-la-filiere-batterie-au-quebec-est-en-danger"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    },
-    {
-     "date": "2026-11-10",
-     "headline": "Près d'une centaine de mises à pied chez Nemaska Lithium",
-     "url": "https://www.tvanouvelles.ca/2026/11/10/pres-dune-centaine-de-mises-a-pied-chez-nemaska-lithium"
-    },
-    {
-     "date": "2026-11-24",
-     "headline": "La vente de feu est commencée chez Nemaska Lithium",
-     "url": "https://www.journaldequebec.com/2026/11/24/la-vente-de-feu-est-commencee-chez-nemaska-lithium"
-    }
-   ]
-  },
-  {
-   "source": "investissement-quebec",
    "target": "rio-tinto",
    "weight": 4,
    "stories": [
@@ -20342,60 +20917,6 @@
    ]
   },
   {
-   "source": "plq",
-   "target": "stephan-fogaing",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
-   "source": "pq",
-   "target": "stephan-fogaing",
-   "weight": 4,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Judicial recount gives Vachon riding to Parti Québécois — by 3 votes",
-     "url": "https://www.cbc.ca/news/canada/montreal/judicial-recount-vachon-recount-parti-quebecois-9.7390843"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
-     "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    },
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
    "source": "projet-montreal",
    "target": "soraya-martinez-ferrada",
    "weight": 4,
@@ -20419,6 +20940,33 @@
      "date": "2026-11-25",
      "headline": "Budget de la Ville de Montréal : la plus forte hausse de taxes depuis 2010",
      "url": "https://ici.radio-canada.ca/article/info/2302576/budget-montreal-forte-hausse-taxes-2010"
+    }
+   ]
+  },
+  {
+   "source": "pspp",
+   "target": "sebastien-dastous",
+   "weight": 4,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
     }
    ]
   },
@@ -20473,6 +21021,28 @@
      "date": "2026-11-20",
      "headline": "Poursuites de promoteurs : la Ville de Lévis rappelle ses élus à l’ordre",
      "url": "https://ici.radio-canada.ca/article/info/2301928/poursuites-promoteurs-elus-ville-levis"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
+   "target": "marie-pierre-charland",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
     }
    ]
   },
@@ -21489,6 +22059,28 @@
    ]
   },
   {
+   "source": "investissement-quebec",
+   "target": "pierre-fitzgibbon",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-19",
+     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
+     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
    "source": "jacinthe-eve-arel",
    "target": "sebastien-dastous",
    "weight": 3,
@@ -21621,6 +22213,72 @@
    ]
   },
   {
+   "source": "marie-pierre-charland",
+   "target": "plq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "marie-pierre-charland",
+   "target": "pq",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "marie-pierre-charland",
+   "target": "stephan-fogaing",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-27",
+     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
+     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
+    },
+    {
+     "date": "2026-11-09",
+     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
+     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
    "source": "mark-carney",
    "target": "pq",
    "weight": 3,
@@ -21683,6 +22341,28 @@
      "date": "2026-11-10",
      "headline": "PSPP nomme une conseillère spéciale pour épauler Nicolas Girard",
      "url": "https://ici.radio-canada.ca/article/info/2299500/stephanie-martin-conseillere-speciale-capitale-nationale"
+    }
+   ]
+  },
+  {
+   "source": "nicolas-marceau",
+   "target": "sebastien-dastous",
+   "weight": 3,
+   "stories": [
+    {
+     "date": "2026-10-22",
+     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
+     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
+    },
+    {
+     "date": "2026-10-24",
+     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
+     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
     }
    ]
   },
@@ -21944,23 +22624,6 @@
      "date": "2026-10-24",
      "headline": "Résultat dans la circonscription de Vachon – Les libéraux contestent l’invalidité de certains bulletins de vote",
      "url": "https://www.lapresse.ca/actualites/politique/2026-10-22/resultat-dans-la-circonscription-de-vachon/les-liberaux-contestent-l-invalidite-de-certains-bulletins-de-vote.php"
-    }
-   ]
-  },
-  {
-   "source": "affine-lwalalika",
-   "target": "marie-pierre-charland",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
     }
    ]
   },
@@ -22289,6 +22952,23 @@
   },
   {
    "source": "apts",
+   "target": "csn",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-20",
+     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
+     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
+   "source": "apts",
    "target": "sante-quebec",
    "weight": 2,
    "stories": [
@@ -22301,6 +22981,23 @@
      "date": "2026-11-20",
      "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
      "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+    }
+   ]
+  },
+  {
+   "source": "apts",
+   "target": "spgq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-20",
+     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
+     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -22420,6 +23117,23 @@
      "date": "2026-11-03",
      "headline": "Ministère de la Cybersécurité et du Numérique démantelé: le PQ «bafoue des principes», dit QS",
      "url": "https://www.noovo.info/nouvelles/politique/article/ministere-de-la-cybersecurite-et-du-numerique-demantele-le-pq-bafoue-des-principes-dit-qs/"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "hydro-quebec",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-10-24",
+     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
+     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien"
     }
    ]
   },
@@ -22573,6 +23287,23 @@
      "date": "2026-11-21",
      "headline": "La CAQ a caché l’explosion des coûts de trois futurs traversiers",
      "url": "https://www.journaldequebec.com/2026/11/20/la-caq-a-cache-lexplosion-des-couts-de-trois-futurs-traversiers"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "cour-supreme-canada",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-21",
+     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
+     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -23563,6 +24294,23 @@
    ]
   },
   {
+   "source": "csn",
+   "target": "spgq",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-20",
+     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
+     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
    "source": "daniel-rotman",
    "target": "equiterre",
    "weight": 2,
@@ -24328,6 +25076,23 @@
    ]
   },
   {
+   "source": "hydro-quebec",
+   "target": "upa",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-25",
+     "headline": "Réseau électrique en zone agricole – Hydro-Québec et l’UPA s’entendent",
+     "url": "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien"
+    }
+   ]
+  },
+  {
    "source": "hydro-sherbrooke",
    "target": "keel",
    "weight": 2,
@@ -24380,18 +25145,18 @@
   },
   {
    "source": "investissement-quebec",
-   "target": "pierre-fitzgibbon",
+   "target": "meie",
    "weight": 2,
    "stories": [
     {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
     },
     {
-     "date": "2026-11-19",
-     "headline": "Dans quoi a investi ce fonds financé par vos impôts ?",
-     "url": "https://www.journaldemontreal.com/2026/11/19/dans-quoi-a-investi-ce-fonds-finance-par-vos-impots"
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -24477,6 +25242,23 @@
      "date": "2026-11-09",
      "headline": "Contenants consignés: les Québécois jettent 100M$ par année aux poubelles",
      "url": "https://www.journaldemontreal.com/2026/11/09/contenants-consignes-les-quebecois-jettent-100m-par-annee-aux-poubelles"
+    }
+   ]
+  },
+  {
+   "source": "jean-pellerin",
+   "target": "pspp",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-19",
+     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
+     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
     }
    ]
   },
@@ -24668,57 +25450,6 @@
    ]
   },
   {
-   "source": "marie-pierre-charland",
-   "target": "plq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
-   "source": "marie-pierre-charland",
-   "target": "pq",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
-   "source": "marie-pierre-charland",
-   "target": "stephan-fogaing",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-27",
-     "headline": "Recomptage dans Vachon : un avocat radié du Barreau a agi comme conseiller du PQ",
-     "url": "https://ici.radio-canada.ca/nouvelle/2295941/avocat-radie-barreau-pq-recomptage-vachon-election"
-    },
-    {
-     "date": "2026-11-09",
-     "headline": "Dépouillement dans Vachon : le PLQ conteste les résultats en cour",
-     "url": "https://ici.radio-canada.ca/nouvelle/2299267/contestation-elections-vachon-depouillement-plq-"
-    }
-   ]
-  },
-  {
    "source": "mark-carney",
    "target": "nicolas-marceau",
    "weight": 2,
@@ -24834,6 +25565,23 @@
      "date": "2026-11-25",
      "headline": "CPE et garderies subventionnées – Québec limite la hausse du tarif à 3 %",
      "url": "https://www.lapresse.ca/actualites/politique/2026-11-25/cpe-et-garderies-subventionnees/quebec-limite-la-hausse-du-tarif-a-3.php"
+    }
+   ]
+  },
+  {
+   "source": "meie",
+   "target": "pierre-fitzgibbon",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-23",
+     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -25008,6 +25756,23 @@
    ]
   },
   {
+   "source": "nemaska-lithium",
+   "target": "pierre-fitzgibbon",
+   "weight": 2,
+   "stories": [
+    {
+     "date": "2026-11-09",
+     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
+     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    },
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
    "source": "nicolas-girard",
    "target": "nicolas-marceau",
    "weight": 2,
@@ -25072,23 +25837,6 @@
      "date": "2026-10-22",
      "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
      "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    }
-   ]
-  },
-  {
-   "source": "nicolas-marceau",
-   "target": "sebastien-dastous",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     }
    ]
   },
@@ -25446,23 +26194,6 @@
      "date": "2026-11-12",
      "headline": "« Transformation » ou « abolition » : confusion sur le sort de Santé Québec",
      "url": "https://ici.radio-canada.ca/article/info/2299873/gouvernement-transformation-sante-quebec-abolition"
-    }
-   ]
-  },
-  {
-   "source": "pspp",
-   "target": "sebastien-dastous",
-   "weight": 2,
-   "stories": [
-    {
-     "date": "2026-10-22",
-     "headline": "Un défi colossal pour l'équipe réduite de Paul St-Pierre Plamondon",
-     "url": "https://www.journaldequebec.com/2026/10/22/un-defi-colossal-pour-lequipe-reduite-de-paul-st-pierre-plamondon"
-    },
-    {
-     "date": "2026-10-24",
-     "headline": "Qui sont les nouveaux ministres: voici ceux qui s'occuperont de votre portefeuille",
-     "url": "https://www.tvanouvelles.ca/2026/10/24/qui-sont-les-nouveaux-ministres-voici-ceux-qui-soccuperont-de-votre-portefeuille"
     }
    ]
   },
@@ -25928,6 +26659,18 @@
      "date": "2026-10-21",
      "headline": "Quebec judge orders judicial recount in Champlain riding after PQ request",
      "url": "https://www.cbc.ca/news/canada/montreal/quebec-election-judicial-recount-champlain-9.7389085"
+    }
+   ]
+  },
+  {
+   "source": "affine-lwalalika",
+   "target": "barreau-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
     }
    ]
   },
@@ -27997,13 +28740,13 @@
   },
   {
    "source": "apts",
-   "target": "csn",
+   "target": "csq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-20",
-     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
-     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -28021,19 +28764,31 @@
   },
   {
    "source": "apts",
-   "target": "scfp",
+   "target": "ftq",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-20",
-     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
-     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
   {
    "source": "apts",
-   "target": "spgq",
+   "target": "isq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
+   "source": "apts",
+   "target": "scfp",
    "weight": 1,
    "stories": [
     {
@@ -28705,18 +29460,6 @@
   },
   {
    "source": "bape",
-   "target": "hydro-quebec",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-10-24",
-     "headline": "Projet de parc éolien: vent de discorde dans la MRC de Coaticook",
-     "url": "https://www.tvanouvelles.ca/2026/10/23/projet-de-parc-eolien-vent-de-discorde-dans-la-mrc-de-coaticook"
-    }
-   ]
-  },
-  {
-   "source": "bape",
    "target": "innergex",
    "weight": 1,
    "stories": [
@@ -28808,6 +29551,66 @@
      "date": "2026-11-11",
      "headline": "Les audiences du BAPE du projet de TES Canada lancées en décembre",
      "url": "https://ici.radio-canada.ca/article/info/2299797/tes-canada-mauricie-audiences-bape"
+    }
+   ]
+  },
+  {
+   "source": "bape",
+   "target": "upa",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Accueil mitigé pour l’étude d’HQ sur l’éolien au Bas-Saint-Laurent",
+     "url": "https://ici.radio-canada.ca/article/info/2303345/reactions-etude-hydro-quebec-effets-cumulatifs-eolien"
+    }
+   ]
+  },
+  {
+   "source": "barreau-quebec",
+   "target": "marie-pierre-charland",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "barreau-quebec",
+   "target": "plq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "barreau-quebec",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
+    }
+   ]
+  },
+  {
+   "source": "barreau-quebec",
+   "target": "stephan-fogaing",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Recomptage dans Vachon : une plainte au Barreau contre le conseiller spécial du PQ",
+     "url": "https://ici.radio-canada.ca/article/info/2303355/recomptage-vachon-plainte-barreau-conseiller-special-pq"
     }
    ]
   },
@@ -29532,6 +30335,42 @@
    ]
   },
   {
+   "source": "boga",
+   "target": "jean-lemire",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
+    }
+   ]
+  },
+  {
+   "source": "boga",
+   "target": "jean-pellerin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
+    }
+   ]
+  },
+  {
+   "source": "boga",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
+    }
+   ]
+  },
+  {
    "source": "boisaco",
    "target": "julien-normand",
    "weight": 1,
@@ -30037,18 +30876,6 @@
   },
   {
    "source": "caq",
-   "target": "cour-supreme-canada",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-21",
-     "headline": "Loi sur la laïcité de l’État : la Cour suprême rendra son jugement vendredi prochain",
-     "url": "https://ici.radio-canada.ca/article/info/2302128/loi-21-jugement-cour-supreme"
-    }
-   ]
-  },
-  {
-   "source": "caq",
    "target": "csn",
    "weight": 1,
    "stories": [
@@ -30092,6 +30919,18 @@
      "date": "2026-11-03",
      "headline": "Départs hâtifs et primes de départ: coup de balai dans la haute fonction publique",
      "url": "https://www.journaldequebec.com/2026/11/03/departs-hatifs-et-primes-de-depart-coup-de-balai-dans-la-haute-fonction-publique"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "english-montreal-school-board",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -30248,6 +31087,18 @@
      "date": "2026-10-30",
      "headline": "Jacinthe-Eve Arel nommée directrice de cabinet du ministre de l’Efficacité gouvernementale",
      "url": "https://ici.radio-canada.ca/nouvelle/2296992/jacinthe-eve-arel-directrice-cabinet-ministre-efficacite-gouvernementale"
+    }
+   ]
+  },
+  {
+   "source": "caq",
+   "target": "jean-francois-roberge",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -34081,6 +34932,30 @@
   },
   {
    "source": "cour-supreme-canada",
+   "target": "english-montreal-school-board",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
+    }
+   ]
+  },
+  {
+   "source": "cour-supreme-canada",
+   "target": "jean-francois-roberge",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
+    }
+   ]
+  },
+  {
+   "source": "cour-supreme-canada",
    "target": "justice-canada",
    "weight": 1,
    "stories": [
@@ -34088,6 +34963,18 @@
      "date": "2026-11-18",
      "headline": "Contestation de la loi 21 : Ottawa a déboursé environ 3,45 millions $ en frais juridiques",
      "url": "https://ici.radio-canada.ca/article/info/2301280/loi-21-laicite-contestation-frais-canada"
+    }
+   ]
+  },
+  {
+   "source": "cour-supreme-canada",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
     }
    ]
   },
@@ -34369,6 +35256,18 @@
   },
   {
    "source": "csn",
+   "target": "csq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
+   "source": "csn",
    "target": "domtar",
    "weight": 1,
    "stories": [
@@ -34376,6 +35275,30 @@
      "date": "2026-11-11",
      "headline": "Domtar veut dissocier ses centrales hydroélectriques de l’avenir de l’usine de Kénogami",
      "url": "https://ici.radio-canada.ca/article/info/2299729/csn-kenogami-domtar-usine-centrales"
+    }
+   ]
+  },
+  {
+   "source": "csn",
+   "target": "ftq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
+   "source": "csn",
+   "target": "isq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -34465,18 +35388,6 @@
   },
   {
    "source": "csn",
-   "target": "spgq",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-20",
-     "headline": "Des centaines d’employés du siège social de Santé Québec tentent de se syndiquer",
-     "url": "https://ici.radio-canada.ca/article/info/2302026/syndicalisation-siege-social-sante-quebec"
-    }
-   ]
-  },
-  {
-   "source": "csn",
    "target": "tat",
    "weight": 1,
    "stories": [
@@ -34508,6 +35419,30 @@
      "date": "2026-11-19",
      "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
      "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+    }
+   ]
+  },
+  {
+   "source": "csq",
+   "target": "ftq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
+   "source": "csq",
+   "target": "isq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -34568,6 +35503,18 @@
      "date": "2026-11-19",
      "headline": "Québec limitera la hausse de tarifs prévue dans les garderies subventionnées",
      "url": "https://ici.radio-canada.ca/article/info/2301492/garderies-subventionnees-quebec-prix-hausse"
+    }
+   ]
+  },
+  {
+   "source": "csq",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -36144,6 +37091,30 @@
    ]
   },
   {
+   "source": "english-montreal-school-board",
+   "target": "jean-francois-roberge",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
+    }
+   ]
+  },
+  {
+   "source": "english-montreal-school-board",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
+    }
+   ]
+  },
+  {
    "source": "enipso",
    "target": "feesp",
    "weight": 1,
@@ -37116,6 +38087,42 @@
    ]
   },
   {
+   "source": "fondaction",
+   "target": "investissement-quebec",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    }
+   ]
+  },
+  {
+   "source": "fondaction",
+   "target": "lavergne-groupe",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    }
+   ]
+  },
+  {
+   "source": "fondaction",
+   "target": "meie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    }
+   ]
+  },
+  {
    "source": "fondation-a-notre-sante",
    "target": "marie-karlynn-laflamme",
    "weight": 1,
@@ -37969,6 +38976,18 @@
   },
   {
    "source": "ftq",
+   "target": "isq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
+    }
+   ]
+  },
+  {
+   "source": "ftq",
    "target": "pcq",
    "weight": 1,
    "stories": [
@@ -38000,6 +39019,18 @@
      "date": "2026-11-19",
      "headline": "Éric Duhaime accuse QS de verser « des larmes de crocodile »",
      "url": "https://ici.radio-canada.ca/article/info/2301544/quebec-solidaire-reconnaissance-parti-conservateur"
+    }
+   ]
+  },
+  {
+   "source": "ftq",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -39505,18 +40536,6 @@
   },
   {
    "source": "hydro-quebec",
-   "target": "upa",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-25",
-     "headline": "Réseau électrique en zone agricole – Hydro-Québec et l’UPA s’entendent",
-     "url": "https://www.lapresse.ca/affaires/2026-11-25/reseau-electrique-en-zone-agricole/hydro-quebec-et-l-upa-s-entendent.php"
-    }
-   ]
-  },
-  {
-   "source": "hydro-quebec",
    "target": "ville-amos",
    "weight": 1,
    "stories": [
@@ -39925,6 +40944,18 @@
   },
   {
    "source": "investissement-quebec",
+   "target": "lavergne-groupe",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
    "target": "lion",
    "weight": 1,
    "stories": [
@@ -39944,6 +40975,18 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "mirae",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -39980,6 +41023,30 @@
      "date": "2026-11-04",
      "headline": "Sols contaminés: Investissement Québec incapable de se faire rembourser 5 M$ à Contrecoeur",
      "url": "https://www.journaldemontreal.com/2026/11/03/sols-contamines-investissement-quebec-incapable-de-se-faire-rembourser-5-m-a-contrecoeur"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "spipb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "investissement-quebec",
+   "target": "ultium-cam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -40184,6 +41251,66 @@
      "date": "2026-11-20",
      "headline": "Poursuites de promoteurs : la Ville de Lévis rappelle ses élus à l’ordre",
      "url": "https://ici.radio-canada.ca/article/info/2301928/poursuites-promoteurs-elus-ville-levis"
+    }
+   ]
+  },
+  {
+   "source": "isq",
+   "target": "monique-jerome-forget",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "isq",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "isq",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "isq",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "isq",
+   "target": "spgq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Les salariés de l’administration québécoise en retard de 20 % sur ceux du municipal",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/les-salaries-de-l-administration-quebecoise-en-retard-de-20-sur-ceux-du-municipal.php"
     }
    ]
   },
@@ -40536,6 +41663,18 @@
    ]
   },
   {
+   "source": "jean-francois-roberge",
+   "target": "pq",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "La Cour suprême valide la presque totalité de la Loi sur la laïcité de l’État du Québec",
+     "url": "https://ici.radio-canada.ca/article/info/2303429/loi-21-cour-supreme-jugement"
+    }
+   ]
+  },
+  {
    "source": "jean-herbert",
    "target": "upac",
    "weight": 1,
@@ -40544,6 +41683,30 @@
      "date": "2026-11-25",
      "headline": "Un ex-juge de Longueuil coupable de fraude",
      "url": "https://www.journaldemontreal.com/2026/11/24/un-ex-juge-de-longueuil-coupable-de-fraude"
+    }
+   ]
+  },
+  {
+   "source": "jean-lemire",
+   "target": "jean-pellerin",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
+    }
+   ]
+  },
+  {
+   "source": "jean-lemire",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Feuille de route des énergies fossiles: PSPP affirme ne pas avoir été informé",
+     "url": "https://www.noovo.info/fils-de-presse/article/feuille-de-route-des-energies-fossiles-pspp-affirme-ne-pas-avoir-ete-informe/"
     }
    ]
   },
@@ -40598,18 +41761,6 @@
   {
    "source": "jean-pellerin",
    "target": "pq",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-19",
-     "headline": "Des citoyens contestent le recul de la cible climatique de Québec devant les tribunaux",
-     "url": "https://ici.radio-canada.ca/article/info/2301481/poursuite-quebec-cqde-droit-environnement"
-    }
-   ]
-  },
-  {
-   "source": "jean-pellerin",
-   "target": "pspp",
    "weight": 1,
    "stories": [
     {
@@ -41664,6 +42815,18 @@
    ]
   },
   {
+   "source": "lavergne-groupe",
+   "target": "meie",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Québec pourrait perdre 13 M$ à cause des difficultés d’un recycleur de plastique",
+     "url": "https://www.tvanouvelles.ca/2026/11/27/quebec-pourrait-perdre-13-m-a-cause-des-difficultes-dun-recycleur-de-plastique"
+    }
+   ]
+  },
+  {
    "source": "lawrence-david",
    "target": "manon-jeannotte",
    "weight": 1,
@@ -41864,6 +43027,30 @@
      "date": "2026-11-15",
      "headline": "Satisfait des soins? Santé Québec Bas-Saint-Laurent veut vous sonder par texto",
      "url": "https://ici.radio-canada.ca/article/info/2300695/sante-quebec-bas-saint-laurent-textos-sondage-lime-sante"
+    }
+   ]
+  },
+  {
+   "source": "linda-caron",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/"
+    }
+   ]
+  },
+  {
+   "source": "linda-caron",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Efficacité de l’État: le PQ met sur pied une nouvelle commission",
+     "url": "https://www.noovo.info/nouvelles/politique/article/mesure-concernant-lefficacite-gouvernementale-quannoncera-pspp/"
     }
    ]
   },
@@ -43393,13 +44580,25 @@
   },
   {
    "source": "meie",
-   "target": "pierre-fitzgibbon",
+   "target": "mirae",
    "weight": 1,
    "stories": [
     {
-     "date": "2026-11-23",
-     "headline": "Un autre projet de la filière batterie en difficulté au Québec",
-     "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "meie",
+   "target": "nemaska-lithium",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -43412,6 +44611,30 @@
      "date": "2026-11-23",
      "headline": "Un autre projet de la filière batterie en difficulté au Québec",
      "url": "https://ici.radio-canada.ca/article/info/2302413/filiere-batterie-reseau-allege-quebec"
+    }
+   ]
+  },
+  {
+   "source": "meie",
+   "target": "spipb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "meie",
+   "target": "ultium-cam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -43692,6 +44915,54 @@
    ]
   },
   {
+   "source": "mirae",
+   "target": "nemaska-lithium",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "mirae",
+   "target": "pierre-fitzgibbon",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "mirae",
+   "target": "spipb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "mirae",
+   "target": "ultium-cam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
    "source": "mission-gestion-construction",
    "target": "mobilite-infra-quebec",
    "weight": 1,
@@ -43784,6 +45055,42 @@
      "date": "2026-11-05",
      "headline": "Hydro-Québec to sell part of New York power line to Kahnawà:ke",
      "url": "https://www.cbc.ca/news/canada/montreal/hydro-quebec-to-sell-part-of-new-york-power-line-to-kahnawa-ke-9.7410211"
+    }
+   ]
+  },
+  {
+   "source": "monique-jerome-forget",
+   "target": "nicolas-marceau",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "monique-jerome-forget",
+   "target": "pspp",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
+    }
+   ]
+  },
+  {
+   "source": "monique-jerome-forget",
+   "target": "sebastien-dastous",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Pour venir en aide aux villes – Un fonds d’infrastructure pour récompenser les « bons élèves », annonce Québec",
+     "url": "https://www.lapresse.ca/actualites/politique/2026-11-26/pour-venir-en-aide-aux-villes/un-fonds-d-infrastructure-pour-recompenser-les-bons-eleves-annonce-quebec.php"
     }
    ]
   },
@@ -44161,18 +45468,6 @@
   },
   {
    "source": "nemaska-lithium",
-   "target": "pierre-fitzgibbon",
-   "weight": 1,
-   "stories": [
-    {
-     "date": "2026-11-09",
-     "headline": "Québec met fin au bar ouvert des prêts pardonnables",
-     "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
-    }
-   ]
-  },
-  {
-   "source": "nemaska-lithium",
    "target": "pspp",
    "weight": 1,
    "stories": [
@@ -44180,6 +45475,30 @@
      "date": "2026-11-07",
      "headline": "« Nemaska Lithium, l'exemple d'un changement de cap en matière économique », déclare le premier ministre du Québec",
      "url": "https://www.quebec.ca/nouvelles/actualites/details/nemaska-lithium-lexemple-dun-changement-de-cap-en-matiere-economique-declare-le-premier-ministre-du-quebec-72936"
+    }
+   ]
+  },
+  {
+   "source": "nemaska-lithium",
+   "target": "spipb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "nemaska-lithium",
+   "target": "ultium-cam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -44576,6 +45895,18 @@
      "date": "2026-11-07",
      "headline": "Le lanceur d’alerte congédié par la CAQ veut devenir journaliste",
      "url": "https://ici.radio-canada.ca/nouvelle/2298922/lanceur-alerte-journaliste-congres-fpjq"
+    }
+   ]
+  },
+  {
+   "source": "omhm",
+   "target": "ville-montreal",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Montréal – Les deux tiers des HLM sont en mauvais état, selon l’Office municipal d’habitation",
+     "url": "https://www.lapresse.ca/actualites/grand-montreal/2026-11-26/montreal/les-deux-tiers-des-hlm-sont-en-mauvais-etat-selon-l-office-municipal-d-habitation.php"
     }
    ]
   },
@@ -44984,6 +46315,30 @@
      "date": "2026-11-09",
      "headline": "Québec met fin au bar ouvert des prêts pardonnables",
      "url": "https://www.journaldemontreal.com/2026/11/09/quebec-met-fin-au-bar-ouvert-des-prets-pardonnables"
+    }
+   ]
+  },
+  {
+   "source": "pierre-fitzgibbon",
+   "target": "spipb",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
+    }
+   ]
+  },
+  {
+   "source": "pierre-fitzgibbon",
+   "target": "ultium-cam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
@@ -46352,6 +47707,18 @@
      "date": "2026-11-16",
      "headline": "Toujours plus de bureaux ouverts dans la fonction publique, en dépit des enjeux de bruit",
      "url": "https://ici.radio-canada.ca/article/info/2300380/bureaux-aire-ouverte-edifice-marie-guyart"
+    }
+   ]
+  },
+  {
+   "source": "spipb",
+   "target": "ultium-cam",
+   "weight": 1,
+   "stories": [
+    {
+     "date": "2026-11-27",
+     "headline": "Une autre usine stagne au parc industriel de Bécancour",
+     "url": "https://ici.radio-canada.ca/article/info/2303357/filiere-batterie-mirae-production-becancour"
     }
    ]
   },
